@@ -1,0 +1,43 @@
+{
+    "id": 2912,
+    "question": "Wer wird deutscher Meister 2019/20?",
+    "created_at": "2020-02-09T18:42:34+00:00",
+    "updated_at": "2021-06-14T10:21:43+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 345,
+    "answers": [
+        {
+            "id": 7216,
+            "answer": "Bayern München",
+            "votes": 114,
+            "order": 0
+        },
+        {
+            "id": 7217,
+            "answer": "RB Leipzig",
+            "votes": 60,
+            "order": 1
+        },
+        {
+            "id": 7215,
+            "answer": "Borussia Dortmund",
+            "votes": 114,
+            "order": 2
+        },
+        {
+            "id": 7214,
+            "answer": "Borussia Mönchengladbach",
+            "votes": 35,
+            "order": 3
+        },
+        {
+            "id": 7826,
+            "answer": "Ein anderer Verein",
+            "votes": 22,
+            "order": 4
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 4191,
+    "question": "Sollte der AC Mailand Ralf Rangnick als Trainer einstellen?",
+    "created_at": "2020-05-11T14:24:27+00:00",
+    "updated_at": "2021-06-14T09:36:23+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 130,
+    "answers": [
+        {
+            "id": 9999,
+            "answer": "Ja",
+            "votes": 46,
+            "order": 0
+        },
+        {
+            "id": 10000,
+            "answer": "Nein",
+            "votes": 84,
+            "order": 1
+        }
+    ]
+}

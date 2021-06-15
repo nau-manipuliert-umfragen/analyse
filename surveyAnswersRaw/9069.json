@@ -1,0 +1,25 @@
+{
+    "id": 3761,
+    "question": "Gewinnt Mikaela Shiffrin den Gesamtweltcup in der nächsten Saison?",
+    "created_at": "2020-04-05T10:10:57+00:00",
+    "updated_at": "2021-06-14T09:36:05+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 156,
+    "answers": [
+        {
+            "id": 9070,
+            "answer": "Ja, mit dieser Vorbereitung kann da nichts schief gehen.",
+            "votes": 120,
+            "order": 0
+        },
+        {
+            "id": 9069,
+            "answer": "Nein, andere Skirennfahrerinnen werden besser sein.",
+            "votes": 36,
+            "order": 1
+        }
+    ]
+}

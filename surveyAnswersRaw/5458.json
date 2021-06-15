@@ -1,0 +1,25 @@
+{
+    "id": 2134,
+    "question": "Kann der FC Basel die Trendwende wirklich einleiten?",
+    "created_at": "2018-09-24T03:47:43+00:00",
+    "updated_at": "2021-06-14T09:34:49+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 265,
+    "answers": [
+        {
+            "id": 5458,
+            "answer": "Nein, die Negativspirale wird weitergehen.",
+            "votes": 137,
+            "order": 100
+        },
+        {
+            "id": 5461,
+            "answer": "Ja, die Bebbi rappeln sich wieder auf.",
+            "votes": 128,
+            "order": 100
+        }
+    ]
+}

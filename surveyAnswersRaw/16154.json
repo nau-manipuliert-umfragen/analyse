@@ -1,0 +1,25 @@
+{
+    "id": 6994,
+    "question": "Kann Southampton im nächsten Spiel gegen Newcastle auf das Manchester-Debakel reagieren?",
+    "created_at": "2021-02-03T08:23:56+00:00",
+    "updated_at": "2021-06-14T09:38:24+00:00",
+    "end_at": null,
+    "comment_group_id": 2005314,
+    "published_at": "2021-02-03T08:35:17+00:00",
+    "display_name": "",
+    "total": 148,
+    "answers": [
+        {
+            "id": 16154,
+            "answer": "Ja, die «Saints» werden gewinnen.",
+            "votes": 89,
+            "order": 0
+        },
+        {
+            "id": 16153,
+            "answer": "Nein, jetzt geht wohl eine Niederlagen-Serie los.",
+            "votes": 59,
+            "order": 1
+        }
+    ]
+}

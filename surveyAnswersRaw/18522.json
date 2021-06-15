@@ -1,0 +1,25 @@
+{
+    "id": 8068,
+    "question": "Kaufen Sie Marco Rima die Corona-Reue ab?",
+    "created_at": "2021-03-17T10:15:50+00:00",
+    "updated_at": "2021-06-14T09:39:19+00:00",
+    "end_at": null,
+    "comment_group_id": 2066617,
+    "published_at": "2021-03-17T14:08:51+00:00",
+    "display_name": "",
+    "total": 1009,
+    "answers": [
+        {
+            "id": 18522,
+            "answer": "Ja, er hat wohl gelitten und ist überzeugend.",
+            "votes": 282,
+            "order": 0
+        },
+        {
+            "id": 18523,
+            "answer": "Nein, schon bald kommt das nächste Skeptiker-Video.",
+            "votes": 727,
+            "order": 1
+        }
+    ]
+}

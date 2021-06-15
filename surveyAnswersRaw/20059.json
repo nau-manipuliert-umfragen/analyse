@@ -1,0 +1,25 @@
+{
+    "id": 8804,
+    "question": "Soll Albian Ajeti den Club verlassen?",
+    "created_at": "2021-04-17T07:17:02+00:00",
+    "updated_at": "2021-06-14T09:39:58+00:00",
+    "end_at": null,
+    "comment_group_id": 2111229,
+    "published_at": "2021-04-17T07:42:45+00:00",
+    "display_name": "",
+    "total": 239,
+    "answers": [
+        {
+            "id": 20059,
+            "answer": "Ja",
+            "votes": 172,
+            "order": 0
+        },
+        {
+            "id": 20060,
+            "answer": "Nein",
+            "votes": 67,
+            "order": 1
+        }
+    ]
+}

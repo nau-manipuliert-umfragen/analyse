@@ -1,0 +1,25 @@
+{
+    "id": 8967,
+    "question": "Gewinnt die Schweiz am Wochenende eine Medaille an der Kunstturn-EM?",
+    "created_at": "2021-04-23T17:40:15+00:00",
+    "updated_at": "2021-06-14T09:40:07+00:00",
+    "end_at": null,
+    "comment_group_id": 2121864,
+    "published_at": "2021-04-23T17:44:35+00:00",
+    "display_name": "",
+    "total": 80,
+    "answers": [
+        {
+            "id": 20408,
+            "answer": "Ja",
+            "votes": 47,
+            "order": 0
+        },
+        {
+            "id": 20409,
+            "answer": "Nein",
+            "votes": 33,
+            "order": 1
+        }
+    ]
+}

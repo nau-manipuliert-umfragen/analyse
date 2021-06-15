@@ -1,0 +1,31 @@
+{
+    "id": 9032,
+    "question": "Glauben Sie, dass Zac Efron im Gesicht etwas hat machen lassen?",
+    "created_at": "2021-04-27T10:58:24+00:00",
+    "updated_at": "2021-06-14T09:40:12+00:00",
+    "end_at": null,
+    "comment_group_id": 2127387,
+    "published_at": "2021-04-27T19:31:05+00:00",
+    "display_name": "",
+    "total": 412,
+    "answers": [
+        {
+            "id": 20552,
+            "answer": "Ja, das ist so offensichtlich!",
+            "votes": 212,
+            "order": 0
+        },
+        {
+            "id": 20551,
+            "answer": "Nein, er ist einfach älter geworden.",
+            "votes": 130,
+            "order": 1
+        },
+        {
+            "id": 20550,
+            "answer": "Mir egal, heiss ist er immer noch!",
+            "votes": 70,
+            "order": 2
+        }
+    ]
+}

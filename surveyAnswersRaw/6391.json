@@ -1,0 +1,25 @@
+{
+    "id": 2543,
+    "question": "Können Sie das Verhalten von Herzogin Kate und Meghan Markle verstehen?",
+    "created_at": "2020-01-13T10:49:54+00:00",
+    "updated_at": "2021-06-14T09:35:07+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 304,
+    "answers": [
+        {
+            "id": 6391,
+            "answer": "Klar. Nur weil man verwandt miteinander ist, muss man ja nicht gleich beste Freundinnen sein.",
+            "votes": 200,
+            "order": 0
+        },
+        {
+            "id": 6390,
+            "answer": "Nein gar nicht. Die beiden Frauen könnten viel voneinander lernen und sich besser unterstützen.",
+            "votes": 104,
+            "order": 1
+        }
+    ]
+}

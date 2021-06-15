@@ -1,0 +1,31 @@
+{
+    "id": 9881,
+    "question": "Wie finden Sie den neuen Look von Robbie Williams?",
+    "created_at": "2021-06-04T11:37:00+00:00",
+    "updated_at": "2021-06-14T09:41:00+00:00",
+    "end_at": null,
+    "comment_group_id": 2190771,
+    "published_at": "2021-06-04T14:00:38+00:00",
+    "display_name": "",
+    "total": 327,
+    "answers": [
+        {
+            "id": 22388,
+            "answer": "Ich bin begeistert!",
+            "votes": 128,
+            "order": 0
+        },
+        {
+            "id": 22387,
+            "answer": "Naja, vorher war besser.",
+            "votes": 122,
+            "order": 1
+        },
+        {
+            "id": 22389,
+            "answer": "Schrecklich, das geht gar nicht!",
+            "votes": 77,
+            "order": 2
+        }
+    ]
+}

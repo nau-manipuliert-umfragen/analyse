@@ -1,0 +1,25 @@
+{
+    "id": 6235,
+    "question": "Was schmerzt mehr?",
+    "created_at": "2020-12-04T07:59:29+00:00",
+    "updated_at": "2021-06-14T09:37:51+00:00",
+    "end_at": null,
+    "comment_group_id": 1926599,
+    "published_at": "2020-12-04T08:05:09+00:00",
+    "display_name": "",
+    "total": 96,
+    "answers": [
+        {
+            "id": 14486,
+            "answer": "Natürlich der Nussknacker!",
+            "votes": 70,
+            "order": 0
+        },
+        {
+            "id": 14487,
+            "answer": "Der Bandensturz ist übler.",
+            "votes": 26,
+            "order": 1
+        }
+    ]
+}

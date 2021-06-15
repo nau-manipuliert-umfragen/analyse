@@ -1,0 +1,25 @@
+{
+    "id": 2305,
+    "question": "Sollen 17-Jährige schon Auto fahren?",
+    "created_at": "2018-12-11T06:04:06+00:00",
+    "updated_at": "2021-06-14T09:34:56+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 201,
+    "answers": [
+        {
+            "id": 5831,
+            "answer": "Nein, das ist zu früh.",
+            "votes": 86,
+            "order": 100
+        },
+        {
+            "id": 5832,
+            "answer": "Ja klar, ich sehe kein Problem darin.",
+            "votes": 115,
+            "order": 100
+        }
+    ]
+}

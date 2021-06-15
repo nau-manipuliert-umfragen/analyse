@@ -1,0 +1,25 @@
+{
+    "id": 5462,
+    "question": "Wie lautet Ihr Kommentar zu den Video-Bildern?",
+    "created_at": "2020-09-16T08:06:43+00:00",
+    "updated_at": "2021-06-14T09:37:14+00:00",
+    "end_at": null,
+    "comment_group_id": 1802537,
+    "published_at": "2020-09-16T08:56:49+00:00",
+    "display_name": "",
+    "total": 152,
+    "answers": [
+        {
+            "id": 12785,
+            "answer": "Skandal! Di Maria gehört lange gesperrt.",
+            "votes": 104,
+            "order": 0
+        },
+        {
+            "id": 12786,
+            "answer": "Das war keine Absicht.",
+            "votes": 48,
+            "order": 1
+        }
+    ]
+}

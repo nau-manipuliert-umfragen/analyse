@@ -1,0 +1,25 @@
+{
+    "id": 7029,
+    "question": "Machen Sie ihrem Schatz teure Geschenke?",
+    "created_at": "2021-02-04T12:04:11+00:00",
+    "updated_at": "2021-06-14T09:38:26+00:00",
+    "end_at": null,
+    "comment_group_id": 2007471,
+    "published_at": "2021-02-05T07:13:32+00:00",
+    "display_name": "",
+    "total": 349,
+    "answers": [
+        {
+            "id": 16232,
+            "answer": "Ja, so zeige ich, dass mir die Beziehung viel bedeutet.",
+            "votes": 67,
+            "order": 0
+        },
+        {
+            "id": 16233,
+            "answer": "Nein, kleine Geschenke sind meistens die schöneren.",
+            "votes": 282,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 2833,
+    "question": "Hat Blizzard mit der Entschuldigung alles wiedergutgemacht?",
+    "created_at": "2020-02-04T12:54:46+00:00",
+    "updated_at": "2021-06-14T09:35:23+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 66,
+    "answers": [
+        {
+            "id": 7035,
+            "answer": "Ja, ehrliche Entschuldigungen wie diese sollte man akzeptieren.",
+            "votes": 22,
+            "order": 0
+        },
+        {
+            "id": 7034,
+            "answer": "Nein, die Entschuldigung ist zu lau und die echten Probleme werden nicht angegangen.",
+            "votes": 44,
+            "order": 1
+        }
+    ]
+}

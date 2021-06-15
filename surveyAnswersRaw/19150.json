@@ -1,0 +1,25 @@
+{
+    "id": 8366,
+    "question": "Ist die Erklärung des SFV für Sie nachvollziehbar?",
+    "created_at": "2021-03-29T06:00:32+00:00",
+    "updated_at": "2021-06-14T09:39:35+00:00",
+    "end_at": null,
+    "comment_group_id": 2083603,
+    "published_at": "2021-03-29T07:24:58+00:00",
+    "display_name": "",
+    "total": 429,
+    "answers": [
+        {
+            "id": 19149,
+            "answer": "Ja, die Nati-Kicker haben zu stark eingeschossen.",
+            "votes": 71,
+            "order": 0
+        },
+        {
+            "id": 19150,
+            "answer": "Nein, das ist ein Märchen.",
+            "votes": 358,
+            "order": 1
+        }
+    ]
+}

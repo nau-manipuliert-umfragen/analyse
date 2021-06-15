@@ -1,0 +1,25 @@
+{
+    "id": 2704,
+    "question": "Was halten Sie von dem Royal-Deal der Queen für Prinz Harry und Meghan?",
+    "created_at": "2020-01-27T05:59:26+00:00",
+    "updated_at": "2021-06-14T09:35:16+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 1551,
+    "answers": [
+        {
+            "id": 6756,
+            "answer": "Eine super Geste! Aber es zeigt, wie sehr Meghan Markle das Rampenlicht sucht.",
+            "votes": 1283,
+            "order": 0
+        },
+        {
+            "id": 6755,
+            "answer": "Einmal königliches Familienmitglied immer königliches Familienmitglied, sollte man denken.",
+            "votes": 268,
+            "order": 1
+        }
+    ]
+}

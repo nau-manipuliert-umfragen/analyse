@@ -1,0 +1,25 @@
+{
+    "id": 5652,
+    "question": "Wer zieht in den Halbfinal ein?",
+    "created_at": "2020-10-06T13:10:30+00:00",
+    "updated_at": "2021-06-14T09:37:22+00:00",
+    "end_at": null,
+    "comment_group_id": 1836616,
+    "published_at": "2020-10-07T06:41:27+00:00",
+    "display_name": "",
+    "total": 238,
+    "answers": [
+        {
+            "id": 13193,
+            "answer": "Novak Djokovic",
+            "votes": 151,
+            "order": 0
+        },
+        {
+            "id": 13192,
+            "answer": "Pablo Carreno-Busta",
+            "votes": 87,
+            "order": 1
+        }
+    ]
+}

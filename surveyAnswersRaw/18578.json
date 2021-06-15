@@ -1,0 +1,25 @@
+{
+    "id": 8096,
+    "question": "Schafft YB gegen Ajax die riesige Sensation?",
+    "created_at": "2021-03-18T09:09:02+00:00",
+    "updated_at": "2021-06-14T09:39:21+00:00",
+    "end_at": null,
+    "comment_group_id": 2068129,
+    "published_at": "2021-03-18T10:22:52+00:00",
+    "display_name": "",
+    "total": 118,
+    "answers": [
+        {
+            "id": 18577,
+            "answer": "Ja, der Glaube stirbt zuletzt.",
+            "votes": 49,
+            "order": 0
+        },
+        {
+            "id": 18578,
+            "answer": "Keine Chance.",
+            "votes": 69,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 6217,
+    "question": "Sind Sie auf Tinder aktiv?",
+    "created_at": "2020-12-02T14:51:14+00:00",
+    "updated_at": "2021-06-14T09:37:50+00:00",
+    "end_at": null,
+    "comment_group_id": 1924487,
+    "published_at": "2020-12-03T08:00:48+00:00",
+    "display_name": "",
+    "total": 414,
+    "answers": [
+        {
+            "id": 14450,
+            "answer": "Nein, ich bin bei der Partnersuche eher der altmodische Typ.",
+            "votes": 352,
+            "order": 0
+        },
+        {
+            "id": 14449,
+            "answer": "Ja, ich liebe es mich durch die potentiellen Flirts zu wischen.",
+            "votes": 62,
+            "order": 1
+        }
+    ]
+}

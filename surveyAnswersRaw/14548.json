@@ -1,0 +1,25 @@
+{
+    "id": 6263,
+    "question": "Gefällt Ihnen der Name des XXL-Heugümpers von GC?",
+    "created_at": "2020-12-07T22:27:34+00:00",
+    "updated_at": "2021-06-14T09:37:54+00:00",
+    "end_at": null,
+    "comment_group_id": 1930896,
+    "published_at": "2020-12-08T06:09:25+00:00",
+    "display_name": "",
+    "total": 257,
+    "answers": [
+        {
+            "id": 14549,
+            "answer": "Ja, «Papa» klingt doch super!",
+            "votes": 119,
+            "order": 0
+        },
+        {
+            "id": 14548,
+            "answer": "Nein, das passt nicht.",
+            "votes": 138,
+            "order": 1
+        }
+    ]
+}

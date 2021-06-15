@@ -1,0 +1,25 @@
+{
+    "id": 9889,
+    "question": "Hat die Bachelorette dem Richtigen die letzte Rose gegeben?",
+    "created_at": "2021-06-05T05:10:05+00:00",
+    "updated_at": "2021-06-14T09:41:00+00:00",
+    "end_at": null,
+    "comment_group_id": 2191733,
+    "published_at": "2021-06-07T19:54:02+00:00",
+    "display_name": "",
+    "total": 588,
+    "answers": [
+        {
+            "id": 22405,
+            "answer": "Auf jeden Fall.",
+            "votes": 311,
+            "order": 0
+        },
+        {
+            "id": 22404,
+            "answer": "Mal sehen, wann er seinen ersten Song rausbringt und die beiden wieder getrennt sind.",
+            "votes": 277,
+            "order": 1
+        }
+    ]
+}

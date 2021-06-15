@@ -1,0 +1,25 @@
+{
+    "id": 3999,
+    "question": "Wird nach der Corona-Krise ein Verein über 200 Millionen für Haaland in die Hand nehmen?",
+    "created_at": "2020-04-24T13:27:54+00:00",
+    "updated_at": "2021-06-14T09:36:14+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 153,
+    "answers": [
+        {
+            "id": 9576,
+            "answer": "Ja, Haaland wird auf jeden Fall für eine riesige Summe wechseln.",
+            "votes": 57,
+            "order": 0
+        },
+        {
+            "id": 9577,
+            "answer": "Nein, nach der Krise müssen alle Vereine kleinere Brötchen backen.",
+            "votes": 96,
+            "order": 1
+        }
+    ]
+}

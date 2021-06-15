@@ -1,0 +1,25 @@
+{
+    "id": 5642,
+    "question": "Soll Spucken auf das Fussballfeld bestraft werden?",
+    "created_at": "2020-10-05T14:35:47+00:00",
+    "updated_at": "2021-06-14T09:37:21+00:00",
+    "end_at": null,
+    "comment_group_id": 1835121,
+    "published_at": "2020-10-07T04:33:12+00:00",
+    "display_name": "",
+    "total": 320,
+    "answers": [
+        {
+            "id": 13170,
+            "answer": "Ja! In Coronazeiten geht das überhaupt nicht.",
+            "votes": 182,
+            "order": 0
+        },
+        {
+            "id": 13169,
+            "answer": "Nein, das ist total übertrieben.",
+            "votes": 138,
+            "order": 1
+        }
+    ]
+}

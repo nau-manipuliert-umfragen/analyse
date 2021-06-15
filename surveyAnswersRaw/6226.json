@@ -1,0 +1,31 @@
+{
+    "id": 2475,
+    "question": "Könnten Sie sich vorstellen, in die Romandie oder ins Tessin zu ziehen?",
+    "created_at": "2019-09-23T12:09:45+00:00",
+    "updated_at": "2021-06-14T09:35:03+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 155,
+    "answers": [
+        {
+            "id": 6225,
+            "answer": "Ja, Lausanne und Locarno sind wunderschön!",
+            "votes": 68,
+            "order": 0
+        },
+        {
+            "id": 6227,
+            "answer": "Nein, ich bleibe in der Deutschschweiz. Bis zum Tod.",
+            "votes": 41,
+            "order": 1
+        },
+        {
+            "id": 6226,
+            "answer": "Wennschon würde ich ins Ausland auswandern!",
+            "votes": 46,
+            "order": 2
+        }
+    ]
+}

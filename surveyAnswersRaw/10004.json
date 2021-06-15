@@ -1,0 +1,25 @@
+{
+    "id": 4193,
+    "question": "Hätte Ferrari an Vettel festhalten sollen?",
+    "created_at": "2020-05-12T09:11:47+00:00",
+    "updated_at": "2021-06-14T09:36:23+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 89,
+    "answers": [
+        {
+            "id": 10004,
+            "answer": "Ja, das ist ein grosser Fehler.",
+            "votes": 35,
+            "order": 0
+        },
+        {
+            "id": 10003,
+            "answer": "Nein, seine Zeit ist vorbei.",
+            "votes": 54,
+            "order": 1
+        }
+    ]
+}

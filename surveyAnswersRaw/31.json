@@ -1,0 +1,25 @@
+{
+    "id": 9,
+    "question": "Führt Martin Schmidt den VfL Wolfsburg aus dem Keller?",
+    "created_at": "2017-09-19T09:20:21+00:00",
+    "updated_at": "2021-06-14T10:16:44+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 47,
+    "answers": [
+        {
+            "id": 31,
+            "answer": "Mit diesem Kader? Keine Chance!",
+            "votes": 23,
+            "order": 100
+        },
+        {
+            "id": 32,
+            "answer": "Ja klar!",
+            "votes": 24,
+            "order": 100
+        }
+    ]
+}

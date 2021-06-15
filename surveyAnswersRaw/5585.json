@@ -1,0 +1,31 @@
+{
+    "id": 2204,
+    "question": "Wie geht die Partie zwischen dem FCZ und Rasgrad heute aus?",
+    "created_at": "2018-10-04T11:12:46+00:00",
+    "updated_at": "2021-06-14T09:34:52+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 70,
+    "answers": [
+        {
+            "id": 5582,
+            "answer": "Ludogorez Rasgrad setzt sich durch.",
+            "votes": 21,
+            "order": 100
+        },
+        {
+            "id": 5585,
+            "answer": "Der FCZ gewinnt!",
+            "votes": 25,
+            "order": 100
+        },
+        {
+            "id": 5591,
+            "answer": "Die Partie endet unentschieden.",
+            "votes": 24,
+            "order": 100
+        }
+    ]
+}

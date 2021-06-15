@@ -1,0 +1,25 @@
+{
+    "id": 2623,
+    "question": "Verstehen Sie die Aufregung von Henrik Kristoffersen?",
+    "created_at": "2020-01-20T10:14:27+00:00",
+    "updated_at": "2021-06-14T09:35:12+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 197,
+    "answers": [
+        {
+            "id": 6575,
+            "answer": "Ja",
+            "votes": 118,
+            "order": 0
+        },
+        {
+            "id": 6574,
+            "answer": "Nein",
+            "votes": 79,
+            "order": 1
+        }
+    ]
+}

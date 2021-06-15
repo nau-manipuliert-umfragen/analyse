@@ -1,0 +1,25 @@
+{
+    "id": 6229,
+    "question": "Würden Sie sich einem Corona-Selbsttest unterziehen?",
+    "created_at": "2020-12-03T14:46:24+00:00",
+    "updated_at": "2020-12-06T08:10:27+00:00",
+    "end_at": "2020-12-06T14:46:19+00:00",
+    "comment_group_id": 1925984,
+    "published_at": "2020-12-04T08:27:16+00:00",
+    "display_name": "",
+    "total": 218,
+    "answers": [
+        {
+            "id": 14475,
+            "answer": "Ja, das ist viel einfacher.",
+            "votes": 158,
+            "order": 0
+        },
+        {
+            "id": 14474,
+            "answer": "Nein, ich verlasse mich lieber auf das medizinische Personal.",
+            "votes": 60,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 7538,
+    "question": "Wie finden Sie die Aktion «Support Your Sport» der Migros?",
+    "created_at": "2021-02-23T14:50:28+00:00",
+    "updated_at": "2021-02-27T09:32:34+00:00",
+    "end_at": "2021-02-25T21:00:00+00:00",
+    "comment_group_id": 2034951,
+    "published_at": "2021-02-27T09:32:32+00:00",
+    "display_name": "",
+    "total": 40,
+    "answers": [
+        {
+            "id": 17379,
+            "answer": "Cool, die Vereine können die Unterstützung gut brauchen.",
+            "votes": 20,
+            "order": 0
+        },
+        {
+            "id": 17380,
+            "answer": "Unnötig, da mache ich nicht mit.",
+            "votes": 20,
+            "order": 1
+        }
+    ]
+}

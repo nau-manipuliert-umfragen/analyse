@@ -1,0 +1,25 @@
+{
+    "id": 1899,
+    "question": "Animiert Sie dieses Projekt um zukünftig selber Blut zu spenden?",
+    "created_at": "2018-08-29T10:46:47+00:00",
+    "updated_at": "2021-06-14T09:34:41+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 48,
+    "answers": [
+        {
+            "id": 4893,
+            "answer": "Ja, ich finde den Blutspendebus eine tolle Sache und werde dies unterstützen.",
+            "votes": 27,
+            "order": 100
+        },
+        {
+            "id": 4896,
+            "answer": "Nein, ich möchte mein Blut nicht spenden.",
+            "votes": 21,
+            "order": 100
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 4668,
+    "question": "Bestellen auch Sie vermehrt online?",
+    "created_at": "2020-06-19T10:53:33+00:00",
+    "updated_at": "2021-06-14T09:36:43+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 229,
+    "answers": [
+        {
+            "id": 11031,
+            "answer": "Ja, das spart Zeit und ist unkompliziert.",
+            "votes": 138,
+            "order": 0
+        },
+        {
+            "id": 11030,
+            "answer": "Nein, ich will die Ware vor dem Kauf sehen.",
+            "votes": 91,
+            "order": 1
+        }
+    ]
+}

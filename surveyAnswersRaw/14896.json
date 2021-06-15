@@ -1,0 +1,25 @@
+{
+    "id": 6418,
+    "question": "Sollte das Thema Kinder beim Daten angesprochen werden?",
+    "created_at": "2020-12-23T05:31:46+00:00",
+    "updated_at": "2021-06-14T09:38:00+00:00",
+    "end_at": null,
+    "comment_group_id": 1951631,
+    "published_at": "2020-12-27T11:07:54+00:00",
+    "display_name": "",
+    "total": 813,
+    "answers": [
+        {
+            "id": 14896,
+            "answer": "Ja, unbedingt! Das Killer-Kriterium schlechthin.",
+            "votes": 332,
+            "order": 0
+        },
+        {
+            "id": 14895,
+            "answer": "Lass uns später darüber reden ...",
+            "votes": 481,
+            "order": 1
+        }
+    ]
+}

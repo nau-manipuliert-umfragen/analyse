@@ -1,0 +1,25 @@
+{
+    "id": 5107,
+    "question": "Schafft YB den Einzug in die Champions League?",
+    "created_at": "2020-08-10T10:59:05+00:00",
+    "updated_at": "2021-06-14T09:37:00+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 205,
+    "answers": [
+        {
+            "id": 12003,
+            "answer": "Ja",
+            "votes": 160,
+            "order": 0
+        },
+        {
+            "id": 12004,
+            "answer": "Nein",
+            "votes": 45,
+            "order": 1
+        }
+    ]
+}

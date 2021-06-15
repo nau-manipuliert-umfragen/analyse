@@ -1,0 +1,25 @@
+{
+    "id": 6352,
+    "question": "Trauen Sie YB-Trainer Seoane einen Posten in der Bundesliga zu?",
+    "created_at": "2020-12-17T09:42:00+00:00",
+    "updated_at": "2021-06-14T09:37:58+00:00",
+    "end_at": null,
+    "comment_group_id": 1944081,
+    "published_at": "2020-12-17T11:56:53+00:00",
+    "display_name": "",
+    "total": 751,
+    "answers": [
+        {
+            "id": 14751,
+            "answer": "Ja, klar.",
+            "votes": 567,
+            "order": 0
+        },
+        {
+            "id": 14750,
+            "answer": "Nein.",
+            "votes": 184,
+            "order": 1
+        }
+    ]
+}

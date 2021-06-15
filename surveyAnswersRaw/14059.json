@@ -1,0 +1,31 @@
+{
+    "id": 6045,
+    "question": "Wohin soll Kylien Mnappé wechseln?",
+    "created_at": "2020-11-14T11:15:35+00:00",
+    "updated_at": "2021-06-14T09:37:42+00:00",
+    "end_at": null,
+    "comment_group_id": 1898101,
+    "published_at": "2020-11-14T16:19:52+00:00",
+    "display_name": "",
+    "total": 188,
+    "answers": [
+        {
+            "id": 14059,
+            "answer": "Gar nicht, er soll bei PSG bleiben",
+            "votes": 54,
+            "order": 0
+        },
+        {
+            "id": 14058,
+            "answer": "Zu Real Madrid",
+            "votes": 87,
+            "order": 1
+        },
+        {
+            "id": 14057,
+            "answer": "Nach England",
+            "votes": 47,
+            "order": 2
+        }
+    ]
+}

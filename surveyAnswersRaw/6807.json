@@ -1,0 +1,25 @@
+{
+    "id": 2729,
+    "question": "Fehlt es den Spielern beim FCB an Disziplin?",
+    "created_at": "2020-01-28T18:29:26+00:00",
+    "updated_at": "2021-06-14T09:35:17+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 259,
+    "answers": [
+        {
+            "id": 6806,
+            "answer": "Ganz klar, solche Sperren müssen vermieden werden.",
+            "votes": 217,
+            "order": 0
+        },
+        {
+            "id": 6807,
+            "answer": "Nein, das kann in den Emotionen passieren.",
+            "votes": 42,
+            "order": 1
+        }
+    ]
+}

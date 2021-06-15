@@ -1,0 +1,31 @@
+{
+    "id": 2737,
+    "question": "Wie endet der Spitzenkampf zwischen Basel und St.Gallen?",
+    "created_at": "2020-01-29T09:30:54+00:00",
+    "updated_at": "2021-06-14T09:35:17+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 325,
+    "answers": [
+        {
+            "id": 6824,
+            "answer": "Der FCB wird gewinnen.",
+            "votes": 70,
+            "order": 0
+        },
+        {
+            "id": 6822,
+            "answer": "St.Gallen geht als Sieger hervor.",
+            "votes": 196,
+            "order": 1
+        },
+        {
+            "id": 6823,
+            "answer": "Die Partie endet mit einem Unentschieden.",
+            "votes": 59,
+            "order": 2
+        }
+    ]
+}

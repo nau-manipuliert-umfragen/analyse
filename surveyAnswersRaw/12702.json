@@ -1,0 +1,31 @@
+{
+    "id": 5426,
+    "question": "Ist ein Faltbares Handy von Apple notwendig?",
+    "created_at": "2020-09-11T14:07:56+00:00",
+    "updated_at": "2021-06-14T09:37:13+00:00",
+    "end_at": null,
+    "comment_group_id": 1795392,
+    "published_at": null,
+    "display_name": "",
+    "total": 192,
+    "answers": [
+        {
+            "id": 12700,
+            "answer": "Ja, Apple wird sicherlich ein gutes Foldable auf den Markt bringen.",
+            "votes": 63,
+            "order": 0
+        },
+        {
+            "id": 12701,
+            "answer": "Na ja, wirklich innovativ kann Apple hier ja gar nicht werden.",
+            "votes": 50,
+            "order": 1
+        },
+        {
+            "id": 12702,
+            "answer": "Nein, es gibt jetzt schon genug davon und mehr sind nicht notwendig.",
+            "votes": 79,
+            "order": 2
+        }
+    ]
+}

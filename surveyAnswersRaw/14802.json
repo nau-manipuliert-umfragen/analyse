@@ -1,0 +1,25 @@
+{
+    "id": 6375,
+    "question": "Was sagen Sie zur Spuckaktion von Marcus Thuram (Gladbach)?",
+    "created_at": "2020-12-19T16:31:25+00:00",
+    "updated_at": "2021-06-14T09:37:59+00:00",
+    "end_at": null,
+    "comment_group_id": 1947354,
+    "published_at": "2020-12-19T16:40:32+00:00",
+    "display_name": "",
+    "total": 1014,
+    "answers": [
+        {
+            "id": 14801,
+            "answer": "Wääh! Der Franzose gehört lange gesperrt.",
+            "votes": 916,
+            "order": 0
+        },
+        {
+            "id": 14802,
+            "answer": "Mit 23 Jahren kann das einmal passieren.",
+            "votes": 98,
+            "order": 1
+        }
+    ]
+}

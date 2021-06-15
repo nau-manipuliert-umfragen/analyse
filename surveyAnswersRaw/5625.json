@@ -1,0 +1,25 @@
+{
+    "id": 2226,
+    "question": "Wer gewinnt diesen Halbfinal von Shanghai?",
+    "created_at": "2018-10-13T08:29:49+00:00",
+    "updated_at": "2021-06-14T09:34:53+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 55,
+    "answers": [
+        {
+            "id": 5625,
+            "answer": "Borna Coric",
+            "votes": 27,
+            "order": 100
+        },
+        {
+            "id": 5628,
+            "answer": "Roger Federer",
+            "votes": 28,
+            "order": 100
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 4327,
+    "question": "Was halten Sie von der Jubel-Debatte in der Bundesliga?",
+    "created_at": "2020-05-23T05:59:55+00:00",
+    "updated_at": "2021-06-14T09:36:30+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 82,
+    "answers": [
+        {
+            "id": 10297,
+            "answer": "Die Spieler sollten frei jubeln dürfen. In Zweikämpfen gibt es ja auch Körperkontakt",
+            "votes": 42,
+            "order": 0
+        },
+        {
+            "id": 10298,
+            "answer": "Die Bundesliga hat ein Hygienekonzept, an dieses müssen sich die Spieler halten",
+            "votes": 40,
+            "order": 1
+        }
+    ]
+}

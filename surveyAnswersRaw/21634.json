@@ -1,0 +1,31 @@
+{
+    "id": 9535,
+    "question": "Wie glauben Sie, hat Naomi Campbell ihre Tochter bekommen?",
+    "created_at": "2021-05-19T08:13:41+00:00",
+    "updated_at": "2021-06-14T09:40:41+00:00",
+    "end_at": null,
+    "comment_group_id": 2164836,
+    "published_at": "2021-05-19T13:57:33+00:00",
+    "display_name": "",
+    "total": 535,
+    "answers": [
+        {
+            "id": 21635,
+            "answer": "Sie war selber schwanger.",
+            "votes": 49,
+            "order": 0
+        },
+        {
+            "id": 21634,
+            "answer": "Leihmutterschaft.",
+            "votes": 354,
+            "order": 1
+        },
+        {
+            "id": 21633,
+            "answer": "Adoption.",
+            "votes": 132,
+            "order": 2
+        }
+    ]
+}

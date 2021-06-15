@@ -1,0 +1,25 @@
+{
+    "id": 5071,
+    "question": "Kann sich Cedric Itten bei den Rangers durchsetzen?",
+    "created_at": "2020-08-05T12:26:49+00:00",
+    "updated_at": "2021-06-14T09:36:59+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 803,
+    "answers": [
+        {
+            "id": 11923,
+            "answer": "Ja",
+            "votes": 555,
+            "order": 0
+        },
+        {
+            "id": 11924,
+            "answer": "Nein",
+            "votes": 248,
+            "order": 1
+        }
+    ]
+}

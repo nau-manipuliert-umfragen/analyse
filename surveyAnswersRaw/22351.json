@@ -1,0 +1,31 @@
+{
+    "id": 9865,
+    "question": "Wem sollte Dina Rossi die letzte Rose geben?",
+    "created_at": "2021-06-04T06:05:03+00:00",
+    "updated_at": "2021-06-14T09:40:59+00:00",
+    "end_at": null,
+    "comment_group_id": 2190074,
+    "published_at": "2021-06-07T12:56:02+00:00",
+    "display_name": "",
+    "total": 490,
+    "answers": [
+        {
+            "id": 22351,
+            "answer": "Pablo.",
+            "votes": 69,
+            "order": 0
+        },
+        {
+            "id": 22353,
+            "answer": "Cyrill.",
+            "votes": 320,
+            "order": 1
+        },
+        {
+            "id": 22352,
+            "answer": "Burim.",
+            "votes": 101,
+            "order": 2
+        }
+    ]
+}

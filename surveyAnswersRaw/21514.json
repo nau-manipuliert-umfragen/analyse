@@ -1,0 +1,25 @@
+{
+    "id": 9481,
+    "question": "Ist Waasland-Beveren der richtige Club für Marc Schneider?",
+    "created_at": "2021-05-17T08:29:11+00:00",
+    "updated_at": "2021-06-14T09:40:37+00:00",
+    "end_at": null,
+    "comment_group_id": 2160886,
+    "published_at": "2021-05-18T08:42:48+00:00",
+    "display_name": "",
+    "total": 504,
+    "answers": [
+        {
+            "id": 21514,
+            "answer": "Ja",
+            "votes": 341,
+            "order": 0
+        },
+        {
+            "id": 21515,
+            "answer": "Nein",
+            "votes": 163,
+            "order": 1
+        }
+    ]
+}

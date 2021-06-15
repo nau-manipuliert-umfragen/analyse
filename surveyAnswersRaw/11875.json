@@ -1,0 +1,25 @@
+{
+    "id": 5049,
+    "question": "Hat Paul Scholes seine Vorbildfunktion missbraucht?",
+    "created_at": "2020-08-03T10:04:29+00:00",
+    "updated_at": "2021-06-14T09:36:58+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 208,
+    "answers": [
+        {
+            "id": 11875,
+            "answer": "Ja, sowas darf er sich nicht leisten!",
+            "votes": 136,
+            "order": 0
+        },
+        {
+            "id": 11874,
+            "answer": "Nein, er wollte doch seinem Sohn nur Gutes tun.",
+            "votes": 72,
+            "order": 1
+        }
+    ]
+}

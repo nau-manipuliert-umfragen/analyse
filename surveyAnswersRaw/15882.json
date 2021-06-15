@@ -1,0 +1,25 @@
+{
+    "id": 6873,
+    "question": "Fahren abseits der Piste - ist das okay?",
+    "created_at": "2021-01-28T11:05:34+00:00",
+    "updated_at": "2021-06-14T09:38:18+00:00",
+    "end_at": null,
+    "comment_group_id": 1997076,
+    "published_at": null,
+    "display_name": "",
+    "total": 811,
+    "answers": [
+        {
+            "id": 15881,
+            "answer": "Für Profis ja.",
+            "votes": 169,
+            "order": 0
+        },
+        {
+            "id": 15882,
+            "answer": "Nein, das ist immer gefährlich.",
+            "votes": 642,
+            "order": 1
+        }
+    ]
+}

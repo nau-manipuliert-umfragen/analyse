@@ -1,0 +1,25 @@
+{
+    "id": 8041,
+    "question": "Von wem würden Sie lieber infiziert werden?",
+    "created_at": "2021-03-16T11:06:05+00:00",
+    "updated_at": "2021-06-14T09:39:17+00:00",
+    "end_at": null,
+    "comment_group_id": 2065084,
+    "published_at": "2021-03-16T19:05:09+00:00",
+    "display_name": "",
+    "total": 824,
+    "answers": [
+        {
+            "id": 18464,
+            "answer": "Jan Böhmermann.",
+            "votes": 372,
+            "order": 0
+        },
+        {
+            "id": 18463,
+            "answer": "Andreas Gabalier.",
+            "votes": 452,
+            "order": 1
+        }
+    ]
+}

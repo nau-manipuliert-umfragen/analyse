@@ -1,0 +1,25 @@
+{
+    "id": 4264,
+    "question": "Was sagen Sie zu Chanelles neuer Frisur?",
+    "created_at": "2020-05-17T10:31:47+00:00",
+    "updated_at": "2021-06-14T09:36:26+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 150,
+    "answers": [
+        {
+            "id": 10158,
+            "answer": "Gott sei Dank!",
+            "votes": 88,
+            "order": 0
+        },
+        {
+            "id": 10159,
+            "answer": "Wie war das jetzt noch gleich mit Ex-Bachelor Patric und Chanelle?",
+            "votes": 62,
+            "order": 1
+        }
+    ]
+}

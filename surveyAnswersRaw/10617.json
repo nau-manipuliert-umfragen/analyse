@@ -1,0 +1,25 @@
+{
+    "id": 4474,
+    "question": "Wer zieht in den Schweizer Cup-Halbfinal ein?",
+    "created_at": "2020-06-04T12:10:51+00:00",
+    "updated_at": "2021-06-14T09:36:36+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 105,
+    "answers": [
+        {
+            "id": 10617,
+            "answer": "Basel",
+            "votes": 58,
+            "order": 0
+        },
+        {
+            "id": 10618,
+            "answer": "Lausanne",
+            "votes": 47,
+            "order": 1
+        }
+    ]
+}

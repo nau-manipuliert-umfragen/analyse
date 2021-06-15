@@ -1,0 +1,25 @@
+{
+    "id": 653,
+    "question": "Erzwingt der SC Bern heute Abend Spiel 7 in der Serie?",
+    "created_at": "2018-04-07T10:48:16+00:00",
+    "updated_at": "2021-06-14T09:34:02+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 63,
+    "answers": [
+        {
+            "id": 1904,
+            "answer": "Ja, der SCB gewinnt im Hallenstadion.",
+            "votes": 32,
+            "order": 100
+        },
+        {
+            "id": 1907,
+            "answer": "Nein, der ZSC besiegt die Berner auch ohne Kevin Klein.",
+            "votes": 31,
+            "order": 100
+        }
+    ]
+}

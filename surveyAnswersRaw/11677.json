@@ -1,0 +1,25 @@
+{
+    "id": 4964,
+    "question": "Was halten Sie von Stéphanie Bergers Diät-Absichten?",
+    "created_at": "2020-07-22T07:43:07+00:00",
+    "updated_at": "2021-06-14T09:36:55+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 222,
+    "answers": [
+        {
+            "id": 11677,
+            "answer": "Hat sie doch gar nicht nötig!",
+            "votes": 121,
+            "order": 0
+        },
+        {
+            "id": 11676,
+            "answer": "Oh ja, das Gramm Speck könnte wirklich noch weg.",
+            "votes": 101,
+            "order": 1
+        }
+    ]
+}

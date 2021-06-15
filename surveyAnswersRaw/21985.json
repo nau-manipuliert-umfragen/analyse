@@ -1,0 +1,25 @@
+{
+    "id": 9700,
+    "question": "Können Sie die Einschränkung des Aussenbereichs vom Chun Hee nachvollziehen?",
+    "created_at": "2021-05-26T12:13:02+00:00",
+    "updated_at": "2021-05-30T10:51:12+00:00",
+    "end_at": "2021-05-30T12:12:58+00:00",
+    "comment_group_id": 2176738,
+    "published_at": "2021-05-27T07:14:35+00:00",
+    "display_name": "",
+    "total": 3010,
+    "answers": [
+        {
+            "id": 21986,
+            "answer": "Ja",
+            "votes": 562,
+            "order": 0
+        },
+        {
+            "id": 21985,
+            "answer": "Nein",
+            "votes": 2448,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 4326,
+    "question": "Was sagen Sie zu Beatrice Eglis Tränen auf Instagram?",
+    "created_at": "2020-05-23T05:49:47+00:00",
+    "updated_at": "2021-06-14T10:22:48+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 43,
+    "answers": [
+        {
+            "id": 10296,
+            "answer": "Kann ich verstehen, Heuschnupfen ist schon echt nervig.",
+            "votes": 21,
+            "order": 0
+        },
+        {
+            "id": 10295,
+            "answer": "Interessanter wird wohl eher ihr Auftritt in Silbereisens Show.",
+            "votes": 22,
+            "order": 1
+        }
+    ]
+}

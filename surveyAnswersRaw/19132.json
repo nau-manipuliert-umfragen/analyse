@@ -1,0 +1,25 @@
+{
+    "id": 8357,
+    "question": "Wirken die Trumps wie ein glückliches Paar?",
+    "created_at": "2021-03-28T14:16:35+00:00",
+    "updated_at": "2021-06-14T09:39:35+00:00",
+    "end_at": null,
+    "comment_group_id": 2082752,
+    "published_at": "2021-03-28T19:00:25+00:00",
+    "display_name": "",
+    "total": 1084,
+    "answers": [
+        {
+            "id": 19131,
+            "answer": "Nein, auf mich nicht.",
+            "votes": 945,
+            "order": 0
+        },
+        {
+            "id": 19132,
+            "answer": "Ja, die Medien übertreiben.",
+            "votes": 139,
+            "order": 1
+        }
+    ]
+}

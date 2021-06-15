@@ -1,0 +1,25 @@
+{
+    "id": 4609,
+    "question": "Was halten Sie von der Genfer Vertragsverlängerung mit Mike Völlmin?",
+    "created_at": "2020-06-15T12:31:17+00:00",
+    "updated_at": "2021-06-14T09:36:40+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 44,
+    "answers": [
+        {
+            "id": 10904,
+            "answer": "Super, er bring das Team weiter.",
+            "votes": 23,
+            "order": 0
+        },
+        {
+            "id": 10903,
+            "answer": "Diese Vertragsverlängerung hätte sich Servette sparen können.",
+            "votes": 21,
+            "order": 1
+        }
+    ]
+}

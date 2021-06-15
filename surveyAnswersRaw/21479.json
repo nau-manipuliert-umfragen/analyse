@@ -1,0 +1,31 @@
+{
+    "id": 9464,
+    "question": "Wer steigt direkt in die Bundesliga auf?",
+    "created_at": "2021-05-16T15:19:08+00:00",
+    "updated_at": "2021-06-14T09:40:35+00:00",
+    "end_at": null,
+    "comment_group_id": 2160029,
+    "published_at": "2021-05-16T15:29:02+00:00",
+    "display_name": "",
+    "total": 212,
+    "answers": [
+        {
+            "id": 21479,
+            "answer": "Bochum und Kiel",
+            "votes": 126,
+            "order": 0
+        },
+        {
+            "id": 21480,
+            "answer": "Bochum und Greuther Fürth",
+            "votes": 53,
+            "order": 1
+        },
+        {
+            "id": 21478,
+            "answer": "Kiel und Greuther Fürth",
+            "votes": 33,
+            "order": 2
+        }
+    ]
+}

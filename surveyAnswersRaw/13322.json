@@ -1,0 +1,31 @@
+{
+    "id": 5711,
+    "question": "Wer ist der grösste Formel-1-Fahrer aller Zeiten?",
+    "created_at": "2020-10-12T15:21:45+00:00",
+    "updated_at": "2021-06-14T09:37:24+00:00",
+    "end_at": null,
+    "comment_group_id": 1846484,
+    "published_at": "2020-11-29T07:03:55+00:00",
+    "display_name": "",
+    "total": 2277,
+    "answers": [
+        {
+            "id": 13322,
+            "answer": "Michael Schumacher.",
+            "votes": 850,
+            "order": 0
+        },
+        {
+            "id": 13321,
+            "answer": "Lewis Hamilton.",
+            "votes": 696,
+            "order": 1
+        },
+        {
+            "id": 13323,
+            "answer": "Keiner von beiden!",
+            "votes": 731,
+            "order": 2
+        }
+    ]
+}

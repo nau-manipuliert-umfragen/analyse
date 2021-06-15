@@ -1,0 +1,25 @@
+{
+    "id": 9158,
+    "question": "Ist das eine rote Karte für Sie?",
+    "created_at": "2021-05-03T06:34:34+00:00",
+    "updated_at": "2021-06-14T09:40:19+00:00",
+    "end_at": null,
+    "comment_group_id": 2136979,
+    "published_at": "2021-05-03T07:03:41+00:00",
+    "display_name": "",
+    "total": 90,
+    "answers": [
+        {
+            "id": 20830,
+            "answer": "Ja, für dieses Tackling gehört Schär vom Platz!",
+            "votes": 50,
+            "order": 0
+        },
+        {
+            "id": 20829,
+            "answer": "Nein, gelbe Karte hätte ausgereicht.",
+            "votes": 40,
+            "order": 1
+        }
+    ]
+}

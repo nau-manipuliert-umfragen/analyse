@@ -1,0 +1,25 @@
+{
+    "id": 7574,
+    "question": "Finden Sie die weitere Schliessung von Gartenbeizen richtig?",
+    "created_at": "2021-02-25T05:32:31+00:00",
+    "updated_at": "2021-06-14T09:38:53+00:00",
+    "end_at": null,
+    "comment_group_id": 2037068,
+    "published_at": null,
+    "display_name": "",
+    "total": 8549,
+    "answers": [
+        {
+            "id": 17460,
+            "answer": "Ja, auch zu viert an einem Tisch ist ein Feierabendbier noch zu gefährlich.",
+            "votes": 975,
+            "order": 0
+        },
+        {
+            "id": 17461,
+            "answer": "Nein, das ist absurd, wenn man sich draussen mit bis zu fünfzehn Menschen treffen darf.",
+            "votes": 7574,
+            "order": 1
+        }
+    ]
+}

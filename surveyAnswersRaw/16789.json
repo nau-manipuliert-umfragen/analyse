@@ -1,0 +1,25 @@
+{
+    "id": 7274,
+    "question": "Was halten Sie von Meghans Polit-Ambitionen?",
+    "created_at": "2021-02-14T09:20:12+00:00",
+    "updated_at": "2021-06-14T09:38:39+00:00",
+    "end_at": null,
+    "comment_group_id": 2021225,
+    "published_at": "2021-02-14T16:03:43+00:00",
+    "display_name": "",
+    "total": 781,
+    "answers": [
+        {
+            "id": 16790,
+            "answer": "Endlich frischer Wind in der US-Politik!",
+            "votes": 140,
+            "order": 0
+        },
+        {
+            "id": 16789,
+            "answer": "Da stehen mir die Haare zu Berge!",
+            "votes": 641,
+            "order": 1
+        }
+    ]
+}

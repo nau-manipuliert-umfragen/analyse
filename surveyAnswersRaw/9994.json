@@ -1,0 +1,25 @@
+{
+    "id": 4188,
+    "question": "Was halten Sie von der Solidarität der St. Gallen-Fans?",
+    "created_at": "2020-05-11T09:29:39+00:00",
+    "updated_at": "2021-06-14T10:22:41+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 394,
+    "answers": [
+        {
+            "id": 9994,
+            "answer": "Eine schöne und wichtige Geste der ZuschauerInnen.",
+            "votes": 324,
+            "order": 0
+        },
+        {
+            "id": 9993,
+            "answer": "Unnötig! Die Fussballvereine haben schon genug Geld.",
+            "votes": 70,
+            "order": 1
+        }
+    ]
+}

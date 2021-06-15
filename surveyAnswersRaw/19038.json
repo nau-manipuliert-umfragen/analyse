@@ -1,0 +1,25 @@
+{
+    "id": 8313,
+    "question": "Kann die Schweizer U21-Nati sogar die EM gewinnen?",
+    "created_at": "2021-03-25T16:20:09+00:00",
+    "updated_at": "2021-06-14T09:39:32+00:00",
+    "end_at": null,
+    "comment_group_id": 2079260,
+    "published_at": null,
+    "display_name": "",
+    "total": 221,
+    "answers": [
+        {
+            "id": 19038,
+            "answer": "Ja",
+            "votes": 141,
+            "order": 0
+        },
+        {
+            "id": 19039,
+            "answer": "Nein",
+            "votes": 80,
+            "order": 1
+        }
+    ]
+}

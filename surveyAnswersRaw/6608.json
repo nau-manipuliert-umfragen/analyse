@@ -1,0 +1,25 @@
+{
+    "id": 2638,
+    "question": "Würden Sie sich ein Ticket für den Super Bowl kaufen?",
+    "created_at": "2020-01-21T09:54:48+00:00",
+    "updated_at": "2021-06-14T09:35:13+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 132,
+    "answers": [
+        {
+            "id": 6608,
+            "answer": "Nein, so viel würde ich nie für ein Sport-Ticket bezahlen.",
+            "votes": 91,
+            "order": 0
+        },
+        {
+            "id": 6609,
+            "answer": "Ja, der Super Bowl wär ein einmaliges Erlebnis.",
+            "votes": 41,
+            "order": 1
+        }
+    ]
+}

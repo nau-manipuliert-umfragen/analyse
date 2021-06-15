@@ -1,0 +1,25 @@
+{
+    "id": 3888,
+    "question": "Glauben Sie Unai Emery?",
+    "created_at": "2020-04-15T19:13:02+00:00",
+    "updated_at": "2021-06-14T09:36:10+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 134,
+    "answers": [
+        {
+            "id": 9333,
+            "answer": "Ja, Probleme in der Liebe können sich auch in den Arbeits-Alltag übertragen",
+            "votes": 73,
+            "order": 0
+        },
+        {
+            "id": 9334,
+            "answer": "Nein, so ein Schwachsinn! Das hat sicherlich keinen Zusammenhang",
+            "votes": 61,
+            "order": 1
+        }
+    ]
+}

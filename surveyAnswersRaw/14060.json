@@ -1,0 +1,25 @@
+{
+    "id": 6046,
+    "question": "Wie gefällt Ihnen die neue Figur des Bachelors?",
+    "created_at": "2020-11-14T12:50:56+00:00",
+    "updated_at": "2021-06-14T09:37:42+00:00",
+    "end_at": null,
+    "comment_group_id": 1898164,
+    "published_at": "2020-11-17T12:53:38+00:00",
+    "display_name": "",
+    "total": 179,
+    "answers": [
+        {
+            "id": 14060,
+            "answer": "Jetzt ist er richtig lecker!",
+            "votes": 43,
+            "order": 0
+        },
+        {
+            "id": 14061,
+            "answer": "Wer hat denn nun die US-Wahl gewonnen?",
+            "votes": 136,
+            "order": 1
+        }
+    ]
+}

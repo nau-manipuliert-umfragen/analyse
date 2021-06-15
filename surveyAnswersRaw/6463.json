@@ -1,0 +1,25 @@
+{
+    "id": 2573,
+    "question": "Trauen Sie Roger Assalé den Sprung ins Ausland zu?",
+    "created_at": "2020-01-15T14:10:37+00:00",
+    "updated_at": "2021-06-14T09:35:08+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 471,
+    "answers": [
+        {
+            "id": 6463,
+            "answer": "Ja klar, er setzt sich überall durch.",
+            "votes": 239,
+            "order": 0
+        },
+        {
+            "id": 6462,
+            "answer": "Nein, seine Limiten sind schon in der Super League ersichtlich.",
+            "votes": 232,
+            "order": 1
+        }
+    ]
+}

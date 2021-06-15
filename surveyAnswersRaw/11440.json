@@ -1,0 +1,25 @@
+{
+    "id": 4858,
+    "question": "Wer gewinnt den Spitzenkampf am Samstag?",
+    "created_at": "2020-07-09T05:41:43+00:00",
+    "updated_at": "2021-06-14T10:23:11+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 43,
+    "answers": [
+        {
+            "id": 11441,
+            "answer": "Basel",
+            "votes": 22,
+            "order": 0
+        },
+        {
+            "id": 11440,
+            "answer": "YB",
+            "votes": 21,
+            "order": 1
+        }
+    ]
+}

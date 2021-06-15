@@ -1,0 +1,31 @@
+{
+    "id": 9726,
+    "question": "Wer ist der beste Goalie?",
+    "created_at": "2021-05-27T10:58:31+00:00",
+    "updated_at": "2021-06-14T09:40:51+00:00",
+    "end_at": null,
+    "comment_group_id": 2178424,
+    "published_at": "2021-05-31T16:29:03+00:00",
+    "display_name": "",
+    "total": 1305,
+    "answers": [
+        {
+            "id": 22039,
+            "answer": "Roman Bürki",
+            "votes": 619,
+            "order": 0
+        },
+        {
+            "id": 22041,
+            "answer": "Marwin Hitz",
+            "votes": 191,
+            "order": 1
+        },
+        {
+            "id": 22040,
+            "answer": "Gregor Kobel",
+            "votes": 495,
+            "order": 2
+        }
+    ]
+}

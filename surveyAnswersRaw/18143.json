@@ -1,0 +1,25 @@
+{
+    "id": 7884,
+    "question": "Reisen Sie über Ostern ins Tessin?",
+    "created_at": "2021-03-10T09:42:51+00:00",
+    "updated_at": "2021-03-11T09:11:59+00:00",
+    "end_at": "2021-03-11T09:42:47+00:00",
+    "comment_group_id": 2056150,
+    "published_at": "2021-03-10T15:32:03+00:00",
+    "display_name": "",
+    "total": 421,
+    "answers": [
+        {
+            "id": 18144,
+            "answer": "Ja, das hat Tradition.",
+            "votes": 123,
+            "order": 0
+        },
+        {
+            "id": 18143,
+            "answer": "Nein, ich bleibe lieber daheim.",
+            "votes": 298,
+            "order": 1
+        }
+    ]
+}

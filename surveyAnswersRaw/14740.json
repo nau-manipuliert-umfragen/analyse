@@ -1,0 +1,25 @@
+{
+    "id": 6347,
+    "question": "Freuen Sie sich über Andys Comeback?",
+    "created_at": "2020-12-16T14:33:03+00:00",
+    "updated_at": "2021-06-14T09:37:57+00:00",
+    "end_at": null,
+    "comment_group_id": 1943036,
+    "published_at": "2020-12-17T15:18:03+00:00",
+    "display_name": "",
+    "total": 350,
+    "answers": [
+        {
+            "id": 14741,
+            "answer": "Ja, er ist super sympathisch.",
+            "votes": 214,
+            "order": 0
+        },
+        {
+            "id": 14740,
+            "answer": "Nein, er hatte bereits eine Chance.",
+            "votes": 136,
+            "order": 1
+        }
+    ]
+}

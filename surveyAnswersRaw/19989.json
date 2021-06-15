@@ -1,0 +1,25 @@
+{
+    "id": 8771,
+    "question": "Wie finden Sie den Schnappschuss mit Prinz Philip und seinen Urenkeln?",
+    "created_at": "2021-04-15T12:36:53+00:00",
+    "updated_at": "2021-06-14T09:39:56+00:00",
+    "end_at": null,
+    "comment_group_id": 2108836,
+    "published_at": "2021-04-15T16:01:11+00:00",
+    "display_name": "",
+    "total": 723,
+    "answers": [
+        {
+            "id": 19990,
+            "answer": "Jöö, so herzig!",
+            "votes": 563,
+            "order": 0
+        },
+        {
+            "id": 19989,
+            "answer": "Ich wusste gar nicht, dass es so viele Urenkel gibt!",
+            "votes": 160,
+            "order": 1
+        }
+    ]
+}

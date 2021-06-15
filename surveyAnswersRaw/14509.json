@@ -1,0 +1,37 @@
+{
+    "id": 6244,
+    "question": "Wo klassiert sich Union Berlin 2020/21 in der Bundesliga?",
+    "created_at": "2020-12-04T21:30:38+00:00",
+    "updated_at": "2021-06-14T09:37:53+00:00",
+    "end_at": null,
+    "comment_group_id": 1927770,
+    "published_at": "2020-12-04T21:30:46+00:00",
+    "display_name": "",
+    "total": 250,
+    "answers": [
+        {
+            "id": 14511,
+            "answer": "Urs Fischer qualifiziert sich für Europa",
+            "votes": 51,
+            "order": 0
+        },
+        {
+            "id": 14508,
+            "answer": "Auf einem Platz im Mittelfeld",
+            "votes": 129,
+            "order": 1
+        },
+        {
+            "id": 14510,
+            "answer": "Die «Eisernen» schaffen knapp den Klassenerhalt",
+            "votes": 47,
+            "order": 2
+        },
+        {
+            "id": 14509,
+            "answer": "Union steigt ab",
+            "votes": 23,
+            "order": 3
+        }
+    ]
+}

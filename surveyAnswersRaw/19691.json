@@ -1,0 +1,25 @@
+{
+    "id": 8627,
+    "question": "Ist Ihnen Ihre Familie auch manchmal peinlich?",
+    "created_at": "2021-04-09T12:35:42+00:00",
+    "updated_at": "2021-06-14T09:39:49+00:00",
+    "end_at": null,
+    "comment_group_id": 2100308,
+    "published_at": "2021-04-10T11:13:11+00:00",
+    "display_name": "",
+    "total": 278,
+    "answers": [
+        {
+            "id": 19691,
+            "answer": "Nein, zum Glück nie.",
+            "votes": 156,
+            "order": 0
+        },
+        {
+            "id": 19690,
+            "answer": "Ja, fast jeden Tag.",
+            "votes": 122,
+            "order": 1
+        }
+    ]
+}

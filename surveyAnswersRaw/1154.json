@@ -1,0 +1,37 @@
+{
+    "id": 395,
+    "question": "Wieviele Medaillen gewinnt die Schweiz an den Olympischen Spielen?",
+    "created_at": "2018-02-07T13:35:39+00:00",
+    "updated_at": "2021-06-14T10:19:59+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 96,
+    "answers": [
+        {
+            "id": 1148,
+            "answer": "Mehr als 13",
+            "votes": 23,
+            "order": 100
+        },
+        {
+            "id": 1151,
+            "answer": "0-4",
+            "votes": 23,
+            "order": 100
+        },
+        {
+            "id": 1154,
+            "answer": "9-12",
+            "votes": 29,
+            "order": 100
+        },
+        {
+            "id": 1157,
+            "answer": "5-8",
+            "votes": 21,
+            "order": 100
+        }
+    ]
+}

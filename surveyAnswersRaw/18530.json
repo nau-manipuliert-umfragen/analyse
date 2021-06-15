@@ -1,0 +1,31 @@
+{
+    "id": 8072,
+    "question": "Könnten Sie daheim ein Elektroauto aufladen?",
+    "created_at": "2021-03-17T11:06:35+00:00",
+    "updated_at": "2021-03-22T11:03:57+00:00",
+    "end_at": "2021-03-22T11:06:29+00:00",
+    "comment_group_id": 2066754,
+    "published_at": "2021-03-21T17:30:13+00:00",
+    "display_name": "",
+    "total": 778,
+    "answers": [
+        {
+            "id": 18530,
+            "answer": "Nein, ich habe keinen Stromanschluss bei meinem Parkplatz.",
+            "votes": 421,
+            "order": 0
+        },
+        {
+            "id": 18532,
+            "answer": "Ja, das wäre kein Problem.",
+            "votes": 224,
+            "order": 1
+        },
+        {
+            "id": 18531,
+            "answer": "Ich lade bereits mein Elektroauto daheim auf.",
+            "votes": 133,
+            "order": 2
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 3513,
+    "question": "Was halten Sie vom Vorschlag der ETH-Ökonomen?",
+    "created_at": "2020-03-18T11:19:20+00:00",
+    "updated_at": "2020-03-18T22:51:14+00:00",
+    "end_at": "2020-03-18T22:59:00+00:00",
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 147,
+    "answers": [
+        {
+            "id": 8541,
+            "answer": "Der Milliarden-Fonds ist nötig, um die Krise zu meistern.",
+            "votes": 105,
+            "order": 0
+        },
+        {
+            "id": 8540,
+            "answer": "Die Lösung des Bundesrats wird ausreichen, schlimmstenfalls mit ein paar Milliarden zusätzlich.",
+            "votes": 42,
+            "order": 1
+        }
+    ]
+}

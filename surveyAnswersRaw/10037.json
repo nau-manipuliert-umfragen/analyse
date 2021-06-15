@@ -1,0 +1,25 @@
+{
+    "id": 4206,
+    "question": "Was halten Sie davon, dass die Premier League fortgesetzt werden soll?",
+    "created_at": "2020-05-12T17:16:08+00:00",
+    "updated_at": "2021-06-14T09:36:24+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 167,
+    "answers": [
+        {
+            "id": 10037,
+            "answer": "Finde ich sinnvoll.",
+            "votes": 119,
+            "order": 0
+        },
+        {
+            "id": 10036,
+            "answer": "Absoluter Schwachsinn!",
+            "votes": 48,
+            "order": 1
+        }
+    ]
+}

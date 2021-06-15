@@ -1,0 +1,25 @@
+{
+    "id": 6025,
+    "question": "Kann Liverpool die Ausfälle kompensieren?",
+    "created_at": "2020-11-12T11:22:09+00:00",
+    "updated_at": "2021-06-14T09:37:40+00:00",
+    "end_at": null,
+    "comment_group_id": 1895648,
+    "published_at": "2020-11-12T17:34:46+00:00",
+    "display_name": "",
+    "total": 89,
+    "answers": [
+        {
+            "id": 14013,
+            "answer": "Nein! Van Dijk, Fabinho und Gomez sind zu wichtig.",
+            "votes": 47,
+            "order": 0
+        },
+        {
+            "id": 14012,
+            "answer": "Ja, da sind genügend Talente vorhanden.",
+            "votes": 42,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 6452,
+    "question": "Sollte man Gutes tun und darüber reden?",
+    "created_at": "2020-12-26T08:40:49+00:00",
+    "updated_at": "2021-06-14T09:38:02+00:00",
+    "end_at": null,
+    "comment_group_id": 1954540,
+    "published_at": "2020-12-26T13:59:04+00:00",
+    "display_name": "",
+    "total": 577,
+    "answers": [
+        {
+            "id": 14970,
+            "answer": "Nein, dann geht der ganze Sinn dahinter verloren.",
+            "votes": 308,
+            "order": 0
+        },
+        {
+            "id": 14969,
+            "answer": "Ja, Alan nutzt seine Reichweite, um auf Bedürftige aufmerksam zu machen.",
+            "votes": 269,
+            "order": 1
+        }
+    ]
+}

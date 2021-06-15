@@ -1,0 +1,31 @@
+{
+    "id": 9436,
+    "question": "Würden Sie einen Flug nach nirgendwo buchen?",
+    "created_at": "2021-05-14T11:46:30+00:00",
+    "updated_at": "2021-06-14T09:40:33+00:00",
+    "end_at": null,
+    "comment_group_id": 2156884,
+    "published_at": "2021-05-15T16:00:26+00:00",
+    "display_name": "",
+    "total": 242,
+    "answers": [
+        {
+            "id": 21420,
+            "answer": "Ja, ich möchte endlich mal wieder einen Flug erleben.",
+            "votes": 91,
+            "order": 0
+        },
+        {
+            "id": 21418,
+            "answer": "Nein, der Spass wäre mir zu teuer.",
+            "votes": 46,
+            "order": 1
+        },
+        {
+            "id": 21419,
+            "answer": "Nein, ein Flug nach nirgendwo ist nur ein unnötiges ökologisches Desaster.",
+            "votes": 105,
+            "order": 2
+        }
+    ]
+}

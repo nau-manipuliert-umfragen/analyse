@@ -1,0 +1,31 @@
+{
+    "id": 5819,
+    "question": "Wird YB gegen die AS Rom gewinnen?",
+    "created_at": "2020-10-21T15:20:53+00:00",
+    "updated_at": "2021-06-14T09:37:29+00:00",
+    "end_at": null,
+    "comment_group_id": 1861786,
+    "published_at": "2020-10-22T04:46:21+00:00",
+    "display_name": "",
+    "total": 260,
+    "answers": [
+        {
+            "id": 13561,
+            "answer": "Ja, die Berner werden siegen.",
+            "votes": 85,
+            "order": 0
+        },
+        {
+            "id": 13563,
+            "answer": "Es reicht für ein Unentschieden.",
+            "votes": 74,
+            "order": 1
+        },
+        {
+            "id": 13562,
+            "answer": "Nein, das wird nichts.",
+            "votes": 101,
+            "order": 2
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "id": 308,
+    "question": "Kaufen Sie Ihre Geschenke auch im Internet?",
+    "created_at": "2017-12-22T10:13:11+00:00",
+    "updated_at": "2021-06-14T09:33:49+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 84,
+    "answers": [
+        {
+            "id": 821,
+            "answer": "Ja, das ist am bequemsten. Keine gestressten Menschen, keine verlorene Zeit.",
+            "votes": 36,
+            "order": 100
+        },
+        {
+            "id": 824,
+            "answer": "Nein, auf dem Weihnachtsmarkt gibt es immer noch die schönsten Geschenke.",
+            "votes": 24,
+            "order": 100
+        },
+        {
+            "id": 827,
+            "answer": "Ja, aber nur wenn es das Produkt nicht im Einzelhandel gibt.",
+            "votes": 24,
+            "order": 100
+        }
+    ]
+}

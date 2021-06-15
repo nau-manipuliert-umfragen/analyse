@@ -1,0 +1,25 @@
+{
+    "id": 3819,
+    "question": "Verlässt Lionel Messi den FC Barcelona im Sommer?",
+    "created_at": "2020-04-09T08:12:38+00:00",
+    "updated_at": "2021-06-14T09:36:07+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 292,
+    "answers": [
+        {
+            "id": 9192,
+            "answer": "Ja, zu gross waren zuletzt die Spannungen.",
+            "votes": 117,
+            "order": 0
+        },
+        {
+            "id": 9193,
+            "answer": "Nein, die Gerüchte sind nichts weiter als heisse Luft.",
+            "votes": 175,
+            "order": 1
+        }
+    ]
+}

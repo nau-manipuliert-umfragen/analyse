@@ -1,0 +1,65 @@
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0*   Trying 185.79.201.48...
+* TCP_NODELAY set
+* Connected to api.nau.ch (185.79.201.48) port 443 (#0)
+* ALPN, offering h2
+* ALPN, offering http/1.1
+* successfully set certificate verify locations:
+*   CAfile: /etc/ssl/cert.pem
+  CApath: none
+* TLSv1.2 (OUT), TLS handshake, Client hello (1):
+} [224 bytes data]
+* TLSv1.2 (IN), TLS handshake, Server hello (2):
+{ [102 bytes data]
+* TLSv1.2 (IN), TLS handshake, Certificate (11):
+{ [2631 bytes data]
+* TLSv1.2 (IN), TLS handshake, Server key exchange (12):
+{ [333 bytes data]
+* TLSv1.2 (IN), TLS handshake, Server finished (14):
+{ [4 bytes data]
+* TLSv1.2 (OUT), TLS handshake, Client key exchange (16):
+} [70 bytes data]
+* TLSv1.2 (OUT), TLS change cipher, Change cipher spec (1):
+} [1 bytes data]
+* TLSv1.2 (OUT), TLS handshake, Finished (20):
+} [16 bytes data]
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* TLSv1.2 (IN), TLS change cipher, Change cipher spec (1):
+{ [1 bytes data]
+* TLSv1.2 (IN), TLS handshake, Finished (20):
+{ [16 bytes data]
+* SSL connection using TLSv1.2 / ECDHE-RSA-AES256-GCM-SHA384
+* ALPN, server accepted to use h2
+* Server certificate:
+*  subject: CN=*.nau.ch
+*  start date: Jun 22 00:00:00 2020 GMT
+*  expire date: Jul  7 12:00:00 2021 GMT
+*  subjectAltName: host "api.nau.ch" matched cert's "*.nau.ch"
+*  issuer: C=US; O=DigiCert Inc; OU=www.digicert.com; CN=GeoTrust RSA CA 2018
+*  SSL certificate verify ok.
+* Using HTTP2, server supports multi-use
+* Connection state changed (HTTP/2 confirmed)
+* Copying HTTP/2 data in stream buffer to connection buffer after upgrade: len=0
+* Using Stream ID: 1 (easy handle 0x7f923e00d600)
+> POST /survey-answers/1234567/vote HTTP/2
+> Host: api.nau.ch
+> User-Agent: curl/7.64.1
+> Accept: */*
+> Content-Length: 2
+> Content-Type: application/x-www-form-urlencoded
+> 
+} [2 bytes data]
+* We are completely uploaded and fine
+* Connection state changed (MAX_CONCURRENT_STREAMS == 100)!
+< HTTP/2 404 
+< date: Mon, 14 Jun 2021 12:06:34 GMT
+< server: Apache
+< cache-control: no-cache, private
+< set-cookie: nau_session=Hz1RkgougP14inbe3NvuRl1GDSLyUi5HdkbdJvcs; expires=Mon, 28-Jun-2021 12:06:34 GMT; Max-Age=1209600; path=/; domain=nau.ch; httponly; samesite=lax
+< content-length: 41
+< content-type: application/json
+< 
+{ [41 bytes data]
+100    43  100    41  100     2    175      8 --:--:-- --:--:-- --:--:--   183
+* Connection #0 to host api.nau.ch left intact
+{"status_code":404,"message":"Not Found"}* Closing connection 0

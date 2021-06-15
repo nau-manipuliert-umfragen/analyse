@@ -1,0 +1,31 @@
+{
+    "id": 2819,
+    "question": "Wer hat am Ende seiner Karriere die meisten Grand-Slam-Titel?",
+    "created_at": "2020-02-03T14:17:25+00:00",
+    "updated_at": "2021-06-14T09:35:22+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 610,
+    "answers": [
+        {
+            "id": 7005,
+            "answer": "Roger Federer",
+            "votes": 140,
+            "order": 0
+        },
+        {
+            "id": 7003,
+            "answer": "Rafael Nadal",
+            "votes": 108,
+            "order": 1
+        },
+        {
+            "id": 7004,
+            "answer": "Novak Djokovic",
+            "votes": 362,
+            "order": 2
+        }
+    ]
+}

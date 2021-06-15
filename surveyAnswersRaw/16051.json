@@ -1,0 +1,25 @@
+{
+    "id": 6949,
+    "question": "Holt Lara Gut-Behrami an der WM eine Medaille?",
+    "created_at": "2021-02-01T11:24:44+00:00",
+    "updated_at": "2021-06-14T09:38:22+00:00",
+    "end_at": null,
+    "comment_group_id": 2002394,
+    "published_at": null,
+    "display_name": "",
+    "total": 172,
+    "answers": [
+        {
+            "id": 16050,
+            "answer": "Ja klar, sie ist in Top-Form!",
+            "votes": 137,
+            "order": 0
+        },
+        {
+            "id": 16051,
+            "answer": "Nein, ich glaube nicht.",
+            "votes": 35,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "id": 671,
+    "question": "Was halten Sie von Salt Fiber?",
+    "created_at": "2018-04-12T11:10:28+00:00",
+    "updated_at": "2021-06-14T09:34:03+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 96,
+    "answers": [
+        {
+            "id": 1952,
+            "answer": "Das Abo klingt interessant, ist bei mir aber nicht verfügbar.",
+            "votes": 35,
+            "order": 100
+        },
+        {
+            "id": 1955,
+            "answer": "Bei der nächste Gelegenheit wechsle ich auf Salt Fiber.",
+            "votes": 30,
+            "order": 100
+        },
+        {
+            "id": 1958,
+            "answer": "Ich bleibe bei meinem Anbieter. Ein guter Preis macht kein gutes Abo aus.",
+            "votes": 31,
+            "order": 100
+        }
+    ]
+}

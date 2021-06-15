@@ -1,0 +1,25 @@
+{
+    "id": 4628,
+    "question": "Können Sie den Rabona auch so gut wie Alisha Lehmann?",
+    "created_at": "2020-06-16T09:26:36+00:00",
+    "updated_at": "2021-06-14T09:36:41+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 81,
+    "answers": [
+        {
+            "id": 10943,
+            "answer": "Ja",
+            "votes": 32,
+            "order": 0
+        },
+        {
+            "id": 10942,
+            "answer": "Nein",
+            "votes": 49,
+            "order": 1
+        }
+    ]
+}

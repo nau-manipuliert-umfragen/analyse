@@ -1,0 +1,25 @@
+{
+    "id": 9869,
+    "question": "Ist die Zeitstrafe gegen Federer angemessen?",
+    "created_at": "2021-06-04T07:49:02+00:00",
+    "updated_at": "2021-06-14T09:40:59+00:00",
+    "end_at": null,
+    "comment_group_id": 2190259,
+    "published_at": "2021-06-04T09:12:48+00:00",
+    "display_name": "",
+    "total": 485,
+    "answers": [
+        {
+            "id": 22360,
+            "answer": "Ja, so ist die Regel.",
+            "votes": 127,
+            "order": 0
+        },
+        {
+            "id": 22361,
+            "answer": "Nein, das war übertrieben.",
+            "votes": 358,
+            "order": 1
+        }
+    ]
+}

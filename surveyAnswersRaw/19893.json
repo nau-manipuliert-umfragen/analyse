@@ -1,0 +1,25 @@
+{
+    "id": 8727,
+    "question": "Mögen Sie Starbucks-Kaffee?",
+    "created_at": "2021-04-13T13:34:42+00:00",
+    "updated_at": "2021-06-14T09:39:54+00:00",
+    "end_at": null,
+    "comment_group_id": 2105699,
+    "published_at": "2021-04-14T19:02:29+00:00",
+    "display_name": "",
+    "total": 120,
+    "answers": [
+        {
+            "id": 19894,
+            "answer": "Ja, dort gibt es den besten Kaffee!",
+            "votes": 56,
+            "order": 0
+        },
+        {
+            "id": 19893,
+            "answer": "Nein, ist mir zu teuer.",
+            "votes": 64,
+            "order": 1
+        }
+    ]
+}

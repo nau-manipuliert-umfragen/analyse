@@ -1,0 +1,31 @@
+{
+    "id": 3222,
+    "question": "Was halten Sie von der Idee von Biel-CEO Daniel Villard?",
+    "created_at": "2020-02-28T15:03:10+00:00",
+    "updated_at": "2021-06-14T09:35:42+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 198,
+    "answers": [
+        {
+            "id": 7899,
+            "answer": "Er hat recht, während den Playoffs gehören die Fans einfach dazu.",
+            "votes": 119,
+            "order": 0
+        },
+        {
+            "id": 7900,
+            "answer": "Finde ich nicht gut, eine Best-of-5 Serie würde die Meisterschaft verfälschen.",
+            "votes": 34,
+            "order": 1
+        },
+        {
+            "id": 7898,
+            "answer": "Bis sich die Lage beruhigt, sollten alle Spiele abgesagt werden.",
+            "votes": 45,
+            "order": 2
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 4619,
+    "question": "NBA-Star Lonnie Walker hat den Tätern verziehen. Was halten Sie davon?",
+    "created_at": "2020-06-15T16:52:26+00:00",
+    "updated_at": "2021-06-14T09:36:41+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 68,
+    "answers": [
+        {
+            "id": 10924,
+            "answer": "Es hilft extrem mit traumatischen Ereignissen abzuschliessen.",
+            "votes": 31,
+            "order": 0
+        },
+        {
+            "id": 10923,
+            "answer": "Kein Vergewaltiger sollte ungestraft davonkommen.",
+            "votes": 37,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 5893,
+    "question": "Finden Sie es in Ordnung, dass den Profi-Clubs zinslose Darlehen gewährleistet werden?",
+    "created_at": "2020-10-29T06:53:57+00:00",
+    "updated_at": "2021-06-14T09:37:34+00:00",
+    "end_at": null,
+    "comment_group_id": 1874025,
+    "published_at": "2020-10-29T07:51:40+00:00",
+    "display_name": "",
+    "total": 391,
+    "answers": [
+        {
+            "id": 13721,
+            "answer": "Ja",
+            "votes": 165,
+            "order": 0
+        },
+        {
+            "id": 13722,
+            "answer": "Nein",
+            "votes": 226,
+            "order": 1
+        }
+    ]
+}

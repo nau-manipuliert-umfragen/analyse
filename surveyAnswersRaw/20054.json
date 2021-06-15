@@ -1,0 +1,31 @@
+{
+    "id": 8801,
+    "question": "Wer holt sich den Meistertitel in der Bundesliga?",
+    "created_at": "2021-04-16T20:33:19+00:00",
+    "updated_at": "2021-06-14T09:39:57+00:00",
+    "end_at": null,
+    "comment_group_id": 2110976,
+    "published_at": null,
+    "display_name": "",
+    "total": 153,
+    "answers": [
+        {
+            "id": 20054,
+            "answer": "Bayern München",
+            "votes": 99,
+            "order": 0
+        },
+        {
+            "id": 20053,
+            "answer": "RB Leipzig",
+            "votes": 25,
+            "order": 1
+        },
+        {
+            "id": 20052,
+            "answer": "Ein anderes Team",
+            "votes": 29,
+            "order": 2
+        }
+    ]
+}

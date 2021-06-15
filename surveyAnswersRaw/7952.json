@@ -1,0 +1,25 @@
+{
+    "id": 3243,
+    "question": "Ist der Renault Clio ihr Car of the Year?",
+    "created_at": "2020-03-01T19:30:18+00:00",
+    "updated_at": "2021-06-14T09:35:43+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 203,
+    "answers": [
+        {
+            "id": 7952,
+            "answer": "ja",
+            "votes": 62,
+            "order": 0
+        },
+        {
+            "id": 7951,
+            "answer": "nein",
+            "votes": 141,
+            "order": 1
+        }
+    ]
+}

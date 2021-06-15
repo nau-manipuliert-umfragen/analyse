@@ -1,0 +1,25 @@
+{
+    "id": 4938,
+    "question": "Was halten Sie vom Rollenbild von Bernie Ecclestone?",
+    "created_at": "2020-07-19T08:35:49+00:00",
+    "updated_at": "2021-06-14T09:36:54+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 213,
+    "answers": [
+        {
+            "id": 11620,
+            "answer": "Das ist komplett veraltet.",
+            "votes": 107,
+            "order": 0
+        },
+        {
+            "id": 11621,
+            "answer": "Hauptsache, dem Kind geht es gut.",
+            "votes": 106,
+            "order": 1
+        }
+    ]
+}

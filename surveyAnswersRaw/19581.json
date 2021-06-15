@@ -1,0 +1,25 @@
+{
+    "id": 8575,
+    "question": "Sollten Minderjährige Zugriff auf Social Media haben?",
+    "created_at": "2021-04-07T13:29:16+00:00",
+    "updated_at": "2021-06-14T09:39:46+00:00",
+    "end_at": null,
+    "comment_group_id": 2096576,
+    "published_at": "2021-04-15T12:57:30+00:00",
+    "display_name": "",
+    "total": 1097,
+    "answers": [
+        {
+            "id": 19581,
+            "answer": "Ja, klar.",
+            "votes": 234,
+            "order": 0
+        },
+        {
+            "id": 19580,
+            "answer": "Nein, finde ich nicht gut.",
+            "votes": 863,
+            "order": 1
+        }
+    ]
+}

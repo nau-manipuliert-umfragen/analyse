@@ -1,0 +1,25 @@
+{
+    "id": 8548,
+    "question": "Sind Monarchien veraltet?",
+    "created_at": "2021-04-06T11:49:32+00:00",
+    "updated_at": "2021-06-14T09:39:45+00:00",
+    "end_at": null,
+    "comment_group_id": 2094728,
+    "published_at": "2021-04-10T18:31:11+00:00",
+    "display_name": "",
+    "total": 789,
+    "answers": [
+        {
+            "id": 19525,
+            "answer": "Ja, abschaffen sofort!",
+            "votes": 291,
+            "order": 0
+        },
+        {
+            "id": 19524,
+            "answer": "Nein, sie bringen viel Tourismus.",
+            "votes": 498,
+            "order": 1
+        }
+    ]
+}

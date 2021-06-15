@@ -1,0 +1,25 @@
+{
+    "id": 10006,
+    "question": "Braucht es Kampagnen, um die Jungen zur Impfung zu bringen?",
+    "created_at": "2021-06-10T08:09:01+00:00",
+    "updated_at": "2021-06-14T09:41:06+00:00",
+    "end_at": null,
+    "comment_group_id": 2199128,
+    "published_at": "2021-06-10T09:55:21+00:00",
+    "display_name": "",
+    "total": 804,
+    "answers": [
+        {
+            "id": 22656,
+            "answer": "Ja, sonst erreichen wir die Herdenimmunität nie.",
+            "votes": 141,
+            "order": 0
+        },
+        {
+            "id": 22657,
+            "answer": "Nein, der Staat soll sich aus diesem Entscheid heraushalten.",
+            "votes": 663,
+            "order": 1
+        }
+    ]
+}

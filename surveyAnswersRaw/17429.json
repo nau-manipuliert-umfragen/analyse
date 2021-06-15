@@ -1,0 +1,37 @@
+{
+    "id": 7560,
+    "question": "Wer bildet beim BVB nächste Saison das Torhüter-Paar?",
+    "created_at": "2021-02-24T11:56:18+00:00",
+    "updated_at": "2021-06-14T09:38:52+00:00",
+    "end_at": null,
+    "comment_group_id": 2036121,
+    "published_at": "2021-02-24T17:19:52+00:00",
+    "display_name": "",
+    "total": 160,
+    "answers": [
+        {
+            "id": 17429,
+            "answer": "Bürki / Hitz",
+            "votes": 54,
+            "order": 0
+        },
+        {
+            "id": 17427,
+            "answer": "Gulasci / Bürki",
+            "votes": 26,
+            "order": 1
+        },
+        {
+            "id": 17428,
+            "answer": "Gulasci / Hitz",
+            "votes": 29,
+            "order": 2
+        },
+        {
+            "id": 17430,
+            "answer": "Eine andere Konstellation",
+            "votes": 51,
+            "order": 3
+        }
+    ]
+}

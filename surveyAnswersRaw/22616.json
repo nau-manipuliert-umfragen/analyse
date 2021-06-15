@@ -1,0 +1,31 @@
+{
+    "id": 9988,
+    "question": "Würden Sie ihr Auto jemand anderem anvertrauen?",
+    "created_at": "2021-06-09T13:43:45+00:00",
+    "updated_at": "2021-06-14T10:27:18+00:00",
+    "end_at": null,
+    "comment_group_id": 2198137,
+    "published_at": null,
+    "display_name": "",
+    "total": 65,
+    "answers": [
+        {
+            "id": 22616,
+            "answer": "Ja, damit habe ich kein Problem.",
+            "votes": 21,
+            "order": 0
+        },
+        {
+            "id": 22614,
+            "answer": "Nein, nie im Leben!",
+            "votes": 22,
+            "order": 1
+        },
+        {
+            "id": 22615,
+            "answer": "Kommt drauf an wem.",
+            "votes": 22,
+            "order": 2
+        }
+    ]
+}

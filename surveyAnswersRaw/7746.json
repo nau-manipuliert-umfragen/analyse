@@ -1,0 +1,25 @@
+{
+    "id": 3155,
+    "question": "War die Wiederholung des Penaltys gerechtfertigt?",
+    "created_at": "2020-02-23T18:00:47+00:00",
+    "updated_at": "2021-06-14T09:35:39+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 985,
+    "answers": [
+        {
+            "id": 7746,
+            "answer": "Ja, Zigi hat sich zu früh bewegt.",
+            "votes": 436,
+            "order": 0
+        },
+        {
+            "id": 7745,
+            "answer": "Nein, das hätte man anders entscheiden müssen.",
+            "votes": 549,
+            "order": 1
+        }
+    ]
+}

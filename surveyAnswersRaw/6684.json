@@ -1,0 +1,31 @@
+{
+    "id": 2674,
+    "question": "Holen Sie sich eine Roger-Federer-Gedenkmünze?",
+    "created_at": "2020-01-23T06:59:37+00:00",
+    "updated_at": "2021-06-14T09:35:14+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 270,
+    "answers": [
+        {
+            "id": 6684,
+            "answer": "Ja, das darf in meiner Sammlung nicht fehlen",
+            "votes": 130,
+            "order": 0
+        },
+        {
+            "id": 6685,
+            "answer": "Ich habe mir mein Exemplar bereits gesichert",
+            "votes": 58,
+            "order": 1
+        },
+        {
+            "id": 6686,
+            "answer": "Nein, so etwas interessiert mich gar nicht",
+            "votes": 82,
+            "order": 2
+        }
+    ]
+}

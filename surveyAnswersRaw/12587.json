@@ -1,0 +1,25 @@
+{
+    "id": 5375,
+    "question": "Würden Sie mit der Neuen Ferien an ihrer Hochzeitslocation machen?",
+    "created_at": "2020-09-07T07:23:55+00:00",
+    "updated_at": "2021-06-14T09:37:11+00:00",
+    "end_at": null,
+    "comment_group_id": 1787148,
+    "published_at": "2020-09-09T12:53:29+00:00",
+    "display_name": "",
+    "total": 285,
+    "answers": [
+        {
+            "id": 12586,
+            "answer": "Nein, da sind zu viele Erinnerungen an die alte Liebe.",
+            "votes": 177,
+            "order": 0
+        },
+        {
+            "id": 12587,
+            "answer": "Ja, man muss nach vorne schauen im Leben.",
+            "votes": 108,
+            "order": 1
+        }
+    ]
+}

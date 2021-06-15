@@ -1,0 +1,25 @@
+{
+    "id": 10008,
+    "question": "Finden Sie den AHV-Pflichtbeitrag für Studierende gerechtfertigt?",
+    "created_at": "2021-06-10T08:22:42+00:00",
+    "updated_at": "2021-06-14T09:41:07+00:00",
+    "end_at": null,
+    "comment_group_id": 2199181,
+    "published_at": "2021-06-10T17:12:56+00:00",
+    "display_name": "",
+    "total": 1565,
+    "answers": [
+        {
+            "id": 22660,
+            "answer": "Ja, schliesslich geht es um unsere Altersvorsorge.",
+            "votes": 1274,
+            "order": 0
+        },
+        {
+            "id": 22661,
+            "answer": "Nein, Studierende haben ohnehin schon kaum Geld.",
+            "votes": 291,
+            "order": 1
+        }
+    ]
+}

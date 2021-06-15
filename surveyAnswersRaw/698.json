@@ -1,0 +1,31 @@
+{
+    "id": 257,
+    "question": "Was ist für Sie bei einem Flug besonders wichtig?",
+    "created_at": "2017-12-05T09:22:35+00:00",
+    "updated_at": "2021-06-14T10:19:53+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 81,
+    "answers": [
+        {
+            "id": 692,
+            "answer": "Günstige Tickets.",
+            "votes": 29,
+            "order": 100
+        },
+        {
+            "id": 695,
+            "answer": "Guter Service an Board.",
+            "votes": 27,
+            "order": 100
+        },
+        {
+            "id": 698,
+            "answer": "Bequeme Sitzplätze.",
+            "votes": 25,
+            "order": 100
+        }
+    ]
+}

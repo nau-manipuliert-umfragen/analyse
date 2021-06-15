@@ -1,0 +1,25 @@
+{
+    "id": 7172,
+    "question": "Mögen Sie die Musik von Britney Spears?",
+    "created_at": "2021-02-10T11:25:30+00:00",
+    "updated_at": "2021-06-14T10:25:00+00:00",
+    "end_at": null,
+    "comment_group_id": 2015593,
+    "published_at": "2021-02-10T17:23:03+00:00",
+    "display_name": "",
+    "total": 221,
+    "answers": [
+        {
+            "id": 16558,
+            "answer": "Ja, «Hit me, baby»!",
+            "votes": 171,
+            "order": 0
+        },
+        {
+            "id": 16557,
+            "answer": "Nein, sie ist mir zu «Crazy».",
+            "votes": 50,
+            "order": 1
+        }
+    ]
+}

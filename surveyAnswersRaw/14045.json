@@ -1,0 +1,31 @@
+{
+    "id": 6039,
+    "question": "Tragen Sie beim Velofahren immer einen Helm und Brille?",
+    "created_at": "2020-11-13T14:33:02+00:00",
+    "updated_at": "2021-06-14T09:37:41+00:00",
+    "end_at": null,
+    "comment_group_id": 1897396,
+    "published_at": "2020-11-13T15:24:44+00:00",
+    "display_name": "",
+    "total": 201,
+    "answers": [
+        {
+            "id": 14045,
+            "answer": "Ja, das gehört sich so!",
+            "votes": 95,
+            "order": 0
+        },
+        {
+            "id": 14044,
+            "answer": "Einen Helm schon, die Brille lasse ich weg.",
+            "votes": 54,
+            "order": 1
+        },
+        {
+            "id": 14046,
+            "answer": "Nein, das brauche ich nicht.",
+            "votes": 52,
+            "order": 2
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 3605,
+    "question": "Wie finden Sie das Verhalten von Luka Jovic?",
+    "created_at": "2020-03-24T17:23:18+00:00",
+    "updated_at": "2020-03-24T17:23:18+00:00",
+    "end_at": "2020-03-24T17:23:16+00:00",
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 40,
+    "answers": [
+        {
+            "id": 8735,
+            "answer": "Absolut respektlos!",
+            "votes": 20,
+            "order": 0
+        },
+        {
+            "id": 8734,
+            "answer": "Da es der Geburtstag seiner Freundin ist, ist dies verständlich.",
+            "votes": 20,
+            "order": 1
+        }
+    ]
+}

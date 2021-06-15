@@ -1,0 +1,25 @@
+{
+    "id": 7863,
+    "question": "Ist der Vergleich mit der kleinen Meerjungfrau gerechtfertigt?",
+    "created_at": "2021-03-09T10:11:41+00:00",
+    "updated_at": "2021-06-14T09:39:08+00:00",
+    "end_at": null,
+    "comment_group_id": 2054684,
+    "published_at": "2021-03-09T14:57:35+00:00",
+    "display_name": "",
+    "total": 340,
+    "answers": [
+        {
+            "id": 18097,
+            "answer": "Ja, das passt total auf Meghan!",
+            "votes": 62,
+            "order": 0
+        },
+        {
+            "id": 18098,
+            "answer": "Nein, sie übertreibt masslos.",
+            "votes": 278,
+            "order": 1
+        }
+    ]
+}

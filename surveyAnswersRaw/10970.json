@@ -1,0 +1,25 @@
+{
+    "id": 4640,
+    "question": "Finden Sie eine baldige Fan-Rückkehr ins Stadion gut?",
+    "created_at": "2020-06-17T05:49:14+00:00",
+    "updated_at": "2021-06-14T09:36:42+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 71,
+    "answers": [
+        {
+            "id": 10969,
+            "answer": "Ja",
+            "votes": 45,
+            "order": 0
+        },
+        {
+            "id": 10970,
+            "answer": "Nein",
+            "votes": 26,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 8693,
+    "question": "Haben Sie für dieses Jahr Sommerferien im Ausland gebucht?",
+    "created_at": "2021-04-12T11:14:04+00:00",
+    "updated_at": "2021-06-14T09:39:52+00:00",
+    "end_at": null,
+    "comment_group_id": 2103786,
+    "published_at": "2021-04-12T15:28:41+00:00",
+    "display_name": "",
+    "total": 450,
+    "answers": [
+        {
+            "id": 19821,
+            "answer": "Ja, das lasse ich mir nicht nehmen.",
+            "votes": 141,
+            "order": 0
+        },
+        {
+            "id": 19822,
+            "answer": "Nein, die Corona-Situation in den einzelnen Ländern ist mir zu unberechenbar.",
+            "votes": 309,
+            "order": 1
+        }
+    ]
+}

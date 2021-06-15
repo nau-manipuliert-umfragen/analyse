@@ -1,0 +1,25 @@
+{
+    "id": 7783,
+    "question": "Hatte Meghan es schwer bei den Royals?",
+    "created_at": "2021-03-05T09:38:59+00:00",
+    "updated_at": "2021-06-14T09:39:03+00:00",
+    "end_at": null,
+    "comment_group_id": 2049409,
+    "published_at": "2021-03-13T16:50:42+00:00",
+    "display_name": "",
+    "total": 1341,
+    "answers": [
+        {
+            "id": 17928,
+            "answer": "Nein, ihr wurde jeder Wunsch von den Lippen abgelesen.",
+            "votes": 942,
+            "order": 0
+        },
+        {
+            "id": 17927,
+            "answer": "Ja, als US-Amerikanerin sowieso.",
+            "votes": 399,
+            "order": 1
+        }
+    ]
+}

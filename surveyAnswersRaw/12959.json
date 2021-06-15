@@ -1,0 +1,25 @@
+{
+    "id": 5541,
+    "question": "Denken Sie, die Sussex' waren in die Skandal-Biografie involviert?",
+    "created_at": "2020-09-24T11:38:50+00:00",
+    "updated_at": "2021-06-14T09:37:18+00:00",
+    "end_at": null,
+    "comment_group_id": 1816974,
+    "published_at": "2020-09-24T14:56:23+00:00",
+    "display_name": "",
+    "total": 484,
+    "answers": [
+        {
+            "id": 12958,
+            "answer": "Klar, Omid Scobie ist schliesslich ein guter Kumpel von Meghan.",
+            "votes": 436,
+            "order": 0
+        },
+        {
+            "id": 12959,
+            "answer": "Nein, niemand würde so ein Buch über sich veröffentlichen.",
+            "votes": 48,
+            "order": 1
+        }
+    ]
+}

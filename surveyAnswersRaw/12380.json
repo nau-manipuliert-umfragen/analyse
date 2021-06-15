@@ -1,0 +1,25 @@
+{
+    "id": 5285,
+    "question": "Holt Ronaldo mit Juventus Turin den Champions-League-Sieg?",
+    "created_at": "2020-08-28T08:22:30+00:00",
+    "updated_at": "2021-06-14T10:23:31+00:00",
+    "end_at": null,
+    "comment_group_id": 1771204,
+    "published_at": "2020-08-28T08:37:41+00:00",
+    "display_name": "",
+    "total": 84,
+    "answers": [
+        {
+            "id": 12379,
+            "answer": "Ja, nach ManUtd und Real schafft es «CR7» auch mit Juve!",
+            "votes": 51,
+            "order": 0
+        },
+        {
+            "id": 12380,
+            "answer": "Nein, da gibt es stärkere Teams.",
+            "votes": 33,
+            "order": 1
+        }
+    ]
+}

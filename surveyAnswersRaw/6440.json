@@ -1,0 +1,25 @@
+{
+    "id": 2564,
+    "question": "Was halten Sie von Bastian Yottas Dschungelcamp-Abrechnung?",
+    "created_at": "2020-01-15T09:07:43+00:00",
+    "updated_at": "2021-06-14T10:21:24+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 224,
+    "answers": [
+        {
+            "id": 6440,
+            "answer": "Super, endlich spricht mal einer Klartext.",
+            "votes": 131,
+            "order": 0
+        },
+        {
+            "id": 6439,
+            "answer": "Voll daneben. Macht er doch nur, um wieder ins Gespräch zu kommen.",
+            "votes": 93,
+            "order": 1
+        }
+    ]
+}

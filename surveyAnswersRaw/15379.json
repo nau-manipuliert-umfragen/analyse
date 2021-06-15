@@ -1,0 +1,25 @@
+{
+    "id": 6639,
+    "question": "Verstehen Sie Nastassjas Reaktion?",
+    "created_at": "2021-01-13T13:06:44+00:00",
+    "updated_at": "2021-06-14T09:38:09+00:00",
+    "end_at": null,
+    "comment_group_id": 1975574,
+    "published_at": "2021-01-15T12:38:21+00:00",
+    "display_name": "",
+    "total": 240,
+    "answers": [
+        {
+            "id": 15380,
+            "answer": "Ja, sie hat recht.",
+            "votes": 56,
+            "order": 0
+        },
+        {
+            "id": 15379,
+            "answer": "Nein, total übertrieben.",
+            "votes": 184,
+            "order": 1
+        }
+    ]
+}

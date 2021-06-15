@@ -1,0 +1,25 @@
+{
+    "id": 3289,
+    "question": "Kämpfen auch Sie mit dem Gewicht?",
+    "created_at": "2020-03-04T10:35:15+00:00",
+    "updated_at": "2021-06-14T09:35:45+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 214,
+    "answers": [
+        {
+            "id": 8053,
+            "answer": "Ja, es ist ein Dauerthema.",
+            "votes": 137,
+            "order": 0
+        },
+        {
+            "id": 8054,
+            "answer": "Nein, höchstens mit den Hanteln in Kraftraum.",
+            "votes": 77,
+            "order": 1
+        }
+    ]
+}

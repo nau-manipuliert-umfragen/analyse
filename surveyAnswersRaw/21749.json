@@ -1,0 +1,25 @@
+{
+    "id": 9589,
+    "question": "Würden Sie sich auch weitere Mal gegen das Coronavirus impfen lassen?",
+    "created_at": "2021-05-21T06:41:09+00:00",
+    "updated_at": "2021-06-14T09:40:44+00:00",
+    "end_at": null,
+    "comment_group_id": 2168488,
+    "published_at": "2021-05-21T07:23:35+00:00",
+    "display_name": "",
+    "total": 785,
+    "answers": [
+        {
+            "id": 21750,
+            "answer": "Sicher, unser aller Schutz sollte an oberster Stelle stehen.",
+            "votes": 430,
+            "order": 0
+        },
+        {
+            "id": 21749,
+            "answer": "Sicher nicht. Garantiert nicht noch einmal!",
+            "votes": 355,
+            "order": 1
+        }
+    ]
+}

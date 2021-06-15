@@ -1,0 +1,25 @@
+{
+    "id": 6540,
+    "question": "Braucht es schon jetzt noch härtere Corona-Massnahmen?",
+    "created_at": "2021-01-06T08:13:53+00:00",
+    "updated_at": "2021-06-14T09:38:05+00:00",
+    "end_at": null,
+    "comment_group_id": 1965486,
+    "published_at": "2021-01-07T05:52:11+00:00",
+    "display_name": "",
+    "total": 2188,
+    "answers": [
+        {
+            "id": 15169,
+            "answer": "Ja, Vorsicht ist besser als Nachsicht, die Spitäler sind überlastet.",
+            "votes": 1145,
+            "order": 0
+        },
+        {
+            "id": 15170,
+            "answer": "Nein, die Zahlen sinken seit Tagen, jetzt nur nichts überstürzen.",
+            "votes": 1043,
+            "order": 1
+        }
+    ]
+}

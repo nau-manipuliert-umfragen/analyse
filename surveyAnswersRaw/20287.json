@@ -1,0 +1,25 @@
+{
+    "id": 8911,
+    "question": "Sind Sie ein Bobo-Fan?",
+    "created_at": "2021-04-21T12:57:38+00:00",
+    "updated_at": "2021-06-14T10:26:27+00:00",
+    "end_at": null,
+    "comment_group_id": 2117640,
+    "published_at": "2021-04-21T14:30:12+00:00",
+    "display_name": "",
+    "total": 483,
+    "answers": [
+        {
+            "id": 20287,
+            "answer": "Ja, what a Feeeeling ...",
+            "votes": 231,
+            "order": 0
+        },
+        {
+            "id": 20288,
+            "answer": "Nein.",
+            "votes": 252,
+            "order": 1
+        }
+    ]
+}

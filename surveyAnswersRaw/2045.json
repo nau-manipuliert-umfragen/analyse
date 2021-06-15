@@ -1,0 +1,25 @@
+{
+    "id": 740,
+    "question": "Macht YB gegen Luzern alles klar?",
+    "created_at": "2018-04-22T16:21:15+00:00",
+    "updated_at": "2021-06-14T09:34:04+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 154,
+    "answers": [
+        {
+            "id": 2042,
+            "answer": "Ja, am Samstag ist es soweit.",
+            "votes": 120,
+            "order": 100
+        },
+        {
+            "id": 2045,
+            "answer": "Nein, Luzern ist gut in Form und wird YB die Meister-Suppe versalzen.",
+            "votes": 34,
+            "order": 100
+        }
+    ]
+}

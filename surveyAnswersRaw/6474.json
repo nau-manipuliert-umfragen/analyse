@@ -1,0 +1,25 @@
+{
+    "id": 2578,
+    "question": "Haben Sie Verständnis für die wilde Party der ManCity-Stars?",
+    "created_at": "2020-01-16T07:08:14+00:00",
+    "updated_at": "2021-06-14T10:21:25+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 529,
+    "answers": [
+        {
+            "id": 6474,
+            "answer": "Ja, wer es sich leisten kann, darf auch mal auf den Putz hauen",
+            "votes": 204,
+            "order": 0
+        },
+        {
+            "id": 6473,
+            "answer": "Nein, sie sind Top-Sportler und sollten sich auch so verhalten",
+            "votes": 325,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 5846,
+    "question": "Haben Meghan und Harry absichtlich die Queen nachgeahmt?",
+    "created_at": "2020-10-24T16:12:57+00:00",
+    "updated_at": "2021-06-14T09:37:31+00:00",
+    "end_at": null,
+    "comment_group_id": 1866316,
+    "published_at": "2020-10-25T08:04:35+00:00",
+    "display_name": "",
+    "total": 731,
+    "answers": [
+        {
+            "id": 13621,
+            "answer": "Nein, purer Zufall.",
+            "votes": 229,
+            "order": 0
+        },
+        {
+            "id": 13620,
+            "answer": "Ja, alles ist berechnet.",
+            "votes": 502,
+            "order": 1
+        }
+    ]
+}

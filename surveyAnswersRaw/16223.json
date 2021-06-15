@@ -1,0 +1,25 @@
+{
+    "id": 7024,
+    "question": "Denken Sie, die Impfstoffe von Curevac und Novavax werden zeitgerecht ausgeliefert?",
+    "created_at": "2021-02-04T08:54:05+00:00",
+    "updated_at": "2021-02-05T08:10:18+00:00",
+    "end_at": "2021-02-05T08:53:58+00:00",
+    "comment_group_id": 2007081,
+    "published_at": "2021-02-04T18:02:13+00:00",
+    "display_name": "",
+    "total": 408,
+    "answers": [
+        {
+            "id": 16223,
+            "answer": "Nein, es kommt bestimmt wieder zu Verzögerungen.",
+            "votes": 250,
+            "order": 0
+        },
+        {
+            "id": 16222,
+            "answer": "Ich bin da optimistisch.",
+            "votes": 158,
+            "order": 1
+        }
+    ]
+}

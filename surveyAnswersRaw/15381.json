@@ -1,0 +1,25 @@
+{
+    "id": 6640,
+    "question": "Was halten Sie von Mourinhos Reaktion auf Özils Seitenhieb?",
+    "created_at": "2021-01-13T13:40:08+00:00",
+    "updated_at": "2021-06-14T09:38:09+00:00",
+    "end_at": null,
+    "comment_group_id": 1975648,
+    "published_at": "2021-01-14T18:57:44+00:00",
+    "display_name": "",
+    "total": 182,
+    "answers": [
+        {
+            "id": 15382,
+            "answer": "Das kann nur «The Special One»!",
+            "votes": 125,
+            "order": 0
+        },
+        {
+            "id": 15381,
+            "answer": "Unnötige Provokation.",
+            "votes": 57,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 5569,
+    "question": "Sollte die SVP erneut Initiativen im Bereich EU und Zuwanderung lancieren?",
+    "created_at": "2020-09-28T08:12:50+00:00",
+    "updated_at": "2021-06-14T10:23:44+00:00",
+    "end_at": null,
+    "comment_group_id": 1822999,
+    "published_at": "2020-09-29T04:50:34+00:00",
+    "display_name": "",
+    "total": 2117,
+    "answers": [
+        {
+            "id": 13016,
+            "answer": "Ja, das ist bitter nötig.",
+            "votes": 1100,
+            "order": 0
+        },
+        {
+            "id": 13015,
+            "answer": "Nein, es reicht jetzt.",
+            "votes": 1017,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 7951,
+    "question": "Würden Sie nach der Hochzeit den Nachnamen Ihres Partners annehmen?",
+    "created_at": "2021-03-12T13:41:42+00:00",
+    "updated_at": "2021-06-14T09:39:13+00:00",
+    "end_at": null,
+    "comment_group_id": 2059999,
+    "published_at": "2021-03-13T08:06:49+00:00",
+    "display_name": "",
+    "total": 1231,
+    "answers": [
+        {
+            "id": 18278,
+            "answer": "Ja, der schönste Liebesbeweis.",
+            "votes": 748,
+            "order": 0
+        },
+        {
+            "id": 18277,
+            "answer": "Nein, meiner gefällt mir besser.",
+            "votes": 483,
+            "order": 1
+        }
+    ]
+}

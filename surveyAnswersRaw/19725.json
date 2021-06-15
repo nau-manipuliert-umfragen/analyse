@@ -1,0 +1,25 @@
+{
+    "id": 8644,
+    "question": "Kehrt Marc Márquez nach seiner Verletzungspause wieder an die Spitze zurück?",
+    "created_at": "2021-04-10T07:36:07+00:00",
+    "updated_at": "2021-06-14T10:26:15+00:00",
+    "end_at": null,
+    "comment_group_id": 2101105,
+    "published_at": "2021-04-10T07:43:07+00:00",
+    "display_name": "",
+    "total": 200,
+    "answers": [
+        {
+            "id": 19724,
+            "answer": "Ja",
+            "votes": 129,
+            "order": 0
+        },
+        {
+            "id": 19725,
+            "answer": "Nein",
+            "votes": 71,
+            "order": 1
+        }
+    ]
+}

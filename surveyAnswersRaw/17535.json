@@ -1,0 +1,37 @@
+{
+    "id": 7605,
+    "question": "«Impfverweigerern droht Kündigung» – was denken Sie dazu?",
+    "created_at": "2021-02-26T09:36:13+00:00",
+    "updated_at": "2021-06-09T06:39:18+00:00",
+    "end_at": "2021-06-10T08:35:00+00:00",
+    "comment_group_id": 2039148,
+    "published_at": "2021-02-26T14:36:09+00:00",
+    "display_name": "",
+    "total": 3208,
+    "answers": [
+        {
+            "id": 17534,
+            "answer": "Gut so.",
+            "votes": 232,
+            "order": 0
+        },
+        {
+            "id": 17532,
+            "answer": "Geht gar nicht.",
+            "votes": 2738,
+            "order": 1
+        },
+        {
+            "id": 17535,
+            "answer": "Ich weiss es nicht.",
+            "votes": 57,
+            "order": 2
+        },
+        {
+            "id": 17533,
+            "answer": "Ich will nur das Voting-Resultat sehen.",
+            "votes": 181,
+            "order": 3
+        }
+    ]
+}

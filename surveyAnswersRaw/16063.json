@@ -1,0 +1,25 @@
+{
+    "id": 6954,
+    "question": "Ruf ihr Chef auch jede Minute ihren Namen?",
+    "created_at": "2021-02-01T14:11:42+00:00",
+    "updated_at": "2021-06-14T09:38:22+00:00",
+    "end_at": null,
+    "comment_group_id": 2002690,
+    "published_at": null,
+    "display_name": "",
+    "total": 42,
+    "answers": [
+        {
+            "id": 16064,
+            "answer": "Ja, aber ich schalte auf Göschenen-Airolo!",
+            "votes": 21,
+            "order": 0
+        },
+        {
+            "id": 16063,
+            "answer": "Nein, kein Schwein ruft mich an.",
+            "votes": 21,
+            "order": 1
+        }
+    ]
+}

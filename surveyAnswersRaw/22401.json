@@ -1,0 +1,25 @@
+{
+    "id": 9887,
+    "question": "Wie stimmen Sie bei der Pestizid-Initiative ab?",
+    "created_at": "2021-06-05T02:12:49+00:00",
+    "updated_at": "2021-06-14T09:41:00+00:00",
+    "end_at": null,
+    "comment_group_id": 2191620,
+    "published_at": "2021-06-05T02:58:54+00:00",
+    "display_name": "",
+    "total": 6982,
+    "answers": [
+        {
+            "id": 22401,
+            "answer": "Mit Ja.",
+            "votes": 3298,
+            "order": 0
+        },
+        {
+            "id": 22400,
+            "answer": "Mit Nein.",
+            "votes": 3684,
+            "order": 1
+        }
+    ]
+}

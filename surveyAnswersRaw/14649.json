@@ -1,0 +1,25 @@
+{
+    "id": 6305,
+    "question": "Kann YB in der Europa League noch weiter kommen?",
+    "created_at": "2020-12-13T13:03:10+00:00",
+    "updated_at": "2021-06-14T09:37:56+00:00",
+    "end_at": null,
+    "comment_group_id": 1938422,
+    "published_at": "2021-02-21T20:20:59+00:00",
+    "display_name": "",
+    "total": 405,
+    "answers": [
+        {
+            "id": 14650,
+            "answer": "Ja klar, je nach Gegner ist das möglich!",
+            "votes": 283,
+            "order": 0
+        },
+        {
+            "id": 14649,
+            "answer": "Nein, in der nächsten Runde ist Schluss.",
+            "votes": 122,
+            "order": 1
+        }
+    ]
+}

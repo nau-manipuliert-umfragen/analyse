@@ -1,0 +1,25 @@
+{
+    "id": 7206,
+    "question": "Schwärmen Sie auch insgeheim für Bill Clinton?",
+    "created_at": "2021-02-11T14:05:38+00:00",
+    "updated_at": "2021-06-14T09:38:36+00:00",
+    "end_at": null,
+    "comment_group_id": 2017653,
+    "published_at": "2021-02-13T18:35:06+00:00",
+    "display_name": "",
+    "total": 258,
+    "answers": [
+        {
+            "id": 16633,
+            "answer": "Ja, er ist eine Augenweide.",
+            "votes": 96,
+            "order": 0
+        },
+        {
+            "id": 16634,
+            "answer": "Eher weniger.",
+            "votes": 162,
+            "order": 1
+        }
+    ]
+}

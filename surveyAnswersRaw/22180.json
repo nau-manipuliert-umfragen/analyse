@@ -1,0 +1,25 @@
+{
+    "id": 9785,
+    "question": "Verstehen Sie die Forderung von Pietro Lombardi?",
+    "created_at": "2021-06-01T06:17:30+00:00",
+    "updated_at": "2021-06-14T10:27:08+00:00",
+    "end_at": null,
+    "comment_group_id": 2184700,
+    "published_at": "2021-06-01T07:34:11+00:00",
+    "display_name": "",
+    "total": 815,
+    "answers": [
+        {
+            "id": 22180,
+            "answer": "Na klar, hätte ich auch so gemacht.",
+            "votes": 734,
+            "order": 0
+        },
+        {
+            "id": 22179,
+            "answer": "Naja, ist etwas spitzfindig.",
+            "votes": 81,
+            "order": 1
+        }
+    ]
+}

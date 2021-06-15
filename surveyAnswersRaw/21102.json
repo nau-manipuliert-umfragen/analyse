@@ -1,0 +1,25 @@
+{
+    "id": 9290,
+    "question": "Wer ist der bessere Schauspieler?",
+    "created_at": "2021-05-07T12:19:26+00:00",
+    "updated_at": "2021-06-14T09:40:26+00:00",
+    "end_at": null,
+    "comment_group_id": 2146645,
+    "published_at": "2021-05-07T17:01:52+00:00",
+    "display_name": "",
+    "total": 593,
+    "answers": [
+        {
+            "id": 21101,
+            "answer": "Carmen Geiss!",
+            "votes": 207,
+            "order": 0
+        },
+        {
+            "id": 21102,
+            "answer": "Handwerker Herbert!",
+            "votes": 386,
+            "order": 1
+        }
+    ]
+}

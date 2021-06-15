@@ -1,0 +1,25 @@
+{
+    "id": 8530,
+    "question": "Kehrt Ana Ivanovic auf die Tennis-Tour zurück?",
+    "created_at": "2021-04-05T13:28:35+00:00",
+    "updated_at": "2021-06-14T09:39:43+00:00",
+    "end_at": null,
+    "comment_group_id": 2093251,
+    "published_at": "2021-04-05T13:43:36+00:00",
+    "display_name": "",
+    "total": 125,
+    "answers": [
+        {
+            "id": 19485,
+            "answer": "Ja, bald folgt das Hammer-Comeback!",
+            "votes": 35,
+            "order": 0
+        },
+        {
+            "id": 19486,
+            "answer": "Nein, es bleibt beim Gerücht.",
+            "votes": 90,
+            "order": 1
+        }
+    ]
+}

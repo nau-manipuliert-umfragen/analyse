@@ -1,0 +1,31 @@
+{
+    "id": 7148,
+    "question": "Kaufen Sie in den Onlineshops der Fachhändler oder Warenhäuser ein?",
+    "created_at": "2021-02-09T15:12:10+00:00",
+    "updated_at": "2021-02-14T10:59:32+00:00",
+    "end_at": "2021-02-10T15:12:06+00:00",
+    "comment_group_id": 2014469,
+    "published_at": "2021-02-14T10:59:30+00:00",
+    "display_name": "",
+    "total": 60,
+    "answers": [
+        {
+            "id": 16505,
+            "answer": "Ja, ich bleibe meinen Läden auch online treu.",
+            "votes": 20,
+            "order": 0
+        },
+        {
+            "id": 16504,
+            "answer": "Nein, ich kaufe online bei den grossen Webshops.",
+            "votes": 20,
+            "order": 1
+        },
+        {
+            "id": 16506,
+            "answer": "Trotz Corona-Krise kaufe ich nicht im Netz ein.",
+            "votes": 20,
+            "order": 2
+        }
+    ]
+}

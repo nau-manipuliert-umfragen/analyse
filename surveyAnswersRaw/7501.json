@@ -1,0 +1,25 @@
+{
+    "id": 3045,
+    "question": "Was halten Sie davon, dass jetzt auch Luca Hännis Freundin offiziell Musik macht?",
+    "created_at": "2020-02-17T09:33:13+00:00",
+    "updated_at": "2021-06-14T09:35:34+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 218,
+    "answers": [
+        {
+            "id": 7502,
+            "answer": "Puh, da hat er sich die eigene Konkurrenz gross gezogen.",
+            "votes": 73,
+            "order": 0
+        },
+        {
+            "id": 7501,
+            "answer": "Ist doch super. Die beiden lieben sich und machen nun auch noch Musik.",
+            "votes": 145,
+            "order": 1
+        }
+    ]
+}

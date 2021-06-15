@@ -1,0 +1,25 @@
+{
+    "id": 3980,
+    "question": "Sollte Gareth Bale bei Real Madrid bleiben?",
+    "created_at": "2020-04-23T09:09:01+00:00",
+    "updated_at": "2021-06-14T09:36:13+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 101,
+    "answers": [
+        {
+            "id": 9531,
+            "answer": "Ja, bei den Königlichen kann er jedes Jahr um grosse Titel spielen.",
+            "votes": 54,
+            "order": 0
+        },
+        {
+            "id": 9532,
+            "answer": "Nein, der Waliser sollte sich nach einem neuen Klub umschauen.",
+            "votes": 47,
+            "order": 1
+        }
+    ]
+}

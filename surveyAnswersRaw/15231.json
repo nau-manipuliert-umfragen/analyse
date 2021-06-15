@@ -1,0 +1,25 @@
+{
+    "id": 6569,
+    "question": "Vorausgesetzt, Sie hätten das Geld dazu, würden Sie sich den Luxus gönnen?",
+    "created_at": "2021-01-08T07:39:45+00:00",
+    "updated_at": "2021-06-14T10:24:33+00:00",
+    "end_at": null,
+    "comment_group_id": 1968512,
+    "published_at": "2021-01-08T07:46:21+00:00",
+    "display_name": "",
+    "total": 198,
+    "answers": [
+        {
+            "id": 15230,
+            "answer": "Nein. Einen so grossen TV benötigt niemand. Reine Dekadenz und Geldverschwendung!",
+            "votes": 80,
+            "order": 0
+        },
+        {
+            "id": 15231,
+            "answer": "Klar! Wenn es das Portemonnaie erlauben würde, gerne!",
+            "votes": 118,
+            "order": 1
+        }
+    ]
+}

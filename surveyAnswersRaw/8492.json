@@ -1,0 +1,25 @@
+{
+    "id": 3491,
+    "question": "Sollte sich Xherdan Shaqiri im Sommer einen neuen Verein suchen?",
+    "created_at": "2020-03-17T07:53:24+00:00",
+    "updated_at": "2021-06-14T09:35:53+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 1021,
+    "answers": [
+        {
+            "id": 8493,
+            "answer": "Ja, Shaqiri braucht mehr Spielzeit und diese wird er bei einem neuen Club bekommen.",
+            "votes": 763,
+            "order": 0
+        },
+        {
+            "id": 8492,
+            "answer": "Nein, er sollte bei Liverpool bleiben und um seinen Platz kämpfen.",
+            "votes": 258,
+            "order": 1
+        }
+    ]
+}

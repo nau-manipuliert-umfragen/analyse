@@ -1,0 +1,25 @@
+{
+    "id": 9841,
+    "question": "Schafft Schalke sofort den Wiederaufstieg?",
+    "created_at": "2021-06-03T01:55:44+00:00",
+    "updated_at": "2021-06-14T09:40:58+00:00",
+    "end_at": null,
+    "comment_group_id": 2188283,
+    "published_at": "2021-06-03T02:57:55+00:00",
+    "display_name": "",
+    "total": 170,
+    "answers": [
+        {
+            "id": 22296,
+            "answer": "Ja.",
+            "votes": 42,
+            "order": 0
+        },
+        {
+            "id": 22297,
+            "answer": "Nein.",
+            "votes": 128,
+            "order": 1
+        }
+    ]
+}

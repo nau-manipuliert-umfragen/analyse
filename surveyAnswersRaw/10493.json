@@ -1,0 +1,25 @@
+{
+    "id": 4418,
+    "question": "Was halten Sie vom Video-Ausraster von Hans-Joachim Meyer?",
+    "created_at": "2020-05-31T13:00:49+00:00",
+    "updated_at": "2021-06-14T09:36:34+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 105,
+    "answers": [
+        {
+            "id": 10492,
+            "answer": "Das geht gar nicht!",
+            "votes": 67,
+            "order": 0
+        },
+        {
+            "id": 10493,
+            "answer": "Halb so schlimm. Er meinte das ja nicht ernst",
+            "votes": 38,
+            "order": 1
+        }
+    ]
+}

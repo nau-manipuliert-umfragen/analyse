@@ -1,0 +1,31 @@
+{
+    "id": 2359,
+    "question": "Finden Sie es daneben, dass die Migros anhand von Cumulus-Daten ihr Angebot personalisieren will?",
+    "created_at": "2019-03-14T08:47:38+00:00",
+    "updated_at": "2021-06-14T10:21:13+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 103,
+    "answers": [
+        {
+            "id": 5952,
+            "answer": "Jein",
+            "votes": 27,
+            "order": 100
+        },
+        {
+            "id": 5953,
+            "answer": "Ja",
+            "votes": 41,
+            "order": 100
+        },
+        {
+            "id": 5954,
+            "answer": "Nein",
+            "votes": 35,
+            "order": 100
+        }
+    ]
+}

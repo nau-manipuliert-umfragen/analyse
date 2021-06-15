@@ -1,0 +1,25 @@
+{
+    "id": 9305,
+    "question": "Kann Neymar mit PSG die Champions League gewinnen?",
+    "created_at": "2021-05-08T13:13:43+00:00",
+    "updated_at": "2021-06-14T09:40:26+00:00",
+    "end_at": null,
+    "comment_group_id": 2147910,
+    "published_at": "2021-05-08T13:15:49+00:00",
+    "display_name": "",
+    "total": 81,
+    "answers": [
+        {
+            "id": 21135,
+            "answer": "Ja",
+            "votes": 40,
+            "order": 0
+        },
+        {
+            "id": 21136,
+            "answer": "Nein",
+            "votes": 41,
+            "order": 1
+        }
+    ]
+}

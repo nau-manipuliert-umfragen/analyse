@@ -1,0 +1,25 @@
+{
+    "id": 3278,
+    "question": "Finden Sie den Entscheid von Borussia Dortmund zu voreilig?",
+    "created_at": "2020-03-03T16:06:04+00:00",
+    "updated_at": "2020-03-03T16:06:05+00:00",
+    "end_at": "2020-03-03T16:05:58+00:00",
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 40,
+    "answers": [
+        {
+            "id": 8029,
+            "answer": "Ja",
+            "votes": 20,
+            "order": 0
+        },
+        {
+            "id": 8030,
+            "answer": "Nein",
+            "votes": 20,
+            "order": 1
+        }
+    ]
+}

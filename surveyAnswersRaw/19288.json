@@ -1,0 +1,25 @@
+{
+    "id": 8433,
+    "question": "Hat Yuki Tsunoda das Zeug zum künftigen Formel-1-Weltmeister?",
+    "created_at": "2021-03-31T07:39:27+00:00",
+    "updated_at": "2021-06-14T09:39:38+00:00",
+    "end_at": null,
+    "comment_group_id": 2086978,
+    "published_at": "2021-03-31T16:20:24+00:00",
+    "display_name": "",
+    "total": 230,
+    "answers": [
+        {
+            "id": 19287,
+            "answer": "Ja, das könnte ein ganz Grosser des Sports werden!",
+            "votes": 176,
+            "order": 0
+        },
+        {
+            "id": 19288,
+            "answer": "Nein, dafür wird es nicht reichen.",
+            "votes": 54,
+            "order": 1
+        }
+    ]
+}

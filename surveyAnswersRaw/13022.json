@@ -1,0 +1,25 @@
+{
+    "id": 5572,
+    "question": "Finden Sie es gut, wenn sich Harry und Meghan zu den US-Wahlen äussern?",
+    "created_at": "2020-09-28T11:36:27+00:00",
+    "updated_at": "2021-06-14T09:37:19+00:00",
+    "end_at": null,
+    "comment_group_id": 1823498,
+    "published_at": "2020-09-28T16:44:52+00:00",
+    "display_name": "",
+    "total": 647,
+    "answers": [
+        {
+            "id": 13022,
+            "answer": "Ja, in einer Demokratie darf jeder seine Meinung kundtun.",
+            "votes": 200,
+            "order": 0
+        },
+        {
+            "id": 13021,
+            "answer": "Nein, die beiden verstossen so gegen die Regeln der britischen Monarchie.",
+            "votes": 447,
+            "order": 1
+        }
+    ]
+}

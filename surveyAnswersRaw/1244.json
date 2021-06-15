@@ -1,0 +1,25 @@
+{
+    "id": 431,
+    "question": "Wird Roger Federer heute die neue Nummer eins?",
+    "created_at": "2018-02-16T09:05:21+00:00",
+    "updated_at": "2021-06-14T09:33:54+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 87,
+    "answers": [
+        {
+            "id": 1241,
+            "answer": "Ja, er macht den Sack zu.",
+            "votes": 65,
+            "order": 100
+        },
+        {
+            "id": 1244,
+            "answer": "Nein, wir müssen noch warten ...",
+            "votes": 22,
+            "order": 100
+        }
+    ]
+}

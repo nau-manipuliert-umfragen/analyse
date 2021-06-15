@@ -1,0 +1,25 @@
+{
+    "id": 2834,
+    "question": "Ist das Interviewverbot die richtige Methode?",
+    "created_at": "2020-02-04T13:18:44+00:00",
+    "updated_at": "2021-06-14T09:35:23+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 93,
+    "answers": [
+        {
+            "id": 7036,
+            "answer": "Ja, ein so junger Spieler muss geschützt werden.",
+            "votes": 49,
+            "order": 0
+        },
+        {
+            "id": 7037,
+            "answer": "Nein, der sollte auch Interviews geben dürfen.",
+            "votes": 44,
+            "order": 1
+        }
+    ]
+}

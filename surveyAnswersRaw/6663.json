@@ -1,0 +1,25 @@
+{
+    "id": 2663,
+    "question": "Könnte Thun mit Hediger den Abstieg abwenden?",
+    "created_at": "2020-01-22T12:34:47+00:00",
+    "updated_at": "2021-06-14T09:35:14+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 203,
+    "answers": [
+        {
+            "id": 6663,
+            "answer": "Natürlich, das würde dem Team enormen Auftrieb geben.",
+            "votes": 134,
+            "order": 0
+        },
+        {
+            "id": 6664,
+            "answer": "Nein, ein Mann alleine kann dies nicht schaffen.",
+            "votes": 69,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 4008,
+    "question": "Barça verkauft die Rechte am Stadionnamen – was halten Sie davon?",
+    "created_at": "2020-04-25T13:13:49+00:00",
+    "updated_at": "2021-06-14T09:36:15+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 211,
+    "answers": [
+        {
+            "id": 9597,
+            "answer": "Tolle Idee! Schliesslich wird das Geld für gute Zwecke verwendet.",
+            "votes": 105,
+            "order": 0
+        },
+        {
+            "id": 9596,
+            "answer": "Der Name «Camp Nou» fehlt mir schon jetzt...",
+            "votes": 106,
+            "order": 1
+        }
+    ]
+}

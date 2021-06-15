@@ -1,0 +1,25 @@
+{
+    "id": 3963,
+    "question": "Bringt das neue Trainerduo die Österreicher wieder an die Spitze?",
+    "created_at": "2020-04-21T18:27:05+00:00",
+    "updated_at": "2020-04-21T18:27:05+00:00",
+    "end_at": "2020-04-21T18:26:57+00:00",
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 40,
+    "answers": [
+        {
+            "id": 9497,
+            "answer": "Ja",
+            "votes": 20,
+            "order": 0
+        },
+        {
+            "id": 9498,
+            "answer": "Nein",
+            "votes": 20,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "id": 9859,
+    "question": "Wie weit kommt die Schweiz an der EM?",
+    "created_at": "2021-06-03T18:21:30+00:00",
+    "updated_at": "2021-06-14T09:40:59+00:00",
+    "end_at": null,
+    "comment_group_id": 2189635,
+    "published_at": "2021-06-09T14:14:13+00:00",
+    "display_name": "",
+    "total": 698,
+    "answers": [
+        {
+            "id": 22336,
+            "answer": "Gruppenphase",
+            "votes": 287,
+            "order": 0
+        },
+        {
+            "id": 22337,
+            "answer": "Achtelfinal",
+            "votes": 153,
+            "order": 1
+        },
+        {
+            "id": 22338,
+            "answer": "Viertelfinal",
+            "votes": 118,
+            "order": 2
+        },
+        {
+            "id": 22340,
+            "answer": "Halbfinal",
+            "votes": 44,
+            "order": 3
+        },
+        {
+            "id": 22339,
+            "answer": "Final",
+            "votes": 33,
+            "order": 4
+        },
+        {
+            "id": 22341,
+            "answer": "Turniersieg",
+            "votes": 63,
+            "order": 5
+        }
+    ]
+}

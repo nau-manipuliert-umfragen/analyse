@@ -1,0 +1,31 @@
+{
+    "id": 1729,
+    "question": "Bringt Marcel Koller die Mannschaft wieder auf Kurs?",
+    "created_at": "2018-08-02T04:54:56+00:00",
+    "updated_at": "2021-06-14T09:34:36+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 304,
+    "answers": [
+        {
+            "id": 4540,
+            "answer": "Nein, dazu fehlt ihm die Qualität.",
+            "votes": 67,
+            "order": 100
+        },
+        {
+            "id": 4543,
+            "answer": "Nur, wenn die Mannschaft sich markant verstärkt.",
+            "votes": 167,
+            "order": 100
+        },
+        {
+            "id": 4546,
+            "answer": "Ja, Koller bringt den Erfolg zurück in das bestehende Team.",
+            "votes": 70,
+            "order": 100
+        }
+    ]
+}

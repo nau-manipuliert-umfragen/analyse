@@ -1,0 +1,25 @@
+{
+    "id": 7350,
+    "question": "Schafft der FC Barcelona nach dem 1:4 gegen Paris Saint-Germain noch die Wende?",
+    "created_at": "2021-02-16T22:30:38+00:00",
+    "updated_at": "2021-06-14T09:38:43+00:00",
+    "end_at": null,
+    "comment_group_id": 2025276,
+    "published_at": "2021-02-17T06:57:15+00:00",
+    "display_name": "",
+    "total": 181,
+    "answers": [
+        {
+            "id": 16961,
+            "answer": "Ja, das drehen sie im Rückspiel noch!",
+            "votes": 38,
+            "order": 0
+        },
+        {
+            "id": 16962,
+            "answer": "Nein, das schafft Barça nicht mehr.",
+            "votes": 143,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 5402,
+    "question": "Befürworten Sie die Erhöhung des allgemeinen Kinderabzugs?",
+    "created_at": "2020-09-09T13:23:45+00:00",
+    "updated_at": "2021-06-14T09:37:12+00:00",
+    "end_at": null,
+    "comment_group_id": 1791753,
+    "published_at": "2020-09-10T05:17:54+00:00",
+    "display_name": "",
+    "total": 477,
+    "answers": [
+        {
+            "id": 12647,
+            "answer": "Ja, so werden viele Familien in der Schweiz entlastet.",
+            "votes": 122,
+            "order": 0
+        },
+        {
+            "id": 12646,
+            "answer": "Nein, davon profitieren nur reiche Familien.",
+            "votes": 355,
+            "order": 1
+        }
+    ]
+}

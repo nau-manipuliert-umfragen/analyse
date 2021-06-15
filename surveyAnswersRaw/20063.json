@@ -1,0 +1,25 @@
+{
+    "id": 8806,
+    "question": "Haben Sie Verständnis dafür, dass ohne Bewilligung demonstriert wird?",
+    "created_at": "2021-04-17T09:21:09+00:00",
+    "updated_at": "2021-06-14T09:39:58+00:00",
+    "end_at": null,
+    "comment_group_id": 2111358,
+    "published_at": "2021-04-17T11:18:14+00:00",
+    "display_name": "",
+    "total": 7705,
+    "answers": [
+        {
+            "id": 20063,
+            "answer": "Ja.",
+            "votes": 5059,
+            "order": 0
+        },
+        {
+            "id": 20064,
+            "answer": "Nein.",
+            "votes": 2646,
+            "order": 1
+        }
+    ]
+}

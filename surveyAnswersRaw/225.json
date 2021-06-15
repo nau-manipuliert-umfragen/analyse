@@ -1,0 +1,43 @@
+{
+    "id": 75,
+    "question": "Zu wem soll Mark Streit wechseln?",
+    "created_at": "2017-10-13T09:14:18+00:00",
+    "updated_at": "2021-06-14T10:19:46+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 114,
+    "answers": [
+        {
+            "id": 215,
+            "answer": "Washington Capitals",
+            "votes": 23,
+            "order": 100
+        },
+        {
+            "id": 217,
+            "answer": "ZSC Lions",
+            "votes": 24,
+            "order": 100
+        },
+        {
+            "id": 222,
+            "answer": "SC Bern",
+            "votes": 23,
+            "order": 100
+        },
+        {
+            "id": 225,
+            "answer": "Colorado Avalanche",
+            "votes": 22,
+            "order": 100
+        },
+        {
+            "id": 226,
+            "answer": "Detroit Red Wings",
+            "votes": 22,
+            "order": 100
+        }
+    ]
+}

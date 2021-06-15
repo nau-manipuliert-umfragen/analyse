@@ -1,0 +1,25 @@
+{
+    "id": 8100,
+    "question": "Freuen Sie sich auf den Saudi-Arabien-GP?",
+    "created_at": "2021-03-18T09:47:04+00:00",
+    "updated_at": "2021-06-14T09:39:21+00:00",
+    "end_at": null,
+    "comment_group_id": 2068241,
+    "published_at": "2021-03-18T11:38:03+00:00",
+    "display_name": "",
+    "total": 289,
+    "answers": [
+        {
+            "id": 18586,
+            "answer": "Ja, das sieht nach einer tollen Strecke aus!",
+            "votes": 96,
+            "order": 0
+        },
+        {
+            "id": 18585,
+            "answer": "Nein, in so einem Land sollte die Formel 1 nicht fahren.",
+            "votes": 193,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 5583,
+    "question": "Soll der FC Luzern den Lohn von Margiotta erhöhen?",
+    "created_at": "2020-09-29T12:02:15+00:00",
+    "updated_at": "2021-06-14T09:37:19+00:00",
+    "end_at": null,
+    "comment_group_id": 1825260,
+    "published_at": "2020-09-29T17:18:25+00:00",
+    "display_name": "",
+    "total": 697,
+    "answers": [
+        {
+            "id": 13044,
+            "answer": "Ja, er ist das Geld wert!",
+            "votes": 222,
+            "order": 0
+        },
+        {
+            "id": 13045,
+            "answer": "Nein, sicher nicht.",
+            "votes": 475,
+            "order": 1
+        }
+    ]
+}

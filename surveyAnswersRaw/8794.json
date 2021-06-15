@@ -1,0 +1,31 @@
+{
+    "id": 3635,
+    "question": "Auf welcher Position sehen Sie Renato Steffen am liebsten im Einsatz?",
+    "created_at": "2020-03-27T09:41:41+00:00",
+    "updated_at": "2021-06-14T09:35:59+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 107,
+    "answers": [
+        {
+            "id": 8794,
+            "answer": "In der Abwehr",
+            "votes": 26,
+            "order": 0
+        },
+        {
+            "id": 8795,
+            "answer": "Im Angriff",
+            "votes": 41,
+            "order": 1
+        },
+        {
+            "id": 8796,
+            "answer": "Spielt keine Rolle. Hauptsache er kann spielen",
+            "votes": 40,
+            "order": 2
+        }
+    ]
+}

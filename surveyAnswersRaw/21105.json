@@ -1,0 +1,31 @@
+{
+    "id": 9291,
+    "question": "Wer gewinnt das Prestige-Duell?",
+    "created_at": "2021-05-07T12:35:05+00:00",
+    "updated_at": "2021-06-14T09:40:26+00:00",
+    "end_at": null,
+    "comment_group_id": 2146694,
+    "published_at": "2021-05-08T12:12:19+00:00",
+    "display_name": "",
+    "total": 331,
+    "answers": [
+        {
+            "id": 21104,
+            "answer": "YB.",
+            "votes": 172,
+            "order": 0
+        },
+        {
+            "id": 21105,
+            "answer": "FCB.",
+            "votes": 108,
+            "order": 1
+        },
+        {
+            "id": 21103,
+            "answer": "Unentschieden.",
+            "votes": 51,
+            "order": 2
+        }
+    ]
+}

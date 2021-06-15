@@ -1,0 +1,25 @@
+{
+    "id": 6588,
+    "question": "Was halten Sie von Michael Wendlers geplantem Nachrichtendienst?",
+    "created_at": "2021-01-10T09:13:27+00:00",
+    "updated_at": "2021-06-14T09:38:07+00:00",
+    "end_at": null,
+    "comment_group_id": 1970608,
+    "published_at": "2021-01-10T11:42:58+00:00",
+    "display_name": "",
+    "total": 709,
+    "answers": [
+        {
+            "id": 15268,
+            "answer": "Eine Bereicherung für die Medienlandschaft!",
+            "votes": 98,
+            "order": 0
+        },
+        {
+            "id": 15267,
+            "answer": "Darauf hat kein Mensch gewartet!",
+            "votes": 611,
+            "order": 1
+        }
+    ]
+}

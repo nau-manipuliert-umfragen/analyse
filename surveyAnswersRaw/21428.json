@@ -1,0 +1,25 @@
+{
+    "id": 9440,
+    "question": "Gewinnt Nadal das Turnier in Rom?",
+    "created_at": "2021-05-14T12:59:00+00:00",
+    "updated_at": "2021-05-16T19:03:02+00:00",
+    "end_at": "2021-05-17T12:58:00+00:00",
+    "comment_group_id": 2157017,
+    "published_at": "2021-05-14T13:11:01+00:00",
+    "display_name": "",
+    "total": 85,
+    "answers": [
+        {
+            "id": 21428,
+            "answer": "Ja",
+            "votes": 58,
+            "order": 0
+        },
+        {
+            "id": 21427,
+            "answer": "Nein",
+            "votes": 27,
+            "order": 1
+        }
+    ]
+}

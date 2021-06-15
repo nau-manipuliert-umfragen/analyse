@@ -1,0 +1,31 @@
+{
+    "id": 4913,
+    "question": "Mussten Sie Ihre AirPods bereits umtauschen?",
+    "created_at": "2020-07-15T08:26:10+00:00",
+    "updated_at": "2021-06-14T09:36:53+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 179,
+    "answers": [
+        {
+            "id": 11567,
+            "answer": "Ja, leider hatten meine auch technische Probleme.",
+            "votes": 55,
+            "order": 0
+        },
+        {
+            "id": 11566,
+            "answer": "Nein, meine AirPods funktionieren einwandfrei.",
+            "votes": 60,
+            "order": 1
+        },
+        {
+            "id": 11568,
+            "answer": "Ich benutze andere Kopfhörer.",
+            "votes": 64,
+            "order": 2
+        }
+    ]
+}

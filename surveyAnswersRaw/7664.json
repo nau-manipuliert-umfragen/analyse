@@ -1,0 +1,25 @@
+{
+    "id": 3117,
+    "question": "Schafft der HSV mit Bakery Jatta den Aufstieg in die 1. Bundesliga?",
+    "created_at": "2020-02-21T07:18:15+00:00",
+    "updated_at": "2021-06-14T09:35:38+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 96,
+    "answers": [
+        {
+            "id": 7664,
+            "answer": "Ja",
+            "votes": 37,
+            "order": 0
+        },
+        {
+            "id": 7665,
+            "answer": "Nein",
+            "votes": 59,
+            "order": 1
+        }
+    ]
+}

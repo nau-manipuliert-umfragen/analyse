@@ -1,0 +1,25 @@
+{
+    "id": 8328,
+    "question": "Freuen Sie sich schon auf den Sommer?",
+    "created_at": "2021-03-26T12:04:04+00:00",
+    "updated_at": "2021-06-14T09:39:33+00:00",
+    "end_at": null,
+    "comment_group_id": 2080465,
+    "published_at": "2021-03-26T19:30:12+00:00",
+    "display_name": "",
+    "total": 244,
+    "answers": [
+        {
+            "id": 19073,
+            "answer": "Ja, auf der Terrasse lässt sich Corona viel besser aussitzen.",
+            "votes": 199,
+            "order": 0
+        },
+        {
+            "id": 19072,
+            "answer": "Nein, mir ist die dunkle und kalte Jahreszeit lieber.",
+            "votes": 45,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "id": 9078,
+    "question": "Was halten Sie vom Grossveranstaltungs-Entscheid des Bundesrats?",
+    "created_at": "2021-04-28T15:56:43+00:00",
+    "updated_at": "2021-06-14T09:40:15+00:00",
+    "end_at": null,
+    "comment_group_id": 2129927,
+    "published_at": "2021-04-28T16:47:58+00:00",
+    "display_name": "",
+    "total": 1154,
+    "answers": [
+        {
+            "id": 20648,
+            "answer": "Super, 10'000 Fans im September sind angemessen.",
+            "votes": 347,
+            "order": 0
+        },
+        {
+            "id": 20649,
+            "answer": "Ich finde, man hätte noch mehr Zuschauer erlauben sollen.",
+            "votes": 527,
+            "order": 1
+        },
+        {
+            "id": 20650,
+            "answer": "Man hätte noch abwarten sollen...",
+            "votes": 280,
+            "order": 2
+        }
+    ]
+}

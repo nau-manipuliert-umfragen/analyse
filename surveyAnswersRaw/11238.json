@@ -1,0 +1,25 @@
+{
+    "id": 4765,
+    "question": "Kann der FCB noch Meister werden?",
+    "created_at": "2020-06-30T11:02:09+00:00",
+    "updated_at": "2021-06-14T09:36:47+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 232,
+    "answers": [
+        {
+            "id": 11237,
+            "answer": "Ja! Alles ist noch drin",
+            "votes": 125,
+            "order": 0
+        },
+        {
+            "id": 11238,
+            "answer": "Nein! Der Meisterzug ist abgefahren",
+            "votes": 107,
+            "order": 1
+        }
+    ]
+}

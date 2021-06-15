@@ -1,0 +1,25 @@
+{
+    "id": 2832,
+    "question": "Was sagen Sie zu Naddels neuem Job als Masseurin?",
+    "created_at": "2020-02-04T12:41:44+00:00",
+    "updated_at": "2021-06-14T09:35:23+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 154,
+    "answers": [
+        {
+            "id": 7032,
+            "answer": "Spitzenklasse, da würde ich doch glatt mal einen Termin buchen wollen.",
+            "votes": 38,
+            "order": 0
+        },
+        {
+            "id": 7033,
+            "answer": "Mal sehen, wie lange dieses Job-Abenteuer anhält.",
+            "votes": 116,
+            "order": 1
+        }
+    ]
+}

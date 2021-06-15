@@ -1,0 +1,37 @@
+{
+    "id": 7542,
+    "question": "Wer wird Schweizer Meister im Eishockey?",
+    "created_at": "2021-02-23T19:58:56+00:00",
+    "updated_at": "2021-06-14T09:38:51+00:00",
+    "end_at": null,
+    "comment_group_id": 2035302,
+    "published_at": "2021-02-23T20:58:56+00:00",
+    "display_name": "",
+    "total": 168,
+    "answers": [
+        {
+            "id": 17390,
+            "answer": "ZSC Lions",
+            "votes": 35,
+            "order": 0
+        },
+        {
+            "id": 17388,
+            "answer": "EV Zug",
+            "votes": 58,
+            "order": 1
+        },
+        {
+            "id": 17391,
+            "answer": "HC Davos",
+            "votes": 42,
+            "order": 2
+        },
+        {
+            "id": 17389,
+            "answer": "ein anderer Club",
+            "votes": 33,
+            "order": 3
+        }
+    ]
+}

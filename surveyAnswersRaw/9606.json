@@ -1,0 +1,25 @@
+{
+    "id": 4012,
+    "question": "Was halten Sie von dem Nicht-Ehevertrag des Wendlers und seiner Verlobten?",
+    "created_at": "2020-04-26T06:08:09+00:00",
+    "updated_at": "2021-06-14T09:36:15+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 1585,
+    "answers": [
+        {
+            "id": 9606,
+            "answer": "Spitze. Hier siegt eindeutig die Liebe!",
+            "votes": 169,
+            "order": 0
+        },
+        {
+            "id": 9607,
+            "answer": "Leute, schaltet mal euer Gehirn wieder ein. Das kann doch nur schief gehen.",
+            "votes": 1416,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 6070,
+    "question": "Wie gefällt Ihnen der Scherz von Spartak?",
+    "created_at": "2020-11-17T09:05:27+00:00",
+    "updated_at": "2021-06-14T09:37:43+00:00",
+    "end_at": null,
+    "comment_group_id": 1900939,
+    "published_at": "2020-11-17T09:58:49+00:00",
+    "display_name": "",
+    "total": 422,
+    "answers": [
+        {
+            "id": 14116,
+            "answer": "Gut",
+            "votes": 371,
+            "order": 0
+        },
+        {
+            "id": 14115,
+            "answer": "Na ja",
+            "votes": 51,
+            "order": 1
+        }
+    ]
+}

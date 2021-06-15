@@ -1,0 +1,25 @@
+{
+    "id": 5556,
+    "question": "Kann der BVB den Bayern den Titel abjagen?",
+    "created_at": "2020-09-26T15:29:20+00:00",
+    "updated_at": "2021-06-14T09:37:18+00:00",
+    "end_at": null,
+    "comment_group_id": 1820230,
+    "published_at": null,
+    "display_name": "",
+    "total": 166,
+    "answers": [
+        {
+            "id": 12988,
+            "answer": "Nein, keine Chance!",
+            "votes": 121,
+            "order": 0
+        },
+        {
+            "id": 12989,
+            "answer": "Ja, Geduld zahlt sich aus.",
+            "votes": 45,
+            "order": 1
+        }
+    ]
+}

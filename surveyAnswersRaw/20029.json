@@ -1,0 +1,25 @@
+{
+    "id": 8790,
+    "question": "Darf man sich über die Gästeliste einer Beerdigung beschweren?",
+    "created_at": "2021-04-16T08:51:33+00:00",
+    "updated_at": "2021-06-14T09:39:57+00:00",
+    "end_at": null,
+    "comment_group_id": 2109936,
+    "published_at": "2021-04-16T19:31:21+00:00",
+    "display_name": "",
+    "total": 1376,
+    "answers": [
+        {
+            "id": 20028,
+            "answer": "Ja.",
+            "votes": 63,
+            "order": 0
+        },
+        {
+            "id": 20029,
+            "answer": "Nein, das ist Privatsache.",
+            "votes": 1313,
+            "order": 1
+        }
+    ]
+}

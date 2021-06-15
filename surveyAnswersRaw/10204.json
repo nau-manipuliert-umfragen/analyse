@@ -1,0 +1,25 @@
+{
+    "id": 4285,
+    "question": "Finden Sie es richtig, dass die Spieler auf Lohn verzichten?",
+    "created_at": "2020-05-19T10:20:18+00:00",
+    "updated_at": "2021-06-14T09:36:28+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 789,
+    "answers": [
+        {
+            "id": 10204,
+            "answer": "Ja, in dieser Krise ist das ein gutes Zeichen.",
+            "votes": 730,
+            "order": 0
+        },
+        {
+            "id": 10205,
+            "answer": "Nein, der Lohn steht ihnen zu.",
+            "votes": 59,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 6270,
+    "question": "Kann Lindner beim FCB die Nummer 1 werden?",
+    "created_at": "2020-12-08T14:17:27+00:00",
+    "updated_at": "2021-06-14T09:37:54+00:00",
+    "end_at": null,
+    "comment_group_id": 1931912,
+    "published_at": "2020-12-08T16:15:24+00:00",
+    "display_name": "",
+    "total": 129,
+    "answers": [
+        {
+            "id": 14565,
+            "answer": "Ja, er ist zu gut für die Ersatzbank.",
+            "votes": 106,
+            "order": 0
+        },
+        {
+            "id": 14564,
+            "answer": "Nein, an Nikolic gibt es kein Vorbeikommen.",
+            "votes": 23,
+            "order": 1
+        }
+    ]
+}

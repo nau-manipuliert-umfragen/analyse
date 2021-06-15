@@ -1,0 +1,25 @@
+{
+    "id": 3071,
+    "question": "Wird es Zeit, dass OnePlus seine Geräte endlich mit einer IP-Zertifizierung versieht?",
+    "created_at": "2020-02-18T14:22:55+00:00",
+    "updated_at": "2021-06-14T09:35:36+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 56,
+    "answers": [
+        {
+            "id": 7563,
+            "answer": "Ja, OnePlus sollte sich ein Beispiel an der Konkurrenz nehmen.",
+            "votes": 26,
+            "order": 0
+        },
+        {
+            "id": 7562,
+            "answer": "Nein, OnePlus sollte sich das Geld sparen und seine Geräte weiterhin günstiger anbieten.",
+            "votes": 30,
+            "order": 1
+        }
+    ]
+}

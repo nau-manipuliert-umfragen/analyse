@@ -1,0 +1,25 @@
+{
+    "id": 1878,
+    "question": "Wird sich «Prime News» behaupten?",
+    "created_at": "2018-08-27T06:46:19+00:00",
+    "updated_at": "2021-06-14T09:34:40+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 86,
+    "answers": [
+        {
+            "id": 4863,
+            "answer": "Nein, das wird nicht funktionieren - Basel ist schon gut abgedeckt.",
+            "votes": 44,
+            "order": 100
+        },
+        {
+            "id": 4866,
+            "answer": "Ja, das Projekt klingt vielversprechend.",
+            "votes": 42,
+            "order": 100
+        }
+    ]
+}

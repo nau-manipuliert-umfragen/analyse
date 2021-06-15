@@ -1,0 +1,25 @@
+{
+    "id": 626,
+    "question": "Würden Sie in einer «Gated Community» leben wollen?",
+    "created_at": "2018-04-03T04:46:19+00:00",
+    "updated_at": "2021-06-14T09:34:01+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 102,
+    "answers": [
+        {
+            "id": 1841,
+            "answer": "Ja, wenn der Service stimmt und ich das Geld hätte.",
+            "votes": 38,
+            "order": 100
+        },
+        {
+            "id": 1844,
+            "answer": "Nein, klingt nach einem ungemütlichen Wohnort.",
+            "votes": 64,
+            "order": 100
+        }
+    ]
+}

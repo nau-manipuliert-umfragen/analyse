@@ -1,0 +1,25 @@
+{
+    "id": 3602,
+    "question": "Soll Federer entgegen dem Tennis-Weltverband am Laver Cup teilnehmen?",
+    "created_at": "2020-03-24T14:09:01+00:00",
+    "updated_at": "2021-06-14T09:35:58+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 196,
+    "answers": [
+        {
+            "id": 8728,
+            "answer": "Natürlich, auf Sand hat der Schweizer sowieso keine Chance.",
+            "votes": 126,
+            "order": 0
+        },
+        {
+            "id": 8729,
+            "answer": "Nein, Federer sollte sich an die Regeln halten und an den French Open spielen.",
+            "votes": 70,
+            "order": 1
+        }
+    ]
+}

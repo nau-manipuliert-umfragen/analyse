@@ -1,0 +1,31 @@
+{
+    "id": 1201,
+    "question": "Was halten Sie vom WM-Song «Olé, Olé!»",
+    "created_at": "2018-06-19T09:08:40+00:00",
+    "updated_at": "2021-06-14T10:20:28+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 134,
+    "answers": [
+        {
+            "id": 3289,
+            "answer": "Ich kenne das Lied nicht.",
+            "votes": 48,
+            "order": 100
+        },
+        {
+            "id": 3295,
+            "answer": "Find ich super, der Song macht Stimmung!",
+            "votes": 45,
+            "order": 100
+        },
+        {
+            "id": 3298,
+            "answer": "Absolut daneben!",
+            "votes": 41,
+            "order": 100
+        }
+    ]
+}

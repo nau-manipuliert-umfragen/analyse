@@ -1,0 +1,25 @@
+{
+    "id": 8691,
+    "question": "Schafft der SCB die Sensation und wirft den EVZ aus den Playoffs?",
+    "created_at": "2021-04-12T10:40:55+00:00",
+    "updated_at": "2021-06-14T09:39:52+00:00",
+    "end_at": null,
+    "comment_group_id": 2103731,
+    "published_at": "2021-04-20T05:27:20+00:00",
+    "display_name": "",
+    "total": 1331,
+    "answers": [
+        {
+            "id": 19817,
+            "answer": "Ja, die Berner räumen nach Davos auch die Zuger aus dem Weg.",
+            "votes": 792,
+            "order": 0
+        },
+        {
+            "id": 19818,
+            "answer": "Nein, aktuell ist der EVZ schlicht zu überlegen.",
+            "votes": 539,
+            "order": 1
+        }
+    ]
+}

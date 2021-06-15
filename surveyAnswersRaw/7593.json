@@ -1,0 +1,25 @@
+{
+    "id": 3084,
+    "question": "Hat die Queen richtig entschieden?",
+    "created_at": "2020-02-19T07:28:48+00:00",
+    "updated_at": "2021-06-14T09:35:36+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 2636,
+    "answers": [
+        {
+            "id": 7592,
+            "answer": "Ja, sie schützt die Monarchie.",
+            "votes": 2236,
+            "order": 0
+        },
+        {
+            "id": 7593,
+            "answer": "Nein, wovon sollen Harry und Meghan nun leben?",
+            "votes": 400,
+            "order": 1
+        }
+    ]
+}

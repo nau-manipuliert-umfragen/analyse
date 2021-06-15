@@ -1,0 +1,25 @@
+{
+    "id": 3420,
+    "question": "Sollte die FIS die Saison vorzeitig beenden?",
+    "created_at": "2020-03-11T10:57:09+00:00",
+    "updated_at": "2020-03-11T11:12:00+00:00",
+    "end_at": "2020-03-11T11:11:57+00:00",
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 40,
+    "answers": [
+        {
+            "id": 8344,
+            "answer": "Ja, alles andere wäre verantwortungslos.",
+            "votes": 20,
+            "order": 0
+        },
+        {
+            "id": 8343,
+            "answer": "Nein, die Rennen am kommenden Wochenende sollte man noch durchziehen.",
+            "votes": 20,
+            "order": 1
+        }
+    ]
+}

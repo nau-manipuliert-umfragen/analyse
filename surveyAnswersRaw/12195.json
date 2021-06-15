@@ -1,0 +1,25 @@
+{
+    "id": 5196,
+    "question": "Gefallen Ihnen die neuen Poller?",
+    "created_at": "2020-08-19T12:30:17+00:00",
+    "updated_at": "2021-06-14T09:37:03+00:00",
+    "end_at": null,
+    "comment_group_id": 1756195,
+    "published_at": "2020-08-19T13:01:44+00:00",
+    "display_name": "",
+    "total": 84,
+    "answers": [
+        {
+            "id": 12195,
+            "answer": "Ja, Tessiner Granit ist schön!",
+            "votes": 39,
+            "order": 0
+        },
+        {
+            "id": 12194,
+            "answer": "Nein, verschanzen ist nicht nötig.",
+            "votes": 45,
+            "order": 1
+        }
+    ]
+}

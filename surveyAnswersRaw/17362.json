@@ -1,0 +1,25 @@
+{
+    "id": 7529,
+    "question": "Sollen Kinder gegen das Coronavirus geimpft werden.",
+    "created_at": "2021-02-23T12:54:55+00:00",
+    "updated_at": "2021-02-23T12:54:56+00:00",
+    "end_at": "2021-02-24T13:00:45+00:00",
+    "comment_group_id": 2034745,
+    "published_at": null,
+    "display_name": "",
+    "total": 40,
+    "answers": [
+        {
+            "id": 17361,
+            "answer": "Ja, auch Kinder müssen geschützt werden.",
+            "votes": 20,
+            "order": 0
+        },
+        {
+            "id": 17362,
+            "answer": "Nein, das Risiko einer Covid-19-Erkrankung ist dafür zu klein.",
+            "votes": 20,
+            "order": 1
+        }
+    ]
+}

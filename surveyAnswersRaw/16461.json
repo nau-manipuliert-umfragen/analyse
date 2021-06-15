@@ -1,0 +1,31 @@
+{
+    "id": 7127,
+    "question": "Gewinnt Rafael Nadal die Australian Open?",
+    "created_at": "2021-02-09T07:00:25+00:00",
+    "updated_at": "2021-06-14T09:38:31+00:00",
+    "end_at": null,
+    "comment_group_id": 2013470,
+    "published_at": "2021-02-09T07:17:12+00:00",
+    "display_name": "",
+    "total": 105,
+    "answers": [
+        {
+            "id": 16459,
+            "answer": "Ja!",
+            "votes": 42,
+            "order": 0
+        },
+        {
+            "id": 16460,
+            "answer": "Nein, Djokovic machts.",
+            "votes": 30,
+            "order": 1
+        },
+        {
+            "id": 16461,
+            "answer": "Ein anderer Spieler triumphiert.",
+            "votes": 33,
+            "order": 2
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 6522,
+    "question": "Darf man sich über seinen Partner lustig machen?",
+    "created_at": "2021-01-04T13:32:30+00:00",
+    "updated_at": "2021-06-14T09:38:05+00:00",
+    "end_at": null,
+    "comment_group_id": 1963314,
+    "published_at": "2021-01-05T17:05:21+00:00",
+    "display_name": "",
+    "total": 473,
+    "answers": [
+        {
+            "id": 15133,
+            "answer": "Ja, das hält die Beziehung frisch.",
+            "votes": 242,
+            "order": 0
+        },
+        {
+            "id": 15132,
+            "answer": "Nein, das kann schnell kippen.",
+            "votes": 231,
+            "order": 1
+        }
+    ]
+}

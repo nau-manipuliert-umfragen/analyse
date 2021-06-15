@@ -1,0 +1,25 @@
+{
+    "id": 5674,
+    "question": "Hätte Manchester United seinen Ersatzgoalie ziehen lassen sollen?",
+    "created_at": "2020-10-08T13:39:19+00:00",
+    "updated_at": "2021-06-14T09:37:23+00:00",
+    "end_at": null,
+    "comment_group_id": 1840521,
+    "published_at": "2020-10-08T13:57:40+00:00",
+    "display_name": "",
+    "total": 93,
+    "answers": [
+        {
+            "id": 13243,
+            "answer": "Ja, für ihn ist es wichtig mehr zu spielen.",
+            "votes": 63,
+            "order": 0
+        },
+        {
+            "id": 13242,
+            "answer": "Nein, ManUtd braucht einen starken Back Up-Goalie für De Gea.",
+            "votes": 30,
+            "order": 1
+        }
+    ]
+}

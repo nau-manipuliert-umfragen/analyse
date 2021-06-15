@@ -1,0 +1,25 @@
+{
+    "id": 4526,
+    "question": "Ist die Entlassung von Trainer Schreuder der richtige Schritt für Hoffenheim?",
+    "created_at": "2020-06-09T07:30:38+00:00",
+    "updated_at": "2021-06-14T09:36:38+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 72,
+    "answers": [
+        {
+            "id": 10730,
+            "answer": "Ja",
+            "votes": 33,
+            "order": 0
+        },
+        {
+            "id": 10729,
+            "answer": "Nein",
+            "votes": 39,
+            "order": 1
+        }
+    ]
+}

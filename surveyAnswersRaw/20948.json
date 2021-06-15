@@ -1,0 +1,25 @@
+{
+    "id": 9214,
+    "question": "Sind Sie für Lockerungen in den Geschäften?",
+    "created_at": "2021-05-04T11:48:44+00:00",
+    "updated_at": "2021-06-14T09:40:22+00:00",
+    "end_at": null,
+    "comment_group_id": 2139669,
+    "published_at": "2021-05-05T09:37:00+00:00",
+    "display_name": "",
+    "total": 730,
+    "answers": [
+        {
+            "id": 20947,
+            "answer": "Ja, die Fallzahlen sinken und mit Maskenpflicht fühle ich mich sicher.",
+            "votes": 519,
+            "order": 0
+        },
+        {
+            "id": 20948,
+            "answer": "Nein, die Beschränkungen sind weiterhin nötig, um Ausbrüche zu verhindern.",
+            "votes": 211,
+            "order": 1
+        }
+    ]
+}

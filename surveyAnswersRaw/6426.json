@@ -1,0 +1,25 @@
+{
+    "id": 2558,
+    "question": "Waren die Gegner an der EM für die Schweiz zu stark?",
+    "created_at": "2020-01-14T19:25:39+00:00",
+    "updated_at": "2021-06-14T09:35:07+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 64,
+    "answers": [
+        {
+            "id": 6427,
+            "answer": "Ja, die Gegner waren zu stark",
+            "votes": 36,
+            "order": 0
+        },
+        {
+            "id": 6426,
+            "answer": "Nein, es wäre mehr drin gelegen",
+            "votes": 28,
+            "order": 1
+        }
+    ]
+}

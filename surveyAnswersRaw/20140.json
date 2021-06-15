@@ -1,0 +1,25 @@
+{
+    "id": 8842,
+    "question": "Werden Charles und William Harry je vergeben?",
+    "created_at": "2021-04-19T10:08:13+00:00",
+    "updated_at": "2021-06-14T09:39:59+00:00",
+    "end_at": null,
+    "comment_group_id": 2113937,
+    "published_at": "2021-04-22T19:01:14+00:00",
+    "display_name": "",
+    "total": 2074,
+    "answers": [
+        {
+            "id": 20140,
+            "answer": "Nein, das kann ich mir nicht vorstellen.",
+            "votes": 1075,
+            "order": 0
+        },
+        {
+            "id": 20141,
+            "answer": "Ja, er ist immer noch Teil der Familie.",
+            "votes": 999,
+            "order": 1
+        }
+    ]
+}

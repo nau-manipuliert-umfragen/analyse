@@ -1,0 +1,25 @@
+{
+    "id": 9039,
+    "question": "Mögen Sie die Musik von Adele?",
+    "created_at": "2021-04-27T13:08:09+00:00",
+    "updated_at": "2021-06-14T09:40:12+00:00",
+    "end_at": null,
+    "comment_group_id": 2127665,
+    "published_at": "2021-04-27T17:31:05+00:00",
+    "display_name": "",
+    "total": 470,
+    "answers": [
+        {
+            "id": 20566,
+            "answer": "Ja, sie produziert einen Hit nach dem anderen!",
+            "votes": 361,
+            "order": 0
+        },
+        {
+            "id": 20565,
+            "answer": "Naja, ich mag andere Künstler lieber.",
+            "votes": 109,
+            "order": 1
+        }
+    ]
+}

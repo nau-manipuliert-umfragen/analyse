@@ -1,0 +1,25 @@
+{
+    "id": 9478,
+    "question": "Was halten Sie von der Schadenfreude über Maha Vajiralongkorns Spital-Aufenthalt?",
+    "created_at": "2021-05-17T07:41:39+00:00",
+    "updated_at": "2021-06-14T09:40:36+00:00",
+    "end_at": null,
+    "comment_group_id": 2160774,
+    "published_at": "2021-05-17T09:57:08+00:00",
+    "display_name": "",
+    "total": 920,
+    "answers": [
+        {
+            "id": 21508,
+            "answer": "Ist berechtigt, er hat das Volk so schlecht behandelt!",
+            "votes": 639,
+            "order": 0
+        },
+        {
+            "id": 21509,
+            "answer": "Man sollte sich nie am Leid anderer ergötzen!",
+            "votes": 281,
+            "order": 1
+        }
+    ]
+}

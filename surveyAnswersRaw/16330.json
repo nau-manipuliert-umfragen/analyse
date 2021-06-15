@@ -1,0 +1,25 @@
+{
+    "id": 7071,
+    "question": "Holen sich die Schweizer beim Super-G in Garmisch einen weiteren Podestplatz?",
+    "created_at": "2021-02-06T10:07:22+00:00",
+    "updated_at": "2021-06-14T10:24:56+00:00",
+    "end_at": null,
+    "comment_group_id": 2010081,
+    "published_at": "2021-02-06T10:25:19+00:00",
+    "display_name": "",
+    "total": 59,
+    "answers": [
+        {
+            "id": 16330,
+            "answer": "Ja",
+            "votes": 33,
+            "order": 0
+        },
+        {
+            "id": 16329,
+            "answer": "Nein",
+            "votes": 26,
+            "order": 1
+        }
+    ]
+}

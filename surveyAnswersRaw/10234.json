@@ -1,0 +1,25 @@
+{
+    "id": 4299,
+    "question": "Möchten Sie auch ein Date mit Genie Bouchard?",
+    "created_at": "2020-05-20T09:25:12+00:00",
+    "updated_at": "2021-06-14T09:36:28+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 95,
+    "answers": [
+        {
+            "id": 10234,
+            "answer": "Ja",
+            "votes": 59,
+            "order": 0
+        },
+        {
+            "id": 10235,
+            "answer": "Nein",
+            "votes": 36,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 9919,
+    "question": "Holt sich Max Verstappen in dieser Saison den WM-Titel?",
+    "created_at": "2021-06-06T13:25:50+00:00",
+    "updated_at": "2021-06-14T09:41:02+00:00",
+    "end_at": null,
+    "comment_group_id": 2193115,
+    "published_at": "2021-06-06T14:18:44+00:00",
+    "display_name": "",
+    "total": 346,
+    "answers": [
+        {
+            "id": 22468,
+            "answer": "Ja",
+            "votes": 178,
+            "order": 0
+        },
+        {
+            "id": 22469,
+            "answer": "Nein",
+            "votes": 168,
+            "order": 1
+        }
+    ]
+}

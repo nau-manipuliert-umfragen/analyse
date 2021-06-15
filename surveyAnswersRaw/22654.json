@@ -1,0 +1,25 @@
+{
+    "id": 10005,
+    "question": "Sollen sich Unternehmen politisch äussern?",
+    "created_at": "2021-06-10T08:08:34+00:00",
+    "updated_at": "2021-06-11T07:54:55+00:00",
+    "end_at": "2021-06-11T08:08:31+00:00",
+    "comment_group_id": 2199127,
+    "published_at": "2021-06-10T08:19:21+00:00",
+    "display_name": "",
+    "total": 899,
+    "answers": [
+        {
+            "id": 22655,
+            "answer": "Ja.",
+            "votes": 318,
+            "order": 0
+        },
+        {
+            "id": 22654,
+            "answer": "Nein.",
+            "votes": 581,
+            "order": 1
+        }
+    ]
+}

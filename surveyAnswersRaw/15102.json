@@ -1,0 +1,25 @@
+{
+    "id": 6508,
+    "question": "Holt sich Österreich die Nationenwertung zurück?",
+    "created_at": "2021-01-03T09:52:59+00:00",
+    "updated_at": "2021-06-14T09:38:04+00:00",
+    "end_at": null,
+    "comment_group_id": 1961890,
+    "published_at": "2021-01-04T09:22:24+00:00",
+    "display_name": "",
+    "total": 498,
+    "answers": [
+        {
+            "id": 15102,
+            "answer": "Nein, die Schweiz ist in dieser Saison zu stark.",
+            "votes": 417,
+            "order": 0
+        },
+        {
+            "id": 15101,
+            "answer": "Ja, die Ösis haben mehr Potential.",
+            "votes": 81,
+            "order": 1
+        }
+    ]
+}

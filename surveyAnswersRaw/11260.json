@@ -1,0 +1,25 @@
+{
+    "id": 4776,
+    "question": "Finden Sie eine Influencer-Kampagne für die Corona-App eine gute Idee?",
+    "created_at": "2020-07-01T08:39:17+00:00",
+    "updated_at": "2021-06-14T09:36:47+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 603,
+    "answers": [
+        {
+            "id": 11260,
+            "answer": "Ja, mit wenig Geld können damit neue Zielgruppen erreicht werden.",
+            "votes": 134,
+            "order": 0
+        },
+        {
+            "id": 11261,
+            "answer": "Nein, jeder soll selbst entscheiden, ob er sich die App herunterlädt.",
+            "votes": 469,
+            "order": 1
+        }
+    ]
+}

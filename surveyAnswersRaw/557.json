@@ -1,0 +1,31 @@
+{
+    "id": 218,
+    "question": "Wie gefällt Ihnen der Swarovski-Weihnachtsbaum",
+    "created_at": "2017-11-27T11:12:44+00:00",
+    "updated_at": "2021-06-14T10:19:51+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 250,
+    "answers": [
+        {
+            "id": 551,
+            "answer": "Mir egal, die sollen mit den Baum machen, was sie wollen.",
+            "votes": 32,
+            "order": 100
+        },
+        {
+            "id": 554,
+            "answer": "Sehr schön, gehört in den Zürcher HB!",
+            "votes": 178,
+            "order": 100
+        },
+        {
+            "id": 557,
+            "answer": "Gefällt mir nicht, zu kitschig, zu kommerziell.",
+            "votes": 40,
+            "order": 100
+        }
+    ]
+}

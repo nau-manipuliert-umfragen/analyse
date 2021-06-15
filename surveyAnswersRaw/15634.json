@@ -1,0 +1,25 @@
+{
+    "id": 6757,
+    "question": "Sollte sich Real Madrid von Zinedine Zidane trennen?",
+    "created_at": "2021-01-21T07:26:34+00:00",
+    "updated_at": "2021-06-14T09:38:14+00:00",
+    "end_at": null,
+    "comment_group_id": 1986665,
+    "published_at": "2021-01-21T10:02:31+00:00",
+    "display_name": "",
+    "total": 104,
+    "answers": [
+        {
+            "id": 15634,
+            "answer": "Ja, frischer Wind würde dem Club guttun.",
+            "votes": 52,
+            "order": 0
+        },
+        {
+            "id": 15635,
+            "answer": "Nein, er ist ein Top-Trainer.",
+            "votes": 52,
+            "order": 1
+        }
+    ]
+}

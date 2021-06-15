@@ -1,0 +1,25 @@
+{
+    "id": 8398,
+    "question": "Wie beurteilen Sie die Formel-1-Premiere von Mick Schumacher?",
+    "created_at": "2021-03-29T15:11:47+00:00",
+    "updated_at": "2021-06-14T09:39:37+00:00",
+    "end_at": null,
+    "comment_group_id": 2084724,
+    "published_at": "2021-04-03T06:00:02+00:00",
+    "display_name": "",
+    "total": 693,
+    "answers": [
+        {
+            "id": 19216,
+            "answer": "Solides Rennwochenende, darauf kann man aufbauen.",
+            "votes": 415,
+            "order": 0
+        },
+        {
+            "id": 19215,
+            "answer": "Das war leider gar nichts.",
+            "votes": 278,
+            "order": 1
+        }
+    ]
+}

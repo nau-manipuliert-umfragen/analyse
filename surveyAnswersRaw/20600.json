@@ -1,0 +1,25 @@
+{
+    "id": 9054,
+    "question": "Möchten Sie auf eine «coronafreie» Insel reisen?",
+    "created_at": "2021-04-28T08:25:20+00:00",
+    "updated_at": "2021-06-14T09:40:13+00:00",
+    "end_at": null,
+    "comment_group_id": 2128894,
+    "published_at": "2021-05-02T12:01:09+00:00",
+    "display_name": "",
+    "total": 802,
+    "answers": [
+        {
+            "id": 20600,
+            "answer": "Oh ja, das würde mir guttun!",
+            "votes": 474,
+            "order": 0
+        },
+        {
+            "id": 20601,
+            "answer": "Nein, ich traue solchen Tourismus-Lockangeboten nicht.",
+            "votes": 328,
+            "order": 1
+        }
+    ]
+}

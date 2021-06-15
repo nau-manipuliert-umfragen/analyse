@@ -1,0 +1,25 @@
+{
+    "id": 4246,
+    "question": "Was sagen Sie zum Haziri-Wissenstest für Chanelles Bachelorette-Jungs?",
+    "created_at": "2020-05-15T10:36:44+00:00",
+    "updated_at": "2021-06-14T09:36:25+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 159,
+    "answers": [
+        {
+            "id": 10116,
+            "answer": "Ertappt, Aussehen ist eben nicht alles.",
+            "votes": 123,
+            "order": 0
+        },
+        {
+            "id": 10115,
+            "answer": "Puh, dann fehlt es bei mir auch im Oberstübchen. Wer soll die Antworten denn kennen?",
+            "votes": 36,
+            "order": 1
+        }
+    ]
+}

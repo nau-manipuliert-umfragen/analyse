@@ -1,0 +1,25 @@
+{
+    "id": 7867,
+    "question": "Überwindet Jürgen Klopp die Krise mit dem FC Liverpool?",
+    "created_at": "2021-03-09T10:42:43+00:00",
+    "updated_at": "2021-06-14T09:39:09+00:00",
+    "end_at": null,
+    "comment_group_id": 2054755,
+    "published_at": "2021-03-09T11:42:25+00:00",
+    "display_name": "",
+    "total": 72,
+    "answers": [
+        {
+            "id": 18106,
+            "answer": "Ja, Kloppo kann das.",
+            "votes": 49,
+            "order": 0
+        },
+        {
+            "id": 18105,
+            "answer": "Nein, das Feuer ist weg.",
+            "votes": 23,
+            "order": 1
+        }
+    ]
+}

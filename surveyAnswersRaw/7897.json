@@ -1,0 +1,25 @@
+{
+    "id": 3221,
+    "question": "Erreicht der FC Basel die Viertelfinals in den Europa League?",
+    "created_at": "2020-02-28T12:12:54+00:00",
+    "updated_at": "2021-06-14T09:35:42+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 316,
+    "answers": [
+        {
+            "id": 7897,
+            "answer": "Ja",
+            "votes": 150,
+            "order": 0
+        },
+        {
+            "id": 7896,
+            "answer": "Nein",
+            "votes": 166,
+            "order": 1
+        }
+    ]
+}

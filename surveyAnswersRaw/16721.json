@@ -1,0 +1,31 @@
+{
+    "id": 7245,
+    "question": "Frage an Nicht-Christen: Wie nehmen Sie uns Christen wahr?",
+    "created_at": "2021-02-12T11:09:41+00:00",
+    "updated_at": "2021-05-31T19:33:15+00:00",
+    "end_at": "2021-06-11T10:07:00+00:00",
+    "comment_group_id": 2019084,
+    "published_at": "2021-02-12T12:01:27+00:00",
+    "display_name": "",
+    "total": 352,
+    "answers": [
+        {
+            "id": 16721,
+            "answer": "Als starke Einheit voller Hoffnung.",
+            "votes": 77,
+            "order": 0
+        },
+        {
+            "id": 16722,
+            "answer": "Ich nehme sie negativ oder gar nicht wahr.",
+            "votes": 90,
+            "order": 1
+        },
+        {
+            "id": 16720,
+            "answer": "Ich will nur das Voting-Resultat sehen.",
+            "votes": 185,
+            "order": 2
+        }
+    ]
+}

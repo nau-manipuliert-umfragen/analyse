@@ -1,0 +1,25 @@
+{
+    "id": 8501,
+    "question": "Kann Lausanne den zweiten Platz in der Super League bis Ende Saison verteidigen?",
+    "created_at": "2021-04-03T17:04:26+00:00",
+    "updated_at": "2021-06-14T09:39:42+00:00",
+    "end_at": null,
+    "comment_group_id": 2091408,
+    "published_at": "2021-04-03T18:03:57+00:00",
+    "display_name": "",
+    "total": 145,
+    "answers": [
+        {
+            "id": 19431,
+            "answer": "Ja",
+            "votes": 57,
+            "order": 0
+        },
+        {
+            "id": 19430,
+            "answer": "Nein",
+            "votes": 88,
+            "order": 1
+        }
+    ]
+}

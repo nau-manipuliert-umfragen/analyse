@@ -1,0 +1,25 @@
+{
+    "id": 6791,
+    "question": "Wäre Marc-André ter Stegen ein guter Nachfolger von Lionel Messi?",
+    "created_at": "2021-01-22T18:48:08+00:00",
+    "updated_at": "2021-06-14T09:38:15+00:00",
+    "end_at": null,
+    "comment_group_id": 1989429,
+    "published_at": "2021-01-24T06:30:16+00:00",
+    "display_name": "",
+    "total": 162,
+    "answers": [
+        {
+            "id": 15713,
+            "answer": "Ja, der Deutsche hat sich das Bändeli verdient.",
+            "votes": 99,
+            "order": 0
+        },
+        {
+            "id": 15712,
+            "answer": "Nein, da gibt es bessere.",
+            "votes": 63,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 5317,
+    "question": "Schnappt sich Alfa Romeo einen Rookie von Ferrari?",
+    "created_at": "2020-08-31T15:41:43+00:00",
+    "updated_at": "2020-08-31T19:21:25+00:00",
+    "end_at": "2020-08-31T15:41:46+00:00",
+    "comment_group_id": 1776004,
+    "published_at": "2020-08-31T19:21:23+00:00",
+    "display_name": "",
+    "total": 40,
+    "answers": [
+        {
+            "id": 12457,
+            "answer": "Ja bestimmt!",
+            "votes": 20,
+            "order": 0
+        },
+        {
+            "id": 12458,
+            "answer": "Nein, das kann ich mir kaum vorstellen.",
+            "votes": 20,
+            "order": 1
+        }
+    ]
+}

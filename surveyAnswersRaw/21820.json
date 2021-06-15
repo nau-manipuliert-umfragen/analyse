@@ -1,0 +1,25 @@
+{
+    "id": 9622,
+    "question": "Für wen sollte sich Barça entscheiden?",
+    "created_at": "2021-05-22T12:03:41+00:00",
+    "updated_at": "2021-06-14T09:40:46+00:00",
+    "end_at": null,
+    "comment_group_id": 2170940,
+    "published_at": "2021-05-22T12:14:44+00:00",
+    "display_name": "",
+    "total": 215,
+    "answers": [
+        {
+            "id": 21820,
+            "answer": "Marc-André Ter Stegen",
+            "votes": 135,
+            "order": 0
+        },
+        {
+            "id": 21821,
+            "answer": "Gianluigi Donnarumma",
+            "votes": 80,
+            "order": 1
+        }
+    ]
+}

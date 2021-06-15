@@ -1,0 +1,31 @@
+{
+    "id": 8353,
+    "question": "Wem glauben Sie im Schwägerinnen-Zoff?",
+    "created_at": "2021-03-28T10:26:45+00:00",
+    "updated_at": "2021-06-14T09:39:35+00:00",
+    "end_at": null,
+    "comment_group_id": 2082518,
+    "published_at": "2021-03-28T11:32:21+00:00",
+    "display_name": "",
+    "total": 1375,
+    "answers": [
+        {
+            "id": 19123,
+            "answer": "Kate wirkt auf mich vernünftiger.",
+            "votes": 1217,
+            "order": 0
+        },
+        {
+            "id": 19122,
+            "answer": "Meghan lügt sicher nicht.",
+            "votes": 68,
+            "order": 1
+        },
+        {
+            "id": 19124,
+            "answer": "Keiner der beiden.",
+            "votes": 90,
+            "order": 2
+        }
+    ]
+}

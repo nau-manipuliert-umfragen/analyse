@@ -1,0 +1,25 @@
+{
+    "id": 8282,
+    "question": "Wie feiern sie dieses Jahr ihren Geburtstag?",
+    "created_at": "2021-03-24T15:20:18+00:00",
+    "updated_at": "2021-06-14T09:39:30+00:00",
+    "end_at": null,
+    "comment_group_id": 2077517,
+    "published_at": "2021-03-25T09:40:41+00:00",
+    "display_name": "",
+    "total": 271,
+    "answers": [
+        {
+            "id": 18972,
+            "answer": "Gar nicht, ich warte auf bessere Zeiten.",
+            "votes": 195,
+            "order": 0
+        },
+        {
+            "id": 18971,
+            "answer": "Eine Mega-Sause mit allen meinen Freunden.",
+            "votes": 76,
+            "order": 1
+        }
+    ]
+}

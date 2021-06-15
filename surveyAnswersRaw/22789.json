@@ -1,0 +1,31 @@
+{
+    "id": 10068,
+    "question": "Wer gewinnt das Duell an der EM 2020?",
+    "created_at": "2021-06-13T12:11:35+00:00",
+    "updated_at": "2021-06-14T09:41:10+00:00",
+    "end_at": null,
+    "comment_group_id": 2205105,
+    "published_at": "2021-06-13T12:22:11+00:00",
+    "display_name": "",
+    "total": 87,
+    "answers": [
+        {
+            "id": 22790,
+            "answer": "Deutschland",
+            "votes": 24,
+            "order": 0
+        },
+        {
+            "id": 22788,
+            "answer": "Frankreich",
+            "votes": 41,
+            "order": 1
+        },
+        {
+            "id": 22789,
+            "answer": "Niemand, es gibt ein Unentschieden.",
+            "votes": 22,
+            "order": 2
+        }
+    ]
+}

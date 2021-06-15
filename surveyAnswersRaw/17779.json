@@ -1,0 +1,49 @@
+{
+    "id": 7720,
+    "question": "Wer ist der grösste Star der Uefa Euro 2020?",
+    "created_at": "2021-03-02T13:59:42+00:00",
+    "updated_at": "2021-06-14T09:38:59+00:00",
+    "end_at": null,
+    "comment_group_id": 2044914,
+    "published_at": "2021-03-09T11:54:01+00:00",
+    "display_name": "",
+    "total": 139,
+    "answers": [
+        {
+            "id": 17776,
+            "answer": "Cristiano Ronaldo",
+            "votes": 24,
+            "order": 0
+        },
+        {
+            "id": 17779,
+            "answer": "Kylian Mbappé",
+            "votes": 25,
+            "order": 1
+        },
+        {
+            "id": 17777,
+            "answer": "Kevin de Bruyne",
+            "votes": 22,
+            "order": 2
+        },
+        {
+            "id": 17781,
+            "answer": "Joshua Kimmich",
+            "votes": 21,
+            "order": 3
+        },
+        {
+            "id": 17778,
+            "answer": "Xherdan Shaqiri",
+            "votes": 24,
+            "order": 4
+        },
+        {
+            "id": 17780,
+            "answer": "Ein anderer Spieler",
+            "votes": 23,
+            "order": 5
+        }
+    ]
+}

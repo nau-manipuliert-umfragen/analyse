@@ -1,0 +1,31 @@
+{
+    "id": 8242,
+    "question": "Sind Sie schon geimpft?",
+    "created_at": "2021-03-23T11:15:48+00:00",
+    "updated_at": "2021-06-14T09:39:28+00:00",
+    "end_at": null,
+    "comment_group_id": 2075402,
+    "published_at": "2021-03-23T16:03:02+00:00",
+    "display_name": "",
+    "total": 1674,
+    "answers": [
+        {
+            "id": 18885,
+            "answer": "Ja, endlich muss ich keine Angst mehr vor Corona haben.",
+            "votes": 242,
+            "order": 0
+        },
+        {
+            "id": 18884,
+            "answer": "Nein, leider noch nicht.",
+            "votes": 667,
+            "order": 1
+        },
+        {
+            "id": 18886,
+            "answer": "Ich will mich nicht impfen lassen.",
+            "votes": 765,
+            "order": 2
+        }
+    ]
+}

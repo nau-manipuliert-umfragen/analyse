@@ -1,0 +1,43 @@
+{
+    "id": 5292,
+    "question": "Wer gewinnt die Tour de France 2020?",
+    "created_at": "2020-08-28T21:14:59+00:00",
+    "updated_at": "2021-06-14T09:37:07+00:00",
+    "end_at": null,
+    "comment_group_id": 1772539,
+    "published_at": "2020-08-31T15:59:17+00:00",
+    "display_name": "",
+    "total": 192,
+    "answers": [
+        {
+            "id": 12399,
+            "answer": "Egan Bernal",
+            "votes": 44,
+            "order": 0
+        },
+        {
+            "id": 12397,
+            "answer": "Primoz Roglic",
+            "votes": 36,
+            "order": 1
+        },
+        {
+            "id": 12398,
+            "answer": "Emanuel Buchmann",
+            "votes": 25,
+            "order": 2
+        },
+        {
+            "id": 12401,
+            "answer": "Thibaut Pinot",
+            "votes": 38,
+            "order": 3
+        },
+        {
+            "id": 12400,
+            "answer": "Ein anderer Fahrer",
+            "votes": 49,
+            "order": 4
+        }
+    ]
+}

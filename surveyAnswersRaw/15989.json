@@ -1,0 +1,25 @@
+{
+    "id": 6921,
+    "question": "Trauen Sie dem FCZ den Meistertitel zu?",
+    "created_at": "2021-01-30T20:27:13+00:00",
+    "updated_at": "2021-06-14T09:38:21+00:00",
+    "end_at": null,
+    "comment_group_id": 2000549,
+    "published_at": "2021-01-31T07:05:07+00:00",
+    "display_name": "",
+    "total": 496,
+    "answers": [
+        {
+            "id": 15988,
+            "answer": "Nein, YB ist weiter eine Klasse für sich.",
+            "votes": 347,
+            "order": 0
+        },
+        {
+            "id": 15989,
+            "answer": "Ja, die Zürcher haben das Potential.",
+            "votes": 149,
+            "order": 1
+        }
+    ]
+}

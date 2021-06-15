@@ -1,0 +1,25 @@
+{
+    "id": 8133,
+    "question": "Waren Sie auch ein Fan von Sabine Schmitz?",
+    "created_at": "2021-03-19T10:24:42+00:00",
+    "updated_at": "2021-06-14T09:39:23+00:00",
+    "end_at": null,
+    "comment_group_id": 2069951,
+    "published_at": null,
+    "display_name": "",
+    "total": 351,
+    "answers": [
+        {
+            "id": 18653,
+            "answer": "Ja",
+            "votes": 259,
+            "order": 0
+        },
+        {
+            "id": 18652,
+            "answer": "Nein",
+            "votes": 92,
+            "order": 1
+        }
+    ]
+}

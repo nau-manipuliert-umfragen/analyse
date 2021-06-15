@@ -1,0 +1,25 @@
+{
+    "id": 5821,
+    "question": "Was halten Sie vom Liebes-Update?",
+    "created_at": "2020-10-22T07:41:08+00:00",
+    "updated_at": "2021-06-14T09:37:29+00:00",
+    "end_at": null,
+    "comment_group_id": 1862501,
+    "published_at": "2020-10-22T11:17:17+00:00",
+    "display_name": "",
+    "total": 275,
+    "answers": [
+        {
+            "id": 13566,
+            "answer": "Gar kein Problem, bekommen die Beiden schon hin.",
+            "votes": 90,
+            "order": 0
+        },
+        {
+            "id": 13567,
+            "answer": "Das war's dann wohl schon wieder.",
+            "votes": 185,
+            "order": 1
+        }
+    ]
+}

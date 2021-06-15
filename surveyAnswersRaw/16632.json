@@ -1,0 +1,31 @@
+{
+    "id": 7205,
+    "question": "Haben Sie in diesem Jahr bereits ein Paket der Post erhalten?",
+    "created_at": "2021-02-11T13:42:04+00:00",
+    "updated_at": "2021-02-14T13:21:21+00:00",
+    "end_at": "2021-02-14T13:42:00+00:00",
+    "comment_group_id": 2017599,
+    "published_at": "2021-02-12T08:36:47+00:00",
+    "display_name": "",
+    "total": 918,
+    "answers": [
+        {
+            "id": 16632,
+            "answer": "Ja, ich habe 2021 genau ein Paket der Post erhalten",
+            "votes": 167,
+            "order": 0
+        },
+        {
+            "id": 16630,
+            "answer": "Ja, ich habe bereits mehrmals Artikel online bestellt, die von der Post zugestellt wurden.",
+            "votes": 517,
+            "order": 1
+        },
+        {
+            "id": 16631,
+            "answer": "Nein, ich kaufe fast nie im Internet ein.",
+            "votes": 234,
+            "order": 2
+        }
+    ]
+}

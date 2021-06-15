@@ -1,0 +1,37 @@
+{
+    "id": 5423,
+    "question": "Ist Sex eine Erfindung Gottes?",
+    "created_at": "2020-09-11T08:11:32+00:00",
+    "updated_at": "2021-02-01T10:21:56+00:00",
+    "end_at": "2021-03-19T09:11:27+00:00",
+    "comment_group_id": 1794677,
+    "published_at": "2020-09-11T10:58:28+00:00",
+    "display_name": "",
+    "total": 589,
+    "answers": [
+        {
+            "id": 12693,
+            "answer": "Ja! Was für ein lustvoller Gott.",
+            "votes": 344,
+            "order": 0
+        },
+        {
+            "id": 12692,
+            "answer": "Nein! Gott hat damit nichts zu tun.",
+            "votes": 94,
+            "order": 1
+        },
+        {
+            "id": 12695,
+            "answer": "Diese Frage überfordert mich.",
+            "votes": 33,
+            "order": 2
+        },
+        {
+            "id": 12694,
+            "answer": "Ich will nur das Voting-Resultat sehen.",
+            "votes": 118,
+            "order": 3
+        }
+    ]
+}

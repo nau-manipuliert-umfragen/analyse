@@ -1,0 +1,25 @@
+{
+    "id": 8346,
+    "question": "Verteidigt Ronaldo mit Portugal im Sommer den EM-Titel?",
+    "created_at": "2021-03-27T20:26:15+00:00",
+    "updated_at": "2021-06-14T09:39:34+00:00",
+    "end_at": null,
+    "comment_group_id": 2082024,
+    "published_at": "2021-04-20T12:35:52+00:00",
+    "display_name": "",
+    "total": 129,
+    "answers": [
+        {
+            "id": 19108,
+            "answer": "Ja",
+            "votes": 48,
+            "order": 0
+        },
+        {
+            "id": 19109,
+            "answer": "Nein",
+            "votes": 81,
+            "order": 1
+        }
+    ]
+}

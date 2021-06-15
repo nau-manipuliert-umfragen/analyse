@@ -1,0 +1,31 @@
+{
+    "id": 8775,
+    "question": "Verstehen Sie Edwina Bartholomews Kritik an Meghan Markle?",
+    "created_at": "2021-04-15T13:52:40+00:00",
+    "updated_at": "2021-06-14T09:39:56+00:00",
+    "end_at": null,
+    "comment_group_id": 2108998,
+    "published_at": "2021-04-16T06:28:00+00:00",
+    "display_name": "",
+    "total": 3415,
+    "answers": [
+        {
+            "id": 19997,
+            "answer": "Ja, Meghan hätte sich still zurückziehen sollen.",
+            "votes": 2778,
+            "order": 0
+        },
+        {
+            "id": 19998,
+            "answer": "Nein, Bartholomew ist klar übers Ziel hinausgeschossen!",
+            "votes": 321,
+            "order": 1
+        },
+        {
+            "id": 19999,
+            "answer": "Lasst die arme Meghan doch in Ruhe.",
+            "votes": 316,
+            "order": 2
+        }
+    ]
+}

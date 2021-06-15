@@ -1,0 +1,25 @@
+{
+    "id": 7467,
+    "question": "Sollten Restaurant-Terassen wieder geöffnet werden?",
+    "created_at": "2021-02-21T12:37:23+00:00",
+    "updated_at": "2021-06-14T09:38:48+00:00",
+    "end_at": null,
+    "comment_group_id": 2031756,
+    "published_at": "2021-02-21T13:30:12+00:00",
+    "display_name": "",
+    "total": 4207,
+    "answers": [
+        {
+            "id": 17221,
+            "answer": "Ja, an der frischen Luft ist das Ansteckungsrisiko vernachlässigbar.",
+            "votes": 3276,
+            "order": 0
+        },
+        {
+            "id": 17222,
+            "answer": "Nein, der Bundesrat hat entschieden, Terrassen gehören geschlossen.",
+            "votes": 931,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "id": 5031,
+    "question": "Würden Sie auch auf dem Stand-Up-Paddle heiraten?",
+    "created_at": "2020-07-31T09:23:44+00:00",
+    "updated_at": "2021-06-14T09:36:57+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 540,
+    "answers": [
+        {
+            "id": 11827,
+            "answer": "Ja! Das ist eine originelle Idee",
+            "votes": 153,
+            "order": 0
+        },
+        {
+            "id": 11826,
+            "answer": "Nein! Dafür fehlt mir die Balance",
+            "votes": 286,
+            "order": 1
+        },
+        {
+            "id": 11828,
+            "answer": "Hilfe, mir fehlt das Heirats-Gspändli",
+            "votes": 101,
+            "order": 2
+        }
+    ]
+}

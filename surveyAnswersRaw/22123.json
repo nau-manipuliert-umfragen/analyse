@@ -1,0 +1,31 @@
+{
+    "id": 9760,
+    "question": "Was liegt für Roger Federer an den French Open drin?",
+    "created_at": "2021-05-30T12:54:08+00:00",
+    "updated_at": "2021-06-14T09:40:53+00:00",
+    "end_at": null,
+    "comment_group_id": 2182517,
+    "published_at": "2021-05-31T17:15:01+00:00",
+    "display_name": "",
+    "total": 597,
+    "answers": [
+        {
+            "id": 22124,
+            "answer": "Der Schweizer scheidet früh aus.",
+            "votes": 188,
+            "order": 0
+        },
+        {
+            "id": 22125,
+            "answer": "Bis in den Viertelfinal könnte es reichen.",
+            "votes": 292,
+            "order": 1
+        },
+        {
+            "id": 22123,
+            "answer": "Federer kann gar um den Turnier-Sieg mitreden!",
+            "votes": 117,
+            "order": 2
+        }
+    ]
+}

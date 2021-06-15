@@ -1,0 +1,31 @@
+{
+    "id": 2970,
+    "question": "Sollte Timo Werner zu Liverpool wechseln?",
+    "created_at": "2020-02-12T09:29:24+00:00",
+    "updated_at": "2021-06-14T09:35:31+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 188,
+    "answers": [
+        {
+            "id": 7343,
+            "answer": "Ja, das wäre die richtige Wahl für ihn.",
+            "votes": 109,
+            "order": 0
+        },
+        {
+            "id": 7341,
+            "answer": "Nein, er sollte bei RB Leipzig bleiben.",
+            "votes": 42,
+            "order": 1
+        },
+        {
+            "id": 7342,
+            "answer": "Nein, er sollte zu einem anderen Verein wechseln.",
+            "votes": 37,
+            "order": 2
+        }
+    ]
+}

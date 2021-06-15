@@ -1,0 +1,25 @@
+{
+    "id": 2461,
+    "question": "Ist die Statue eines Zlatan Ibrahimovic würdig?",
+    "created_at": "2019-09-10T10:54:52+00:00",
+    "updated_at": "2021-06-14T09:35:02+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 83,
+    "answers": [
+        {
+            "id": 6188,
+            "answer": "Natürlich, 2,70 Meter reichen aus.",
+            "votes": 32,
+            "order": 0
+        },
+        {
+            "id": 6187,
+            "answer": "Nein, eine Zlatan-Statue muss mindestens zehn Meter hoch sein.",
+            "votes": 51,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "id": 5850,
+    "question": "Wie gefällt Ihnen Loredanas neue Single?",
+    "created_at": "2020-10-25T10:00:54+00:00",
+    "updated_at": "2021-06-14T09:37:31+00:00",
+    "end_at": null,
+    "comment_group_id": 1867165,
+    "published_at": "2020-10-26T08:49:37+00:00",
+    "display_name": "",
+    "total": 496,
+    "answers": [
+        {
+            "id": 13630,
+            "answer": "Spitze, und James Bond kann auch gleich einpacken.",
+            "votes": 42,
+            "order": 0
+        },
+        {
+            "id": 13628,
+            "answer": "Ich schliesse mich ihren Fans an: Ihre älteren Songs sind um Meilen besser.",
+            "votes": 73,
+            "order": 1
+        },
+        {
+            "id": 13629,
+            "answer": "Hilfe, da ist mir jeder andere Song lieber.",
+            "votes": 381,
+            "order": 2
+        }
+    ]
+}

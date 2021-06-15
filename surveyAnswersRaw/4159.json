@@ -1,0 +1,25 @@
+{
+    "id": 1567,
+    "question": "Gefällt Ihnen der Wechsel im Experten-Team?",
+    "created_at": "2018-07-18T05:47:09+00:00",
+    "updated_at": "2021-06-14T09:34:31+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 133,
+    "answers": [
+        {
+            "id": 4156,
+            "answer": "Ja! Es wurde höchste Zeit!",
+            "votes": 71,
+            "order": 100
+        },
+        {
+            "id": 4159,
+            "answer": "Nein, es ist schade. Gügi und Eggimann waren super.",
+            "votes": 62,
+            "order": 100
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 3762,
+    "question": "Was halten Sie vom Balkon-Apéro des Bachelors in Coronazeiten?",
+    "created_at": "2020-04-05T11:10:20+00:00",
+    "updated_at": "2021-06-14T09:36:05+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 413,
+    "answers": [
+        {
+            "id": 9072,
+            "answer": "Voll okay, die Leute sollen mal nicht übertreiben. Haben alle genug Abstand voneinander.",
+            "votes": 120,
+            "order": 0
+        },
+        {
+            "id": 9071,
+            "answer": "Geht gar nicht! Hat er schon mal was von Social Distancing gehört?",
+            "votes": 293,
+            "order": 1
+        }
+    ]
+}

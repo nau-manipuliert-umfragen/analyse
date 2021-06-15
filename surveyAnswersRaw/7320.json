@@ -1,0 +1,25 @@
+{
+    "id": 2961,
+    "question": "Werden Sie bei der Bachelorette reinzappen?",
+    "created_at": "2020-02-11T15:19:17+00:00",
+    "updated_at": "2021-06-14T09:35:31+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 178,
+    "answers": [
+        {
+            "id": 7320,
+            "answer": "Ja, das ist lustig!",
+            "votes": 72,
+            "order": 0
+        },
+        {
+            "id": 7321,
+            "answer": "Nein, ist mir zu blöd.",
+            "votes": 106,
+            "order": 1
+        }
+    ]
+}

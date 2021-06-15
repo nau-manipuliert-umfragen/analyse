@@ -1,0 +1,25 @@
+{
+    "id": 7004,
+    "question": "Wie gefällt Ihnen der Gastbeitrag von Ronnie Grob?",
+    "created_at": "2021-02-03T12:04:06+00:00",
+    "updated_at": "2021-06-14T09:38:25+00:00",
+    "end_at": null,
+    "comment_group_id": 2005795,
+    "published_at": "2021-02-04T19:32:02+00:00",
+    "display_name": "",
+    "total": 1446,
+    "answers": [
+        {
+            "id": 16178,
+            "answer": "Gut.",
+            "votes": 1170,
+            "order": 0
+        },
+        {
+            "id": 16177,
+            "answer": "Na ja.",
+            "votes": 276,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 5831,
+    "question": "Muss sich Granit Xhaka bald mit der Ersatzrolle begnügen?",
+    "created_at": "2020-10-23T06:38:38+00:00",
+    "updated_at": "2021-06-14T09:37:30+00:00",
+    "end_at": null,
+    "comment_group_id": 1864152,
+    "published_at": "2020-10-23T07:30:39+00:00",
+    "display_name": "",
+    "total": 466,
+    "answers": [
+        {
+            "id": 13587,
+            "answer": "Nein, er wird seinen Stammplatz behalten.",
+            "votes": 283,
+            "order": 0
+        },
+        {
+            "id": 13588,
+            "answer": "Ja, Partey und Elneny werden gesetzt sein.",
+            "votes": 183,
+            "order": 1
+        }
+    ]
+}

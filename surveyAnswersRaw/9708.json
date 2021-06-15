@@ -1,0 +1,25 @@
+{
+    "id": 4060,
+    "question": "Gibt es den sogenannten «Elfmeterfluch» der Engländer?",
+    "created_at": "2020-04-29T14:52:04+00:00",
+    "updated_at": "2021-06-14T09:36:17+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 60,
+    "answers": [
+        {
+            "id": 9709,
+            "answer": "Ja, England hat ständig Pech.",
+            "votes": 31,
+            "order": 0
+        },
+        {
+            "id": 9708,
+            "answer": "Nein, die haben einfach keine Nerven.",
+            "votes": 29,
+            "order": 1
+        }
+    ]
+}

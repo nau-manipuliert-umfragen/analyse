@@ -1,0 +1,25 @@
+{
+    "id": 6613,
+    "question": "Hat Kristoffersen mit seiner Kritik recht?",
+    "created_at": "2021-01-12T09:33:14+00:00",
+    "updated_at": "2021-06-14T09:38:08+00:00",
+    "end_at": null,
+    "comment_group_id": 1973342,
+    "published_at": "2021-01-12T12:55:22+00:00",
+    "display_name": "",
+    "total": 386,
+    "answers": [
+        {
+            "id": 15319,
+            "answer": "Ja, es war viel zu gefährlich!",
+            "votes": 143,
+            "order": 0
+        },
+        {
+            "id": 15320,
+            "answer": "Nein, er sucht nur Ausreden.",
+            "votes": 243,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "id": 2520,
+    "question": "Wer wird diese Saison Schweizer Meister?",
+    "created_at": "2019-12-02T14:14:42+00:00",
+    "updated_at": "2021-06-14T09:35:05+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 209,
+    "answers": [
+        {
+            "id": 6326,
+            "answer": "YB",
+            "votes": 62,
+            "order": 0
+        },
+        {
+            "id": 6328,
+            "answer": "FC Basel",
+            "votes": 55,
+            "order": 1
+        },
+        {
+            "id": 6325,
+            "answer": "FC St.Gallen",
+            "votes": 61,
+            "order": 2
+        },
+        {
+            "id": 6327,
+            "answer": "Ein anderer Verein",
+            "votes": 31,
+            "order": 3
+        }
+    ]
+}

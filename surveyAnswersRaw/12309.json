@@ -1,0 +1,25 @@
+{
+    "id": 5251,
+    "question": "Enthaltsamkeit bis zur Hochzeit: Wäre das etwas für Sie?",
+    "created_at": "2020-08-25T14:07:40+00:00",
+    "updated_at": "2021-06-14T09:37:05+00:00",
+    "end_at": null,
+    "comment_group_id": 1766387,
+    "published_at": "2020-08-27T04:47:51+00:00",
+    "display_name": "",
+    "total": 350,
+    "answers": [
+        {
+            "id": 12310,
+            "answer": "Ja",
+            "votes": 88,
+            "order": 0
+        },
+        {
+            "id": 12309,
+            "answer": "Nein",
+            "votes": 262,
+            "order": 1
+        }
+    ]
+}

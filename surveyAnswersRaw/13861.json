@@ -1,0 +1,25 @@
+{
+    "id": 5955,
+    "question": "Welche Mannschaft gewinnt das Kellerduell in der Bundesliga?",
+    "created_at": "2020-11-05T07:12:49+00:00",
+    "updated_at": "2021-06-14T09:37:37+00:00",
+    "end_at": null,
+    "comment_group_id": 1886033,
+    "published_at": "2020-11-05T07:18:28+00:00",
+    "display_name": "",
+    "total": 42,
+    "answers": [
+        {
+            "id": 13862,
+            "answer": "Schalke 04",
+            "votes": 21,
+            "order": 0
+        },
+        {
+            "id": 13861,
+            "answer": "Mainz 05",
+            "votes": 21,
+            "order": 1
+        }
+    ]
+}

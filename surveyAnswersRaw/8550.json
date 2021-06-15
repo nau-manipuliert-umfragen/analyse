@@ -1,0 +1,25 @@
+{
+    "id": 3518,
+    "question": "Was halten Sie vom «Vier-Gewinnt-Duell» zwischen GC und Servette?",
+    "created_at": "2020-03-18T14:34:17+00:00",
+    "updated_at": "2021-06-14T09:35:54+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 121,
+    "answers": [
+        {
+            "id": 8550,
+            "answer": "Das ist doch eine tolle Sache",
+            "votes": 80,
+            "order": 0
+        },
+        {
+            "id": 8551,
+            "answer": "Das ist mir zu kindisch",
+            "votes": 41,
+            "order": 1
+        }
+    ]
+}

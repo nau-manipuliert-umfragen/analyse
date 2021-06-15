@@ -1,0 +1,25 @@
+{
+    "id": 8751,
+    "question": "Wird Hansi Flick die Bayern im Sommer verlassen?",
+    "created_at": "2021-04-14T12:58:45+00:00",
+    "updated_at": "2021-06-14T09:39:55+00:00",
+    "end_at": null,
+    "comment_group_id": 2107116,
+    "published_at": "2021-04-16T05:25:58+00:00",
+    "display_name": "",
+    "total": 857,
+    "answers": [
+        {
+            "id": 19946,
+            "answer": "Ja.",
+            "votes": 742,
+            "order": 0
+        },
+        {
+            "id": 19947,
+            "answer": "Nein.",
+            "votes": 115,
+            "order": 1
+        }
+    ]
+}

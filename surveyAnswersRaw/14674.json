@@ -1,0 +1,25 @@
+{
+    "id": 6317,
+    "question": "Würden Sie ein Comeback von Hirscher begrüssen?",
+    "created_at": "2020-12-14T10:34:26+00:00",
+    "updated_at": "2021-06-14T09:37:56+00:00",
+    "end_at": null,
+    "comment_group_id": 1939567,
+    "published_at": null,
+    "display_name": "",
+    "total": 214,
+    "answers": [
+        {
+            "id": 14675,
+            "answer": "Ja!",
+            "votes": 108,
+            "order": 0
+        },
+        {
+            "id": 14674,
+            "answer": "Nein, bitte nicht.",
+            "votes": 106,
+            "order": 1
+        }
+    ]
+}

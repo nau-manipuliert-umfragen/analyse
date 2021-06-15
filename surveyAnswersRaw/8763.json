@@ -1,0 +1,25 @@
+{
+    "id": 3619,
+    "question": "Was halten Sie von der Videobotschaft der Schweizer Nationalmannschaft?",
+    "created_at": "2020-03-25T19:31:27+00:00",
+    "updated_at": "2021-06-14T09:35:59+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 209,
+    "answers": [
+        {
+            "id": 8762,
+            "answer": "Es hört sich super an.",
+            "votes": 78,
+            "order": 0
+        },
+        {
+            "id": 8763,
+            "answer": "Am Gesang müssen unsere Fussballer wohl noch etwas arbeiten.",
+            "votes": 131,
+            "order": 1
+        }
+    ]
+}

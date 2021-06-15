@@ -1,0 +1,25 @@
+{
+    "id": 5343,
+    "question": "Was halten Sie von Jamies Liebes-Ultimatum an Landwirt Peter?",
+    "created_at": "2020-09-03T07:20:48+00:00",
+    "updated_at": "2021-06-14T09:37:09+00:00",
+    "end_at": null,
+    "comment_group_id": 1780023,
+    "published_at": "2020-09-03T20:00:02+00:00",
+    "display_name": "",
+    "total": 311,
+    "answers": [
+        {
+            "id": 12516,
+            "answer": "Richtig so, selbst ist die Frau!",
+            "votes": 204,
+            "order": 0
+        },
+        {
+            "id": 12517,
+            "answer": "Wenn das mal nicht bei so einem Bauern nach hinten losgeht...",
+            "votes": 107,
+            "order": 1
+        }
+    ]
+}

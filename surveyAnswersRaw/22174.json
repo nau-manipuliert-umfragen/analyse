@@ -1,0 +1,31 @@
+{
+    "id": 9783,
+    "question": "Würden Brad Pitt und Andra Day ein schönes Paar abgeben?",
+    "created_at": "2021-05-31T14:39:46+00:00",
+    "updated_at": "2021-06-14T09:40:55+00:00",
+    "end_at": null,
+    "comment_group_id": 2184088,
+    "published_at": "2021-06-01T10:57:04+00:00",
+    "display_name": "",
+    "total": 600,
+    "answers": [
+        {
+            "id": 22175,
+            "answer": "Ja, und wie!",
+            "votes": 307,
+            "order": 0
+        },
+        {
+            "id": 22174,
+            "answer": "Nein, finde ich nicht.",
+            "votes": 219,
+            "order": 1
+        },
+        {
+            "id": 22176,
+            "answer": "Er soll zu Angelina zurück!",
+            "votes": 74,
+            "order": 2
+        }
+    ]
+}

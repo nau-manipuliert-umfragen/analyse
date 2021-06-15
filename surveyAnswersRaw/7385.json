@@ -1,0 +1,25 @@
+{
+    "id": 2991,
+    "question": "Holt sich Beat Feuz die Abfahrts-Kristallkugel?",
+    "created_at": "2020-02-13T11:11:40+00:00",
+    "updated_at": "2021-06-14T09:35:32+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": "2021-03-06T11:10:48+00:00",
+    "display_name": "",
+    "total": 379,
+    "answers": [
+        {
+            "id": 7385,
+            "answer": "Ja, keiner ist besser!",
+            "votes": 328,
+            "order": 0
+        },
+        {
+            "id": 7384,
+            "answer": "Nein, der Kugelblitz scheitert.",
+            "votes": 51,
+            "order": 1
+        }
+    ]
+}

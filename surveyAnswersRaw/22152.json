@@ -1,0 +1,25 @@
+{
+    "id": 9772,
+    "question": "Glauben Sie, dass Herzogin Kate die Royals retten kann?",
+    "created_at": "2021-05-31T08:59:15+00:00",
+    "updated_at": "2021-06-14T09:40:54+00:00",
+    "end_at": null,
+    "comment_group_id": 2183504,
+    "published_at": "2021-06-03T19:31:55+00:00",
+    "display_name": "",
+    "total": 2374,
+    "answers": [
+        {
+            "id": 22152,
+            "answer": "Wenn es jemand schafft, dann sie!",
+            "votes": 1253,
+            "order": 0
+        },
+        {
+            "id": 22153,
+            "answer": "Nein, Meghan und Harry haben zu viel Schaden angerichtet!",
+            "votes": 1121,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "id": 2596,
+    "question": "Was halten Sie vom Zwischenfall?",
+    "created_at": "2020-01-17T09:59:20+00:00",
+    "updated_at": "2021-06-14T09:35:10+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 86,
+    "answers": [
+        {
+            "id": 6514,
+            "answer": "Das geht gar nicht.",
+            "votes": 24,
+            "order": 0
+        },
+        {
+            "id": 6515,
+            "answer": "Das ist lustig. Er stand am Ende ja rechtzeitig wieder auf dem Platz.",
+            "votes": 35,
+            "order": 1
+        },
+        {
+            "id": 6516,
+            "answer": "Das kann passieren.",
+            "votes": 27,
+            "order": 2
+        }
+    ]
+}

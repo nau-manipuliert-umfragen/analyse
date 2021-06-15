@@ -1,0 +1,25 @@
+{
+    "id": 6975,
+    "question": "Haben Sie noch Kontakt zu Ihren Ex-Partnern?",
+    "created_at": "2021-02-02T11:22:15+00:00",
+    "updated_at": "2021-06-14T09:38:23+00:00",
+    "end_at": null,
+    "comment_group_id": 2003871,
+    "published_at": "2021-02-02T15:02:49+00:00",
+    "display_name": "",
+    "total": 1171,
+    "answers": [
+        {
+            "id": 16107,
+            "answer": "Nein, es ist besser wenn man einen klaren Schlussstrich zieht.",
+            "votes": 797,
+            "order": 0
+        },
+        {
+            "id": 16108,
+            "answer": "Ja, wir sind noch Freunde.",
+            "votes": 374,
+            "order": 1
+        }
+    ]
+}

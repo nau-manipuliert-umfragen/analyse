@@ -1,0 +1,31 @@
+{
+    "id": 3734,
+    "question": "Wie soll die Super League bei einem möglichen Abbruch entscheiden?",
+    "created_at": "2020-04-03T09:01:47+00:00",
+    "updated_at": "2021-06-14T09:36:03+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 836,
+    "answers": [
+        {
+            "id": 9007,
+            "answer": "Kein Meister",
+            "votes": 345,
+            "order": 0
+        },
+        {
+            "id": 9008,
+            "answer": "St.Gallen kriegt als Erster den Titel",
+            "votes": 316,
+            "order": 1
+        },
+        {
+            "id": 9009,
+            "answer": "YB wird's als Wintermeister",
+            "votes": 175,
+            "order": 2
+        }
+    ]
+}

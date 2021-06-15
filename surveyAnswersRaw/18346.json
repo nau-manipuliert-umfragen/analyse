@@ -1,0 +1,25 @@
+{
+    "id": 7985,
+    "question": "Haben Sie Ihre Mallorca-Ferien schon gebucht?",
+    "created_at": "2021-03-15T02:26:21+00:00",
+    "updated_at": "2021-06-14T09:39:14+00:00",
+    "end_at": null,
+    "comment_group_id": 2062716,
+    "published_at": "2021-03-15T02:37:20+00:00",
+    "display_name": "",
+    "total": 1726,
+    "answers": [
+        {
+            "id": 18347,
+            "answer": "Ja, natürlich!",
+            "votes": 753,
+            "order": 0
+        },
+        {
+            "id": 18346,
+            "answer": "Nein, gehts noch?",
+            "votes": 973,
+            "order": 1
+        }
+    ]
+}

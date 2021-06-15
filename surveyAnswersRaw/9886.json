@@ -1,0 +1,25 @@
+{
+    "id": 4138,
+    "question": "Finden Sie die 6-Millionen-Spende für die Tennisprofis gerecht?",
+    "created_at": "2020-05-06T05:40:50+00:00",
+    "updated_at": "2021-06-14T09:36:20+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 78,
+    "answers": [
+        {
+            "id": 9886,
+            "answer": "Ja",
+            "votes": 38,
+            "order": 0
+        },
+        {
+            "id": 9887,
+            "answer": "Nein",
+            "votes": 40,
+            "order": 1
+        }
+    ]
+}

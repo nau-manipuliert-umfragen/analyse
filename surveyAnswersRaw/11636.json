@@ -1,0 +1,25 @@
+{
+    "id": 4945,
+    "question": "Wird der AC Milan nächste Saison europäisch spielen?",
+    "created_at": "2020-07-20T08:40:05+00:00",
+    "updated_at": "2021-06-14T09:36:54+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 42,
+    "answers": [
+        {
+            "id": 11636,
+            "answer": "Ja",
+            "votes": 21,
+            "order": 0
+        },
+        {
+            "id": 11635,
+            "answer": "Nein",
+            "votes": 21,
+            "order": 1
+        }
+    ]
+}

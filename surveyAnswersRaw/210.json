@@ -1,0 +1,25 @@
+{
+    "id": 84,
+    "question": "Ist der Rauswurf von Trainer und Sportchef richtig?",
+    "created_at": "2017-10-16T13:17:53+00:00",
+    "updated_at": "2021-06-14T10:16:44+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 48,
+    "answers": [
+        {
+            "id": 210,
+            "answer": "Ja",
+            "votes": 25,
+            "order": 100
+        },
+        {
+            "id": 212,
+            "answer": "Nein",
+            "votes": 23,
+            "order": 100
+        }
+    ]
+}

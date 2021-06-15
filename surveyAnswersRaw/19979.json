@@ -1,0 +1,25 @@
+{
+    "id": 8766,
+    "question": "Trauen Sie den Ergebnissen einer Studie mit weniger als 100 Probanden?",
+    "created_at": "2021-04-15T10:51:16+00:00",
+    "updated_at": "2021-04-20T06:41:54+00:00",
+    "end_at": "2021-04-20T10:00:00+00:00",
+    "comment_group_id": 2108622,
+    "published_at": "2021-04-18T17:00:04+00:00",
+    "display_name": "",
+    "total": 747,
+    "answers": [
+        {
+            "id": 19979,
+            "answer": "Ja klar, die Forschenden wissen, was sie tun.",
+            "votes": 134,
+            "order": 0
+        },
+        {
+            "id": 19980,
+            "answer": "Nein, da ist mir die Aussagekraft zu klein.",
+            "votes": 613,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 7078,
+    "question": "Wer setzt sich im Sechzehntelfinal durch?",
+    "created_at": "2021-02-07T09:45:59+00:00",
+    "updated_at": "2021-06-14T10:24:56+00:00",
+    "end_at": null,
+    "comment_group_id": 2010962,
+    "published_at": "2021-02-07T09:56:02+00:00",
+    "display_name": "",
+    "total": 121,
+    "answers": [
+        {
+            "id": 16344,
+            "answer": "YB schafft die Überraschung!",
+            "votes": 73,
+            "order": 0
+        },
+        {
+            "id": 16343,
+            "answer": "Bayer Leverkusen gewinnt das Duell.",
+            "votes": 48,
+            "order": 1
+        }
+    ]
+}

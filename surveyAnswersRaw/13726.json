@@ -1,0 +1,25 @@
+{
+    "id": 5895,
+    "question": "Wer denken Sie wird den Sorgerechtsstreit gewinnen?",
+    "created_at": "2020-10-29T09:14:14+00:00",
+    "updated_at": "2021-06-14T09:37:34+00:00",
+    "end_at": null,
+    "comment_group_id": 1874318,
+    "published_at": "2020-10-29T14:05:11+00:00",
+    "display_name": "",
+    "total": 121,
+    "answers": [
+        {
+            "id": 13726,
+            "answer": "Ganz klar Angelina! Die Kids wohnen ja aktuell bei ihr.",
+            "votes": 36,
+            "order": 0
+        },
+        {
+            "id": 13727,
+            "answer": "Brad wird das Gericht von sich überzeugen.",
+            "votes": 85,
+            "order": 1
+        }
+    ]
+}

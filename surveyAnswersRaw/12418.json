@@ -1,0 +1,25 @@
+{
+    "id": 5299,
+    "question": "Spielt Lionel Messi demnächst für Manchester City?",
+    "created_at": "2020-08-30T11:07:16+00:00",
+    "updated_at": "2020-11-20T15:29:52+00:00",
+    "end_at": "2020-08-30T11:07:20+00:00",
+    "comment_group_id": 1773835,
+    "published_at": "2020-11-20T15:29:51+00:00",
+    "display_name": "",
+    "total": 40,
+    "answers": [
+        {
+            "id": 12419,
+            "answer": "Ja",
+            "votes": 20,
+            "order": 0
+        },
+        {
+            "id": 12418,
+            "answer": "Nein",
+            "votes": 20,
+            "order": 1
+        }
+    ]
+}

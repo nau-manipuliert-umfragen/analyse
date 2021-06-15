@@ -1,0 +1,25 @@
+{
+    "id": 9046,
+    "question": "Nehmen Sie ein pflanzliches Produkt, wenn Sie vor dem Fleischregal stehen?",
+    "created_at": "2021-04-27T14:55:37+00:00",
+    "updated_at": "2021-06-14T10:02:38+00:00",
+    "end_at": null,
+    "comment_group_id": 2127882,
+    "published_at": "2021-04-27T18:38:15+00:00",
+    "display_name": "",
+    "total": 1133,
+    "answers": [
+        {
+            "id": 20581,
+            "answer": "Ja, ist eine gute Alternative!",
+            "votes": 464,
+            "order": 0
+        },
+        {
+            "id": 20582,
+            "answer": "Nein, dann will ich Fleisch.",
+            "votes": 669,
+            "order": 1
+        }
+    ]
+}

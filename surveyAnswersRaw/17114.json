@@ -1,0 +1,31 @@
+{
+    "id": 7416,
+    "question": "Gibt es heute eine Medaille für die Schweiz?",
+    "created_at": "2021-02-18T17:47:10+00:00",
+    "updated_at": "2021-06-14T10:25:14+00:00",
+    "end_at": null,
+    "comment_group_id": 2028684,
+    "published_at": "2021-02-19T06:47:18+00:00",
+    "display_name": "",
+    "total": 113,
+    "answers": [
+        {
+            "id": 17112,
+            "answer": "Ja, Marco Odermatt holt Gold!",
+            "votes": 36,
+            "order": 0
+        },
+        {
+            "id": 17113,
+            "answer": "Ja, Edelmetall gibts auf jeden Fall.",
+            "votes": 47,
+            "order": 1
+        },
+        {
+            "id": 17114,
+            "answer": "Nein, die Schweizer gehen leer aus.",
+            "votes": 30,
+            "order": 2
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "id": 5962,
+    "question": "Wer wird spanischer Meister 2020/21?",
+    "created_at": "2020-11-05T11:48:50+00:00",
+    "updated_at": "2021-06-14T09:37:37+00:00",
+    "end_at": null,
+    "comment_group_id": 1886577,
+    "published_at": "2020-12-12T21:51:04+00:00",
+    "display_name": "",
+    "total": 538,
+    "answers": [
+        {
+            "id": 13877,
+            "answer": "Real Sociedad San Sebastian",
+            "votes": 89,
+            "order": 0
+        },
+        {
+            "id": 13878,
+            "answer": "Real Madrid",
+            "votes": 234,
+            "order": 1
+        },
+        {
+            "id": 13876,
+            "answer": "FC Barcelona",
+            "votes": 87,
+            "order": 2
+        },
+        {
+            "id": 13879,
+            "answer": "Atlético Madrid",
+            "votes": 80,
+            "order": 3
+        },
+        {
+            "id": 13875,
+            "answer": "Ein anderer Verein",
+            "votes": 48,
+            "order": 4
+        }
+    ]
+}

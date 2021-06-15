@@ -1,0 +1,25 @@
+{
+    "id": 3760,
+    "question": "Was sagen Sie zum Jahrestag-Post des Ex-Bachelors?",
+    "created_at": "2020-04-05T09:54:46+00:00",
+    "updated_at": "2021-06-14T09:36:05+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 132,
+    "answers": [
+        {
+            "id": 9067,
+            "answer": "Humor hat er ja, der Rafael Beutl.",
+            "votes": 73,
+            "order": 0
+        },
+        {
+            "id": 9068,
+            "answer": "Ich habe nur noch Augen und Ohren für die Coronakrise, sorry!",
+            "votes": 59,
+            "order": 1
+        }
+    ]
+}

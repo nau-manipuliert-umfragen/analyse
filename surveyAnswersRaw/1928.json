@@ -1,0 +1,37 @@
+{
+    "id": 665,
+    "question": "War die Intervention von Benatia gegen Vázquez penaltywürdig oder nicht?",
+    "created_at": "2018-04-11T22:24:09+00:00",
+    "updated_at": "2021-06-14T09:34:03+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 268,
+    "answers": [
+        {
+            "id": 1928,
+            "answer": "Ja, glasklarer Elfer!",
+            "votes": 69,
+            "order": 100
+        },
+        {
+            "id": 1931,
+            "answer": "Ja, hätte man aber nicht unbedingt pfeifen müssen.",
+            "votes": 70,
+            "order": 100
+        },
+        {
+            "id": 1934,
+            "answer": "Nein, das war eher kein Penalty.",
+            "votes": 73,
+            "order": 100
+        },
+        {
+            "id": 1937,
+            "answer": "Nein, wie kann man hier auf Elfmeter entscheiden?",
+            "votes": 56,
+            "order": 100
+        }
+    ]
+}

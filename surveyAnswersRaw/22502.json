@@ -1,0 +1,25 @@
+{
+    "id": 9936,
+    "question": "Wie gefällt Ihnen der Name Lilibet Diana?",
+    "created_at": "2021-06-07T12:49:32+00:00",
+    "updated_at": "2021-06-14T10:25:42+00:00",
+    "end_at": null,
+    "comment_group_id": 2194442,
+    "published_at": "2021-06-09T07:57:34+00:00",
+    "display_name": "",
+    "total": 3449,
+    "answers": [
+        {
+            "id": 22503,
+            "answer": "Finde ihn mega herzig!",
+            "votes": 1892,
+            "order": 0
+        },
+        {
+            "id": 22502,
+            "answer": "Klingt wie aus einem schlechten Film.",
+            "votes": 1557,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 7440,
+    "question": "Denken Sie, Harry und Meghans Kinder werden in Kalifornien vereinsamen?",
+    "created_at": "2021-02-19T13:12:51+00:00",
+    "updated_at": "2021-06-14T09:38:47+00:00",
+    "end_at": null,
+    "comment_group_id": 2029818,
+    "published_at": "2021-02-21T08:00:10+00:00",
+    "display_name": "",
+    "total": 591,
+    "answers": [
+        {
+            "id": 17166,
+            "answer": "Nein, in der Schule finden sie sicher das ein oder andere Gspänli.",
+            "votes": 292,
+            "order": 0
+        },
+        {
+            "id": 17167,
+            "answer": "Oh ja, deshalb sollen sie mit ihren Cousins in London leben!",
+            "votes": 299,
+            "order": 1
+        }
+    ]
+}

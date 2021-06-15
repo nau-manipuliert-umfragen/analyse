@@ -1,0 +1,31 @@
+{
+    "id": 6531,
+    "question": "Sollten die Sussex' ihre Titel abgeben?",
+    "created_at": "2021-01-05T12:21:25+00:00",
+    "updated_at": "2021-06-14T09:38:05+00:00",
+    "end_at": null,
+    "comment_group_id": 1964486,
+    "published_at": "2021-01-06T09:03:32+00:00",
+    "display_name": "",
+    "total": 1066,
+    "answers": [
+        {
+            "id": 15150,
+            "answer": "Ja, sie wollen damit nur Geld machen.",
+            "votes": 728,
+            "order": 0
+        },
+        {
+            "id": 15151,
+            "answer": "Nein, sie gehören weiterhin zur Familie.",
+            "votes": 137,
+            "order": 1
+        },
+        {
+            "id": 15152,
+            "answer": "Das muss die Queen entscheiden ...",
+            "votes": 201,
+            "order": 2
+        }
+    ]
+}

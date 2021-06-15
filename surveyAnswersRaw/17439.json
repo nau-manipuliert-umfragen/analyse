@@ -1,0 +1,25 @@
+{
+    "id": 7564,
+    "question": "Schauen Sie «Die Simpsons»?",
+    "created_at": "2021-02-24T14:10:49+00:00",
+    "updated_at": "2021-06-14T09:38:52+00:00",
+    "end_at": null,
+    "comment_group_id": 2036399,
+    "published_at": "2021-02-24T16:00:37+00:00",
+    "display_name": "",
+    "total": 187,
+    "answers": [
+        {
+            "id": 17439,
+            "answer": "Ja, für mich eine der besten Serien!",
+            "votes": 108,
+            "order": 0
+        },
+        {
+            "id": 17438,
+            "answer": "Nein, schon lange nicht mehr!",
+            "votes": 79,
+            "order": 1
+        }
+    ]
+}

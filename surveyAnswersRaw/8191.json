@@ -1,0 +1,25 @@
+{
+    "id": 3353,
+    "question": "Kann Borussia Dortmund Deutscher Fussball-Meister werden?",
+    "created_at": "2020-03-07T19:15:25+00:00",
+    "updated_at": "2021-06-14T09:35:48+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 137,
+    "answers": [
+        {
+            "id": 8192,
+            "answer": "Ja, der BVB hat eine Meister-Mannschaft.",
+            "votes": 81,
+            "order": 0
+        },
+        {
+            "id": 8191,
+            "answer": "Nein, es reicht auch in diesem Jahr nicht.",
+            "votes": 56,
+            "order": 1
+        }
+    ]
+}

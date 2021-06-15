@@ -1,0 +1,31 @@
+{
+    "id": 602,
+    "question": "Benutzen Sie Dropbox?",
+    "created_at": "2018-03-24T00:49:18+00:00",
+    "updated_at": "2021-06-14T09:34:01+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 64,
+    "answers": [
+        {
+            "id": 1763,
+            "answer": "Was genau ist Dropbox?",
+            "votes": 21,
+            "order": 100
+        },
+        {
+            "id": 1766,
+            "answer": "Es gibt zu viele Speicher-Dienste, da wird mir schwindelig.",
+            "votes": 21,
+            "order": 100
+        },
+        {
+            "id": 1769,
+            "answer": "Natürlich, ich bin dem Speicher-Pionier stets treu geblieben!",
+            "votes": 22,
+            "order": 100
+        }
+    ]
+}

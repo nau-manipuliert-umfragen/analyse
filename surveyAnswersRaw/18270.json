@@ -1,0 +1,25 @@
+{
+    "id": 7947,
+    "question": "Haben Sie Mitleid mit Harry und Meghan?",
+    "created_at": "2021-03-12T12:09:59+00:00",
+    "updated_at": "2021-06-14T09:39:13+00:00",
+    "end_at": null,
+    "comment_group_id": 2059802,
+    "published_at": "2021-03-13T13:27:29+00:00",
+    "display_name": "",
+    "total": 4636,
+    "answers": [
+        {
+            "id": 18270,
+            "answer": "Nein, die beiden sind reich und privilegiert.",
+            "votes": 3986,
+            "order": 0
+        },
+        {
+            "id": 18269,
+            "answer": "Ja, sie werden weltweit gemobbt!",
+            "votes": 650,
+            "order": 1
+        }
+    ]
+}

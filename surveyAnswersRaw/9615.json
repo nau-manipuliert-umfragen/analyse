@@ -1,0 +1,25 @@
+{
+    "id": 4016,
+    "question": "Sind Sie zufrieden mit Bernhard Burgeners Arbeit als Präsident des FCB?",
+    "created_at": "2020-04-26T14:39:33+00:00",
+    "updated_at": "2021-06-14T09:36:15+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": "2020-09-06T17:40:46+00:00",
+    "display_name": "",
+    "total": 1186,
+    "answers": [
+        {
+            "id": 9615,
+            "answer": "Ja, er macht seinen Job",
+            "votes": 234,
+            "order": 0
+        },
+        {
+            "id": 9614,
+            "answer": "Nein, es braucht dringend einen neuen Präsidenten",
+            "votes": 952,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 8419,
+    "question": "Hat sich Ihr Kaufverhalten seit der Corona-Krise verändert?",
+    "created_at": "2021-03-30T14:15:48+00:00",
+    "updated_at": "2021-03-31T11:57:21+00:00",
+    "end_at": "2021-03-31T14:15:45+00:00",
+    "comment_group_id": 2086167,
+    "published_at": "2021-03-30T17:33:37+00:00",
+    "display_name": "",
+    "total": 178,
+    "answers": [
+        {
+            "id": 19257,
+            "answer": "Ja, ich kaufe mehr online ein.",
+            "votes": 60,
+            "order": 0
+        },
+        {
+            "id": 19258,
+            "answer": "Nein, ich bleibe dem Detailhandel treu.",
+            "votes": 118,
+            "order": 1
+        }
+    ]
+}

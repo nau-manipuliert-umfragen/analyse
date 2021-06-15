@@ -1,0 +1,31 @@
+{
+    "id": 4341,
+    "question": "Was halten Sie von einer Testpflicht für die Teams der Super League?",
+    "created_at": "2020-05-24T15:31:12+00:00",
+    "updated_at": "2021-06-14T09:36:30+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 171,
+    "answers": [
+        {
+            "id": 10329,
+            "answer": "Das sollte sofort eingeführt werden",
+            "votes": 95,
+            "order": 0
+        },
+        {
+            "id": 10327,
+            "answer": "Da bin ich dagegen, die Tests werden sonst gebraucht",
+            "votes": 40,
+            "order": 1
+        },
+        {
+            "id": 10328,
+            "answer": "Ist mir egal",
+            "votes": 36,
+            "order": 2
+        }
+    ]
+}

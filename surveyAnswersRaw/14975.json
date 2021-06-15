@@ -1,0 +1,25 @@
+{
+    "id": 6455,
+    "question": "Singen trotz Corona?",
+    "created_at": "2020-12-26T10:52:28+00:00",
+    "updated_at": "2021-06-14T09:38:02+00:00",
+    "end_at": null,
+    "comment_group_id": 1954696,
+    "published_at": "2020-12-26T16:31:11+00:00",
+    "display_name": "",
+    "total": 431,
+    "answers": [
+        {
+            "id": 14976,
+            "answer": "Geht gar nicht ...",
+            "votes": 187,
+            "order": 0
+        },
+        {
+            "id": 14975,
+            "answer": "Das muss jeder für sich wissen.",
+            "votes": 244,
+            "order": 1
+        }
+    ]
+}

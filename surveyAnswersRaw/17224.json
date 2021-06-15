@@ -1,0 +1,25 @@
+{
+    "id": 7468,
+    "question": "Die Schweiz holt an der WM in Cortina neun Medaillen. Ein gutes Ergebnis?",
+    "created_at": "2021-02-21T12:39:29+00:00",
+    "updated_at": "2021-06-14T09:38:48+00:00",
+    "end_at": null,
+    "comment_group_id": 2031759,
+    "published_at": "2021-02-23T06:59:40+00:00",
+    "display_name": "",
+    "total": 206,
+    "answers": [
+        {
+            "id": 17223,
+            "answer": "Ja, das ist doch hervorragend.",
+            "votes": 135,
+            "order": 0
+        },
+        {
+            "id": 17224,
+            "answer": "Nein, da wäre deutlich mehr möglich gewesen.",
+            "votes": 71,
+            "order": 1
+        }
+    ]
+}

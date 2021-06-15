@@ -1,0 +1,31 @@
+{
+    "id": 9682,
+    "question": "Wie spielt die Schweiz im ersten EM-Gruppenspiel gegen Wales?",
+    "created_at": "2021-05-25T12:29:08+00:00",
+    "updated_at": "2021-06-14T09:40:49+00:00",
+    "end_at": null,
+    "comment_group_id": 2174899,
+    "published_at": "2021-06-03T04:57:50+00:00",
+    "display_name": "",
+    "total": 552,
+    "answers": [
+        {
+            "id": 21944,
+            "answer": "Die Schweizer starten mit einem Sieg!",
+            "votes": 267,
+            "order": 0
+        },
+        {
+            "id": 21943,
+            "answer": "Das Spiel geht unentschieden aus.",
+            "votes": 115,
+            "order": 1
+        },
+        {
+            "id": 21945,
+            "answer": "Wales ist zu stark, die Schweizer verlieren.",
+            "votes": 170,
+            "order": 2
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 6714,
+    "question": "Wie gefällt Ihnen der Gastbeitrag von Kyriacou?",
+    "created_at": "2021-01-18T14:21:21+00:00",
+    "updated_at": "2021-06-14T09:38:12+00:00",
+    "end_at": null,
+    "comment_group_id": 1982610,
+    "published_at": "2021-01-19T19:35:50+00:00",
+    "display_name": "",
+    "total": 473,
+    "answers": [
+        {
+            "id": 15538,
+            "answer": "Gut.",
+            "votes": 211,
+            "order": 0
+        },
+        {
+            "id": 15539,
+            "answer": "Schlecht.",
+            "votes": 262,
+            "order": 1
+        }
+    ]
+}

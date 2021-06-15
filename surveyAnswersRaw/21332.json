@@ -1,0 +1,25 @@
+{
+    "id": 9395,
+    "question": "Ist die Entscheidung von van Dijk richtig?",
+    "created_at": "2021-05-12T13:00:08+00:00",
+    "updated_at": "2021-06-14T09:40:31+00:00",
+    "end_at": null,
+    "comment_group_id": 2153798,
+    "published_at": "2021-05-12T13:06:37+00:00",
+    "display_name": "",
+    "total": 78,
+    "answers": [
+        {
+            "id": 21332,
+            "answer": "Ja, der Club und die Regeneration gehen vor.",
+            "votes": 50,
+            "order": 0
+        },
+        {
+            "id": 21333,
+            "answer": "Nein, nichts ist wichtiger als die EM.",
+            "votes": 28,
+            "order": 1
+        }
+    ]
+}

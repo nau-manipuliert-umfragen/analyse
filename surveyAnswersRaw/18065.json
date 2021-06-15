@@ -1,0 +1,25 @@
+{
+    "id": 7848,
+    "question": "Holt sich Inter Mailand in diesem Jahr den Titel in der Serie A?",
+    "created_at": "2021-03-08T21:45:47+00:00",
+    "updated_at": "2021-06-14T09:39:07+00:00",
+    "end_at": null,
+    "comment_group_id": 2054127,
+    "published_at": "2021-03-14T17:46:20+00:00",
+    "display_name": "",
+    "total": 105,
+    "answers": [
+        {
+            "id": 18065,
+            "answer": "Ja",
+            "votes": 71,
+            "order": 0
+        },
+        {
+            "id": 18064,
+            "answer": "Nein",
+            "votes": 34,
+            "order": 1
+        }
+    ]
+}

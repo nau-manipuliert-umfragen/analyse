@@ -1,0 +1,25 @@
+{
+    "id": 9223,
+    "question": "Sind Sie schon mal mit offener Hose vor Leuten gestanden?",
+    "created_at": "2021-05-04T14:43:44+00:00",
+    "updated_at": "2021-06-14T09:40:22+00:00",
+    "end_at": null,
+    "comment_group_id": 2140010,
+    "published_at": "2021-05-05T07:08:06+00:00",
+    "display_name": "",
+    "total": 2075,
+    "answers": [
+        {
+            "id": 20966,
+            "answer": "Nein, ich prüfe immer zweimal!",
+            "votes": 819,
+            "order": 0
+        },
+        {
+            "id": 20965,
+            "answer": "Ja, es war so peinlich!",
+            "votes": 1256,
+            "order": 1
+        }
+    ]
+}

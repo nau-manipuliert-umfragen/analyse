@@ -1,0 +1,25 @@
+{
+    "id": 7369,
+    "question": "Australian Open: Wer gewinnt den Halbfinal.",
+    "created_at": "2021-02-17T13:07:43+00:00",
+    "updated_at": "2021-06-14T09:38:44+00:00",
+    "end_at": null,
+    "comment_group_id": 2026282,
+    "published_at": "2021-02-17T13:23:14+00:00",
+    "display_name": "",
+    "total": 59,
+    "answers": [
+        {
+            "id": 17012,
+            "answer": "Favorit Novak Djokovic",
+            "votes": 38,
+            "order": 0
+        },
+        {
+            "id": 17011,
+            "answer": "Aussenseiter Aslan Karazew",
+            "votes": 21,
+            "order": 1
+        }
+    ]
+}

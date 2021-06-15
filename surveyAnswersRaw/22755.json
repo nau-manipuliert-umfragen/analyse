@@ -1,0 +1,25 @@
+{
+    "id": 10052,
+    "question": "Können Sie das Security-Team-Aufgebot von Meghan verstehen?",
+    "created_at": "2021-06-11T14:42:10+00:00",
+    "updated_at": "2021-06-14T10:26:49+00:00",
+    "end_at": null,
+    "comment_group_id": 2203102,
+    "published_at": "2021-06-13T17:39:07+00:00",
+    "display_name": "",
+    "total": 1277,
+    "answers": [
+        {
+            "id": 22755,
+            "answer": "Nein, die übertreibt masslos.",
+            "votes": 1120,
+            "order": 0
+        },
+        {
+            "id": 22754,
+            "answer": "Ja, klar, ich würde mir auch Sorgen machen.",
+            "votes": 157,
+            "order": 1
+        }
+    ]
+}

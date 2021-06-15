@@ -1,0 +1,31 @@
+{
+    "id": 4254,
+    "question": "Spielen Sie auch Poker?",
+    "created_at": "2020-05-15T17:14:50+00:00",
+    "updated_at": "2021-06-14T09:36:26+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 128,
+    "answers": [
+        {
+            "id": 10133,
+            "answer": "Klar, und ich liebe das Spiel.",
+            "votes": 31,
+            "order": 0
+        },
+        {
+            "id": 10134,
+            "answer": "Nein, ich habe Glück in der Liebe.",
+            "votes": 56,
+            "order": 1
+        },
+        {
+            "id": 10135,
+            "answer": "Nur selten, und wenn, dann ohne Einsatz.",
+            "votes": 41,
+            "order": 2
+        }
+    ]
+}

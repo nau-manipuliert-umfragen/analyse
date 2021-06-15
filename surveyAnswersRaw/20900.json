@@ -1,0 +1,31 @@
+{
+    "id": 9191,
+    "question": "Sind Kryptowährungen die Zukunft des Bezahlens?",
+    "created_at": "2021-05-03T15:07:30+00:00",
+    "updated_at": "2021-06-14T09:40:21+00:00",
+    "end_at": null,
+    "comment_group_id": 2137932,
+    "published_at": null,
+    "display_name": "",
+    "total": 89,
+    "answers": [
+        {
+            "id": 20899,
+            "answer": "Ja, physisches Geld ist ja sowieso beriets am Verschwinden.",
+            "votes": 38,
+            "order": 0
+        },
+        {
+            "id": 20900,
+            "answer": "Nein, das ist nur ein Trend, welcher wieder vergeht.",
+            "votes": 25,
+            "order": 1
+        },
+        {
+            "id": 20898,
+            "answer": "Eher nicht, Kryptowährungen werden wohl immer ein Nischenphänomen bleiben.",
+            "votes": 26,
+            "order": 2
+        }
+    ]
+}

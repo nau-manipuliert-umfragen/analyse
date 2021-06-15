@@ -1,0 +1,25 @@
+{
+    "id": 8882,
+    "question": "Trauen Sie den Schalkern den sofortigen Wiederaufstieg zu?",
+    "created_at": "2021-04-20T12:13:53+00:00",
+    "updated_at": "2021-06-14T09:40:02+00:00",
+    "end_at": null,
+    "comment_group_id": 2115806,
+    "published_at": "2021-04-21T08:52:49+00:00",
+    "display_name": "",
+    "total": 342,
+    "answers": [
+        {
+            "id": 20225,
+            "answer": "Ja, sie gehören ins Oberhaus.",
+            "votes": 95,
+            "order": 0
+        },
+        {
+            "id": 20224,
+            "answer": "Nein, Königsblau bleibt ein paar Jahre unten.",
+            "votes": 247,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "id": 1423,
+    "question": "Neymar kommt oft unter die Räder, übertreibt dabei jedoch immer wieder. Was denken Sie dazu?",
+    "created_at": "2018-07-05T00:09:51+00:00",
+    "updated_at": "2021-06-14T10:20:37+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 246,
+    "answers": [
+        {
+            "id": 3868,
+            "answer": "Ganz ehrlich, ich verstehe ihn. Wer so oft gefoult wird, muss sich eben irgendwie schützen.",
+            "votes": 30,
+            "order": 100
+        },
+        {
+            "id": 3871,
+            "answer": "#TeamNeymar! Was er alles einstecken muss! Und dann lacht man auch noch über ihn.",
+            "votes": 26,
+            "order": 100
+        },
+        {
+            "id": 3874,
+            "answer": "Neymar ist unbestritten genial, aber ich schaue ihm wegen seiner Theatralik nicht gerne zu.",
+            "votes": 79,
+            "order": 100
+        },
+        {
+            "id": 3877,
+            "answer": "Das geht gar nicht! Fussball ist ein Kontaktsport, da muss man auch einstecken können.",
+            "votes": 111,
+            "order": 100
+        }
+    ]
+}

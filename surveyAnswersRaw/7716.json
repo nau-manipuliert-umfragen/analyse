@@ -1,0 +1,25 @@
+{
+    "id": 3141,
+    "question": "Wie lange hält das Hoch von Kevin Fiala noch an?",
+    "created_at": "2020-02-22T06:29:00+00:00",
+    "updated_at": "2021-06-14T09:35:39+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 58,
+    "answers": [
+        {
+            "id": 7716,
+            "answer": "Ewig! Der Schweizer führt Minnesota in die NHL-Playoffs.",
+            "votes": 33,
+            "order": 0
+        },
+        {
+            "id": 7717,
+            "answer": "Nur noch bis Ende Monat.",
+            "votes": 25,
+            "order": 1
+        }
+    ]
+}

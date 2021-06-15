@@ -1,0 +1,25 @@
+{
+    "id": 4337,
+    "question": "Was sagen Sie zu Khloé Kardashians neuem Look?",
+    "created_at": "2020-05-24T09:35:20+00:00",
+    "updated_at": "2021-06-14T09:36:30+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 198,
+    "answers": [
+        {
+            "id": 10318,
+            "answer": "Top, sieht spitze aus!",
+            "votes": 103,
+            "order": 0
+        },
+        {
+            "id": 10317,
+            "answer": "Oh nein!!",
+            "votes": 95,
+            "order": 1
+        }
+    ]
+}

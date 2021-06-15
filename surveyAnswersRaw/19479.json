@@ -1,0 +1,25 @@
+{
+    "id": 8526,
+    "question": "Würden Sie das Haus Ihres Ex-Mannes/Ihrer Ex-Frau besetzen?",
+    "created_at": "2021-04-05T12:39:25+00:00",
+    "updated_at": "2021-06-14T09:39:43+00:00",
+    "end_at": null,
+    "comment_group_id": 2093190,
+    "published_at": "2021-04-06T06:15:47+00:00",
+    "display_name": "",
+    "total": 1499,
+    "answers": [
+        {
+            "id": 19480,
+            "answer": "Wenn ich sonst obdachlos wäre, ja.",
+            "votes": 305,
+            "order": 0
+        },
+        {
+            "id": 19479,
+            "answer": "Nein, das gehört sich nicht.",
+            "votes": 1194,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 9324,
+    "question": "Trauen Sie dem FC Sion den Klassenerhalt zu?",
+    "created_at": "2021-05-09T18:24:07+00:00",
+    "updated_at": "2021-06-14T09:40:28+00:00",
+    "end_at": null,
+    "comment_group_id": 2149296,
+    "published_at": "2021-05-21T09:58:49+00:00",
+    "display_name": "",
+    "total": 953,
+    "answers": [
+        {
+            "id": 21179,
+            "answer": "Ja",
+            "votes": 488,
+            "order": 0
+        },
+        {
+            "id": 21178,
+            "answer": "Nein",
+            "votes": 465,
+            "order": 1
+        }
+    ]
+}

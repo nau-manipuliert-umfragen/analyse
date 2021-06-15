@@ -1,0 +1,25 @@
+{
+    "id": 2392,
+    "question": "Stimmen Sie den Noten für die Spieler zu?",
+    "created_at": "2019-07-22T07:05:46+00:00",
+    "updated_at": "2021-06-14T09:34:59+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 182,
+    "answers": [
+        {
+            "id": 6029,
+            "answer": "Nein",
+            "votes": 67,
+            "order": 100
+        },
+        {
+            "id": 6030,
+            "answer": "Ja",
+            "votes": 115,
+            "order": 100
+        }
+    ]
+}

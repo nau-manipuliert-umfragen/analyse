@@ -1,0 +1,25 @@
+{
+    "id": 9116,
+    "question": "Wen wünschen Sie sich als neuen Boss beim FC Basel?",
+    "created_at": "2021-04-30T08:37:26+00:00",
+    "updated_at": "2021-06-14T09:40:17+00:00",
+    "end_at": null,
+    "comment_group_id": 2133144,
+    "published_at": "2021-04-30T09:23:00+00:00",
+    "display_name": "",
+    "total": 626,
+    "answers": [
+        {
+            "id": 20734,
+            "answer": "Bernhard Burgener",
+            "votes": 324,
+            "order": 0
+        },
+        {
+            "id": 20733,
+            "answer": "David Degen",
+            "votes": 302,
+            "order": 1
+        }
+    ]
+}

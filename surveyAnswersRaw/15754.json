@@ -1,0 +1,25 @@
+{
+    "id": 6810,
+    "question": "Sind Sie mit der Berichterstattung von SRF zufrieden?",
+    "created_at": "2021-01-25T09:06:12+00:00",
+    "updated_at": "2021-06-14T10:24:44+00:00",
+    "end_at": null,
+    "comment_group_id": 1991858,
+    "published_at": "2021-01-25T10:30:57+00:00",
+    "display_name": "",
+    "total": 1101,
+    "answers": [
+        {
+            "id": 15754,
+            "answer": "Nein, sie ist mir zu wenig neutral!",
+            "votes": 377,
+            "order": 0
+        },
+        {
+            "id": 15753,
+            "answer": "Ja, bessere News gibt es nirgends auf der Welt!",
+            "votes": 724,
+            "order": 1
+        }
+    ]
+}

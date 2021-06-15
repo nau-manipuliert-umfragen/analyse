@@ -1,0 +1,25 @@
+{
+    "id": 5881,
+    "question": "Was halten Sie von einer europäischen Superliga?",
+    "created_at": "2020-10-28T06:04:03+00:00",
+    "updated_at": "2021-06-14T09:37:33+00:00",
+    "end_at": null,
+    "comment_group_id": 1872017,
+    "published_at": "2020-10-28T09:53:39+00:00",
+    "display_name": "",
+    "total": 177,
+    "answers": [
+        {
+            "id": 13695,
+            "answer": "Das wäre super!",
+            "votes": 48,
+            "order": 0
+        },
+        {
+            "id": 13696,
+            "answer": "Da bin ich dagegen.",
+            "votes": 129,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 7064,
+    "question": "Ist Bolingi der richtige Ersatz für Aldin Turkes?",
+    "created_at": "2021-02-05T14:34:32+00:00",
+    "updated_at": "2021-06-14T10:24:56+00:00",
+    "end_at": null,
+    "comment_group_id": 2009360,
+    "published_at": null,
+    "display_name": "",
+    "total": 43,
+    "answers": [
+        {
+            "id": 16313,
+            "answer": "Ja, der bullige Stürmer wird in Lausanne viele Tore schiessen.",
+            "votes": 21,
+            "order": 0
+        },
+        {
+            "id": 16312,
+            "answer": "Nein, ein Spieler mit Super-League Erfahrung hätte mehr gepasst.",
+            "votes": 22,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 4799,
+    "question": "Glauben Sie die Ski-WM kann im Jahr 2021 wie geplant stattfinden?",
+    "created_at": "2020-07-02T15:35:56+00:00",
+    "updated_at": "2021-06-14T09:36:48+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 59,
+    "answers": [
+        {
+            "id": 11311,
+            "answer": "Ja, die Durchführung wird kein Problem.",
+            "votes": 32,
+            "order": 0
+        },
+        {
+            "id": 11312,
+            "answer": "Nein, die zweite Welle kommt.",
+            "votes": 27,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 5565,
+    "question": "Wäre Andi Zeqiri in der Premier League gut aufgehoben?",
+    "created_at": "2020-09-27T22:08:35+00:00",
+    "updated_at": "2021-06-14T09:37:18+00:00",
+    "end_at": null,
+    "comment_group_id": 1822251,
+    "published_at": "2020-09-28T04:58:12+00:00",
+    "display_name": "",
+    "total": 84,
+    "answers": [
+        {
+            "id": 13007,
+            "answer": "Ja",
+            "votes": 35,
+            "order": 0
+        },
+        {
+            "id": 13008,
+            "answer": "Nein",
+            "votes": 49,
+            "order": 1
+        }
+    ]
+}

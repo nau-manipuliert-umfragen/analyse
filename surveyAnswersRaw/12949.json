@@ -1,0 +1,25 @@
+{
+    "id": 5536,
+    "question": "Was halten Sie von der Aktion von Bruna Benites?",
+    "created_at": "2020-09-23T17:14:11+00:00",
+    "updated_at": "2021-06-14T09:37:17+00:00",
+    "end_at": null,
+    "comment_group_id": 1815693,
+    "published_at": "2020-09-24T11:31:43+00:00",
+    "display_name": "",
+    "total": 124,
+    "answers": [
+        {
+            "id": 12949,
+            "answer": "Bravo! Die Spielerin nutzt das Ereignis genau richtig.",
+            "votes": 100,
+            "order": 0
+        },
+        {
+            "id": 12948,
+            "answer": "Finde ich unpassend.",
+            "votes": 24,
+            "order": 1
+        }
+    ]
+}

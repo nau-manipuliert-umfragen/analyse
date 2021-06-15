@@ -1,0 +1,25 @@
+{
+    "id": 9334,
+    "question": "Sollte innerhalb der Impfgruppen weiter priorisiert werden?",
+    "created_at": "2021-05-10T07:55:39+00:00",
+    "updated_at": "2021-06-14T09:40:28+00:00",
+    "end_at": null,
+    "comment_group_id": 2149813,
+    "published_at": "2021-05-10T08:56:16+00:00",
+    "display_name": "",
+    "total": 236,
+    "answers": [
+        {
+            "id": 21200,
+            "answer": "Impfgruppe N bleibt Impfgruppe N – alles andere ist egal.",
+            "votes": 101,
+            "order": 0
+        },
+        {
+            "id": 21201,
+            "answer": "Exponierte Menschen sollten mit Vorrang geimpft werden – Homeoffice-Arbeitskräfte können warten.",
+            "votes": 135,
+            "order": 1
+        }
+    ]
+}

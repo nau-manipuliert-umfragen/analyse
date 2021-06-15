@@ -1,0 +1,25 @@
+{
+    "id": 5698,
+    "question": "Wird Lewis Hamilton der beste Fahrer aller Zeiten?",
+    "created_at": "2020-10-12T06:33:30+00:00",
+    "updated_at": "2021-06-14T09:37:24+00:00",
+    "end_at": null,
+    "comment_group_id": 1844793,
+    "published_at": "2020-10-12T09:12:13+00:00",
+    "display_name": "",
+    "total": 169,
+    "answers": [
+        {
+            "id": 13295,
+            "answer": "Ja, er bricht alle Rekorde.",
+            "votes": 109,
+            "order": 0
+        },
+        {
+            "id": 13296,
+            "answer": "Nein, Schumi ist und bleibt der Grösste!",
+            "votes": 60,
+            "order": 1
+        }
+    ]
+}

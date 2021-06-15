@@ -1,0 +1,25 @@
+{
+    "id": 3167,
+    "question": "Was halten Sie von Stan Wawrinkas Post?",
+    "created_at": "2020-02-24T15:00:20+00:00",
+    "updated_at": "2021-06-14T09:35:40+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 141,
+    "answers": [
+        {
+            "id": 7774,
+            "answer": "Schon okay, der soll ruhig zeigen, was er hat.",
+            "votes": 102,
+            "order": 0
+        },
+        {
+            "id": 7775,
+            "answer": "Das ist doch etwas peinlich.",
+            "votes": 39,
+            "order": 1
+        }
+    ]
+}

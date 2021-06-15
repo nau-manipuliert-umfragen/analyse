@@ -1,0 +1,25 @@
+{
+    "id": 8546,
+    "question": "Lassen Sie sich auch gegen das Coronavirus impfen?",
+    "created_at": "2021-04-06T10:06:18+00:00",
+    "updated_at": "2021-06-14T09:39:44+00:00",
+    "end_at": null,
+    "comment_group_id": 2094539,
+    "published_at": "2021-04-06T17:33:58+00:00",
+    "display_name": "",
+    "total": 464,
+    "answers": [
+        {
+            "id": 19521,
+            "answer": "Nein, das ist mir im Moment zu riskant.",
+            "votes": 306,
+            "order": 0
+        },
+        {
+            "id": 19520,
+            "answer": "Klar – nur so können wir so schnell wie möglich zur Normalität zurück.",
+            "votes": 158,
+            "order": 1
+        }
+    ]
+}

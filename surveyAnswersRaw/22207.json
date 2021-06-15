@@ -1,0 +1,25 @@
+{
+    "id": 9799,
+    "question": "Soll Miro Muheim den FCSG verlassen?",
+    "created_at": "2021-06-01T11:35:09+00:00",
+    "updated_at": "2021-06-14T09:40:55+00:00",
+    "end_at": null,
+    "comment_group_id": 2185282,
+    "published_at": "2021-06-01T11:40:26+00:00",
+    "display_name": "",
+    "total": 1258,
+    "answers": [
+        {
+            "id": 22208,
+            "answer": "Ja, beim richtigen Angebot.",
+            "votes": 845,
+            "order": 0
+        },
+        {
+            "id": 22207,
+            "answer": "Nein, er soll bleiben!",
+            "votes": 413,
+            "order": 1
+        }
+    ]
+}

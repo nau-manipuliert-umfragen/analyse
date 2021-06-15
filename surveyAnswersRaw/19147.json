@@ -1,0 +1,25 @@
+{
+    "id": 8365,
+    "question": "Stellt der EV Zug in dieser Saison einen neuen Punkterrekord auf?",
+    "created_at": "2021-03-29T05:44:11+00:00",
+    "updated_at": "2021-06-14T09:39:35+00:00",
+    "end_at": null,
+    "comment_group_id": 2083573,
+    "published_at": "2021-03-29T05:47:10+00:00",
+    "display_name": "",
+    "total": 48,
+    "answers": [
+        {
+            "id": 19147,
+            "answer": "Ja, der HC Davos wird als Rekordhalter abgelöst.",
+            "votes": 27,
+            "order": 0
+        },
+        {
+            "id": 19148,
+            "answer": "Nein, die Zuger brechen jetzt noch ein.",
+            "votes": 21,
+            "order": 1
+        }
+    ]
+}

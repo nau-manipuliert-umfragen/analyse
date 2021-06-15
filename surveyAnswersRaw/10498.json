@@ -1,0 +1,25 @@
+{
+    "id": 4421,
+    "question": "Hat Lewis Hamilton mit seiner Kritik recht?",
+    "created_at": "2020-06-01T07:46:06+00:00",
+    "updated_at": "2021-06-14T09:36:34+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 333,
+    "answers": [
+        {
+            "id": 10499,
+            "answer": "Ja, das ist leider eine Tatsache.",
+            "votes": 174,
+            "order": 0
+        },
+        {
+            "id": 10498,
+            "answer": "Nein, der Weltmeister schiesst in die falsche Richtung.",
+            "votes": 159,
+            "order": 1
+        }
+    ]
+}

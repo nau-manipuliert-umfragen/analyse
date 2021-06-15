@@ -1,0 +1,25 @@
+{
+    "id": 7780,
+    "question": "Wird Lewis Hamilton 2021 wieder Weltmeister?",
+    "created_at": "2021-03-05T07:40:44+00:00",
+    "updated_at": "2021-06-14T09:39:03+00:00",
+    "end_at": null,
+    "comment_group_id": 2049212,
+    "published_at": "2021-05-12T05:00:27+00:00",
+    "display_name": "",
+    "total": 1827,
+    "answers": [
+        {
+            "id": 17922,
+            "answer": "Ja, natürlich!",
+            "votes": 1140,
+            "order": 0
+        },
+        {
+            "id": 17921,
+            "answer": "Nein, diesmal nicht.",
+            "votes": 687,
+            "order": 1
+        }
+    ]
+}

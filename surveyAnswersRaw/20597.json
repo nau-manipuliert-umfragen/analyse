@@ -1,0 +1,31 @@
+{
+    "id": 9053,
+    "question": "Wie stimmen Sie beim Covid-19-Gesetz ab?",
+    "created_at": "2021-04-28T07:44:50+00:00",
+    "updated_at": "2021-05-09T10:37:19+00:00",
+    "end_at": "2021-05-09T11:56:52+00:00",
+    "comment_group_id": 2128796,
+    "published_at": "2021-05-03T14:30:45+00:00",
+    "display_name": "",
+    "total": 3103,
+    "answers": [
+        {
+            "id": 20598,
+            "answer": "Ja, das Gesetz ist fair und unterstützt betroffene Personen.",
+            "votes": 539,
+            "order": 0
+        },
+        {
+            "id": 20597,
+            "answer": "Nein, das Gesetz geht mir zu weit.",
+            "votes": 2464,
+            "order": 1
+        },
+        {
+            "id": 20869,
+            "answer": "Ich bin mir noch nicht sicher.",
+            "votes": 100,
+            "order": 2
+        }
+    ]
+}

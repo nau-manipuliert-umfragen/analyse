@@ -1,0 +1,25 @@
+{
+    "id": 9640,
+    "question": "Finden sie es gut, das Genoa so viel unternimmt, damit Valon Behrami die Rennen von Lara Gut-Behrami sehen kann?",
+    "created_at": "2021-05-23T12:53:26+00:00",
+    "updated_at": "2021-06-14T09:40:47+00:00",
+    "end_at": null,
+    "comment_group_id": 2172068,
+    "published_at": "2021-05-23T13:05:15+00:00",
+    "display_name": "",
+    "total": 702,
+    "answers": [
+        {
+            "id": 21855,
+            "answer": "Ja, das ist sehr professionell",
+            "votes": 442,
+            "order": 0
+        },
+        {
+            "id": 21856,
+            "answer": "Nein, das finde ich übertrieben",
+            "votes": 260,
+            "order": 1
+        }
+    ]
+}

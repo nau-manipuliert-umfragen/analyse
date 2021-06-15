@@ -1,0 +1,31 @@
+{
+    "id": 2095,
+    "question": "Kaufen Sie sich auch ein Günstig-Abo?",
+    "created_at": "2018-09-18T05:31:01+00:00",
+    "updated_at": "2021-06-14T09:34:47+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 101,
+    "answers": [
+        {
+            "id": 5380,
+            "answer": "Nein, mir reichen ein paar Skitage. Da lohnt sich ein Abo nicht.",
+            "votes": 38,
+            "order": 100
+        },
+        {
+            "id": 5383,
+            "answer": "Für mich ist Skifahren immer noch zu teuer.",
+            "votes": 37,
+            "order": 100
+        },
+        {
+            "id": 5386,
+            "answer": "Ja, das Abo habe ich doch nach wenigen Tagen rausgeholt.",
+            "votes": 26,
+            "order": 100
+        }
+    ]
+}

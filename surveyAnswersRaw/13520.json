@@ -1,0 +1,25 @@
+{
+    "id": 5801,
+    "question": "Verstehen Sie die Wut des Wendler-Vaters?",
+    "created_at": "2020-10-20T12:12:15+00:00",
+    "updated_at": "2021-06-14T09:37:28+00:00",
+    "end_at": null,
+    "comment_group_id": 1859200,
+    "published_at": "2020-10-21T18:29:25+00:00",
+    "display_name": "",
+    "total": 413,
+    "answers": [
+        {
+            "id": 13521,
+            "answer": "Nein, es ist schlussendlich immer noch sein Sohn.",
+            "votes": 139,
+            "order": 0
+        },
+        {
+            "id": 13520,
+            "answer": "Ja, der Arme kann einem Leid tun.",
+            "votes": 274,
+            "order": 1
+        }
+    ]
+}

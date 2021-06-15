@@ -1,0 +1,25 @@
+{
+    "id": 5433,
+    "question": "Wie stehen Sie zu Loredana?",
+    "created_at": "2020-09-13T10:36:31+00:00",
+    "updated_at": "2021-06-14T09:37:13+00:00",
+    "end_at": null,
+    "comment_group_id": 1797532,
+    "published_at": "2020-09-13T11:20:07+00:00",
+    "display_name": "",
+    "total": 540,
+    "answers": [
+        {
+            "id": 12719,
+            "answer": "Ich kann gar nicht aufhören, ihre Musik zu hören. Sie ist einfach spitze!",
+            "votes": 70,
+            "order": 0
+        },
+        {
+            "id": 12720,
+            "answer": "Gut hat sie Instagram gelöscht. Ich will von ihr nichts mehr hören!",
+            "votes": 470,
+            "order": 1
+        }
+    ]
+}

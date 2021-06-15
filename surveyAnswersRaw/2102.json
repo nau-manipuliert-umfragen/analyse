@@ -1,0 +1,31 @@
+{
+    "id": 752,
+    "question": "Hatten Sie auch schon Tropenkrankheiten, übertragen durch Mücken?",
+    "created_at": "2018-04-23T10:17:39+00:00",
+    "updated_at": "2021-06-14T10:20:12+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 65,
+    "answers": [
+        {
+            "id": 2096,
+            "answer": "Ja, mich hat's voll erwischt.",
+            "votes": 22,
+            "order": 100
+        },
+        {
+            "id": 2099,
+            "answer": "Ich nicht, aber Freunde von mir waren auch schon betroffen.",
+            "votes": 22,
+            "order": 100
+        },
+        {
+            "id": 2102,
+            "answer": "Nein, zum Glück nicht.",
+            "votes": 21,
+            "order": 100
+        }
+    ]
+}

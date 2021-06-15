@@ -1,0 +1,25 @@
+{
+    "id": 4336,
+    "question": "Was halten Sie von Kates Umgang mit ihrem Kater Clive?",
+    "created_at": "2020-05-24T08:13:07+00:00",
+    "updated_at": "2021-06-14T09:36:30+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 142,
+    "answers": [
+        {
+            "id": 10315,
+            "answer": "Nicht so ernst sehen, ein Spässchen muss erlaubt sein.",
+            "votes": 66,
+            "order": 0
+        },
+        {
+            "id": 10316,
+            "answer": "Geht gar nicht. Das arme Tier.",
+            "votes": 76,
+            "order": 1
+        }
+    ]
+}

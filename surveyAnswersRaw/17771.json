@@ -1,0 +1,25 @@
+{
+    "id": 7717,
+    "question": "Soll der FC Luzern Valentin Stocker verpflichten?",
+    "created_at": "2021-03-02T11:17:42+00:00",
+    "updated_at": "2021-06-14T09:38:59+00:00",
+    "end_at": null,
+    "comment_group_id": 2044615,
+    "published_at": "2021-03-02T13:09:37+00:00",
+    "display_name": "",
+    "total": 1484,
+    "answers": [
+        {
+            "id": 17771,
+            "answer": "Ja, unbedingt.",
+            "votes": 648,
+            "order": 0
+        },
+        {
+            "id": 17770,
+            "answer": "Nein, Hände weg!",
+            "votes": 836,
+            "order": 1
+        }
+    ]
+}

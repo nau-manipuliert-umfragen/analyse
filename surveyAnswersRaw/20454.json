@@ -1,0 +1,25 @@
+{
+    "id": 8988,
+    "question": "Freuen Sie sich schon auf die neuen Kapitel der Harry-und-Meghan-Biografie?",
+    "created_at": "2021-04-25T11:17:28+00:00",
+    "updated_at": "2021-06-14T09:40:08+00:00",
+    "end_at": null,
+    "comment_group_id": 2123797,
+    "published_at": "2021-04-25T15:09:18+00:00",
+    "display_name": "",
+    "total": 889,
+    "answers": [
+        {
+            "id": 20455,
+            "answer": "Ja, endlich noch mehr Drama!",
+            "votes": 89,
+            "order": 0
+        },
+        {
+            "id": 20454,
+            "answer": "Nein, jetzt reicht es aber langsam!",
+            "votes": 800,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 2554,
+    "question": "War es richtig, Meghan Markle nicht an dem Krisengespräch teilhaben zu lassen?",
+    "created_at": "2020-01-14T13:21:32+00:00",
+    "updated_at": "2021-06-14T09:35:07+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 490,
+    "answers": [
+        {
+            "id": 6416,
+            "answer": "Ja. Wenn es für sie selbst wichtig gewesen wäre, wäre sie nicht nach Kanada zurückgekehrt.",
+            "votes": 369,
+            "order": 0
+        },
+        {
+            "id": 6417,
+            "answer": "Nein. Denn so musste Prinz Harry die Situation ganz alleine bewältigen.",
+            "votes": 121,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 9749,
+    "question": "Sind Sie zufrieden mit dem «Let's Dance»-Sieger?",
+    "created_at": "2021-05-29T03:25:58+00:00",
+    "updated_at": "2021-06-14T09:40:53+00:00",
+    "end_at": null,
+    "comment_group_id": 2181253,
+    "published_at": null,
+    "display_name": "",
+    "total": 72,
+    "answers": [
+        {
+            "id": 22097,
+            "answer": "Ja.",
+            "votes": 50,
+            "order": 0
+        },
+        {
+            "id": 22098,
+            "answer": "Nein.",
+            "votes": 22,
+            "order": 1
+        }
+    ]
+}

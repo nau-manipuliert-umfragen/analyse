@@ -1,0 +1,25 @@
+{
+    "id": 2365,
+    "question": "Soll Reinhard Grindel zurücktreten?",
+    "created_at": "2019-04-02T12:11:22+00:00",
+    "updated_at": "2021-06-14T09:34:58+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 42,
+    "answers": [
+        {
+            "id": 5969,
+            "answer": "Ja",
+            "votes": 21,
+            "order": 100
+        },
+        {
+            "id": 5970,
+            "answer": "Nein",
+            "votes": 21,
+            "order": 100
+        }
+    ]
+}

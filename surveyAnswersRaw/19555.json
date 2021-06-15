@@ -1,0 +1,25 @@
+{
+    "id": 8563,
+    "question": "Was halten Sie von den vielen Reisen im Profifussball aktuell?",
+    "created_at": "2021-04-07T07:20:47+00:00",
+    "updated_at": "2021-06-14T09:39:45+00:00",
+    "end_at": null,
+    "comment_group_id": 2095919,
+    "published_at": "2021-04-07T16:29:31+00:00",
+    "display_name": "",
+    "total": 89,
+    "answers": [
+        {
+            "id": 19555,
+            "answer": "Das ist halt notwendig.",
+            "votes": 37,
+            "order": 0
+        },
+        {
+            "id": 19556,
+            "answer": "Mit einheitlichen Spielorten könnte man dies besser handeln.",
+            "votes": 52,
+            "order": 1
+        }
+    ]
+}

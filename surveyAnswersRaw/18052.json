@@ -1,0 +1,25 @@
+{
+    "id": 7842,
+    "question": "Reicht eine Ermahnung vom DFB?",
+    "created_at": "2021-03-08T16:46:05+00:00",
+    "updated_at": "2021-06-14T09:39:06+00:00",
+    "end_at": null,
+    "comment_group_id": 2053839,
+    "published_at": "2021-03-08T16:48:50+00:00",
+    "display_name": "",
+    "total": 123,
+    "answers": [
+        {
+            "id": 18053,
+            "answer": "Ja.",
+            "votes": 66,
+            "order": 0
+        },
+        {
+            "id": 18052,
+            "answer": "Nein, Khedira hätte eine Spielsperre kassieren müssen.",
+            "votes": 57,
+            "order": 1
+        }
+    ]
+}

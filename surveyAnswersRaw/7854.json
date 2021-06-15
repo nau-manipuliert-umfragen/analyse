@@ -1,0 +1,31 @@
+{
+    "id": 3201,
+    "question": "Was halten Sie von der Aktion der Haager Fans?",
+    "created_at": "2020-02-27T11:39:03+00:00",
+    "updated_at": "2021-06-14T09:35:41+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 117,
+    "answers": [
+        {
+            "id": 7854,
+            "answer": "Absolut richtig!",
+            "votes": 39,
+            "order": 0
+        },
+        {
+            "id": 7855,
+            "answer": "Lustig und harmlos, bringt aber nichts.",
+            "votes": 44,
+            "order": 1
+        },
+        {
+            "id": 7856,
+            "answer": "Das geht gar nicht!",
+            "votes": 34,
+            "order": 2
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 6014,
+    "question": "Was halten Sie von diesem zusätzlichen Testspiel der Schweizer Nati?",
+    "created_at": "2020-11-11T10:02:12+00:00",
+    "updated_at": "2021-06-14T09:37:40+00:00",
+    "end_at": null,
+    "comment_group_id": 1894020,
+    "published_at": "2020-11-11T10:24:24+00:00",
+    "display_name": "",
+    "total": 536,
+    "answers": [
+        {
+            "id": 13988,
+            "answer": "Sascha Ruefer hat recht, es ist komplett unnötig",
+            "votes": 444,
+            "order": 0
+        },
+        {
+            "id": 13989,
+            "answer": "Ist doch gut, diese Spiele bringen die Nati weiter",
+            "votes": 92,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 4420,
+    "question": "Befürchten Sie, dass es wegen der Automatisierung künftig praktisch keine Jobs mehr geben wird?",
+    "created_at": "2020-06-01T07:21:58+00:00",
+    "updated_at": "2021-06-14T09:36:34+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 95,
+    "answers": [
+        {
+            "id": 10497,
+            "answer": "Nein. Während am einen Ort Jobs verschwinden, werden an einem anderen Ort neue geschaffen.",
+            "votes": 42,
+            "order": 0
+        },
+        {
+            "id": 10496,
+            "answer": "Ja. Irgendwann wird es wegen der Automatisierung nicht mehr genügend Jobs geben.",
+            "votes": 53,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 5952,
+    "question": "350 Millionen für den Spitzensport, zinslose Darlehen im Dezember. Was halten Sie davon?",
+    "created_at": "2020-11-04T14:25:26+00:00",
+    "updated_at": "2021-06-14T09:37:37+00:00",
+    "end_at": null,
+    "comment_group_id": 1885299,
+    "published_at": null,
+    "display_name": "",
+    "total": 162,
+    "answers": [
+        {
+            "id": 13855,
+            "answer": "Gut. Das ist ein faires Angebot.",
+            "votes": 99,
+            "order": 0
+        },
+        {
+            "id": 13854,
+            "answer": "Das ist viel doch zu wenig für die Rettung!",
+            "votes": 63,
+            "order": 1
+        }
+    ]
+}

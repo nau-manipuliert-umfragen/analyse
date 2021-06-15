@@ -1,0 +1,25 @@
+{
+    "id": 6988,
+    "question": "Wie finden Sie die Verkleidung von Rugby-Spieler Joe Marler?",
+    "created_at": "2021-02-02T17:06:58+00:00",
+    "updated_at": "2021-06-14T09:38:24+00:00",
+    "end_at": null,
+    "comment_group_id": 2004605,
+    "published_at": "2021-02-03T08:19:26+00:00",
+    "display_name": "",
+    "total": 131,
+    "answers": [
+        {
+            "id": 16137,
+            "answer": "Toll!",
+            "votes": 105,
+            "order": 0
+        },
+        {
+            "id": 16138,
+            "answer": "Naja, geht so...",
+            "votes": 26,
+            "order": 1
+        }
+    ]
+}

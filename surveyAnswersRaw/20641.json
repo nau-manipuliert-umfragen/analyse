@@ -1,0 +1,25 @@
+{
+    "id": 9074,
+    "question": "Braucht die Welt noch eine weitere Model-Show?",
+    "created_at": "2021-04-28T13:33:30+00:00",
+    "updated_at": "2021-06-14T09:40:15+00:00",
+    "end_at": null,
+    "comment_group_id": 2129532,
+    "published_at": "2021-04-30T15:40:02+00:00",
+    "display_name": "",
+    "total": 226,
+    "answers": [
+        {
+            "id": 20640,
+            "answer": "Nein, einmal reicht's!",
+            "votes": 193,
+            "order": 0
+        },
+        {
+            "id": 20641,
+            "answer": "Ja, bitte!",
+            "votes": 33,
+            "order": 1
+        }
+    ]
+}

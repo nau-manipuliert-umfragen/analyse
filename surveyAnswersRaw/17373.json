@@ -1,0 +1,25 @@
+{
+    "id": 7535,
+    "question": "Wie gehen Sie mit Hass um?",
+    "created_at": "2021-02-23T14:15:04+00:00",
+    "updated_at": "2021-06-14T09:38:51+00:00",
+    "end_at": null,
+    "comment_group_id": 2034871,
+    "published_at": "2021-02-23T20:20:50+00:00",
+    "display_name": "",
+    "total": 271,
+    "answers": [
+        {
+            "id": 17373,
+            "answer": "Ich konzentriere mich auf die schönen Dinge.",
+            "votes": 164,
+            "order": 0
+        },
+        {
+            "id": 17374,
+            "answer": "Gar nicht ... Solche Nachrichten sind für mich der Horror!",
+            "votes": 107,
+            "order": 1
+        }
+    ]
+}

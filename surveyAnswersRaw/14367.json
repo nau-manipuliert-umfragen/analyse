@@ -1,0 +1,25 @@
+{
+    "id": 6180,
+    "question": "Was halten Sie vom Comeback von Mike Tyson?",
+    "created_at": "2020-11-29T08:15:30+00:00",
+    "updated_at": "2021-06-14T09:37:49+00:00",
+    "end_at": null,
+    "comment_group_id": 1919464,
+    "published_at": "2020-11-30T07:03:57+00:00",
+    "display_name": "",
+    "total": 791,
+    "answers": [
+        {
+            "id": 14368,
+            "answer": "Toll, das war eine Wahnsinns-Show!",
+            "votes": 468,
+            "order": 0
+        },
+        {
+            "id": 14367,
+            "answer": "Naja, in seinem Alter sollte er das Boxen lieber lassen.",
+            "votes": 323,
+            "order": 1
+        }
+    ]
+}

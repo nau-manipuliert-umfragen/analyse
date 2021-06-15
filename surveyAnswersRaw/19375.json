@@ -1,0 +1,25 @@
+{
+    "id": 8475,
+    "question": "Halten Sie die Aufhebung der Massnahmen in Texas und Mississippi für richtig?",
+    "created_at": "2021-04-01T14:14:21+00:00",
+    "updated_at": "2021-06-14T09:39:41+00:00",
+    "end_at": null,
+    "comment_group_id": 2089436,
+    "published_at": "2021-04-01T16:58:14+00:00",
+    "display_name": "",
+    "total": 5817,
+    "answers": [
+        {
+            "id": 19375,
+            "answer": "Ja.",
+            "votes": 4737,
+            "order": 0
+        },
+        {
+            "id": 19374,
+            "answer": "Nein, es bleibt ein Risiko.",
+            "votes": 1080,
+            "order": 1
+        }
+    ]
+}

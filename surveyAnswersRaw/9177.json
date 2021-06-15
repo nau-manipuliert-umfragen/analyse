@@ -1,0 +1,25 @@
+{
+    "id": 3813,
+    "question": "Was halten Sie von Kroos' Einstellung bezüglich des Gehaltsverzichts?",
+    "created_at": "2020-04-08T18:25:39+00:00",
+    "updated_at": "2021-06-14T09:36:07+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 792,
+    "answers": [
+        {
+            "id": 9177,
+            "answer": "Das ist extrem unsolidarisch vom Deutschen.",
+            "votes": 739,
+            "order": 0
+        },
+        {
+            "id": 9178,
+            "answer": "Er hat recht. Eine Spende an eine Hilfsorganisation bringt mehr.",
+            "votes": 53,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "id": 5434,
+    "question": "Zu welchem Verein wechselt Guillaume Hoarau?",
+    "created_at": "2020-09-13T18:00:58+00:00",
+    "updated_at": "2021-06-14T09:37:13+00:00",
+    "end_at": null,
+    "comment_group_id": 1798262,
+    "published_at": "2020-09-14T09:21:38+00:00",
+    "display_name": "",
+    "total": 702,
+    "answers": [
+        {
+            "id": 12725,
+            "answer": "FC Sion",
+            "votes": 250,
+            "order": 0
+        },
+        {
+            "id": 12724,
+            "answer": "Lausanne-Sport",
+            "votes": 89,
+            "order": 1
+        },
+        {
+            "id": 12721,
+            "answer": "FC Thun",
+            "votes": 183,
+            "order": 2
+        },
+        {
+            "id": 12722,
+            "answer": "FC Lugano",
+            "votes": 37,
+            "order": 3
+        },
+        {
+            "id": 12723,
+            "answer": "Anderer Verein",
+            "votes": 143,
+            "order": 4
+        }
+    ]
+}

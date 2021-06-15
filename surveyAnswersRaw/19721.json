@@ -1,0 +1,25 @@
+{
+    "id": 8642,
+    "question": "Erreicht Timo Meier mit den San Jose Sharks die Playoffs?",
+    "created_at": "2021-04-10T06:31:38+00:00",
+    "updated_at": "2021-06-14T09:39:49+00:00",
+    "end_at": null,
+    "comment_group_id": 2101048,
+    "published_at": "2021-04-10T06:48:31+00:00",
+    "display_name": "",
+    "total": 61,
+    "answers": [
+        {
+            "id": 19721,
+            "answer": "Ja",
+            "votes": 38,
+            "order": 0
+        },
+        {
+            "id": 19720,
+            "answer": "Nein",
+            "votes": 23,
+            "order": 1
+        }
+    ]
+}

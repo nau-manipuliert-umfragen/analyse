@@ -1,0 +1,25 @@
+{
+    "id": 8587,
+    "question": "Wie finden Sie den Jubel des US-Turners?",
+    "created_at": "2021-04-08T07:46:19+00:00",
+    "updated_at": "2021-06-14T09:39:47+00:00",
+    "end_at": null,
+    "comment_group_id": 2097811,
+    "published_at": "2021-04-08T08:20:29+00:00",
+    "display_name": "",
+    "total": 200,
+    "answers": [
+        {
+            "id": 19604,
+            "answer": "Lustig!",
+            "votes": 95,
+            "order": 0
+        },
+        {
+            "id": 19605,
+            "answer": "Nicht lustig!",
+            "votes": 105,
+            "order": 1
+        }
+    ]
+}

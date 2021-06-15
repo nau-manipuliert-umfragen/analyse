@@ -1,0 +1,31 @@
+{
+    "id": 575,
+    "question": "Wie startet die Schweiz ins WM-Jahr?",
+    "created_at": "2018-03-21T11:01:26+00:00",
+    "updated_at": "2021-06-14T10:20:06+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 68,
+    "answers": [
+        {
+            "id": 1676,
+            "answer": "Griechenland wird besiegt, die Schweiz hat den Ex-Europameister längst überholt.",
+            "votes": 23,
+            "order": 100
+        },
+        {
+            "id": 1679,
+            "answer": "Noch keine Mannschaft ist in Form – es gibt ein Unentschieden.",
+            "votes": 23,
+            "order": 100
+        },
+        {
+            "id": 1685,
+            "answer": "Gegen Griechenland setzt es wohl eine Niederlage.",
+            "votes": 22,
+            "order": 100
+        }
+    ]
+}

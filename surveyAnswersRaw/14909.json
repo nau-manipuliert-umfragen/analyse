@@ -1,0 +1,31 @@
+{
+    "id": 6425,
+    "question": "Macht dieser Schritt von Dyson Sinn?",
+    "created_at": "2020-12-23T08:22:12+00:00",
+    "updated_at": "2021-06-14T09:38:01+00:00",
+    "end_at": null,
+    "comment_group_id": 1951841,
+    "published_at": "2020-12-23T08:29:48+00:00",
+    "display_name": "",
+    "total": 107,
+    "answers": [
+        {
+            "id": 14911,
+            "answer": "Ja, je mehr man via Sprachassistent steuern kann, desto besser!",
+            "votes": 36,
+            "order": 0
+        },
+        {
+            "id": 14910,
+            "answer": "Nein, ein Staubsauger kann auch gut auf herkömmliche Art verwendet werden.",
+            "votes": 39,
+            "order": 1
+        },
+        {
+            "id": 14909,
+            "answer": "Ist mir egal, ich verwende keine Produkte von Dyson.",
+            "votes": 32,
+            "order": 2
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 10064,
+    "question": "Sind Valentina Pahde und Rúrik Gíslason bereits ein Paar?",
+    "created_at": "2021-06-13T08:56:35+00:00",
+    "updated_at": "2021-06-14T10:27:21+00:00",
+    "end_at": "2021-06-20T08:56:27+00:00",
+    "comment_group_id": 2204763,
+    "published_at": "2021-06-13T10:33:00+00:00",
+    "display_name": "",
+    "total": 1750,
+    "answers": [
+        {
+            "id": 22781,
+            "answer": "Ja",
+            "votes": 1385,
+            "order": 0
+        },
+        {
+            "id": 22780,
+            "answer": "Nein",
+            "votes": 365,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 9838,
+    "question": "Sollen Prinz Harry und Meghan dem Jubiläum der Queen beiwohnen?",
+    "created_at": "2021-06-02T20:48:16+00:00",
+    "updated_at": "2021-06-14T09:53:07+00:00",
+    "end_at": null,
+    "comment_group_id": 2187988,
+    "published_at": "2021-06-04T16:30:15+00:00",
+    "display_name": "",
+    "total": 2723,
+    "answers": [
+        {
+            "id": 22290,
+            "answer": "Ja, sie sind immer noch Familie.",
+            "votes": 778,
+            "order": 0
+        },
+        {
+            "id": 22291,
+            "answer": "Nein, sie haben den Royals abgeschworen.",
+            "votes": 1945,
+            "order": 1
+        }
+    ]
+}

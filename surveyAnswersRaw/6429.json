@@ -1,0 +1,31 @@
+{
+    "id": 2559,
+    "question": "Wer wird Deutscher Meister?",
+    "created_at": "2020-01-15T06:27:25+00:00",
+    "updated_at": "2020-03-08T02:30:48+00:00",
+    "end_at": "2020-05-16T14:30:00+00:00",
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 299,
+    "answers": [
+        {
+            "id": 6429,
+            "answer": "RB Leipzig",
+            "votes": 47,
+            "order": 0
+        },
+        {
+            "id": 6428,
+            "answer": "Bayern München",
+            "votes": 115,
+            "order": 1
+        },
+        {
+            "id": 6736,
+            "answer": "ein anderes Team",
+            "votes": 137,
+            "order": 2
+        }
+    ]
+}

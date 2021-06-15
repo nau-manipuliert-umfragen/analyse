@@ -1,0 +1,25 @@
+{
+    "id": 2741,
+    "question": "Finden Sie die Busse gegen Roger Federer in Ordnung?",
+    "created_at": "2020-01-29T10:03:52+00:00",
+    "updated_at": "2021-06-14T09:35:17+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 959,
+    "answers": [
+        {
+            "id": 6833,
+            "answer": "Ja, Federer hat eine Vorbildfunktion. Das «F-Wort» darf ihm auf keinen Fall entgleiten.",
+            "votes": 304,
+            "order": 0
+        },
+        {
+            "id": 6832,
+            "answer": "Nein, so etwas passiert in den Emotionen schon einmal.",
+            "votes": 655,
+            "order": 1
+        }
+    ]
+}

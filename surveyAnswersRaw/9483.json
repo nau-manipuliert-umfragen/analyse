@@ -1,0 +1,31 @@
+{
+    "id": 3956,
+    "question": "Was halten Sie von den Trainer-Entlassungen?",
+    "created_at": "2020-04-21T12:22:46+00:00",
+    "updated_at": "2021-06-14T09:36:13+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 173,
+    "answers": [
+        {
+            "id": 9483,
+            "answer": "Der Verein wird schon wissen, was er tut.",
+            "votes": 45,
+            "order": 0
+        },
+        {
+            "id": 9482,
+            "answer": "Finde ich absolut unverständlich.",
+            "votes": 66,
+            "order": 1
+        },
+        {
+            "id": 9484,
+            "answer": "Das kann ich zu wenig beurteilen.",
+            "votes": 62,
+            "order": 2
+        }
+    ]
+}

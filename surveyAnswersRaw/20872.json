@@ -1,0 +1,25 @@
+{
+    "id": 9178,
+    "question": "Was halten Sie von den Lockerungen?",
+    "created_at": "2021-05-03T12:15:11+00:00",
+    "updated_at": "2021-06-14T09:40:20+00:00",
+    "end_at": null,
+    "comment_group_id": 2137630,
+    "published_at": "2021-05-03T12:17:07+00:00",
+    "display_name": "",
+    "total": 60,
+    "answers": [
+        {
+            "id": 20873,
+            "answer": "Finde ich gut.",
+            "votes": 37,
+            "order": 0
+        },
+        {
+            "id": 20872,
+            "answer": "Das ist zu früh.",
+            "votes": 23,
+            "order": 1
+        }
+    ]
+}

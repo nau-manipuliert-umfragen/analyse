@@ -1,0 +1,49 @@
+{
+    "id": 5854,
+    "question": "Wer setzt sich dieses Jahr in der NFL durch?",
+    "created_at": "2020-10-26T07:01:44+00:00",
+    "updated_at": "2021-06-14T10:23:56+00:00",
+    "end_at": null,
+    "comment_group_id": 1868737,
+    "published_at": "2020-10-26T09:06:11+00:00",
+    "display_name": "",
+    "total": 179,
+    "answers": [
+        {
+            "id": 13642,
+            "answer": "Kansas City Chiefs",
+            "votes": 31,
+            "order": 0
+        },
+        {
+            "id": 13637,
+            "answer": "Green Bay Packers",
+            "votes": 27,
+            "order": 1
+        },
+        {
+            "id": 13638,
+            "answer": "San Francisco 49ers",
+            "votes": 27,
+            "order": 2
+        },
+        {
+            "id": 13640,
+            "answer": "New England Patriots",
+            "votes": 24,
+            "order": 3
+        },
+        {
+            "id": 13639,
+            "answer": "Baltimore Ravens",
+            "votes": 25,
+            "order": 4
+        },
+        {
+            "id": 13641,
+            "answer": "Ein anderes Team",
+            "votes": 45,
+            "order": 5
+        }
+    ]
+}

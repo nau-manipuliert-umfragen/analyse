@@ -1,0 +1,25 @@
+{
+    "id": 3851,
+    "question": "Was halten Sie von der Abfuhr der Ex-Royals?",
+    "created_at": "2020-04-13T11:29:39+00:00",
+    "updated_at": "2021-06-14T09:36:08+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 1051,
+    "answers": [
+        {
+            "id": 9259,
+            "answer": "Prima, man muss den Namen des Kindes ja nicht für alles hergeben.",
+            "votes": 351,
+            "order": 0
+        },
+        {
+            "id": 9260,
+            "answer": "Heuchler! Aber für ihre Charity-Organisation verwenden sie Archies Namen...",
+            "votes": 700,
+            "order": 1
+        }
+    ]
+}

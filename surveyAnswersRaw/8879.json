@@ -1,0 +1,25 @@
+{
+    "id": 3672,
+    "question": "Wie gefällt Ihnen der Song «Oh Corona»?",
+    "created_at": "2020-03-30T10:11:08+00:00",
+    "updated_at": "2021-06-14T09:36:01+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 464,
+    "answers": [
+        {
+            "id": 8880,
+            "answer": "Gut",
+            "votes": 311,
+            "order": 0
+        },
+        {
+            "id": 8879,
+            "answer": "Schlecht",
+            "votes": 153,
+            "order": 1
+        }
+    ]
+}

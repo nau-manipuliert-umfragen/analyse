@@ -1,0 +1,25 @@
+{
+    "id": 7917,
+    "question": "Was halten Sie von diesem Video?",
+    "created_at": "2021-03-11T10:50:33+00:00",
+    "updated_at": "2021-06-14T09:39:11+00:00",
+    "end_at": null,
+    "comment_group_id": 2057946,
+    "published_at": "2021-03-13T11:30:04+00:00",
+    "display_name": "",
+    "total": 234,
+    "answers": [
+        {
+            "id": 18213,
+            "answer": "Einfach widerlich!",
+            "votes": 148,
+            "order": 0
+        },
+        {
+            "id": 18214,
+            "answer": "Lasst ihn doch.",
+            "votes": 86,
+            "order": 1
+        }
+    ]
+}

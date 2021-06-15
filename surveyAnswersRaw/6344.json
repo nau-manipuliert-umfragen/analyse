@@ -1,0 +1,25 @@
+{
+    "id": 2524,
+    "question": "Feiern Sie Weihnachten?",
+    "created_at": "2019-12-09T08:16:41+00:00",
+    "updated_at": "2021-06-14T09:35:06+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 440,
+    "answers": [
+        {
+            "id": 6344,
+            "answer": "Ja",
+            "votes": 267,
+            "order": 0
+        },
+        {
+            "id": 6343,
+            "answer": "Nein",
+            "votes": 173,
+            "order": 1
+        }
+    ]
+}

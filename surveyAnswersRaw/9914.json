@@ -1,0 +1,25 @@
+{
+    "id": 4150,
+    "question": "Was sagen Sie zu der Spende von Roger Federer?",
+    "created_at": "2020-05-06T15:10:41+00:00",
+    "updated_at": "2021-06-14T09:36:21+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 190,
+    "answers": [
+        {
+            "id": 9914,
+            "answer": "Grossartig!",
+            "votes": 142,
+            "order": 0
+        },
+        {
+            "id": 9915,
+            "answer": "Es hätte noch mehr als eine Million sein dürfen.",
+            "votes": 48,
+            "order": 1
+        }
+    ]
+}

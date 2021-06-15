@@ -1,0 +1,25 @@
+{
+    "id": 6251,
+    "question": "Hat George Russell bei seinem Mercedes-Debüt überzeugt?",
+    "created_at": "2020-12-07T07:16:33+00:00",
+    "updated_at": "2021-06-14T09:37:53+00:00",
+    "end_at": null,
+    "comment_group_id": 1929673,
+    "published_at": "2020-12-07T07:43:28+00:00",
+    "display_name": "",
+    "total": 788,
+    "answers": [
+        {
+            "id": 14525,
+            "answer": "Ja, das war ein ganz starker Auftritt!",
+            "votes": 661,
+            "order": 0
+        },
+        {
+            "id": 14524,
+            "answer": "Nein, im Mercedes kann doch jeder vorne mitfahren.",
+            "votes": 127,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "id": 6456,
+    "question": "Wie stehen Sie zu Schönheitsoperationen?",
+    "created_at": "2020-12-26T10:52:53+00:00",
+    "updated_at": "2021-06-14T09:38:02+00:00",
+    "end_at": null,
+    "comment_group_id": 1954697,
+    "published_at": "2021-04-06T11:13:28+00:00",
+    "display_name": "",
+    "total": 1839,
+    "answers": [
+        {
+            "id": 14978,
+            "answer": "Finde ich spitze, ich hab auch schon welche hinter mir!",
+            "votes": 100,
+            "order": 0
+        },
+        {
+            "id": 14979,
+            "answer": "Das soll jeder für sich selbst entscheiden.",
+            "votes": 858,
+            "order": 1
+        },
+        {
+            "id": 14977,
+            "answer": "Dafür habe ich kein Verständnis.",
+            "votes": 881,
+            "order": 2
+        }
+    ]
+}

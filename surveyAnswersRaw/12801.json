@@ -1,0 +1,25 @@
+{
+    "id": 5469,
+    "question": "Kann Borussia Dortmund in dieser Saison Meister werden?",
+    "created_at": "2020-09-16T14:53:35+00:00",
+    "updated_at": "2021-06-14T09:37:15+00:00",
+    "end_at": null,
+    "comment_group_id": 1803695,
+    "published_at": "2020-09-19T18:21:28+00:00",
+    "display_name": "",
+    "total": 300,
+    "answers": [
+        {
+            "id": 12801,
+            "answer": "Ja",
+            "votes": 179,
+            "order": 0
+        },
+        {
+            "id": 12800,
+            "answer": "Nein",
+            "votes": 121,
+            "order": 1
+        }
+    ]
+}

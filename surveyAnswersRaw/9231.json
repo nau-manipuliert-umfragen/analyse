@@ -1,0 +1,25 @@
+{
+    "id": 3839,
+    "question": "Wie gefällt Ihnen «I Feel» von Michèle?",
+    "created_at": "2020-04-11T09:23:40+00:00",
+    "updated_at": "2021-06-14T09:36:08+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 317,
+    "answers": [
+        {
+            "id": 9231,
+            "answer": "Sehr gut, sie hat das Zeug zum nächsten Popstar.",
+            "votes": 153,
+            "order": 0
+        },
+        {
+            "id": 9232,
+            "answer": "Leider nicht so mein Geschmack, Luca Hännis Lieder gefallen mir besser.",
+            "votes": 164,
+            "order": 1
+        }
+    ]
+}

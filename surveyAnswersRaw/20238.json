@@ -1,0 +1,31 @@
+{
+    "id": 8888,
+    "question": "Mussten Sie auch immer unten durch im Kampf mit Ihren Geschwistern?",
+    "created_at": "2021-04-20T14:07:10+00:00",
+    "updated_at": "2021-06-14T09:40:02+00:00",
+    "end_at": null,
+    "comment_group_id": 2116056,
+    "published_at": "2021-04-25T06:00:02+00:00",
+    "display_name": "",
+    "total": 271,
+    "answers": [
+        {
+            "id": 20239,
+            "answer": "Ja.",
+            "votes": 77,
+            "order": 0
+        },
+        {
+            "id": 20238,
+            "answer": "Nein.",
+            "votes": 146,
+            "order": 1
+        },
+        {
+            "id": 20237,
+            "answer": "Ich habe keine Geschwister.",
+            "votes": 48,
+            "order": 2
+        }
+    ]
+}

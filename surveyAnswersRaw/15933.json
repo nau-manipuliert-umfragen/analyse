@@ -1,0 +1,25 @@
+{
+    "id": 6895,
+    "question": "Soll der Bund für Tests aufkommen, damit die Quarantäne verkürzt wird?",
+    "created_at": "2021-01-29T09:28:49+00:00",
+    "updated_at": "2021-06-14T09:38:19+00:00",
+    "end_at": null,
+    "comment_group_id": 1998589,
+    "published_at": "2021-01-30T17:48:35+00:00",
+    "display_name": "",
+    "total": 268,
+    "answers": [
+        {
+            "id": 15932,
+            "answer": "Ja, natürlich. Das hilft im Endeffekt auch der Wirtschaft.",
+            "votes": 170,
+            "order": 0
+        },
+        {
+            "id": 15933,
+            "answer": "Nein, der Staat kann nicht für alles und jeden aufkommen.",
+            "votes": 98,
+            "order": 1
+        }
+    ]
+}

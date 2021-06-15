@@ -1,0 +1,25 @@
+{
+    "id": 7318,
+    "question": "Was sagen sie zum Golden Visa für vermögende Nicht-EU-Ausländer?",
+    "created_at": "2021-02-16T06:20:29+00:00",
+    "updated_at": "2021-06-14T09:38:41+00:00",
+    "end_at": null,
+    "comment_group_id": 2023778,
+    "published_at": "2021-02-16T06:36:40+00:00",
+    "display_name": "",
+    "total": 102,
+    "answers": [
+        {
+            "id": 16889,
+            "answer": "Supi, mehr Steuereinnahmen.",
+            "votes": 38,
+            "order": 0
+        },
+        {
+            "id": 16888,
+            "answer": "Das ist eine absolute Frechheit!",
+            "votes": 64,
+            "order": 1
+        }
+    ]
+}

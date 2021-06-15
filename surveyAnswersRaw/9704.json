@@ -1,0 +1,25 @@
+{
+    "id": 4058,
+    "question": "Werden durch das Transferabkommen mehr Spieler den Sprung in die NHL schaffen?",
+    "created_at": "2020-04-29T12:34:23+00:00",
+    "updated_at": "2021-06-14T09:36:17+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 81,
+    "answers": [
+        {
+            "id": 9705,
+            "answer": "Ja",
+            "votes": 41,
+            "order": 0
+        },
+        {
+            "id": 9704,
+            "answer": "Nein",
+            "votes": 40,
+            "order": 1
+        }
+    ]
+}

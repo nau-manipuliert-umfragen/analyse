@@ -1,0 +1,25 @@
+{
+    "id": 8253,
+    "question": "Haben Sie auch freche Kinder?",
+    "created_at": "2021-03-23T14:49:33+00:00",
+    "updated_at": "2021-06-14T09:39:29+00:00",
+    "end_at": null,
+    "comment_group_id": 2075840,
+    "published_at": "2021-03-24T11:03:03+00:00",
+    "display_name": "",
+    "total": 356,
+    "answers": [
+        {
+            "id": 18910,
+            "answer": "Ja, bestes Comedy-Programm!",
+            "votes": 258,
+            "order": 0
+        },
+        {
+            "id": 18909,
+            "answer": "Nein, sie sind Unschuldslämmchen.",
+            "votes": 98,
+            "order": 1
+        }
+    ]
+}

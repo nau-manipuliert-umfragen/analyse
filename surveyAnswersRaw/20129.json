@@ -1,0 +1,25 @@
+{
+    "id": 8837,
+    "question": "Holt YB auch den fünften Meistertitel in Folge?",
+    "created_at": "2021-04-19T08:18:13+00:00",
+    "updated_at": "2021-06-14T09:39:59+00:00",
+    "end_at": null,
+    "comment_group_id": 2113702,
+    "published_at": "2021-04-19T11:42:54+00:00",
+    "display_name": "",
+    "total": 1458,
+    "answers": [
+        {
+            "id": 20130,
+            "answer": "Ja",
+            "votes": 1111,
+            "order": 0
+        },
+        {
+            "id": 20129,
+            "answer": "Nein",
+            "votes": 347,
+            "order": 1
+        }
+    ]
+}

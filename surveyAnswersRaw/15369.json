@@ -1,0 +1,37 @@
+{
+    "id": 6635,
+    "question": "Löst ein gut geputztes Haus Druck aus bei Ihnen?",
+    "created_at": "2021-01-13T11:23:00+00:00",
+    "updated_at": "2021-02-28T08:48:42+00:00",
+    "end_at": "2021-05-13T10:22:00+00:00",
+    "comment_group_id": 1975391,
+    "published_at": "2021-01-16T13:00:01+00:00",
+    "display_name": "",
+    "total": 372,
+    "answers": [
+        {
+            "id": 15371,
+            "answer": "Ja! (Ich bin eine Frau)",
+            "votes": 94,
+            "order": 0
+        },
+        {
+            "id": 15370,
+            "answer": "Nein! (Ich bin eine Frau)",
+            "votes": 142,
+            "order": 1
+        },
+        {
+            "id": 15369,
+            "answer": "Ja! (Ich bin ein Mann)",
+            "votes": 46,
+            "order": 2
+        },
+        {
+            "id": 15368,
+            "answer": "Nein! (Ich bin ein Mann)",
+            "votes": 90,
+            "order": 3
+        }
+    ]
+}

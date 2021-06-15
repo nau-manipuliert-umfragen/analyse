@@ -1,0 +1,25 @@
+{
+    "id": 5268,
+    "question": "Was halten Sie von One-Night-Stands?",
+    "created_at": "2020-08-26T12:45:50+00:00",
+    "updated_at": "2021-06-14T09:37:06+00:00",
+    "end_at": null,
+    "comment_group_id": 1768137,
+    "published_at": "2020-08-27T07:04:51+00:00",
+    "display_name": "",
+    "total": 804,
+    "answers": [
+        {
+            "id": 12344,
+            "answer": "Wieso nicht? Ich bin da offen.",
+            "votes": 483,
+            "order": 0
+        },
+        {
+            "id": 12345,
+            "answer": "Gar nicht mein Ding! Bei mir müssen Gefühle im Spiel sein.",
+            "votes": 321,
+            "order": 1
+        }
+    ]
+}

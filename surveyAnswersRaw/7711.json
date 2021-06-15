@@ -1,0 +1,25 @@
+{
+    "id": 3138,
+    "question": "Soll Sergio Ramos an den Olympischen Spielen auflaufen?",
+    "created_at": "2020-02-21T16:21:20+00:00",
+    "updated_at": "2021-06-14T09:35:38+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 48,
+    "answers": [
+        {
+            "id": 7710,
+            "answer": "Ja",
+            "votes": 25,
+            "order": 0
+        },
+        {
+            "id": 7711,
+            "answer": "Nein",
+            "votes": 23,
+            "order": 1
+        }
+    ]
+}

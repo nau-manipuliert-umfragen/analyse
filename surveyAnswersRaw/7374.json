@@ -1,0 +1,25 @@
+{
+    "id": 2986,
+    "question": "Sind die Preise für die Einlauf-Kids gerechtfertigt?",
+    "created_at": "2020-02-13T08:52:02+00:00",
+    "updated_at": "2021-06-14T09:35:32+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 326,
+    "answers": [
+        {
+            "id": 7375,
+            "answer": "Ja, in der Premier League spielen absolute Top-Stars.",
+            "votes": 37,
+            "order": 0
+        },
+        {
+            "id": 7374,
+            "answer": "Nein, das ist doch absurd!",
+            "votes": 289,
+            "order": 1
+        }
+    ]
+}

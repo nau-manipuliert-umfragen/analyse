@@ -1,0 +1,25 @@
+{
+    "id": 6083,
+    "question": "Ist Jogi Löw noch der richtige Trainer für die Nationalelf?",
+    "created_at": "2020-11-18T07:50:34+00:00",
+    "updated_at": "2021-06-14T09:37:43+00:00",
+    "end_at": null,
+    "comment_group_id": 1902175,
+    "published_at": "2020-11-18T09:08:18+00:00",
+    "display_name": "",
+    "total": 336,
+    "answers": [
+        {
+            "id": 14145,
+            "answer": "Nein, die Zeit ist abgelaufen.",
+            "votes": 275,
+            "order": 0
+        },
+        {
+            "id": 14144,
+            "answer": "Sicher, er ist der Weltmeister-Trainer von 2014!",
+            "votes": 61,
+            "order": 1
+        }
+    ]
+}

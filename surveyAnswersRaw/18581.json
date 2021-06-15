@@ -1,0 +1,25 @@
+{
+    "id": 8098,
+    "question": "Sind sie auch schon einmal in den Mattelift gestiegen?",
+    "created_at": "2021-03-18T09:25:40+00:00",
+    "updated_at": "2021-06-14T09:39:21+00:00",
+    "end_at": null,
+    "comment_group_id": 2068168,
+    "published_at": "2021-03-20T17:30:02+00:00",
+    "display_name": "",
+    "total": 318,
+    "answers": [
+        {
+            "id": 18582,
+            "answer": "Ja.",
+            "votes": 172,
+            "order": 0
+        },
+        {
+            "id": 18581,
+            "answer": "Nein.",
+            "votes": 146,
+            "order": 1
+        }
+    ]
+}

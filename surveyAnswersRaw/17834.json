@@ -1,0 +1,25 @@
+{
+    "id": 7744,
+    "question": "Sollte der Bundesrat auf den Nationalrat hören und am 22. März öffnen?",
+    "created_at": "2021-03-03T14:20:53+00:00",
+    "updated_at": "2021-06-14T09:39:00+00:00",
+    "end_at": null,
+    "comment_group_id": 2046570,
+    "published_at": "2021-03-03T16:05:12+00:00",
+    "display_name": "",
+    "total": 9977,
+    "answers": [
+        {
+            "id": 17834,
+            "answer": "Ja, die Regierung kann Parlament und Kantone nicht weiter ignorieren.",
+            "votes": 7312,
+            "order": 0
+        },
+        {
+            "id": 17835,
+            "answer": "Nein, der Bundesrat soll jetzt Rückgrat zeigen und nicht zu früh öffnen.",
+            "votes": 2665,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 6972,
+    "question": "Sollte man einem Koma-Patienten die Pandemie überhaupt erklären?",
+    "created_at": "2021-02-02T10:20:34+00:00",
+    "updated_at": "2021-06-14T09:38:23+00:00",
+    "end_at": null,
+    "comment_group_id": 2003742,
+    "published_at": "2021-02-02T10:57:51+00:00",
+    "display_name": "",
+    "total": 542,
+    "answers": [
+        {
+            "id": 16102,
+            "answer": "Ja – daran führt kein Weg vorbei.",
+            "votes": 389,
+            "order": 0
+        },
+        {
+            "id": 16101,
+            "answer": "Nein – im Spital spielt es noch keine grosse Rolle. Man sollte bis nach der Genesung warten.",
+            "votes": 153,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "id": 7939,
+    "question": "Mögen Sie Wein?",
+    "created_at": "2021-03-12T08:35:29+00:00",
+    "updated_at": "2021-06-14T09:39:12+00:00",
+    "end_at": null,
+    "comment_group_id": 2059325,
+    "published_at": "2021-03-12T08:37:07+00:00",
+    "display_name": "",
+    "total": 435,
+    "answers": [
+        {
+            "id": 18252,
+            "answer": "Ja, aber nur teuren.",
+            "votes": 65,
+            "order": 0
+        },
+        {
+            "id": 18251,
+            "answer": "Ja, der Preis spielt keine Rolle.",
+            "votes": 330,
+            "order": 1
+        },
+        {
+            "id": 18250,
+            "answer": "Nein, ich trinke keinen Wein.",
+            "votes": 40,
+            "order": 2
+        }
+    ]
+}

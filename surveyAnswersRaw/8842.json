@@ -1,0 +1,25 @@
+{
+    "id": 3653,
+    "question": "Glauben Sie noch daran, dass die Meisterschaften zu Ende gespielt werden?",
+    "created_at": "2020-03-29T08:47:22+00:00",
+    "updated_at": "2021-06-14T09:36:00+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 124,
+    "answers": [
+        {
+            "id": 8841,
+            "answer": "Nein, die Saison ist gelaufen.",
+            "votes": 90,
+            "order": 0
+        },
+        {
+            "id": 8842,
+            "answer": "Ja, im Juni führen die Teams den Titelkampf fort.",
+            "votes": 34,
+            "order": 1
+        }
+    ]
+}

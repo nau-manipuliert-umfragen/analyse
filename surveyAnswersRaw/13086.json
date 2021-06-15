@@ -1,0 +1,25 @@
+{
+    "id": 5600,
+    "question": "Was halten Sie von Beauty-Eingriffen?",
+    "created_at": "2020-09-30T14:24:44+00:00",
+    "updated_at": "2021-06-14T09:37:20+00:00",
+    "end_at": null,
+    "comment_group_id": 1827303,
+    "published_at": "2021-04-10T07:32:44+00:00",
+    "display_name": "",
+    "total": 1044,
+    "answers": [
+        {
+            "id": 13085,
+            "answer": "Nichts! Ich bin schön, so wie ich bin.",
+            "votes": 847,
+            "order": 0
+        },
+        {
+            "id": 13086,
+            "answer": "Finde ich eine gute Sache.",
+            "votes": 197,
+            "order": 1
+        }
+    ]
+}

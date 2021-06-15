@@ -1,0 +1,25 @@
+{
+    "id": 4897,
+    "question": "Wer ist der bessere Rennfahrer?",
+    "created_at": "2020-07-13T11:04:17+00:00",
+    "updated_at": "2021-06-14T09:36:52+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": "2020-08-17T12:08:33+00:00",
+    "display_name": "",
+    "total": 514,
+    "answers": [
+        {
+            "id": 11533,
+            "answer": "Lewis Hamilton",
+            "votes": 332,
+            "order": 0
+        },
+        {
+            "id": 11532,
+            "answer": "Michael Schumacher",
+            "votes": 182,
+            "order": 1
+        }
+    ]
+}

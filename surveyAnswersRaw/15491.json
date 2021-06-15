@@ -1,0 +1,25 @@
+{
+    "id": 6691,
+    "question": "Schafft es Michelle Gisin in dieser Saison nochmals aufs Riesen-Podest?",
+    "created_at": "2021-01-17T11:46:50+00:00",
+    "updated_at": "2021-06-14T09:38:11+00:00",
+    "end_at": null,
+    "comment_group_id": 1980965,
+    "published_at": "2021-01-19T05:38:07+00:00",
+    "display_name": "",
+    "total": 276,
+    "answers": [
+        {
+            "id": 15491,
+            "answer": "Ja",
+            "votes": 244,
+            "order": 0
+        },
+        {
+            "id": 15490,
+            "answer": "Nein",
+            "votes": 32,
+            "order": 1
+        }
+    ]
+}

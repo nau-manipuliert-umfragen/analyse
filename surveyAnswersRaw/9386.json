@@ -1,0 +1,25 @@
+{
+    "id": 3912,
+    "question": "Sollte der FC Barcelona trotz der Pandemie einen Sommer-Umbruch wagen?",
+    "created_at": "2020-04-17T14:36:57+00:00",
+    "updated_at": "2021-06-14T09:36:11+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 243,
+    "answers": [
+        {
+            "id": 9385,
+            "answer": "Ja, die Mannschaft braucht dringend frischen Wind.",
+            "votes": 187,
+            "order": 0
+        },
+        {
+            "id": 9386,
+            "answer": "Nein, der Kader ist noch gut genug aufgestellt, um auf Top-Niveau zu spielen.",
+            "votes": 56,
+            "order": 1
+        }
+    ]
+}

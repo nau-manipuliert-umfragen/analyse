@@ -1,0 +1,25 @@
+{
+    "id": 3645,
+    "question": "Sind in Zeiten der Krise solche Spässe in Ordnung?",
+    "created_at": "2020-03-27T18:12:17+00:00",
+    "updated_at": "2020-03-27T18:12:17+00:00",
+    "end_at": "2020-03-30T17:11:56+00:00",
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 40,
+    "answers": [
+        {
+            "id": 8821,
+            "answer": "Ja, na klar!",
+            "votes": 20,
+            "order": 0
+        },
+        {
+            "id": 8822,
+            "answer": "Nein, finde ich nicht angemessen.",
+            "votes": 20,
+            "order": 1
+        }
+    ]
+}

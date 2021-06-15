@@ -1,0 +1,25 @@
+{
+    "id": 2280,
+    "question": "Hält Bayern München an Niko Kovac fest?",
+    "created_at": "2018-11-25T07:42:02+00:00",
+    "updated_at": "2021-06-14T09:34:55+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 98,
+    "answers": [
+        {
+            "id": 5768,
+            "answer": "Ja, ein Wechsel bringt nichts. Die Mannschaft ist nicht stark genug.",
+            "votes": 35,
+            "order": 100
+        },
+        {
+            "id": 5769,
+            "answer": "Nein, diese Bilanz ist zu schlecht für einen Rekordmeister.",
+            "votes": 63,
+            "order": 100
+        }
+    ]
+}

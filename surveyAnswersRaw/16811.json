@@ -1,0 +1,25 @@
+{
+    "id": 7284,
+    "question": "Sind Sie mit den Noten von Mischi Wettstein einverstanden?",
+    "created_at": "2021-02-14T20:28:33+00:00",
+    "updated_at": "2021-06-14T09:38:40+00:00",
+    "end_at": null,
+    "comment_group_id": 2021995,
+    "published_at": "2021-02-22T07:39:24+00:00",
+    "display_name": "",
+    "total": 210,
+    "answers": [
+        {
+            "id": 16810,
+            "answer": "Ja, ich habe das gleiche Spiel gesehen.",
+            "votes": 151,
+            "order": 0
+        },
+        {
+            "id": 16811,
+            "answer": "Nein, da bin ich anderer Meinung.",
+            "votes": 59,
+            "order": 1
+        }
+    ]
+}

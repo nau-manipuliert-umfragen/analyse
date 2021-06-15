@@ -1,0 +1,25 @@
+{
+    "id": 9212,
+    "question": "Erstellen Sie auch manchmal Pro-Kontra-Listen?",
+    "created_at": "2021-05-04T10:05:23+00:00",
+    "updated_at": "2021-06-14T09:40:22+00:00",
+    "end_at": null,
+    "comment_group_id": 2139482,
+    "published_at": "2021-05-04T13:17:26+00:00",
+    "display_name": "",
+    "total": 345,
+    "answers": [
+        {
+            "id": 20943,
+            "answer": "Nein, wie seltsam.",
+            "votes": 179,
+            "order": 0
+        },
+        {
+            "id": 20944,
+            "answer": "Ja, immer.",
+            "votes": 166,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 7338,
+    "question": "Halten Sie baldige Lockerungen angesichts der sinkenden Fallzahlen für richtig?",
+    "created_at": "2021-02-16T14:03:54+00:00",
+    "updated_at": "2021-06-14T09:38:42+00:00",
+    "end_at": null,
+    "comment_group_id": 2024711,
+    "published_at": "2021-02-17T05:29:46+00:00",
+    "display_name": "",
+    "total": 7583,
+    "answers": [
+        {
+            "id": 16936,
+            "answer": "Ja, die Infektionszahlen sind ja schliesslich im Sinkflug.",
+            "votes": 4603,
+            "order": 0
+        },
+        {
+            "id": 16935,
+            "answer": "Nein, für Lockerungen ist es zu früh.",
+            "votes": 2980,
+            "order": 1
+        }
+    ]
+}

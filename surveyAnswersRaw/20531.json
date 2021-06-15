@@ -1,0 +1,25 @@
+{
+    "id": 9023,
+    "question": "Stören Sie sich auch an solchen Bildern während der Corona-Zeit?",
+    "created_at": "2021-04-27T06:07:52+00:00",
+    "updated_at": "2021-06-14T09:40:11+00:00",
+    "end_at": null,
+    "comment_group_id": 2126841,
+    "published_at": "2021-04-27T08:04:24+00:00",
+    "display_name": "",
+    "total": 211,
+    "answers": [
+        {
+            "id": 20532,
+            "answer": "Ja, das geht einfach nicht.",
+            "votes": 95,
+            "order": 0
+        },
+        {
+            "id": 20531,
+            "answer": "Nein, war doch nur eine Bikini-Party.",
+            "votes": 116,
+            "order": 1
+        }
+    ]
+}

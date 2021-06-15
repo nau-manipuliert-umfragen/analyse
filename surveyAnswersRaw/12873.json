@@ -1,0 +1,25 @@
+{
+    "id": 5502,
+    "question": "Schafft Mvogo den Sprung zum Stammkeeper der Schweizer Nati?",
+    "created_at": "2020-09-20T10:00:06+00:00",
+    "updated_at": "2021-06-14T09:37:16+00:00",
+    "end_at": null,
+    "comment_group_id": 1809182,
+    "published_at": "2020-09-20T11:20:47+00:00",
+    "display_name": "",
+    "total": 117,
+    "answers": [
+        {
+            "id": 12874,
+            "answer": "Ja, die Zukunft gehört ihm.",
+            "votes": 48,
+            "order": 0
+        },
+        {
+            "id": 12873,
+            "answer": "Nein, dazu müsste er konstanter spielen.",
+            "votes": 69,
+            "order": 1
+        }
+    ]
+}

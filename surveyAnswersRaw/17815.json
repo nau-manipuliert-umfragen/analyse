@@ -1,0 +1,37 @@
+{
+    "id": 7735,
+    "question": "Fährt Ihr nächstes Auto mit Strom?",
+    "created_at": "2021-03-03T10:08:57+00:00",
+    "updated_at": "2021-03-08T09:42:00+00:00",
+    "end_at": "2021-03-08T10:08:53+00:00",
+    "comment_group_id": 2046028,
+    "published_at": "2021-03-03T18:31:27+00:00",
+    "display_name": "",
+    "total": 1094,
+    "answers": [
+        {
+            "id": 17813,
+            "answer": "Ja, damit fahre ich längerfristig günstiger.",
+            "votes": 266,
+            "order": 0
+        },
+        {
+            "id": 17814,
+            "answer": "Nein, ich habe daheim keine Möglichkeit, ein E-Auto aufzuladen.",
+            "votes": 200,
+            "order": 1
+        },
+        {
+            "id": 17815,
+            "answer": "Nein, ich bleibe dem Verbrenner treu.",
+            "votes": 486,
+            "order": 2
+        },
+        {
+            "id": 17812,
+            "answer": "Ich besitze bereits ein Elektroauto.",
+            "votes": 142,
+            "order": 3
+        }
+    ]
+}

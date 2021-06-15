@@ -1,0 +1,25 @@
+{
+    "id": 9259,
+    "question": "Waren Sie ein freches Kind?",
+    "created_at": "2021-05-05T15:33:35+00:00",
+    "updated_at": "2021-06-14T09:40:24+00:00",
+    "end_at": null,
+    "comment_group_id": 2142949,
+    "published_at": "2021-05-06T15:09:01+00:00",
+    "display_name": "",
+    "total": 578,
+    "answers": [
+        {
+            "id": 21038,
+            "answer": "Ja, aber ich bin gut rausgekommen.",
+            "votes": 274,
+            "order": 0
+        },
+        {
+            "id": 21037,
+            "answer": "Nein, total brav (zwinker!).",
+            "votes": 304,
+            "order": 1
+        }
+    ]
+}

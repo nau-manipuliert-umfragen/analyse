@@ -1,0 +1,25 @@
+{
+    "id": 99,
+    "question": "Ist auch bei Ihnen schon mal ein Brief oder ein Paket nicht angekommen?",
+    "created_at": "2017-10-21T13:20:01+00:00",
+    "updated_at": "2021-06-14T10:16:45+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 92,
+    "answers": [
+        {
+            "id": 236,
+            "answer": "Ja",
+            "votes": 48,
+            "order": 100
+        },
+        {
+            "id": 237,
+            "answer": "Nein",
+            "votes": 44,
+            "order": 100
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 3610,
+    "question": "Halten Sie eine Wiederaufnahme Mitte Mai für realistisch?",
+    "created_at": "2020-03-25T08:25:16+00:00",
+    "updated_at": "2021-06-14T09:35:58+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 64,
+    "answers": [
+        {
+            "id": 8744,
+            "answer": "Ja, das könnte aufgehen.",
+            "votes": 27,
+            "order": 0
+        },
+        {
+            "id": 8745,
+            "answer": "Unmöglich, in dieser Saison wird nicht mehr gespielt!",
+            "votes": 37,
+            "order": 1
+        }
+    ]
+}

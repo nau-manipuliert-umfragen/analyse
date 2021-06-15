@@ -1,0 +1,31 @@
+{
+    "id": 788,
+    "question": "Wie geht der Spitzenkampf aus?",
+    "created_at": "2018-04-27T07:42:31+00:00",
+    "updated_at": "2021-06-14T09:34:06+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 98,
+    "answers": [
+        {
+            "id": 2159,
+            "answer": "YB verwertet den ersten Matchball und feiert den ersten Meistertitel seit 1986.",
+            "votes": 44,
+            "order": 100
+        },
+        {
+            "id": 2162,
+            "answer": "Die Luzerner werden gehörig unterschätzt und holen sich deshalb die drei Punkte in Bern.",
+            "votes": 29,
+            "order": 100
+        },
+        {
+            "id": 2165,
+            "answer": "Kein Sieger – und auch keine Feier: Es gibt ein Unentschieden.",
+            "votes": 25,
+            "order": 100
+        }
+    ]
+}

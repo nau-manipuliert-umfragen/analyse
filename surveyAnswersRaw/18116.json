@@ -1,0 +1,25 @@
+{
+    "id": 7871,
+    "question": "Schafft Albert Braut Tjaland (17) den Durchbruch im Profi-Fussball?",
+    "created_at": "2021-03-09T13:11:55+00:00",
+    "updated_at": "2021-06-14T09:39:09+00:00",
+    "end_at": null,
+    "comment_group_id": 2055045,
+    "published_at": "2021-03-09T14:39:05+00:00",
+    "display_name": "",
+    "total": 140,
+    "answers": [
+        {
+            "id": 18116,
+            "answer": "Ja",
+            "votes": 104,
+            "order": 0
+        },
+        {
+            "id": 18117,
+            "answer": "Nein",
+            "votes": 36,
+            "order": 1
+        }
+    ]
+}

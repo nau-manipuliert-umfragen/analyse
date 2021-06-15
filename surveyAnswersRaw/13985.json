@@ -1,0 +1,25 @@
+{
+    "id": 6012,
+    "question": "Kann Bayern den Kimmich-Ausfall kompensieren?",
+    "created_at": "2020-11-11T08:53:40+00:00",
+    "updated_at": "2021-06-14T09:37:39+00:00",
+    "end_at": null,
+    "comment_group_id": 1893893,
+    "published_at": "2020-11-11T09:32:59+00:00",
+    "display_name": "",
+    "total": 142,
+    "answers": [
+        {
+            "id": 13984,
+            "answer": "Nein, jetzt kann der BVB angreifen.",
+            "votes": 38,
+            "order": 0
+        },
+        {
+            "id": 13985,
+            "answer": "Klar, das Team ist stark genug.",
+            "votes": 104,
+            "order": 1
+        }
+    ]
+}

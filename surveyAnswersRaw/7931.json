@@ -1,0 +1,37 @@
+{
+    "id": 3235,
+    "question": "Wie weit kommen die Luganesi in den Playoffs?",
+    "created_at": "2020-02-29T20:26:29+00:00",
+    "updated_at": "2021-06-14T10:21:58+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 114,
+    "answers": [
+        {
+            "id": 7929,
+            "answer": "Sie scheiden bereits im Viertelfinal aus.",
+            "votes": 38,
+            "order": 0
+        },
+        {
+            "id": 7928,
+            "answer": "Sie kommen ins Halbfinale.",
+            "votes": 25,
+            "order": 1
+        },
+        {
+            "id": 7931,
+            "answer": "Ihnen gelingt der Finaleinzug.",
+            "votes": 23,
+            "order": 2
+        },
+        {
+            "id": 7930,
+            "answer": "Der HC Lugano wird Schweizermeister 2020.",
+            "votes": 28,
+            "order": 3
+        }
+    ]
+}

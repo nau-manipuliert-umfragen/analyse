@@ -1,0 +1,25 @@
+{
+    "id": 5838,
+    "question": "Würden Sie bei Arthur Chatto ins Training?",
+    "created_at": "2020-10-23T13:44:29+00:00",
+    "updated_at": "2021-06-14T09:37:30+00:00",
+    "end_at": null,
+    "comment_group_id": 1865096,
+    "published_at": "2020-10-25T21:04:18+00:00",
+    "display_name": "",
+    "total": 233,
+    "answers": [
+        {
+            "id": 13603,
+            "answer": "Ja, fit werden und dabei Insider-Wissen über die Royals erfahren? Perfekt!",
+            "votes": 153,
+            "order": 0
+        },
+        {
+            "id": 13604,
+            "answer": "Nein, ich bin schon fit genug.",
+            "votes": 80,
+            "order": 1
+        }
+    ]
+}

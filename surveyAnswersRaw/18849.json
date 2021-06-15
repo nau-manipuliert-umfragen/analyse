@@ -1,0 +1,31 @@
+{
+    "id": 8225,
+    "question": "Benutzen Sie auch eine Dating-App?",
+    "created_at": "2021-03-22T17:15:53+00:00",
+    "updated_at": "2021-06-14T10:25:55+00:00",
+    "end_at": null,
+    "comment_group_id": 2074543,
+    "published_at": "2021-03-22T20:48:58+00:00",
+    "display_name": "",
+    "total": 211,
+    "answers": [
+        {
+            "id": 18848,
+            "answer": "Nein, ich bin eher altmodisch unterwegs.",
+            "votes": 89,
+            "order": 0
+        },
+        {
+            "id": 18849,
+            "answer": "Ja, ich tindere wie Tina!",
+            "votes": 49,
+            "order": 1
+        },
+        {
+            "id": 18850,
+            "answer": "Ja, Dele Alli hat mich kürzlich zu Raya eingeladen.",
+            "votes": 73,
+            "order": 2
+        }
+    ]
+}

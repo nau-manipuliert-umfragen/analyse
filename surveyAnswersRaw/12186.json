@@ -1,0 +1,25 @@
+{
+    "id": 5192,
+    "question": "Gefällt Ihnen die Aktion von Neymar?",
+    "created_at": "2020-08-19T10:39:24+00:00",
+    "updated_at": "2021-06-14T09:37:03+00:00",
+    "end_at": null,
+    "comment_group_id": 1755978,
+    "published_at": "2020-08-19T11:53:52+00:00",
+    "display_name": "",
+    "total": 322,
+    "answers": [
+        {
+            "id": 12185,
+            "answer": "Ja, ist doch lustig mit der Dose.",
+            "votes": 128,
+            "order": 0
+        },
+        {
+            "id": 12186,
+            "answer": "Nein, das ist fehlender Respekt.",
+            "votes": 194,
+            "order": 1
+        }
+    ]
+}

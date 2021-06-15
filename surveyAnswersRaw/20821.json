@@ -1,0 +1,25 @@
+{
+    "id": 9155,
+    "question": "Ist der FCZ-Sieg gegen Lugano verdient?",
+    "created_at": "2021-05-02T17:26:50+00:00",
+    "updated_at": "2021-06-14T09:40:19+00:00",
+    "end_at": null,
+    "comment_group_id": 2136407,
+    "published_at": "2021-05-03T05:06:40+00:00",
+    "display_name": "",
+    "total": 319,
+    "answers": [
+        {
+            "id": 20821,
+            "answer": "Ja, absolut!",
+            "votes": 252,
+            "order": 0
+        },
+        {
+            "id": 20822,
+            "answer": "Nein, der war glücklich.",
+            "votes": 67,
+            "order": 1
+        }
+    ]
+}

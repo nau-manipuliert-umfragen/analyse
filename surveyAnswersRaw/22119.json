@@ -1,0 +1,25 @@
+{
+    "id": 9758,
+    "question": "Sollten Kinder und Jugendliche besser vor einer Ansteckung mit Coronavirus geschützt werden?",
+    "created_at": "2021-05-29T20:25:49+00:00",
+    "updated_at": "2021-06-06T20:00:01+00:00",
+    "end_at": "2021-06-06T20:27:38+00:00",
+    "comment_group_id": 2181956,
+    "published_at": "2021-06-01T04:28:07+00:00",
+    "display_name": "",
+    "total": 6886,
+    "answers": [
+        {
+            "id": 22117,
+            "answer": "Ja, leider sind auch bei den Jungen und Jüngsten Massnahmen wie bei Erwachsenen sinnvoll.",
+            "votes": 788,
+            "order": 0
+        },
+        {
+            "id": 22119,
+            "answer": "Nein, noch länger Einschränkungen ist weder für die Kinder noch die Wirtschaft gut.",
+            "votes": 6098,
+            "order": 1
+        }
+    ]
+}

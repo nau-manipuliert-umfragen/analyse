@@ -1,0 +1,43 @@
+{
+    "id": 7427,
+    "question": "Wo spielt Lionel Messi nächste Saison?",
+    "created_at": "2021-02-19T09:47:53+00:00",
+    "updated_at": "2021-06-14T10:25:15+00:00",
+    "end_at": null,
+    "comment_group_id": 2029396,
+    "published_at": "2021-02-19T17:31:36+00:00",
+    "display_name": "",
+    "total": 491,
+    "answers": [
+        {
+            "id": 17137,
+            "answer": "Manchester City",
+            "votes": 206,
+            "order": 0
+        },
+        {
+            "id": 17138,
+            "answer": "PSG",
+            "votes": 95,
+            "order": 1
+        },
+        {
+            "id": 17140,
+            "answer": "Inter Mailand",
+            "votes": 40,
+            "order": 2
+        },
+        {
+            "id": 17139,
+            "answer": "FC Barcelona",
+            "votes": 96,
+            "order": 3
+        },
+        {
+            "id": 17141,
+            "answer": "Ein anderer Verein",
+            "votes": 54,
+            "order": 4
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "id": 4120,
+    "question": "Sind Sie mit Windows 10 zufrieden?",
+    "created_at": "2020-05-04T10:59:52+00:00",
+    "updated_at": "2021-06-14T09:36:19+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": "2021-02-14T13:47:20+00:00",
+    "display_name": "",
+    "total": 998,
+    "answers": [
+        {
+            "id": 9841,
+            "answer": "Alles in allem: Ja. Nur die vielen Bugs nerven mich etwas.",
+            "votes": 283,
+            "order": 0
+        },
+        {
+            "id": 9840,
+            "answer": "Nein überhaupt nicht. Microsoft hat es nicht im Griff!",
+            "votes": 302,
+            "order": 1
+        },
+        {
+            "id": 9842,
+            "answer": "Ich bin mit Windows 10 rundum zufrieden.",
+            "votes": 413,
+            "order": 2
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 8880,
+    "question": "Verstehen Sie Leute, die sich nicht impfen lassen wollen?",
+    "created_at": "2021-04-20T12:00:21+00:00",
+    "updated_at": "2021-06-14T09:40:02+00:00",
+    "end_at": null,
+    "comment_group_id": 2115772,
+    "published_at": "2021-04-20T12:35:42+00:00",
+    "display_name": "",
+    "total": 926,
+    "answers": [
+        {
+            "id": 20221,
+            "answer": "Nein, so gefährdet man nur andere und sich selbst.",
+            "votes": 221,
+            "order": 0
+        },
+        {
+            "id": 20220,
+            "answer": "Ja, ich bin selbst wegen den Nebenwirkungen auch skeptisch.",
+            "votes": 705,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 7805,
+    "question": "Freuen Sie sich schon auf ein Wendler-Baby?",
+    "created_at": "2021-03-07T02:46:50+00:00",
+    "updated_at": "2021-06-14T09:39:04+00:00",
+    "end_at": null,
+    "comment_group_id": 2051347,
+    "published_at": "2021-03-07T19:03:03+00:00",
+    "display_name": "",
+    "total": 693,
+    "answers": [
+        {
+            "id": 17976,
+            "answer": "Laura ist doch viel zu jung, um Mutter zu werden.",
+            "votes": 558,
+            "order": 0
+        },
+        {
+            "id": 17975,
+            "answer": "Das wäre bestimmt süss!",
+            "votes": 135,
+            "order": 1
+        }
+    ]
+}

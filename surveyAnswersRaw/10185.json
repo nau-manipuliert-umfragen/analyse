@@ -1,0 +1,25 @@
+{
+    "id": 4276,
+    "question": "Was halten Sie von dem Fremdgeh-Video für die Bachelorette?",
+    "created_at": "2020-05-18T10:50:57+00:00",
+    "updated_at": "2021-06-14T09:36:27+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 304,
+    "answers": [
+        {
+            "id": 10185,
+            "answer": "Alles sehr merkwürdig...",
+            "votes": 224,
+            "order": 0
+        },
+        {
+            "id": 10184,
+            "answer": "Super, dann ist der Favorit schon mal raus.",
+            "votes": 80,
+            "order": 1
+        }
+    ]
+}

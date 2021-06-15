@@ -1,0 +1,25 @@
+{
+    "id": 9541,
+    "question": "Nutzen Sie smarte Heim-Überwachung?",
+    "created_at": "2021-05-19T12:11:33+00:00",
+    "updated_at": "2021-06-14T09:40:42+00:00",
+    "end_at": null,
+    "comment_group_id": 2165353,
+    "published_at": "2021-05-19T14:31:21+00:00",
+    "display_name": "",
+    "total": 283,
+    "answers": [
+        {
+            "id": 21647,
+            "answer": "Selbstverständlich! Heute kann man ja nie sicher genug sein.",
+            "votes": 45,
+            "order": 0
+        },
+        {
+            "id": 21648,
+            "answer": "Nein – so Überwachungs-Werkzeuge kommen mir nicht ins Haus!",
+            "votes": 238,
+            "order": 1
+        }
+    ]
+}

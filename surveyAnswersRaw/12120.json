@@ -1,0 +1,25 @@
+{
+    "id": 5160,
+    "question": "Wer kommt ins Final der Champions League?",
+    "created_at": "2020-08-17T08:29:31+00:00",
+    "updated_at": "2021-06-14T09:37:02+00:00",
+    "end_at": null,
+    "comment_group_id": 1752228,
+    "published_at": "2020-08-17T08:32:27+00:00",
+    "display_name": "",
+    "total": 164,
+    "answers": [
+        {
+            "id": 12119,
+            "answer": "PSG",
+            "votes": 92,
+            "order": 0
+        },
+        {
+            "id": 12120,
+            "answer": "RB Leipzig",
+            "votes": 72,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 7144,
+    "question": "Verstehen Sie diese Massnahmen?",
+    "created_at": "2021-02-09T14:48:54+00:00",
+    "updated_at": "2021-06-14T09:38:32+00:00",
+    "end_at": null,
+    "comment_group_id": 2014408,
+    "published_at": "2021-02-09T15:03:16+00:00",
+    "display_name": "",
+    "total": 42,
+    "answers": [
+        {
+            "id": 16496,
+            "answer": "Ja, Gesetz ist Gesetz.",
+            "votes": 21,
+            "order": 0
+        },
+        {
+            "id": 16497,
+            "answer": "Nein, dann müssen die Teams noch mehr reisen.",
+            "votes": 21,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 8989,
+    "question": "Macht eine Altersgrenze bei den Schiedsrichtern Sinn?",
+    "created_at": "2021-04-25T12:18:16+00:00",
+    "updated_at": "2021-06-14T09:40:09+00:00",
+    "end_at": null,
+    "comment_group_id": 2123867,
+    "published_at": "2021-04-25T12:22:23+00:00",
+    "display_name": "",
+    "total": 187,
+    "answers": [
+        {
+            "id": 20457,
+            "answer": "Ja.",
+            "votes": 44,
+            "order": 0
+        },
+        {
+            "id": 20456,
+            "answer": "Nein.",
+            "votes": 143,
+            "order": 1
+        }
+    ]
+}

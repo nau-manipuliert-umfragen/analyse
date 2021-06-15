@@ -1,0 +1,25 @@
+{
+    "id": 1006,
+    "question": "Gewinnt Marco Wölfli mit YB den Cup-Final gegen den FCZ?",
+    "created_at": "2018-05-26T13:43:54+00:00",
+    "updated_at": "2021-06-14T09:34:13+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 56,
+    "answers": [
+        {
+            "id": 2764,
+            "answer": "Ja, Wölfli besiegt den Cup-Fluch.",
+            "votes": 35,
+            "order": 100
+        },
+        {
+            "id": 2767,
+            "answer": "Nein, der FC Zürich wird das Spiel gewinnen.",
+            "votes": 21,
+            "order": 100
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 8197,
+    "question": "Fliegen Sie über Ostern an den Strand?",
+    "created_at": "2021-03-22T10:03:46+00:00",
+    "updated_at": "2021-06-14T09:39:26+00:00",
+    "end_at": null,
+    "comment_group_id": 2073711,
+    "published_at": "2021-03-22T11:28:21+00:00",
+    "display_name": "",
+    "total": 1112,
+    "answers": [
+        {
+            "id": 18787,
+            "answer": "Ja und ich kann es kaum erwarten.",
+            "votes": 188,
+            "order": 0
+        },
+        {
+            "id": 18788,
+            "answer": "Nein, ist mir zu riskant!",
+            "votes": 924,
+            "order": 1
+        }
+    ]
+}

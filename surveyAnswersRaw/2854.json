@@ -1,0 +1,25 @@
+{
+    "id": 1048,
+    "question": "Handtäschli für Männer. Gefällts?",
+    "created_at": "2018-05-30T13:00:03+00:00",
+    "updated_at": "2021-06-14T09:34:14+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 74,
+    "answers": [
+        {
+            "id": 2851,
+            "answer": "Niemals!",
+            "votes": 41,
+            "order": 100
+        },
+        {
+            "id": 2854,
+            "answer": "Ja, klar.",
+            "votes": 33,
+            "order": 100
+        }
+    ]
+}

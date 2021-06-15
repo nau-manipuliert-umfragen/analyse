@@ -1,0 +1,25 @@
+{
+    "id": 8330,
+    "question": "Kochen Sie gerne?",
+    "created_at": "2021-03-26T13:27:09+00:00",
+    "updated_at": "2021-06-14T09:39:33+00:00",
+    "end_at": null,
+    "comment_group_id": 2080638,
+    "published_at": "2021-03-27T13:05:20+00:00",
+    "display_name": "",
+    "total": 279,
+    "answers": [
+        {
+            "id": 19077,
+            "answer": "Ja, da kann ich mich richtig austoben.",
+            "votes": 173,
+            "order": 0
+        },
+        {
+            "id": 19076,
+            "answer": "Nein, gar nicht.",
+            "votes": 106,
+            "order": 1
+        }
+    ]
+}

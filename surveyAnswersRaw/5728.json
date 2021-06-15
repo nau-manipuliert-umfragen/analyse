@@ -1,0 +1,31 @@
+{
+    "id": 2262,
+    "question": "Wer gewinnt den heutigen Spitzenkampf in der Challenge League?",
+    "created_at": "2018-11-09T13:44:37+00:00",
+    "updated_at": "2021-06-14T09:34:54+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 66,
+    "answers": [
+        {
+            "id": 5728,
+            "answer": "Der FC Winterthur.",
+            "votes": 22,
+            "order": 100
+        },
+        {
+            "id": 5729,
+            "answer": "Der Servette FC.",
+            "votes": 23,
+            "order": 100
+        },
+        {
+            "id": 5730,
+            "answer": "Die Partie geht unentschieden aus.",
+            "votes": 21,
+            "order": 100
+        }
+    ]
+}

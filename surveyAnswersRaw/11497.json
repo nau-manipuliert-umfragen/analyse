@@ -1,0 +1,25 @@
+{
+    "id": 4880,
+    "question": "Hätte das Fussball-Wochenende abgesagt werden müssen?",
+    "created_at": "2020-07-11T11:06:05+00:00",
+    "updated_at": "2021-06-14T09:36:51+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 1617,
+    "answers": [
+        {
+            "id": 11497,
+            "answer": "Ja, die Sicherheit geht vor.",
+            "votes": 790,
+            "order": 0
+        },
+        {
+            "id": 11498,
+            "answer": "Nein, das wäre übertrieben gewesen.",
+            "votes": 827,
+            "order": 1
+        }
+    ]
+}

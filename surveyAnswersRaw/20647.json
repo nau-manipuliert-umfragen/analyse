@@ -1,0 +1,25 @@
+{
+    "id": 9077,
+    "question": "Was halten Sie von den Plänen, bereits im September Anlässe mit 10'000 Menschen durchzuführen.",
+    "created_at": "2021-04-28T15:35:05+00:00",
+    "updated_at": "2021-04-29T15:08:31+00:00",
+    "end_at": "2021-04-29T18:00:00+00:00",
+    "comment_group_id": 2129864,
+    "published_at": null,
+    "display_name": "",
+    "total": 374,
+    "answers": [
+        {
+            "id": 20646,
+            "answer": "Ich freue mich bereits drauf.",
+            "votes": 287,
+            "order": 0
+        },
+        {
+            "id": 20647,
+            "answer": "Ich halte das für keine gute Idee.",
+            "votes": 87,
+            "order": 1
+        }
+    ]
+}

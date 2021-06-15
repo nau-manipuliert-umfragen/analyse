@@ -1,0 +1,25 @@
+{
+    "id": 5864,
+    "question": "Finden Sie es gut, dass beim FC St.Gallen noch immer Zuschauer ins Stadion dürfen?",
+    "created_at": "2020-10-26T14:58:18+00:00",
+    "updated_at": "2021-06-14T09:37:33+00:00",
+    "end_at": null,
+    "comment_group_id": 1869781,
+    "published_at": "2020-10-27T08:15:05+00:00",
+    "display_name": "",
+    "total": 1018,
+    "answers": [
+        {
+            "id": 13660,
+            "answer": "Ja, das ist super!",
+            "votes": 350,
+            "order": 0
+        },
+        {
+            "id": 13661,
+            "answer": "Nein, Bern und Basel machen das Richtige.",
+            "votes": 668,
+            "order": 1
+        }
+    ]
+}

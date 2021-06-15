@@ -1,0 +1,25 @@
+{
+    "id": 9319,
+    "question": "Erstaunt Sie der amerikanische Akzent von Archie?",
+    "created_at": "2021-05-09T12:56:27+00:00",
+    "updated_at": "2021-06-14T09:40:27+00:00",
+    "end_at": null,
+    "comment_group_id": 2148981,
+    "published_at": "2021-05-10T08:08:45+00:00",
+    "display_name": "",
+    "total": 838,
+    "answers": [
+        {
+            "id": 21169,
+            "answer": "Ja, ich dachte, blaues Blut fliesst durch seine Adern?",
+            "votes": 84,
+            "order": 0
+        },
+        {
+            "id": 21168,
+            "answer": "Nein, das war ja klar.",
+            "votes": 754,
+            "order": 1
+        }
+    ]
+}

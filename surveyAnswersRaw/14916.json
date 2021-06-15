@@ -1,0 +1,25 @@
+{
+    "id": 6427,
+    "question": "Was halten Sie vom Entscheid, dass die 24h-Ausnahmeregelung für Schweizer Einkaufstouristen aufgehoben wurde?",
+    "created_at": "2020-12-23T09:10:48+00:00",
+    "updated_at": "2021-06-14T09:38:01+00:00",
+    "end_at": null,
+    "comment_group_id": 1951961,
+    "published_at": null,
+    "display_name": "",
+    "total": 1111,
+    "answers": [
+        {
+            "id": 14915,
+            "answer": "Gut so, konsequentes Handeln der deutschen Behörden.",
+            "votes": 739,
+            "order": 0
+        },
+        {
+            "id": 14916,
+            "answer": "Schade, ich profitiere gerne von den günstigeren Artikeln in Deutschland.",
+            "votes": 372,
+            "order": 1
+        }
+    ]
+}

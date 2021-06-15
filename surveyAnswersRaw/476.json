@@ -1,0 +1,25 @@
+{
+    "id": 200,
+    "question": "Finden Sie es sinnvoll, das Kind auszuspionieren im Namen der Sicherheit?",
+    "created_at": "2017-11-20T06:14:52+00:00",
+    "updated_at": "2021-06-14T09:33:44+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 42,
+    "answers": [
+        {
+            "id": 476,
+            "answer": "Ja, die Sicherheit des Kindes geht vor.",
+            "votes": 21,
+            "order": 100
+        },
+        {
+            "id": 479,
+            "answer": "Nein, ich würde meinem Kind nie seine Freiheit rauben.",
+            "votes": 21,
+            "order": 100
+        }
+    ]
+}

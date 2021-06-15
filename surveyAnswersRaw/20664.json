@@ -1,0 +1,25 @@
+{
+    "id": 9085,
+    "question": "Bedauern Sie den Entscheid?",
+    "created_at": "2021-04-29T07:32:18+00:00",
+    "updated_at": "2021-06-14T09:40:15+00:00",
+    "end_at": null,
+    "comment_group_id": 2130985,
+    "published_at": "2021-04-29T07:42:22+00:00",
+    "display_name": "",
+    "total": 139,
+    "answers": [
+        {
+            "id": 20664,
+            "answer": "Ja",
+            "votes": 57,
+            "order": 0
+        },
+        {
+            "id": 20663,
+            "answer": "Nein",
+            "votes": 82,
+            "order": 1
+        }
+    ]
+}

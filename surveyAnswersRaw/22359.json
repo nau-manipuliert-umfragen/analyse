@@ -1,0 +1,25 @@
+{
+    "id": 9868,
+    "question": "Haben Sie auch Probleme mit dem verflixten siebten Jahr?",
+    "created_at": "2021-06-04T06:47:20+00:00",
+    "updated_at": "2021-06-14T09:40:59+00:00",
+    "end_at": null,
+    "comment_group_id": 2190132,
+    "published_at": "2021-06-06T11:08:33+00:00",
+    "display_name": "",
+    "total": 194,
+    "answers": [
+        {
+            "id": 22358,
+            "answer": "Ja, leider, aber das stehen wir durch!",
+            "votes": 80,
+            "order": 0
+        },
+        {
+            "id": 22359,
+            "answer": "Nein, wir sind verliebt wie am ersten Tag!",
+            "votes": 114,
+            "order": 1
+        }
+    ]
+}

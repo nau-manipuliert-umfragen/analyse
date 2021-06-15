@@ -1,0 +1,25 @@
+{
+    "id": 7485,
+    "question": "Braucht es in der Gastronomie schon Lockerungen im März?",
+    "created_at": "2021-02-22T09:50:18+00:00",
+    "updated_at": "2021-06-14T09:38:49+00:00",
+    "end_at": null,
+    "comment_group_id": 2032828,
+    "published_at": "2021-02-22T10:44:09+00:00",
+    "display_name": "",
+    "total": 3784,
+    "answers": [
+        {
+            "id": 17259,
+            "answer": "Ja, sonst geht eine ganze Branche aufgrund von Schreckensszenarien vor die Hunde.",
+            "votes": 3248,
+            "order": 0
+        },
+        {
+            "id": 17260,
+            "answer": "Nein, Restaurants gehören weiterhin geschlossen. Das Ansteckungsrisiko ist zu gross.",
+            "votes": 536,
+            "order": 1
+        }
+    ]
+}

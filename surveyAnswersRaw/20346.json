@@ -1,0 +1,25 @@
+{
+    "id": 8939,
+    "question": "Begrüssen Sie die geplante Einführung des «Covid-Zertifikats»",
+    "created_at": "2021-04-22T11:21:30+00:00",
+    "updated_at": "2021-06-14T09:40:05+00:00",
+    "end_at": null,
+    "comment_group_id": 2119321,
+    "published_at": "2021-04-22T17:29:16+00:00",
+    "display_name": "",
+    "total": 2936,
+    "answers": [
+        {
+            "id": 20346,
+            "answer": "Ja.",
+            "votes": 728,
+            "order": 0
+        },
+        {
+            "id": 20347,
+            "answer": "Nein.",
+            "votes": 2208,
+            "order": 1
+        }
+    ]
+}

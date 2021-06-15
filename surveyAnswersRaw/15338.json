@@ -1,0 +1,25 @@
+{
+    "id": 6620,
+    "question": "Schauen Sie «1 gegen 100»?",
+    "created_at": "2021-01-12T12:46:38+00:00",
+    "updated_at": "2021-06-14T09:38:08+00:00",
+    "end_at": null,
+    "comment_group_id": 1973790,
+    "published_at": "2021-01-12T17:17:51+00:00",
+    "display_name": "",
+    "total": 1744,
+    "answers": [
+        {
+            "id": 15338,
+            "answer": "Ja, ich liebe es mitzurätseln.",
+            "votes": 1210,
+            "order": 0
+        },
+        {
+            "id": 15337,
+            "answer": "Nein, es ist mir zu langweilig.",
+            "votes": 534,
+            "order": 1
+        }
+    ]
+}

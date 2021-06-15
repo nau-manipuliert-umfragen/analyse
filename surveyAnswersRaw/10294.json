@@ -1,0 +1,25 @@
+{
+    "id": 4325,
+    "question": "Was halten Sie von den süssen (Liebes)-Worten der beiden Tänzer?",
+    "created_at": "2020-05-23T05:10:45+00:00",
+    "updated_at": "2021-06-14T09:36:30+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 4380,
+    "answers": [
+        {
+            "id": 10294,
+            "answer": "Herzig, aus denen wird in ein paar Wochen ein hübsches Paar werden.",
+            "votes": 2124,
+            "order": 0
+        },
+        {
+            "id": 10293,
+            "answer": "In so einem Finale gehen die Emotionen schon mal mit einem durch.",
+            "votes": 2256,
+            "order": 1
+        }
+    ]
+}

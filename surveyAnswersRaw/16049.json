@@ -1,0 +1,25 @@
+{
+    "id": 6948,
+    "question": "Wollen Sie sich gegen das Coronavirus impfen lassen?",
+    "created_at": "2021-02-01T11:18:33+00:00",
+    "updated_at": "2021-02-02T15:55:46+00:00",
+    "end_at": "2021-02-02T16:00:00+00:00",
+    "comment_group_id": 2002383,
+    "published_at": "2021-02-01T18:03:24+00:00",
+    "display_name": "",
+    "total": 1135,
+    "answers": [
+        {
+            "id": 16048,
+            "answer": "Nein, sicher nicht – ich vertraue dem Impfstoff nicht.",
+            "votes": 547,
+            "order": 0
+        },
+        {
+            "id": 16049,
+            "answer": "Klar, ich will endlich zur Normalität zurück.",
+            "votes": 588,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 2984,
+    "question": "Würden Sie Ihrer Mutter das verzeihen?",
+    "created_at": "2020-02-13T08:44:10+00:00",
+    "updated_at": "2021-06-14T09:35:32+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 336,
+    "answers": [
+        {
+            "id": 7370,
+            "answer": "Ja, Liebe muss ihren Weg gehen.",
+            "votes": 57,
+            "order": 0
+        },
+        {
+            "id": 7371,
+            "answer": "Nein, die kann genügend andere Männer haben!",
+            "votes": 279,
+            "order": 1
+        }
+    ]
+}

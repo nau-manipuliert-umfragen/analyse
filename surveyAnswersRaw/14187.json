@@ -1,0 +1,25 @@
+{
+    "id": 6100,
+    "question": "Finden Sie die Entscheidung der Uefa nachvollziehbar?",
+    "created_at": "2020-11-18T19:38:48+00:00",
+    "updated_at": "2021-06-14T09:37:44+00:00",
+    "end_at": null,
+    "comment_group_id": 1903321,
+    "published_at": null,
+    "display_name": "",
+    "total": 199,
+    "answers": [
+        {
+            "id": 14188,
+            "answer": "Ja",
+            "votes": 117,
+            "order": 0
+        },
+        {
+            "id": 14187,
+            "answer": "Nein",
+            "votes": 82,
+            "order": 1
+        }
+    ]
+}

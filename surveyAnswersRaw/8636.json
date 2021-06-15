@@ -1,0 +1,25 @@
+{
+    "id": 3558,
+    "question": "Wie finden sie die Challenge von Bundesrat Alain Berset?",
+    "created_at": "2020-03-20T21:35:06+00:00",
+    "updated_at": "2021-06-14T09:35:56+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 3660,
+    "answers": [
+        {
+            "id": 8635,
+            "answer": "Sehr gut, damit können die Menschen sensibilisiert werden.",
+            "votes": 3178,
+            "order": 0
+        },
+        {
+            "id": 8636,
+            "answer": "Naja, es gibt doch bereits genug Challenges.",
+            "votes": 482,
+            "order": 1
+        }
+    ]
+}

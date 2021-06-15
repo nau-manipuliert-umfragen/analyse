@@ -1,0 +1,25 @@
+{
+    "id": 7950,
+    "question": "Jogi Löw als Trainer der Schweizer-Nati – was meinen Sie?",
+    "created_at": "2021-03-12T13:38:54+00:00",
+    "updated_at": "2021-06-14T09:39:13+00:00",
+    "end_at": null,
+    "comment_group_id": 2059989,
+    "published_at": "2021-03-12T18:22:51+00:00",
+    "display_name": "",
+    "total": 175,
+    "answers": [
+        {
+            "id": 18276,
+            "answer": "Ein Weltmeister-Trainer wäre ein Coup!",
+            "votes": 101,
+            "order": 0
+        },
+        {
+            "id": 18275,
+            "answer": "Nein, das passt nicht.",
+            "votes": 74,
+            "order": 1
+        }
+    ]
+}

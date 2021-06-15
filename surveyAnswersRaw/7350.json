@@ -1,0 +1,31 @@
+{
+    "id": 2974,
+    "question": "Wie finden Sie den Treffer von Pius Suter?",
+    "created_at": "2020-02-12T10:35:06+00:00",
+    "updated_at": "2021-06-14T10:21:45+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 109,
+    "answers": [
+        {
+            "id": 7349,
+            "answer": "Überragend! Suter ist momentan der beste Schweizer in der National League.",
+            "votes": 59,
+            "order": 0
+        },
+        {
+            "id": 7351,
+            "answer": "Da habe ich also schon schönere Tore gesehen.",
+            "votes": 24,
+            "order": 1
+        },
+        {
+            "id": 7350,
+            "answer": "Kein Problem. Das kann ich auch.",
+            "votes": 26,
+            "order": 2
+        }
+    ]
+}

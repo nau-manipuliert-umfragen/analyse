@@ -1,0 +1,25 @@
+{
+    "id": 7161,
+    "question": "Haben Sie auch schon eine Zoom-Meeting-Panne miterlebt?",
+    "created_at": "2021-02-10T08:02:46+00:00",
+    "updated_at": "2021-06-14T09:38:34+00:00",
+    "end_at": null,
+    "comment_group_id": 2015139,
+    "published_at": "2021-02-10T08:19:14+00:00",
+    "display_name": "",
+    "total": 90,
+    "answers": [
+        {
+            "id": 16532,
+            "answer": "Ja, das war ein peinlicher Moment.",
+            "votes": 32,
+            "order": 0
+        },
+        {
+            "id": 16533,
+            "answer": "Nein, bisher ist immer alles unaufgeregt abgelaufen.",
+            "votes": 58,
+            "order": 1
+        }
+    ]
+}

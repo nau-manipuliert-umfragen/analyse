@@ -1,0 +1,37 @@
+{
+    "id": 7193,
+    "question": "Wer ist Ihrer Meinung nach von der Pandemie am härtesten betroffen?",
+    "created_at": "2021-02-11T09:18:59+00:00",
+    "updated_at": "2021-02-18T07:57:21+00:00",
+    "end_at": "2021-02-18T09:18:28+00:00",
+    "comment_group_id": 2017001,
+    "published_at": "2021-02-11T09:35:28+00:00",
+    "display_name": "",
+    "total": 2007,
+    "answers": [
+        {
+            "id": 16604,
+            "answer": "Das Personal der Spitäler",
+            "votes": 623,
+            "order": 0
+        },
+        {
+            "id": 16603,
+            "answer": "Die Gastrobetriebe plus allenfalls Fitnessstudios und Tenniscenter",
+            "votes": 739,
+            "order": 1
+        },
+        {
+            "id": 16606,
+            "answer": "Kulturschaffende wie Schauspieler, Tänzer, Chöre oder Bands",
+            "votes": 279,
+            "order": 2
+        },
+        {
+            "id": 16605,
+            "answer": "Betagte und andere Risikogruppen sowie deren Angehörige",
+            "votes": 366,
+            "order": 3
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "id": 3024,
+    "question": "Schafft Wendy Holdener im zweiten Lauf den Sprung auf das Podest?",
+    "created_at": "2020-02-15T09:57:21+00:00",
+    "updated_at": "2021-06-14T09:35:33+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 85,
+    "answers": [
+        {
+            "id": 7456,
+            "answer": "Ja, sie ist momentan in bestechender Form.",
+            "votes": 35,
+            "order": 0
+        },
+        {
+            "id": 7454,
+            "answer": "Nein, aber es reicht für die Top 5.",
+            "votes": 28,
+            "order": 1
+        },
+        {
+            "id": 7455,
+            "answer": "Nein, heute liegt kein Top-Resultat für Holdener drin.",
+            "votes": 22,
+            "order": 2
+        }
+    ]
+}

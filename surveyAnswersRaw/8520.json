@@ -1,0 +1,25 @@
+{
+    "id": 3505,
+    "question": "Finden Sie es richtig, dass Sportler und Promis ihre Reichweite zu solchen Zwecken nutzen?",
+    "created_at": "2020-03-17T19:47:14+00:00",
+    "updated_at": "2021-06-14T09:35:54+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 519,
+    "answers": [
+        {
+            "id": 8520,
+            "answer": "Ja! Nützt es nichts, schadet es nichts.",
+            "votes": 393,
+            "order": 0
+        },
+        {
+            "id": 8521,
+            "answer": "Nein, das ist einfach nur unnötig.",
+            "votes": 126,
+            "order": 1
+        }
+    ]
+}

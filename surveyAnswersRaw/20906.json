@@ -1,0 +1,25 @@
+{
+    "id": 9194,
+    "question": "Würden Sie auch eine Imfpung der Schweizer Nati-Spieler begrüssen?",
+    "created_at": "2021-05-03T17:26:05+00:00",
+    "updated_at": "2021-06-14T09:40:21+00:00",
+    "end_at": null,
+    "comment_group_id": 2138083,
+    "published_at": "2021-05-03T17:26:12+00:00",
+    "display_name": "",
+    "total": 146,
+    "answers": [
+        {
+            "id": 20906,
+            "answer": "Ja",
+            "votes": 78,
+            "order": 0
+        },
+        {
+            "id": 20907,
+            "answer": "Nein",
+            "votes": 68,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 6161,
+    "question": "Sind Sie mit den Noten einverstanden?",
+    "created_at": "2020-11-26T07:31:29+00:00",
+    "updated_at": "2021-06-14T10:24:13+00:00",
+    "end_at": null,
+    "comment_group_id": 1912618,
+    "published_at": "2020-11-26T08:35:12+00:00",
+    "display_name": "",
+    "total": 97,
+    "answers": [
+        {
+            "id": 14323,
+            "answer": "Ja, ich sah das gleiche Spiel.",
+            "votes": 55,
+            "order": 0
+        },
+        {
+            "id": 14322,
+            "answer": "Nein, ich beurteile das Spiel anders.",
+            "votes": 42,
+            "order": 1
+        }
+    ]
+}

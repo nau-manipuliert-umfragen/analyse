@@ -1,0 +1,25 @@
+{
+    "id": 6354,
+    "question": "Passen Nastassja und Robin zusammen?",
+    "created_at": "2020-12-17T12:26:49+00:00",
+    "updated_at": "2021-06-14T09:37:58+00:00",
+    "end_at": null,
+    "comment_group_id": 1944454,
+    "published_at": "2020-12-18T08:05:39+00:00",
+    "display_name": "",
+    "total": 1074,
+    "answers": [
+        {
+            "id": 14754,
+            "answer": "Nein, sie ist viel zu ernst für ihn.",
+            "votes": 972,
+            "order": 0
+        },
+        {
+            "id": 14755,
+            "answer": "Ja, sie ergänzen sich perfekt.",
+            "votes": 102,
+            "order": 1
+        }
+    ]
+}

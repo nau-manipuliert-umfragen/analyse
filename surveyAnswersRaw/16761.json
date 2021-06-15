@@ -1,0 +1,25 @@
+{
+    "id": 7261,
+    "question": "Fahren die Schweizer Abfahrerinnen aufs WM-Podest?",
+    "created_at": "2021-02-13T07:20:19+00:00",
+    "updated_at": "2021-06-14T10:25:06+00:00",
+    "end_at": null,
+    "comment_group_id": 2020121,
+    "published_at": "2021-02-13T09:54:03+00:00",
+    "display_name": "",
+    "total": 174,
+    "answers": [
+        {
+            "id": 16760,
+            "answer": "Ja",
+            "votes": 143,
+            "order": 0
+        },
+        {
+            "id": 16761,
+            "answer": "Nein",
+            "votes": 31,
+            "order": 1
+        }
+    ]
+}

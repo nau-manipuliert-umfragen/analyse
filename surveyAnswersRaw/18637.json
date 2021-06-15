@@ -1,0 +1,25 @@
+{
+    "id": 8125,
+    "question": "Werden sich künftig noch Schweizer Teams für die Champions League qualifizieren?",
+    "created_at": "2021-03-19T07:23:03+00:00",
+    "updated_at": "2021-06-14T09:39:23+00:00",
+    "end_at": null,
+    "comment_group_id": 2069590,
+    "published_at": null,
+    "display_name": "",
+    "total": 638,
+    "answers": [
+        {
+            "id": 18636,
+            "answer": "Ja, wir haben viel Qualität.",
+            "votes": 160,
+            "order": 0
+        },
+        {
+            "id": 18637,
+            "answer": "Nein, dieser Zug ist wohl abgefahren.,",
+            "votes": 478,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 7445,
+    "question": "Holt sich auch Michelle Gisin im Slalom vom Samstag noch WM-Edelmetall?",
+    "created_at": "2021-02-19T14:55:57+00:00",
+    "updated_at": "2021-06-14T09:38:47+00:00",
+    "end_at": null,
+    "comment_group_id": 2030040,
+    "published_at": "2021-02-19T15:21:18+00:00",
+    "display_name": "",
+    "total": 1209,
+    "answers": [
+        {
+            "id": 17178,
+            "answer": "Ja",
+            "votes": 798,
+            "order": 0
+        },
+        {
+            "id": 17177,
+            "answer": "Nein",
+            "votes": 411,
+            "order": 1
+        }
+    ]
+}

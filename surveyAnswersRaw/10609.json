@@ -1,0 +1,25 @@
+{
+    "id": 4470,
+    "question": "Finden Sie die Reaktion der «Colonial Bar» angemessen?",
+    "created_at": "2020-06-04T07:57:37+00:00",
+    "updated_at": "2021-06-14T09:36:35+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 2081,
+    "answers": [
+        {
+            "id": 10610,
+            "answer": "Ja, dieser Name ist im Jahr 2020 nicht tragbar.",
+            "votes": 416,
+            "order": 0
+        },
+        {
+            "id": 10609,
+            "answer": "Nein, das ist eine völlige Überreaktion und führt die Political Correctness ad absurdum.",
+            "votes": 1665,
+            "order": 1
+        }
+    ]
+}

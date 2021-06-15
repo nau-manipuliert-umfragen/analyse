@@ -1,0 +1,25 @@
+{
+    "id": 8915,
+    "question": "Was halten Sie von Flugshows?",
+    "created_at": "2021-04-21T14:00:08+00:00",
+    "updated_at": "2021-06-14T09:40:04+00:00",
+    "end_at": null,
+    "comment_group_id": 2117789,
+    "published_at": "2021-04-21T14:30:01+00:00",
+    "display_name": "",
+    "total": 413,
+    "answers": [
+        {
+            "id": 20295,
+            "answer": "Cool!",
+            "votes": 243,
+            "order": 0
+        },
+        {
+            "id": 20296,
+            "answer": "Das ist gefährlich.",
+            "votes": 170,
+            "order": 1
+        }
+    ]
+}

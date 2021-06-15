@@ -1,0 +1,25 @@
+{
+    "id": 2756,
+    "question": "Was halten Sie von einer GNTM-Staffel ohne Schweizer Beteiligung?",
+    "created_at": "2020-01-30T09:23:13+00:00",
+    "updated_at": "2021-06-14T09:35:18+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 122,
+    "answers": [
+        {
+            "id": 6860,
+            "answer": "Geht gar nicht. Wieso soll ich jetzt noch einschalten?",
+            "votes": 43,
+            "order": 0
+        },
+        {
+            "id": 6861,
+            "answer": "Ist doch egal, eine Schweizerin hat es noch nie auf den GNTM-Thron geschafft.",
+            "votes": 79,
+            "order": 1
+        }
+    ]
+}

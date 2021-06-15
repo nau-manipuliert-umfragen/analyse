@@ -1,0 +1,25 @@
+{
+    "id": 5274,
+    "question": "Wie gefiel Ihnen Sascha Rufer beim Spiel YB-Klaksvik als Kommentator?",
+    "created_at": "2020-08-27T07:35:31+00:00",
+    "updated_at": "2021-06-14T09:37:06+00:00",
+    "end_at": null,
+    "comment_group_id": 1769149,
+    "published_at": "2020-08-27T08:46:23+00:00",
+    "display_name": "",
+    "total": 395,
+    "answers": [
+        {
+            "id": 12358,
+            "answer": "Gut!",
+            "votes": 200,
+            "order": 0
+        },
+        {
+            "id": 12357,
+            "answer": "Naja, Ruefer hatte schon bessere Tage",
+            "votes": 195,
+            "order": 1
+        }
+    ]
+}

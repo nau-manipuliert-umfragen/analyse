@@ -1,0 +1,25 @@
+{
+    "id": 5321,
+    "question": "Kann der FCB mit Trainer Ciriaco Sforza wieder um den Titel spielen?",
+    "created_at": "2020-09-01T08:30:30+00:00",
+    "updated_at": "2021-06-14T10:23:33+00:00",
+    "end_at": null,
+    "comment_group_id": 1776748,
+    "published_at": "2020-09-01T11:20:49+00:00",
+    "display_name": "",
+    "total": 759,
+    "answers": [
+        {
+            "id": 12465,
+            "answer": "Ja, jetzt geht es aufwärts!",
+            "votes": 191,
+            "order": 0
+        },
+        {
+            "id": 12466,
+            "answer": "Nein, die haben keine Chance.",
+            "votes": 568,
+            "order": 1
+        }
+    ]
+}

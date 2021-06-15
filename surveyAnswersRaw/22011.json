@@ -1,0 +1,25 @@
+{
+    "id": 9712,
+    "question": "Schafft der FC Luzern den Sprung in die Europa-League-Gruppenphase?",
+    "created_at": "2021-05-26T20:18:04+00:00",
+    "updated_at": "2021-06-14T09:40:50+00:00",
+    "end_at": null,
+    "comment_group_id": 2177416,
+    "published_at": null,
+    "display_name": "",
+    "total": 42,
+    "answers": [
+        {
+            "id": 22012,
+            "answer": "Ja",
+            "votes": 21,
+            "order": 0
+        },
+        {
+            "id": 22011,
+            "answer": "Nein",
+            "votes": 21,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 4078,
+    "question": "Verstehen Sie den Ärger von Yverdon?",
+    "created_at": "2020-05-01T07:24:45+00:00",
+    "updated_at": "2021-06-14T09:36:17+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 293,
+    "answers": [
+        {
+            "id": 9744,
+            "answer": "Ja, das ist eine Schweinerei!",
+            "votes": 159,
+            "order": 0
+        },
+        {
+            "id": 9745,
+            "answer": "Nein, das war doch zu erwarten.",
+            "votes": 134,
+            "order": 1
+        }
+    ]
+}

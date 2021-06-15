@@ -1,0 +1,25 @@
+{
+    "id": 3002,
+    "question": "Wer zieht in den Final der Coppa Italia ein?",
+    "created_at": "2020-02-13T21:33:59+00:00",
+    "updated_at": "2021-06-14T09:35:32+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 103,
+    "answers": [
+        {
+            "id": 7409,
+            "answer": "Milan schafft es.",
+            "votes": 37,
+            "order": 0
+        },
+        {
+            "id": 7410,
+            "answer": "Juventus wird das Ding im Rückspiel noch drehen.",
+            "votes": 66,
+            "order": 1
+        }
+    ]
+}

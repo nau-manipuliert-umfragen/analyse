@@ -1,0 +1,25 @@
+{
+    "id": 2820,
+    "question": "Finden sie die neue Regelauslegung gut?",
+    "created_at": "2020-02-03T14:43:41+00:00",
+    "updated_at": "2021-06-14T09:35:22+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 73,
+    "answers": [
+        {
+            "id": 7007,
+            "answer": "Ja, so können die Schiedsrichter geschützt werden.",
+            "votes": 47,
+            "order": 0
+        },
+        {
+            "id": 7006,
+            "answer": "Nein, die Emotionen im Spiel gegen dadurch verloren.",
+            "votes": 26,
+            "order": 1
+        }
+    ]
+}

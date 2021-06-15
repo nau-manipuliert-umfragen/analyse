@@ -1,0 +1,25 @@
+{
+    "id": 4429,
+    "question": "Was halten Sie von den Regeländerungen?",
+    "created_at": "2020-06-01T18:41:40+00:00",
+    "updated_at": "2021-06-14T09:36:34+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 120,
+    "answers": [
+        {
+            "id": 10516,
+            "answer": "Sinnvoll",
+            "votes": 58,
+            "order": 0
+        },
+        {
+            "id": 10515,
+            "answer": "Unnötig",
+            "votes": 62,
+            "order": 1
+        }
+    ]
+}

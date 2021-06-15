@@ -1,0 +1,25 @@
+{
+    "id": 4002,
+    "question": "Befürworten Sie die Trainings-Wiederaufnahme von Fussball-Vereinen?",
+    "created_at": "2020-04-24T15:21:13+00:00",
+    "updated_at": "2021-06-14T09:36:14+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 108,
+    "answers": [
+        {
+            "id": 9584,
+            "answer": "Ja, offensichtlich werden ja strikte Massnahmen umgesetzt.",
+            "votes": 59,
+            "order": 0
+        },
+        {
+            "id": 9583,
+            "answer": "Nein, die Krise ist noch lange nicht überstanden.",
+            "votes": 49,
+            "order": 1
+        }
+    ]
+}

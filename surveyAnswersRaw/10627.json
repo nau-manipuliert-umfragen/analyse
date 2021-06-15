@@ -1,0 +1,25 @@
+{
+    "id": 4479,
+    "question": "Wird Cristiano Ronaldo durch sein neues Schuhwerk schneller sein?",
+    "created_at": "2020-06-04T18:52:30+00:00",
+    "updated_at": "2020-06-04T18:52:30+00:00",
+    "end_at": "2020-06-04T18:52:26+00:00",
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 40,
+    "answers": [
+        {
+            "id": 10627,
+            "answer": "Ja, davon bin ich überzeugt.",
+            "votes": 20,
+            "order": 0
+        },
+        {
+            "id": 10628,
+            "answer": "Nein, dies ist unmöglich.",
+            "votes": 20,
+            "order": 1
+        }
+    ]
+}

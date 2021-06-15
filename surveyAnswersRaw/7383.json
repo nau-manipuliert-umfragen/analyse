@@ -1,0 +1,25 @@
+{
+    "id": 2990,
+    "question": "Trauen Sie dem Frieden beim FC Luzern?",
+    "created_at": "2020-02-13T10:49:59+00:00",
+    "updated_at": "2021-06-14T09:35:32+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 271,
+    "answers": [
+        {
+            "id": 7383,
+            "answer": "Natürlich, eine Aussprache hat noch immer geholfen!",
+            "votes": 107,
+            "order": 0
+        },
+        {
+            "id": 7382,
+            "answer": "Nein, im Fussball kann schnell wieder Unruhe aufkommen.",
+            "votes": 164,
+            "order": 1
+        }
+    ]
+}

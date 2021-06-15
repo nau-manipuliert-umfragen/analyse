@@ -1,0 +1,25 @@
+{
+    "id": 8273,
+    "question": "Mögen Sie Schlager?",
+    "created_at": "2021-03-24T10:42:51+00:00",
+    "updated_at": "2021-06-14T09:39:30+00:00",
+    "end_at": null,
+    "comment_group_id": 2076899,
+    "published_at": "2021-03-25T11:57:01+00:00",
+    "display_name": "",
+    "total": 430,
+    "answers": [
+        {
+            "id": 18954,
+            "answer": "Ja, für mich ist es gute Laune pur!",
+            "votes": 209,
+            "order": 0
+        },
+        {
+            "id": 18953,
+            "answer": "Nein, nicht mein Ding!",
+            "votes": 221,
+            "order": 1
+        }
+    ]
+}

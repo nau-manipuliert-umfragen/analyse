@@ -1,0 +1,25 @@
+{
+    "id": 1510,
+    "question": "Keine Nahaufnahmen von Frauen in WM-Stadien - ist das gut so?",
+    "created_at": "2018-07-13T16:20:41+00:00",
+    "updated_at": "2021-06-14T09:34:30+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 189,
+    "answers": [
+        {
+            "id": 4057,
+            "answer": "Ja, das gehört sich nicht.",
+            "votes": 37,
+            "order": 100
+        },
+        {
+            "id": 4060,
+            "answer": "Nein, das ist eine Überreaktion.",
+            "votes": 152,
+            "order": 100
+        }
+    ]
+}

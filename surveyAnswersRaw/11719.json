@@ -1,0 +1,25 @@
+{
+    "id": 4982,
+    "question": "Beendet Lionel Messi seine Karriere bei Barcelona?",
+    "created_at": "2020-07-24T13:13:16+00:00",
+    "updated_at": "2021-06-14T09:36:55+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": "2020-08-15T13:00:50+00:00",
+    "display_name": "",
+    "total": 934,
+    "answers": [
+        {
+            "id": 11720,
+            "answer": "Ja",
+            "votes": 510,
+            "order": 0
+        },
+        {
+            "id": 11719,
+            "answer": "Nein",
+            "votes": 424,
+            "order": 1
+        }
+    ]
+}

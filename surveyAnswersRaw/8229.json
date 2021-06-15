@@ -1,0 +1,25 @@
+{
+    "id": 3369,
+    "question": "Was halten Sie von der Seperation der Royals beim heutigen Gottesdienst?",
+    "created_at": "2020-03-09T08:13:09+00:00",
+    "updated_at": "2021-06-14T09:35:48+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 370,
+    "answers": [
+        {
+            "id": 8229,
+            "answer": "Alles erwachsene Menschen, können die sich nicht mal zusammen reissen?",
+            "votes": 199,
+            "order": 0
+        },
+        {
+            "id": 8230,
+            "answer": "Spitze, dann gibt's wenigstens am letzten Arbeitstag keine Streitereien mehr!",
+            "votes": 171,
+            "order": 1
+        }
+    ]
+}

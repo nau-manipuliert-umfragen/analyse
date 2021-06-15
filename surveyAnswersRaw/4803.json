@@ -1,0 +1,25 @@
+{
+    "id": 1848,
+    "question": "Qualifiziert sich YB noch für die Champions League?",
+    "created_at": "2018-08-23T02:44:52+00:00",
+    "updated_at": "2021-06-14T09:34:39+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 140,
+    "answers": [
+        {
+            "id": 4800,
+            "answer": "Ja, im Rückspiel schaukeln die Berner das.",
+            "votes": 87,
+            "order": 100
+        },
+        {
+            "id": 4803,
+            "answer": "Nein, das wird nichts mehr.",
+            "votes": 53,
+            "order": 100
+        }
+    ]
+}

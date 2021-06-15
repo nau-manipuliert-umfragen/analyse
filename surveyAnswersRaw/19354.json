@@ -1,0 +1,31 @@
+{
+    "id": 8464,
+    "question": "Welche Osterschokolade vernaschen Sie am liebsten?",
+    "created_at": "2021-04-01T09:14:32+00:00",
+    "updated_at": "2021-06-14T09:39:40+00:00",
+    "end_at": null,
+    "comment_group_id": 2088830,
+    "published_at": "2021-04-04T06:13:34+00:00",
+    "display_name": "",
+    "total": 331,
+    "answers": [
+        {
+            "id": 19354,
+            "answer": "Bio-Schokolade, die ist nachhaltig und lecker.",
+            "votes": 78,
+            "order": 0
+        },
+        {
+            "id": 19353,
+            "answer": "Schokolade, die am besten noch ein spezielles Aroma hat.",
+            "votes": 82,
+            "order": 1
+        },
+        {
+            "id": 19352,
+            "answer": "Mir egal, Hauptsache Schokolade.",
+            "votes": 171,
+            "order": 2
+        }
+    ]
+}

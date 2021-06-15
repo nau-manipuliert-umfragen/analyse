@@ -1,0 +1,37 @@
+{
+    "id": 5061,
+    "question": "Mal ehrlich: Was haben Sie für ein Passwort?",
+    "created_at": "2020-08-04T14:47:51+00:00",
+    "updated_at": "2021-06-14T10:23:21+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 959,
+    "answers": [
+        {
+            "id": 11899,
+            "answer": "Auch 123456",
+            "votes": 152,
+            "order": 0
+        },
+        {
+            "id": 11898,
+            "answer": "Mein Geburtsdatum",
+            "votes": 43,
+            "order": 1
+        },
+        {
+            "id": 11900,
+            "answer": "Der Name meiner Katze",
+            "votes": 72,
+            "order": 2
+        },
+        {
+            "id": 11901,
+            "answer": "Das verrate ich sicher nicht!",
+            "votes": 692,
+            "order": 3
+        }
+    ]
+}

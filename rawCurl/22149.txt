@@ -1,0 +1,66 @@
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0*   Trying 185.79.201.48...
+* TCP_NODELAY set
+* Connected to api.nau.ch (185.79.201.48) port 443 (#0)
+* ALPN, offering h2
+* ALPN, offering http/1.1
+* successfully set certificate verify locations:
+*   CAfile: /etc/ssl/cert.pem
+  CApath: none
+* TLSv1.2 (OUT), TLS handshake, Client hello (1):
+} [224 bytes data]
+* TLSv1.2 (IN), TLS handshake, Server hello (2):
+{ [102 bytes data]
+* TLSv1.2 (IN), TLS handshake, Certificate (11):
+{ [2631 bytes data]
+* TLSv1.2 (IN), TLS handshake, Server key exchange (12):
+{ [333 bytes data]
+* TLSv1.2 (IN), TLS handshake, Server finished (14):
+{ [4 bytes data]
+* TLSv1.2 (OUT), TLS handshake, Client key exchange (16):
+} [70 bytes data]
+* TLSv1.2 (OUT), TLS change cipher, Change cipher spec (1):
+} [1 bytes data]
+* TLSv1.2 (OUT), TLS handshake, Finished (20):
+} [16 bytes data]
+* TLSv1.2 (IN), TLS change cipher, Change cipher spec (1):
+{ [1 bytes data]
+* TLSv1.2 (IN), TLS handshake, Finished (20):
+{ [16 bytes data]
+* SSL connection using TLSv1.2 / ECDHE-RSA-AES256-GCM-SHA384
+* ALPN, server accepted to use h2
+* Server certificate:
+*  subject: CN=*.nau.ch
+*  start date: Jun 22 00:00:00 2020 GMT
+*  expire date: Jul  7 12:00:00 2021 GMT
+*  subjectAltName: host "api.nau.ch" matched cert's "*.nau.ch"
+*  issuer: C=US; O=DigiCert Inc; OU=www.digicert.com; CN=GeoTrust RSA CA 2018
+*  SSL certificate verify ok.
+* Using HTTP2, server supports multi-use
+* Connection state changed (HTTP/2 confirmed)
+* Copying HTTP/2 data in stream buffer to connection buffer after upgrade: len=0
+* Using Stream ID: 1 (easy handle 0x7fe84200d600)
+> POST /survey-answers/22149/vote HTTP/2
+> Host: api.nau.ch
+> User-Agent: curl/7.64.1
+> Accept: */*
+> Content-Length: 2
+> Content-Type: application/x-www-form-urlencoded
+> 
+} [2 bytes data]
+* We are completely uploaded and fine
+* Connection state changed (MAX_CONCURRENT_STREAMS == 100)!
+< HTTP/2 200 
+< date: Mon, 14 Jun 2021 12:06:34 GMT
+< server: Apache
+< cache-control: no-cache, private
+< set-cookie: nau_session=aTkimxLsY0nkPVZ1oguaebdFXAMFp0aPkpaNWbg1; expires=Mon, 28-Jun-2021 12:06:34 GMT; Max-Age=1209600; path=/; domain=nau.ch; httponly; samesite=lax
+< vary: Accept-Encoding
+< content-length: 466
+< content-type: application/json
+< 
+{ [466 bytes data]
+100   468  100   466  100     2   1503      6 --:--:-- --:--:-- --:--:--  1509
+* Connection #0 to host api.nau.ch left intact
+{"id":9770,"question":"Werden Sie das CO2-Gesetz annehmen?","created_at":"2021-05-31T08:51:29+00:00","updated_at":"2021-06-03T10:02:03+00:00","end_at":"2021-06-01T08:51:26+00:00","comment_group_id":2183485,"published_at":"2021-06-03T10:02:02+00:00","display_name":"","total":503,"answers":[{"id":22149,"answer":"Ja, das ist ein wichtiger Schritt f\u00fcr die Umwelt.","votes":126,"order":0},{"id":22148,"answer":"Nein, das ist mir zu teuer.","votes":377,"order":1}]}* Closing connection 0

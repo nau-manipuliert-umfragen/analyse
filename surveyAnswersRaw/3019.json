@@ -1,0 +1,25 @@
+{
+    "id": 1129,
+    "question": "Gefällt Ihnen Rogers neues Blond?",
+    "created_at": "2018-06-14T06:52:57+00:00",
+    "updated_at": "2021-06-14T09:34:17+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 80,
+    "answers": [
+        {
+            "id": 3013,
+            "answer": "Ja, er sieht zehn Jahre jünger aus!",
+            "votes": 31,
+            "order": 100
+        },
+        {
+            "id": 3019,
+            "answer": "Ja, Roger kann alles tragen.",
+            "votes": 49,
+            "order": 100
+        }
+    ]
+}

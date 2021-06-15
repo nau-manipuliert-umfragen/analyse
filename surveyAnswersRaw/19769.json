@@ -1,0 +1,25 @@
+{
+    "id": 8666,
+    "question": "Lassen Sie sich gegen Corona impfen?",
+    "created_at": "2021-04-11T13:56:00+00:00",
+    "updated_at": "2021-06-14T09:39:51+00:00",
+    "end_at": null,
+    "comment_group_id": 2102671,
+    "published_at": "2021-05-03T18:04:10+00:00",
+    "display_name": "",
+    "total": 6646,
+    "answers": [
+        {
+            "id": 19769,
+            "answer": "Klar! Nur mit der Impfung können wir wieder in unser normales Leben zurückkehren.",
+            "votes": 2796,
+            "order": 0
+        },
+        {
+            "id": 19770,
+            "answer": "Nein, ich möchte mich nicht impfen lassen.",
+            "votes": 3850,
+            "order": 1
+        }
+    ]
+}

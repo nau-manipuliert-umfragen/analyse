@@ -1,0 +1,25 @@
+{
+    "id": 9667,
+    "question": "Würden Sie wegen tieferen Wohnkosten umziehen?",
+    "created_at": "2021-05-25T07:19:08+00:00",
+    "updated_at": "2021-05-26T07:14:56+00:00",
+    "end_at": "2021-05-26T07:19:05+00:00",
+    "comment_group_id": 2174260,
+    "published_at": "2021-05-25T07:39:54+00:00",
+    "display_name": "",
+    "total": 1750,
+    "answers": [
+        {
+            "id": 21911,
+            "answer": "Ja.",
+            "votes": 809,
+            "order": 0
+        },
+        {
+            "id": 21912,
+            "answer": "Nein.",
+            "votes": 941,
+            "order": 1
+        }
+    ]
+}

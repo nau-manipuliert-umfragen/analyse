@@ -1,0 +1,25 @@
+{
+    "id": 8549,
+    "question": "Würden Sie für gutes Geld im Internet strippen?",
+    "created_at": "2021-04-06T12:33:33+00:00",
+    "updated_at": "2021-06-14T09:39:45+00:00",
+    "end_at": null,
+    "comment_group_id": 2094811,
+    "published_at": "2021-04-06T15:02:22+00:00",
+    "display_name": "",
+    "total": 904,
+    "answers": [
+        {
+            "id": 19526,
+            "answer": "Ja, ist doch nichts dabei!",
+            "votes": 294,
+            "order": 0
+        },
+        {
+            "id": 19527,
+            "answer": "Nein, das wäre nichts für mich.",
+            "votes": 610,
+            "order": 1
+        }
+    ]
+}

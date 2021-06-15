@@ -1,0 +1,25 @@
+{
+    "id": 3171,
+    "question": "Holt Wawrinka in Acapulco den Turniersieg?",
+    "created_at": "2020-02-25T06:34:20+00:00",
+    "updated_at": "2021-06-14T09:35:40+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 73,
+    "answers": [
+        {
+            "id": 7783,
+            "answer": "Ja",
+            "votes": 38,
+            "order": 0
+        },
+        {
+            "id": 7782,
+            "answer": "Nein",
+            "votes": 35,
+            "order": 1
+        }
+    ]
+}

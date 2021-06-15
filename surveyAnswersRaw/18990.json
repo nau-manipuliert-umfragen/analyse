@@ -1,0 +1,25 @@
+{
+    "id": 8290,
+    "question": "Hat Estland eine Chance in der WM-Quali-Gruppe gegen Tschechien, Belgien, Belarus und Wales?",
+    "created_at": "2021-03-24T20:25:10+00:00",
+    "updated_at": "2021-06-14T09:39:31+00:00",
+    "end_at": null,
+    "comment_group_id": 2077864,
+    "published_at": "2021-03-24T21:37:09+00:00",
+    "display_name": "",
+    "total": 102,
+    "answers": [
+        {
+            "id": 18989,
+            "answer": "Ja",
+            "votes": 29,
+            "order": 0
+        },
+        {
+            "id": 18990,
+            "answer": "Nein",
+            "votes": 73,
+            "order": 1
+        }
+    ]
+}

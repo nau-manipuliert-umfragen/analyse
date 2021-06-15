@@ -1,0 +1,25 @@
+{
+    "id": 6250,
+    "question": "Holt YB den nötigen Punkt gegen Cluj?",
+    "created_at": "2020-12-07T06:52:42+00:00",
+    "updated_at": "2021-06-14T09:37:53+00:00",
+    "end_at": null,
+    "comment_group_id": 1929640,
+    "published_at": null,
+    "display_name": "",
+    "total": 637,
+    "answers": [
+        {
+            "id": 14522,
+            "answer": "Ja",
+            "votes": 494,
+            "order": 0
+        },
+        {
+            "id": 14523,
+            "answer": "Nein",
+            "votes": 143,
+            "order": 1
+        }
+    ]
+}

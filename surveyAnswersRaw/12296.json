@@ -1,0 +1,25 @@
+{
+    "id": 5244,
+    "question": "Gefällt Ihnen wie Sergio Ramos trainiert?",
+    "created_at": "2020-08-25T08:21:32+00:00",
+    "updated_at": "2020-08-29T06:44:29+00:00",
+    "end_at": "2020-08-25T08:21:32+00:00",
+    "comment_group_id": 1765307,
+    "published_at": "2020-08-29T06:44:28+00:00",
+    "display_name": "",
+    "total": 40,
+    "answers": [
+        {
+            "id": 12296,
+            "answer": "Ja, Ramos soll an seine Grenzen gehen.",
+            "votes": 20,
+            "order": 0
+        },
+        {
+            "id": 12295,
+            "answer": "Nein, dies ist viel zu übertrieben!",
+            "votes": 20,
+            "order": 1
+        }
+    ]
+}

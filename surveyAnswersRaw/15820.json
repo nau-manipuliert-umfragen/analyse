@@ -1,0 +1,25 @@
+{
+    "id": 6843,
+    "question": "Fliegen Sie trotz Corona?",
+    "created_at": "2021-01-27T08:24:24+00:00",
+    "updated_at": "2021-06-14T10:24:46+00:00",
+    "end_at": null,
+    "comment_group_id": 1994923,
+    "published_at": null,
+    "display_name": "",
+    "total": 517,
+    "answers": [
+        {
+            "id": 15819,
+            "answer": "Ja, daheim fällt mir die Decke auf den Kopf.",
+            "votes": 79,
+            "order": 0
+        },
+        {
+            "id": 15820,
+            "answer": "Nein, jetzt ist der falsche Zeitpunkt.",
+            "votes": 438,
+            "order": 1
+        }
+    ]
+}

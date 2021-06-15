@@ -1,0 +1,31 @@
+{
+    "id": 112,
+    "question": "Qualifiziert sich der FC Basel heute für das Achtelfinale?",
+    "created_at": "2017-10-31T09:47:28+00:00",
+    "updated_at": "2021-06-14T10:16:45+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 70,
+    "answers": [
+        {
+            "id": 269,
+            "answer": "Nein: Basel schlägt Moskau heute nicht",
+            "votes": 24,
+            "order": 100
+        },
+        {
+            "id": 270,
+            "answer": "Ja",
+            "votes": 24,
+            "order": 100
+        },
+        {
+            "id": 272,
+            "answer": "Nein: Basel gewinnt zwar, Benfica aber auch",
+            "votes": 22,
+            "order": 100
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "id": 8589,
+    "question": "Wer ist Ihr Favorit?",
+    "created_at": "2021-04-08T08:23:40+00:00",
+    "updated_at": "2021-06-14T09:39:47+00:00",
+    "end_at": null,
+    "comment_group_id": 2097891,
+    "published_at": "2021-04-08T10:51:59+00:00",
+    "display_name": "",
+    "total": 759,
+    "answers": [
+        {
+            "id": 19609,
+            "answer": "Prinz Charles.",
+            "votes": 106,
+            "order": 0
+        },
+        {
+            "id": 19608,
+            "answer": "Prinz William.",
+            "votes": 418,
+            "order": 1
+        },
+        {
+            "id": 19610,
+            "answer": "Prinz Harry.",
+            "votes": 84,
+            "order": 2
+        },
+        {
+            "id": 19611,
+            "answer": "Monarchie abschaffen!",
+            "votes": 151,
+            "order": 3
+        }
+    ]
+}

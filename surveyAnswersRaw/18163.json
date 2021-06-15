@@ -1,0 +1,25 @@
+{
+    "id": 7894,
+    "question": "Müssen Sie die Reisepläne wegen der neuen Liste nun umstellen?",
+    "created_at": "2021-03-10T13:59:10+00:00",
+    "updated_at": "2021-06-14T09:39:10+00:00",
+    "end_at": null,
+    "comment_group_id": 2056706,
+    "published_at": null,
+    "display_name": "",
+    "total": 427,
+    "answers": [
+        {
+            "id": 18163,
+            "answer": "Ja, so schade, wir wollten über Ostern in den Kosovo reisen.",
+            "votes": 151,
+            "order": 0
+        },
+        {
+            "id": 18164,
+            "answer": "Nein, das betrifft mich nicht.",
+            "votes": 276,
+            "order": 1
+        }
+    ]
+}

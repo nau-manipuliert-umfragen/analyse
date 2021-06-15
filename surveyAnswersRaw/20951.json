@@ -1,0 +1,25 @@
+{
+    "id": 9216,
+    "question": "Kehren Harry und Meghan bald wieder nach England zurück?",
+    "created_at": "2021-05-04T12:28:31+00:00",
+    "updated_at": "2021-06-14T09:40:22+00:00",
+    "end_at": null,
+    "comment_group_id": 2139748,
+    "published_at": "2021-05-04T16:08:47+00:00",
+    "display_name": "",
+    "total": 2617,
+    "answers": [
+        {
+            "id": 20951,
+            "answer": "Nein, dort sind sie nicht willkommen.",
+            "votes": 2458,
+            "order": 0
+        },
+        {
+            "id": 20952,
+            "answer": "Ja, die Zeit heilt alle Wunden.",
+            "votes": 159,
+            "order": 1
+        }
+    ]
+}

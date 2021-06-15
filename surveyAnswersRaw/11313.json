@@ -1,0 +1,25 @@
+{
+    "id": 4800,
+    "question": "Sollte Mercedes mit Lewis Hamilton für 47 Millionen Franken jährlich verlängern?",
+    "created_at": "2020-07-02T16:59:39+00:00",
+    "updated_at": "2021-06-14T09:36:48+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 312,
+    "answers": [
+        {
+            "id": 11314,
+            "answer": "Ja, der Brite ist das Geld wert.",
+            "votes": 70,
+            "order": 0
+        },
+        {
+            "id": 11313,
+            "answer": "Nein, der Rennstall sollte auf einen anderen Piloten setzen.",
+            "votes": 242,
+            "order": 1
+        }
+    ]
+}

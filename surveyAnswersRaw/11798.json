@@ -1,0 +1,25 @@
+{
+    "id": 5019,
+    "question": "Wären Sie auch erschrocken?",
+    "created_at": "2020-07-30T12:13:50+00:00",
+    "updated_at": "2021-06-14T09:36:57+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 142,
+    "answers": [
+        {
+            "id": 11799,
+            "answer": "Ja, ich verstehe den Kicker.",
+            "votes": 92,
+            "order": 0
+        },
+        {
+            "id": 11798,
+            "answer": "Nein, das ist doch klar ein Fiebermesser.",
+            "votes": 50,
+            "order": 1
+        }
+    ]
+}

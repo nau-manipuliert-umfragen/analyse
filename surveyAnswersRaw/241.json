@@ -1,0 +1,25 @@
+{
+    "id": 102,
+    "question": "Braucht es für Bundesrat und Parlament eine Frauenquote von 40 Prozent?",
+    "created_at": "2017-10-23T12:58:53+00:00",
+    "updated_at": "2021-06-14T10:16:45+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 73,
+    "answers": [
+        {
+            "id": 241,
+            "answer": "Ja, natürlich. Freiwilligkeit bringt hier nichts.",
+            "votes": 29,
+            "order": 100
+        },
+        {
+            "id": 242,
+            "answer": "Nein, Politiker sollten nur aufgrund ihrer Fähigkeiten gewählt werden.",
+            "votes": 44,
+            "order": 100
+        }
+    ]
+}

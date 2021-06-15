@@ -1,0 +1,43 @@
+{
+    "id": 184,
+    "question": "Welche Gruppe wünschen Sie sich für die Schweiz?",
+    "created_at": "2017-11-16T07:38:11+00:00",
+    "updated_at": "2021-06-14T09:33:43+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 140,
+    "answers": [
+        {
+            "id": 448,
+            "answer": "Die «Killer»-Gruppe",
+            "votes": 32,
+            "order": 100
+        },
+        {
+            "id": 450,
+            "answer": "Die «Weiterkommen-Pflicht»-Gruppe",
+            "votes": 35,
+            "order": 100
+        },
+        {
+            "id": 451,
+            "answer": "Die «gelbe» Gruppe",
+            "votes": 26,
+            "order": 100
+        },
+        {
+            "id": 453,
+            "answer": "Die «Kennen-wir-schon»-Gruppe",
+            "votes": 23,
+            "order": 100
+        },
+        {
+            "id": 457,
+            "answer": "eine andere... (bitte Gruppe in Kommentare schreiben)",
+            "votes": 24,
+            "order": 100
+        }
+    ]
+}

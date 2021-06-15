@@ -1,0 +1,25 @@
+{
+    "id": 3395,
+    "question": "Verstehen Sie die Massnahme?",
+    "created_at": "2020-03-10T11:38:48+00:00",
+    "updated_at": "2021-06-14T09:35:49+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 127,
+    "answers": [
+        {
+            "id": 8288,
+            "answer": "Ja, ein Geisterspiel ist unumgänglich.",
+            "votes": 78,
+            "order": 0
+        },
+        {
+            "id": 8287,
+            "answer": "Nein, das ist reine Panikmache!",
+            "votes": 49,
+            "order": 1
+        }
+    ]
+}

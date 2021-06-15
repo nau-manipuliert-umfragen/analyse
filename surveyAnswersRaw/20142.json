@@ -1,0 +1,25 @@
+{
+    "id": 8843,
+    "question": "Sollten die Schweizer Wähler am 13. Juni 2021 das geplante Anti-Terror-Gesetz annehmen?",
+    "created_at": "2021-04-19T10:36:59+00:00",
+    "updated_at": "2021-06-14T09:40:00+00:00",
+    "end_at": null,
+    "comment_group_id": 2113992,
+    "published_at": "2021-04-19T11:01:01+00:00",
+    "display_name": "",
+    "total": 154,
+    "answers": [
+        {
+            "id": 20142,
+            "answer": "Ja!",
+            "votes": 94,
+            "order": 0
+        },
+        {
+            "id": 20143,
+            "answer": "Nein!",
+            "votes": 60,
+            "order": 1
+        }
+    ]
+}

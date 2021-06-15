@@ -1,0 +1,31 @@
+{
+    "id": 6165,
+    "question": "Und, haben Sie die TV-Stars erkannt?",
+    "created_at": "2020-11-26T13:13:22+00:00",
+    "updated_at": "2021-06-14T09:37:48+00:00",
+    "end_at": null,
+    "comment_group_id": 1913277,
+    "published_at": "2020-11-28T07:11:34+00:00",
+    "display_name": "",
+    "total": 897,
+    "answers": [
+        {
+            "id": 14330,
+            "answer": "Ja.",
+            "votes": 471,
+            "order": 0
+        },
+        {
+            "id": 14332,
+            "answer": "Fast alle.",
+            "votes": 301,
+            "order": 1
+        },
+        {
+            "id": 14331,
+            "answer": "Keinen einzigen.",
+            "votes": 125,
+            "order": 2
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 9277,
+    "question": "Interessiert Sie die britische Königsfamilie?",
+    "created_at": "2021-05-06T14:34:51+00:00",
+    "updated_at": "2021-06-14T09:40:25+00:00",
+    "end_at": null,
+    "comment_group_id": 2145272,
+    "published_at": "2021-05-07T13:11:28+00:00",
+    "display_name": "",
+    "total": 683,
+    "answers": [
+        {
+            "id": 21075,
+            "answer": "Nein, wir sind hier in der Schweiz.",
+            "votes": 343,
+            "order": 0
+        },
+        {
+            "id": 21074,
+            "answer": "Ja, spannender als jede TV-Sendung!",
+            "votes": 340,
+            "order": 1
+        }
+    ]
+}

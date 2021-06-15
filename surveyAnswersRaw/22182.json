@@ -1,0 +1,25 @@
+{
+    "id": 9786,
+    "question": "Trauen Sie Roger Federer auch gegen Marin Cilic einen Sieg zu?",
+    "created_at": "2021-06-01T06:24:03+00:00",
+    "updated_at": "2021-06-14T09:40:55+00:00",
+    "end_at": null,
+    "comment_group_id": 2184708,
+    "published_at": "2021-06-01T09:03:06+00:00",
+    "display_name": "",
+    "total": 592,
+    "answers": [
+        {
+            "id": 22181,
+            "answer": "Ja",
+            "votes": 508,
+            "order": 0
+        },
+        {
+            "id": 22182,
+            "answer": "Nein",
+            "votes": 84,
+            "order": 1
+        }
+    ]
+}

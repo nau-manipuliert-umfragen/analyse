@@ -1,0 +1,25 @@
+{
+    "id": 4280,
+    "question": "Finden Sie es richtig, dass in Schottland ein Meister gekürt wurde?",
+    "created_at": "2020-05-18T13:50:58+00:00",
+    "updated_at": "2021-06-14T09:36:28+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 83,
+    "answers": [
+        {
+            "id": 10193,
+            "answer": "Ja",
+            "votes": 46,
+            "order": 0
+        },
+        {
+            "id": 10192,
+            "answer": "Nein",
+            "votes": 37,
+            "order": 1
+        }
+    ]
+}

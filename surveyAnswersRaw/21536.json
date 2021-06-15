@@ -1,0 +1,25 @@
+{
+    "id": 9491,
+    "question": "Verstehen Sie den Ärger der Amis über die Aussagen von Prinz Harry?",
+    "created_at": "2021-05-17T10:53:33+00:00",
+    "updated_at": "2021-06-14T09:40:37+00:00",
+    "end_at": null,
+    "comment_group_id": 2161200,
+    "published_at": "2021-05-18T04:57:57+00:00",
+    "display_name": "",
+    "total": 871,
+    "answers": [
+        {
+            "id": 21536,
+            "answer": "Natürlich, der Prinz hat es sich nun auch dort verscherzt!",
+            "votes": 746,
+            "order": 0
+        },
+        {
+            "id": 21535,
+            "answer": "Die Reaktionen sind etwas übertrieben.",
+            "votes": 125,
+            "order": 1
+        }
+    ]
+}

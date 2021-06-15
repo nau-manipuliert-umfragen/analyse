@@ -1,0 +1,25 @@
+{
+    "id": 7269,
+    "question": "Wer hat recht in der Debatte um ansteckendere Mutationen?",
+    "created_at": "2021-02-13T21:11:14+00:00",
+    "updated_at": "2021-06-14T10:25:06+00:00",
+    "end_at": null,
+    "comment_group_id": 2020890,
+    "published_at": "2021-02-14T05:55:33+00:00",
+    "display_name": "",
+    "total": 3634,
+    "answers": [
+        {
+            "id": 16777,
+            "answer": "Taskforce und Bundesrat! Die Wissenschaft zeigt klar, dass die neuen Varianten ansteckender sind.",
+            "votes": 799,
+            "order": 0
+        },
+        {
+            "id": 16776,
+            "answer": "Daniel Koch! Der Bundesrat entscheidet basierend auf theoretischen Schreckensszenarien.",
+            "votes": 2835,
+            "order": 1
+        }
+    ]
+}

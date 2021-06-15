@@ -1,0 +1,25 @@
+{
+    "id": 3288,
+    "question": "Soll die Schweiz 10'000 Menschen aus der Türkei aufnahmen?",
+    "created_at": "2020-03-04T10:34:43+00:00",
+    "updated_at": "2021-06-14T09:35:45+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 2003,
+    "answers": [
+        {
+            "id": 8051,
+            "answer": "Ja",
+            "votes": 314,
+            "order": 0
+        },
+        {
+            "id": 8052,
+            "answer": "Nein",
+            "votes": 1689,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 6019,
+    "question": "Wie gefällt Ihnen der Gastbeitrag von Peter Stämpfli?",
+    "created_at": "2020-11-11T12:59:08+00:00",
+    "updated_at": "2021-06-14T10:24:04+00:00",
+    "end_at": null,
+    "comment_group_id": 1894352,
+    "published_at": "2020-11-11T20:00:27+00:00",
+    "display_name": "",
+    "total": 185,
+    "answers": [
+        {
+            "id": 13998,
+            "answer": "Gut",
+            "votes": 113,
+            "order": 0
+        },
+        {
+            "id": 13999,
+            "answer": "Na ja",
+            "votes": 72,
+            "order": 1
+        }
+    ]
+}

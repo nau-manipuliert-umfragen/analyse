@@ -1,0 +1,25 @@
+{
+    "id": 4642,
+    "question": "Kann Roger Federer 2021 noch mit den Besten mithalten?",
+    "created_at": "2020-06-17T07:17:50+00:00",
+    "updated_at": "2021-06-14T09:36:42+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 2110,
+    "answers": [
+        {
+            "id": 10973,
+            "answer": "Ja.",
+            "votes": 1527,
+            "order": 0
+        },
+        {
+            "id": 10974,
+            "answer": "Nein.",
+            "votes": 583,
+            "order": 1
+        }
+    ]
+}

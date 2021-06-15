@@ -1,0 +1,25 @@
+{
+    "id": 9595,
+    "question": "Finden Sie auch, dass das Sexualstrafrecht neu definiert werden soll?",
+    "created_at": "2021-05-21T08:33:09+00:00",
+    "updated_at": "2021-06-14T09:40:45+00:00",
+    "end_at": null,
+    "comment_group_id": 2168769,
+    "published_at": "2021-05-23T09:00:18+00:00",
+    "display_name": "",
+    "total": 1744,
+    "answers": [
+        {
+            "id": 21763,
+            "answer": "Ja, das Gesetz ist veraltet und muss geändert werden.",
+            "votes": 903,
+            "order": 0
+        },
+        {
+            "id": 21764,
+            "answer": "Nein, ich finde, dass das Gesetz so ausreicht.",
+            "votes": 841,
+            "order": 1
+        }
+    ]
+}

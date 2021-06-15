@@ -1,0 +1,25 @@
+{
+    "id": 3066,
+    "question": "Sollen Stars ihre Kinder auf Social Media zeigen?",
+    "created_at": "2020-02-18T11:43:54+00:00",
+    "updated_at": "2021-06-14T09:35:35+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 142,
+    "answers": [
+        {
+            "id": 7551,
+            "answer": "Ja",
+            "votes": 44,
+            "order": 0
+        },
+        {
+            "id": 7552,
+            "answer": "Nein",
+            "votes": 98,
+            "order": 1
+        }
+    ]
+}

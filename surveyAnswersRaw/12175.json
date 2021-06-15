@@ -1,0 +1,25 @@
+{
+    "id": 5187,
+    "question": "Fliegt bei den Wendlers schon bald der Storch vorbei?",
+    "created_at": "2020-08-19T07:45:11+00:00",
+    "updated_at": "2021-06-14T09:37:03+00:00",
+    "end_at": null,
+    "comment_group_id": 1755555,
+    "published_at": "2020-08-21T14:06:27+00:00",
+    "display_name": "",
+    "total": 145,
+    "answers": [
+        {
+            "id": 12175,
+            "answer": "Nein, Laura ist ja selber noch ein Kind.",
+            "votes": 86,
+            "order": 0
+        },
+        {
+            "id": 12176,
+            "answer": "Kann gut sein, die beiden sind ja schliesslich verheiratet.",
+            "votes": 59,
+            "order": 1
+        }
+    ]
+}

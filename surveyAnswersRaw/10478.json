@@ -1,0 +1,25 @@
+{
+    "id": 4411,
+    "question": "Ist der Bayern-Meisterexpress noch zu stoppen?",
+    "created_at": "2020-05-30T17:25:27+00:00",
+    "updated_at": "2021-06-14T09:36:33+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 375,
+    "answers": [
+        {
+            "id": 10478,
+            "answer": "Ja",
+            "votes": 67,
+            "order": 0
+        },
+        {
+            "id": 10477,
+            "answer": "Nein",
+            "votes": 308,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 3352,
+    "question": "Sind Testspiele für die Super-League-Teams sinnvoll?",
+    "created_at": "2020-03-07T17:23:41+00:00",
+    "updated_at": "2021-06-14T09:35:48+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 188,
+    "answers": [
+        {
+            "id": 8190,
+            "answer": "Ja, so bleiben die Teams im Rhythmus.",
+            "votes": 144,
+            "order": 0
+        },
+        {
+            "id": 8189,
+            "answer": "Nein, Tests können Ernstkämpfe nicht ersetzen.",
+            "votes": 44,
+            "order": 1
+        }
+    ]
+}

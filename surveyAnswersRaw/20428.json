@@ -1,0 +1,25 @@
+{
+    "id": 8976,
+    "question": "Qualifiziert sich der FC Liverpool für die Champions League?",
+    "created_at": "2021-04-24T13:08:32+00:00",
+    "updated_at": "2021-06-14T09:40:07+00:00",
+    "end_at": null,
+    "comment_group_id": 2122691,
+    "published_at": "2021-04-24T13:38:32+00:00",
+    "display_name": "",
+    "total": 280,
+    "answers": [
+        {
+            "id": 20428,
+            "answer": "Ja",
+            "votes": 212,
+            "order": 0
+        },
+        {
+            "id": 20429,
+            "answer": "Nein",
+            "votes": 68,
+            "order": 1
+        }
+    ]
+}

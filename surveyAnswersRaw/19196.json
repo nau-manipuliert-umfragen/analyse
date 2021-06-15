@@ -1,0 +1,25 @@
+{
+    "id": 8388,
+    "question": "Achten Sie beim Tanken auf den Benzinpreis?",
+    "created_at": "2021-03-29T12:15:46+00:00",
+    "updated_at": "2021-03-30T11:44:46+00:00",
+    "end_at": "2021-03-30T12:15:43+00:00",
+    "comment_group_id": 2084398,
+    "published_at": "2021-03-29T13:57:35+00:00",
+    "display_name": "",
+    "total": 600,
+    "answers": [
+        {
+            "id": 19196,
+            "answer": "Ich tanke immer dort, wo es am billigsten ist.",
+            "votes": 371,
+            "order": 0
+        },
+        {
+            "id": 19195,
+            "answer": "Ich vergleiche die Benzinpreise in der Regel nicht.",
+            "votes": 229,
+            "order": 1
+        }
+    ]
+}

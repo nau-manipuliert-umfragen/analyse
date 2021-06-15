@@ -1,0 +1,25 @@
+{
+    "id": 7333,
+    "question": "Werden Harry und Meghan je wieder in England wohnen?",
+    "created_at": "2021-02-16T12:50:57+00:00",
+    "updated_at": "2021-06-14T09:38:42+00:00",
+    "end_at": null,
+    "comment_group_id": 2024533,
+    "published_at": "2021-02-16T13:11:03+00:00",
+    "display_name": "",
+    "total": 309,
+    "answers": [
+        {
+            "id": 16922,
+            "answer": "Nein, das haben sie sich verbaut.",
+            "votes": 259,
+            "order": 0
+        },
+        {
+            "id": 16921,
+            "answer": "Ja, ich glaube fest daran.",
+            "votes": 50,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 7682,
+    "question": "Halten Sie die aktuellen Härtefall-Regelungen für angemessen?",
+    "created_at": "2021-03-01T10:53:34+00:00",
+    "updated_at": "2021-03-03T09:48:48+00:00",
+    "end_at": "2021-03-03T10:53:31+00:00",
+    "comment_group_id": 2042960,
+    "published_at": "2021-03-02T09:16:47+00:00",
+    "display_name": "",
+    "total": 703,
+    "answers": [
+        {
+            "id": 17693,
+            "answer": "Ja, jeder Kanton soll selbst ein Programm auf die Beine stellen dürfen.",
+            "votes": 118,
+            "order": 0
+        },
+        {
+            "id": 17694,
+            "answer": "Nein, die Regeln für Härtefall-Gelder müssen einheitlich sein.",
+            "votes": 585,
+            "order": 1
+        }
+    ]
+}

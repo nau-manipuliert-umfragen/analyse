@@ -1,0 +1,31 @@
+{
+    "id": 6340,
+    "question": "Basel gegen YB, wie geht das Spiel aus?",
+    "created_at": "2020-12-16T09:51:27+00:00",
+    "updated_at": "2021-06-14T09:37:57+00:00",
+    "end_at": null,
+    "comment_group_id": 1942458,
+    "published_at": "2020-12-16T12:15:02+00:00",
+    "display_name": "",
+    "total": 561,
+    "answers": [
+        {
+            "id": 14724,
+            "answer": "Sieg Basel!",
+            "votes": 195,
+            "order": 0
+        },
+        {
+            "id": 14725,
+            "answer": "Remis.",
+            "votes": 88,
+            "order": 1
+        },
+        {
+            "id": 14726,
+            "answer": "YB gewinnt!",
+            "votes": 278,
+            "order": 2
+        }
+    ]
+}

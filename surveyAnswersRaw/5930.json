@@ -1,0 +1,25 @@
+{
+    "id": 2351,
+    "question": "Deuten die Kleider die Fussball-Vorlieben von Eberle hin?",
+    "created_at": "2019-02-25T12:52:01+00:00",
+    "updated_at": "2021-06-14T10:21:12+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 43,
+    "answers": [
+        {
+            "id": 5929,
+            "answer": "Aber klar doch, das sieht jeder",
+            "votes": 22,
+            "order": 100
+        },
+        {
+            "id": 5930,
+            "answer": "Nein, das ist absoluter Zufall",
+            "votes": 21,
+            "order": 100
+        }
+    ]
+}

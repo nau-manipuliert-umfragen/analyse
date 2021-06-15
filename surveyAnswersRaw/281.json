@@ -1,0 +1,25 @@
+{
+    "id": 118,
+    "question": "Wer gewinnt am Sonntag den Spitzenkampf?",
+    "created_at": "2017-11-02T09:52:55+00:00",
+    "updated_at": "2021-06-14T09:33:41+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 75,
+    "answers": [
+        {
+            "id": 281,
+            "answer": "FCB",
+            "votes": 35,
+            "order": 100
+        },
+        {
+            "id": 282,
+            "answer": "YB",
+            "votes": 40,
+            "order": 100
+        }
+    ]
+}

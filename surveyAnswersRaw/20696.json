@@ -1,0 +1,25 @@
+{
+    "id": 9100,
+    "question": "Verstehen Sie, dass Kathryn Mayorga weiter gegen Ronaldo vorgeht?",
+    "created_at": "2021-04-29T12:03:41+00:00",
+    "updated_at": "2021-06-14T09:40:16+00:00",
+    "end_at": null,
+    "comment_group_id": 2131563,
+    "published_at": "2021-04-29T16:27:45+00:00",
+    "display_name": "",
+    "total": 1643,
+    "answers": [
+        {
+            "id": 20696,
+            "answer": "Ja, wenn sie sich im Recht fühlt, soll sie unbedingt weiterkämpfen.",
+            "votes": 339,
+            "order": 0
+        },
+        {
+            "id": 20695,
+            "answer": "Nein, der Fall ist abgeschlossen.",
+            "votes": 1304,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 3441,
+    "question": "Sollte am Saisonauftakt der Formel 1 festgehalten werden?",
+    "created_at": "2020-03-12T12:48:39+00:00",
+    "updated_at": "2020-03-12T12:48:39+00:00",
+    "end_at": "2020-03-12T12:48:30+00:00",
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 40,
+    "answers": [
+        {
+            "id": 8386,
+            "answer": "Ja, unbedingt.",
+            "votes": 20,
+            "order": 0
+        },
+        {
+            "id": 8385,
+            "answer": "Nein, Sicherheit geht vor.",
+            "votes": 20,
+            "order": 1
+        }
+    ]
+}

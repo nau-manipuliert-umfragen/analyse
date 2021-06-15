@@ -1,0 +1,25 @@
+{
+    "id": 8524,
+    "question": "Dürfte Ihre 18 Jahre alte Tochter nach London auswandern?",
+    "created_at": "2021-04-05T11:16:46+00:00",
+    "updated_at": "2021-06-14T09:39:43+00:00",
+    "end_at": null,
+    "comment_group_id": 2093112,
+    "published_at": "2021-04-05T14:48:38+00:00",
+    "display_name": "",
+    "total": 2804,
+    "answers": [
+        {
+            "id": 19476,
+            "answer": "Klar, wenn sie damit glücklich wird ...",
+            "votes": 1594,
+            "order": 0
+        },
+        {
+            "id": 19475,
+            "answer": "Nein, mit 18 Jahren ist man viel zu jung für so was.",
+            "votes": 1210,
+            "order": 1
+        }
+    ]
+}

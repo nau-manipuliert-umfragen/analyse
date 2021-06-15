@@ -1,0 +1,25 @@
+{
+    "id": 7710,
+    "question": "Messi und Ronaldo nach Amerika?",
+    "created_at": "2021-03-02T09:53:52+00:00",
+    "updated_at": "2021-06-14T09:38:59+00:00",
+    "end_at": null,
+    "comment_group_id": 2044423,
+    "published_at": "2021-03-08T19:30:01+00:00",
+    "display_name": "",
+    "total": 59,
+    "answers": [
+        {
+            "id": 17757,
+            "answer": "Ja, Beckham lockt die beiden zu seinem Klub.",
+            "votes": 29,
+            "order": 0
+        },
+        {
+            "id": 17756,
+            "answer": "Nein, Beckham träumt eher davon.",
+            "votes": 30,
+            "order": 1
+        }
+    ]
+}

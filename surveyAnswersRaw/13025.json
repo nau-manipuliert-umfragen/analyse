@@ -1,0 +1,25 @@
+{
+    "id": 5574,
+    "question": "Haben Sie die Hands-Regeln im Griff?",
+    "created_at": "2020-09-28T13:18:38+00:00",
+    "updated_at": "2021-06-14T09:37:19+00:00",
+    "end_at": null,
+    "comment_group_id": 1823755,
+    "published_at": "2020-09-29T05:23:46+00:00",
+    "display_name": "",
+    "total": 543,
+    "answers": [
+        {
+            "id": 13026,
+            "answer": "Nein, es ist ein Chaos!",
+            "votes": 441,
+            "order": 0
+        },
+        {
+            "id": 13025,
+            "answer": "Ja, ist doch einfach?",
+            "votes": 102,
+            "order": 1
+        }
+    ]
+}

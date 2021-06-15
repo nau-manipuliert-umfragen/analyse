@@ -1,0 +1,25 @@
+{
+    "id": 155,
+    "question": "Hätten Sie eine Rückkehr der Barrage befürwortet?",
+    "created_at": "2017-11-10T12:14:20+00:00",
+    "updated_at": "2021-06-14T09:33:42+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 51,
+    "answers": [
+        {
+            "id": 392,
+            "answer": "Ja, unbedingt. Das wäre fairer für die Clubs in der Challenge League gewesen.",
+            "votes": 28,
+            "order": 100
+        },
+        {
+            "id": 394,
+            "answer": "Nein! Es braucht nicht noch mehr kleine Clubs.",
+            "votes": 23,
+            "order": 100
+        }
+    ]
+}

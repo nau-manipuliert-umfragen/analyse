@@ -1,0 +1,25 @@
+{
+    "id": 2981,
+    "question": "Kann sich Robert Kubica in der DTM behaupten?",
+    "created_at": "2020-02-13T06:20:08+00:00",
+    "updated_at": "2021-06-14T09:35:32+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 66,
+    "answers": [
+        {
+            "id": 7364,
+            "answer": "Ja",
+            "votes": 38,
+            "order": 0
+        },
+        {
+            "id": 7365,
+            "answer": "Nein",
+            "votes": 28,
+            "order": 1
+        }
+    ]
+}

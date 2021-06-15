@@ -1,0 +1,25 @@
+{
+    "id": 5783,
+    "question": "Gelingt Youssoufa Moukoko der Durchbruch beim BVB?",
+    "created_at": "2020-10-18T13:01:47+00:00",
+    "updated_at": "2021-06-14T09:37:27+00:00",
+    "end_at": null,
+    "comment_group_id": 1855481,
+    "published_at": "2020-10-19T08:39:40+00:00",
+    "display_name": "",
+    "total": 205,
+    "answers": [
+        {
+            "id": 13484,
+            "answer": "Ja, er hat genug Talent und die richtige Einstellung.",
+            "votes": 164,
+            "order": 0
+        },
+        {
+            "id": 13485,
+            "answer": "Nein, er ist überbewertet.",
+            "votes": 41,
+            "order": 1
+        }
+    ]
+}

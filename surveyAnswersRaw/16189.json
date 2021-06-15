@@ -1,0 +1,25 @@
+{
+    "id": 7009,
+    "question": "Sind die Tage von Conor McGregor in der UFC gezählt?",
+    "created_at": "2021-02-03T14:26:31+00:00",
+    "updated_at": "2021-06-14T09:38:25+00:00",
+    "end_at": null,
+    "comment_group_id": 2006035,
+    "published_at": "2021-02-04T07:07:49+00:00",
+    "display_name": "",
+    "total": 141,
+    "answers": [
+        {
+            "id": 16188,
+            "answer": "Ja, er ist über seinem Zenit.",
+            "votes": 90,
+            "order": 0
+        },
+        {
+            "id": 16189,
+            "answer": "Nein, das war nur eine Niederlage. Er kommt nochmals zurück.",
+            "votes": 51,
+            "order": 1
+        }
+    ]
+}

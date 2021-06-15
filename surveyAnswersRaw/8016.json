@@ -1,0 +1,43 @@
+{
+    "id": 3271,
+    "question": "Bei welchem Verein würden Sie Denis Zakaria in der nächsten Saison gerne sehen?",
+    "created_at": "2020-03-03T12:40:40+00:00",
+    "updated_at": "2021-06-14T09:35:44+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 302,
+    "answers": [
+        {
+            "id": 8015,
+            "answer": "Borussia Mönchengladbach",
+            "votes": 69,
+            "order": 0
+        },
+        {
+            "id": 8013,
+            "answer": "Borussia Dortmund",
+            "votes": 77,
+            "order": 1
+        },
+        {
+            "id": 8012,
+            "answer": "Bayern München",
+            "votes": 39,
+            "order": 2
+        },
+        {
+            "id": 8014,
+            "answer": "Manchester United",
+            "votes": 77,
+            "order": 3
+        },
+        {
+            "id": 8016,
+            "answer": "Ein anderer Verein",
+            "votes": 40,
+            "order": 4
+        }
+    ]
+}

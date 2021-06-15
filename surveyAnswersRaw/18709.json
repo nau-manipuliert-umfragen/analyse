@@ -1,0 +1,25 @@
+{
+    "id": 8161,
+    "question": "Fährt Michelle Gisin im letzten Saisonrennen aufs Podest?",
+    "created_at": "2021-03-21T08:20:01+00:00",
+    "updated_at": "2021-06-14T09:39:24+00:00",
+    "end_at": null,
+    "comment_group_id": 2072186,
+    "published_at": "2021-03-21T08:33:37+00:00",
+    "display_name": "",
+    "total": 479,
+    "answers": [
+        {
+            "id": 18710,
+            "answer": "Ja",
+            "votes": 318,
+            "order": 0
+        },
+        {
+            "id": 18709,
+            "answer": "Nein",
+            "votes": 161,
+            "order": 1
+        }
+    ]
+}

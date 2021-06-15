@@ -1,0 +1,31 @@
+{
+    "id": 9875,
+    "question": "Was war für Sie das Thema der Woche?",
+    "created_at": "2021-06-04T09:25:58+00:00",
+    "updated_at": "2021-06-14T09:40:59+00:00",
+    "end_at": null,
+    "comment_group_id": 2190488,
+    "published_at": "2021-06-06T10:01:30+00:00",
+    "display_name": "",
+    "total": 198,
+    "answers": [
+        {
+            "id": 22374,
+            "answer": "Der SVP/SRF-Knatsch.",
+            "votes": 82,
+            "order": 0
+        },
+        {
+            "id": 22375,
+            "answer": "Das Aus der Schweizer Eishockey-Nati an der WM.",
+            "votes": 80,
+            "order": 1
+        },
+        {
+            "id": 22373,
+            "answer": "Daniela Katzenbergers Perücke.",
+            "votes": 36,
+            "order": 2
+        }
+    ]
+}

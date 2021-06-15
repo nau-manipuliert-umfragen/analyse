@@ -1,0 +1,25 @@
+{
+    "id": 9624,
+    "question": "Sollte die WM in Katar boykottiert werden?",
+    "created_at": "2021-05-22T12:54:24+00:00",
+    "updated_at": "2021-06-14T09:40:46+00:00",
+    "end_at": null,
+    "comment_group_id": 2171015,
+    "published_at": "2021-05-22T13:02:40+00:00",
+    "display_name": "",
+    "total": 205,
+    "answers": [
+        {
+            "id": 21825,
+            "answer": "Ja",
+            "votes": 161,
+            "order": 0
+        },
+        {
+            "id": 21824,
+            "answer": "Nein",
+            "votes": 44,
+            "order": 1
+        }
+    ]
+}

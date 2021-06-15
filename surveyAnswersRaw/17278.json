@@ -1,0 +1,31 @@
+{
+    "id": 7492,
+    "question": "Was fehlt Ihnen während des Lockdowns am meisten?",
+    "created_at": "2021-02-22T11:24:42+00:00",
+    "updated_at": "2021-06-14T09:38:49+00:00",
+    "end_at": null,
+    "comment_group_id": 2033042,
+    "published_at": "2021-02-22T11:55:22+00:00",
+    "display_name": "",
+    "total": 949,
+    "answers": [
+        {
+            "id": 17277,
+            "answer": "Live-Konzerte.",
+            "votes": 140,
+            "order": 0
+        },
+        {
+            "id": 17276,
+            "answer": "Essen im Restaurant.",
+            "votes": 609,
+            "order": 1
+        },
+        {
+            "id": 17278,
+            "answer": "Ferien am Strand.",
+            "votes": 200,
+            "order": 2
+        }
+    ]
+}

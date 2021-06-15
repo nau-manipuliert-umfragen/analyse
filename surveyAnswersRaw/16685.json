@@ -1,0 +1,25 @@
+{
+    "id": 7229,
+    "question": "Was halten Sie davon, dass Hazel Brugger im Unterricht behandelt wird?",
+    "created_at": "2021-02-12T07:59:40+00:00",
+    "updated_at": "2021-06-14T09:38:37+00:00",
+    "end_at": null,
+    "comment_group_id": 2018644,
+    "published_at": "2021-02-12T11:44:52+00:00",
+    "display_name": "",
+    "total": 385,
+    "answers": [
+        {
+            "id": 16686,
+            "answer": "Super, der Lehrer weiss, wie er seine Schüler begeistern kann.",
+            "votes": 261,
+            "order": 0
+        },
+        {
+            "id": 16685,
+            "answer": "Hilfe, unsere Jugend verblödet!",
+            "votes": 124,
+            "order": 1
+        }
+    ]
+}

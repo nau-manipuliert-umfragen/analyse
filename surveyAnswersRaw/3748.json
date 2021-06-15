@@ -1,0 +1,25 @@
+{
+    "id": 1387,
+    "question": "Sind sie mit der Nati-Aufstellung einverstanden?",
+    "created_at": "2018-07-03T11:02:20+00:00",
+    "updated_at": "2021-06-14T09:34:26+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 85,
+    "answers": [
+        {
+            "id": 3748,
+            "answer": "Ja, der Trainer hat sich für die besten Elf Spieler entschieden.",
+            "votes": 35,
+            "order": 100
+        },
+        {
+            "id": 3751,
+            "answer": "Nein! Da ging etwas gehörig schief!",
+            "votes": 50,
+            "order": 100
+        }
+    ]
+}

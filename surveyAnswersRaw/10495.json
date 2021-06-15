@@ -1,0 +1,25 @@
+{
+    "id": 4419,
+    "question": "Was sagen Sie zur Lockdown-Speck-Ansage von Christa Rigozzi?",
+    "created_at": "2020-06-01T05:03:58+00:00",
+    "updated_at": "2021-06-14T09:36:34+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 118,
+    "answers": [
+        {
+            "id": 10494,
+            "answer": "Bitte nicht, sie hat doch eine super Figur!",
+            "votes": 78,
+            "order": 0
+        },
+        {
+            "id": 10495,
+            "answer": "Richtig, auch Promis müssen etwas für ihr Aussehen tun.",
+            "votes": 40,
+            "order": 1
+        }
+    ]
+}

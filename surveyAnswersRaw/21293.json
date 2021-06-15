@@ -1,0 +1,25 @@
+{
+    "id": 9376,
+    "question": "Teilen Sie Fotos Ihrer Kinder auf Social Media?",
+    "created_at": "2021-05-11T13:46:25+00:00",
+    "updated_at": "2021-06-14T09:40:30+00:00",
+    "end_at": null,
+    "comment_group_id": 2152127,
+    "published_at": "2021-05-12T07:17:20+00:00",
+    "display_name": "",
+    "total": 311,
+    "answers": [
+        {
+            "id": 21293,
+            "answer": "Nein, ich finde das unangemessen.",
+            "votes": 244,
+            "order": 0
+        },
+        {
+            "id": 21292,
+            "answer": "Ja, ist doch nichts dabei.",
+            "votes": 67,
+            "order": 1
+        }
+    ]
+}

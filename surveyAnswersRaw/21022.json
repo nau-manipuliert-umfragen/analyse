@@ -1,0 +1,25 @@
+{
+    "id": 9251,
+    "question": "Nehmen Sie an der Abstimmung über das CO2-Gesetz teil?",
+    "created_at": "2021-05-05T12:05:45+00:00",
+    "updated_at": "2021-06-14T09:40:24+00:00",
+    "end_at": null,
+    "comment_group_id": 2142549,
+    "published_at": "2021-05-05T19:00:55+00:00",
+    "display_name": "",
+    "total": 272,
+    "answers": [
+        {
+            "id": 21022,
+            "answer": "Ja, dieser Urnengang liegt mir am Herzen.",
+            "votes": 219,
+            "order": 0
+        },
+        {
+            "id": 21021,
+            "answer": "Nein, das interessiert mich nicht wahnsinnig.",
+            "votes": 53,
+            "order": 1
+        }
+    ]
+}

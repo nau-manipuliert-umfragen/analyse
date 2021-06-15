@@ -1,0 +1,25 @@
+{
+    "id": 5118,
+    "question": "Folgt heute der Rücktritt von Nati-Captain Lichtsteiner?",
+    "created_at": "2020-08-11T08:29:08+00:00",
+    "updated_at": "2021-06-14T09:37:00+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 187,
+    "answers": [
+        {
+            "id": 12026,
+            "answer": "Ja, die Zeit ist reif.",
+            "votes": 128,
+            "order": 0
+        },
+        {
+            "id": 12025,
+            "answer": "Nein, er wird noch ein Jahr dranhängen.",
+            "votes": 59,
+            "order": 1
+        }
+    ]
+}

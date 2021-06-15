@@ -1,0 +1,25 @@
+{
+    "id": 5529,
+    "question": "Kann YB seinen Torjäger Jean-Pierre Nsame halten?",
+    "created_at": "2020-09-23T08:59:01+00:00",
+    "updated_at": "2021-06-14T09:37:17+00:00",
+    "end_at": null,
+    "comment_group_id": 1814684,
+    "published_at": "2020-09-25T09:18:19+00:00",
+    "display_name": "",
+    "total": 585,
+    "answers": [
+        {
+            "id": 12933,
+            "answer": "Ja, er hat schliesslich noch einen laufenden Vertrag!",
+            "votes": 168,
+            "order": 0
+        },
+        {
+            "id": 12934,
+            "answer": "Nein, Nsame wird bald im Ausland spielen.",
+            "votes": 417,
+            "order": 1
+        }
+    ]
+}

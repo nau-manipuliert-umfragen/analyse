@@ -1,0 +1,31 @@
+{
+    "id": 6577,
+    "question": "Wechselt David Alaba im Sommer nach Madrid?",
+    "created_at": "2021-01-08T16:35:01+00:00",
+    "updated_at": "2021-06-14T09:38:07+00:00",
+    "end_at": null,
+    "comment_group_id": 1969329,
+    "published_at": "2021-01-11T07:44:03+00:00",
+    "display_name": "",
+    "total": 367,
+    "answers": [
+        {
+            "id": 15246,
+            "answer": "Ja, er geht zu Real.",
+            "votes": 131,
+            "order": 0
+        },
+        {
+            "id": 15245,
+            "answer": "Nein, er bleibt am Ende doch noch in München.",
+            "votes": 106,
+            "order": 1
+        },
+        {
+            "id": 15247,
+            "answer": "Nein, er unterschreibt bei einem anderen Klub.",
+            "votes": 130,
+            "order": 2
+        }
+    ]
+}

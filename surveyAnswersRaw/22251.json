@@ -1,0 +1,25 @@
+{
+    "id": 9819,
+    "question": "Was halten sie von Corona-Demos?",
+    "created_at": "2021-06-02T09:31:16+00:00",
+    "updated_at": "2021-06-14T09:40:56+00:00",
+    "end_at": null,
+    "comment_group_id": 2186868,
+    "published_at": "2021-06-03T17:15:25+00:00",
+    "display_name": "",
+    "total": 2679,
+    "answers": [
+        {
+            "id": 22251,
+            "answer": "Die Menschen sollen ihre freie Meinung äussern dürfen.",
+            "votes": 1705,
+            "order": 0
+        },
+        {
+            "id": 22252,
+            "answer": "Unnötig! Damit bringen sie sich nur in Ansteckungsgefahr.",
+            "votes": 974,
+            "order": 1
+        }
+    ]
+}

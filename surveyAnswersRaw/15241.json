@@ -1,0 +1,25 @@
+{
+    "id": 6574,
+    "question": "Darf «John Dillermannd» für Vier- bis Achtjährige ausgestrahlt werden?",
+    "created_at": "2021-01-08T11:45:10+00:00",
+    "updated_at": "2021-06-14T09:38:07+00:00",
+    "end_at": null,
+    "comment_group_id": 1968936,
+    "published_at": "2021-01-08T12:12:54+00:00",
+    "display_name": "",
+    "total": 192,
+    "answers": [
+        {
+            "id": 15241,
+            "answer": "Ja",
+            "votes": 87,
+            "order": 0
+        },
+        {
+            "id": 15240,
+            "answer": "Nein",
+            "votes": 105,
+            "order": 1
+        }
+    ]
+}

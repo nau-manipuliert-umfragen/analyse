@@ -1,0 +1,25 @@
+{
+    "id": 4866,
+    "question": "Ist es gerechtfertigt, so viel Geld für rein kosmetische Inhalte zu verlangen?",
+    "created_at": "2020-07-09T13:36:04+00:00",
+    "updated_at": "2021-06-14T09:36:50+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 59,
+    "answers": [
+        {
+            "id": 11462,
+            "answer": "Ja, man kommt auch ohne Skins zurecht.",
+            "votes": 28,
+            "order": 0
+        },
+        {
+            "id": 11463,
+            "answer": "Nein, Skins sollten weniger kosten.",
+            "votes": 31,
+            "order": 1
+        }
+    ]
+}

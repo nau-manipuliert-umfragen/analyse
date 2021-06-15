@@ -1,0 +1,25 @@
+{
+    "id": 5145,
+    "question": "20 Tage Pause bis zum Cup-Hit gegen den FC Basel: Ein Vor- oder Nachteil für Winterthur?",
+    "created_at": "2020-08-13T17:09:11+00:00",
+    "updated_at": "2021-06-14T09:37:01+00:00",
+    "end_at": null,
+    "comment_group_id": 1747746,
+    "published_at": "2020-08-14T16:53:30+00:00",
+    "display_name": "",
+    "total": 407,
+    "answers": [
+        {
+            "id": 12086,
+            "answer": "Ein Vorteil, Winti kann sich in dieser Zeit erholen.",
+            "votes": 179,
+            "order": 0
+        },
+        {
+            "id": 12085,
+            "answer": "Ein Nachteil, der Spielrhythmus ist bis zum 25. August dahin.",
+            "votes": 228,
+            "order": 1
+        }
+    ]
+}

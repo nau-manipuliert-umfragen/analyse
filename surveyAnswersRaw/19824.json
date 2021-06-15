@@ -1,0 +1,25 @@
+{
+    "id": 8694,
+    "question": "Sollten Kinder an Beerdigungen mitmüssen?",
+    "created_at": "2021-04-12T11:37:00+00:00",
+    "updated_at": "2021-06-14T10:26:17+00:00",
+    "end_at": null,
+    "comment_group_id": 2103820,
+    "published_at": "2021-04-12T12:25:11+00:00",
+    "display_name": "",
+    "total": 1300,
+    "answers": [
+        {
+            "id": 19823,
+            "answer": "Nein, das ist doch nur eine Belastung für sie.",
+            "votes": 998,
+            "order": 0
+        },
+        {
+            "id": 19824,
+            "answer": "Ja, so lernen sie viel fürs Leben.",
+            "votes": 302,
+            "order": 1
+        }
+    ]
+}

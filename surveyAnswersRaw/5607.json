@@ -1,0 +1,31 @@
+{
+    "id": 2214,
+    "question": "Wer gewinnt die heutige Partie zwischen dem FC Thun und dem FCZ?",
+    "created_at": "2018-10-07T10:48:25+00:00",
+    "updated_at": "2021-06-14T09:34:52+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 68,
+    "answers": [
+        {
+            "id": 5607,
+            "answer": "Die Teams spielen Unentschieden.",
+            "votes": 22,
+            "order": 100
+        },
+        {
+            "id": 5613,
+            "answer": "Die Zürcher holen sich den Sieg.",
+            "votes": 24,
+            "order": 100
+        },
+        {
+            "id": 5616,
+            "answer": "Der FC Thun setzt sich durch.",
+            "votes": 22,
+            "order": 100
+        }
+    ]
+}

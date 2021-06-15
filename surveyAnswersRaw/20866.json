@@ -1,0 +1,31 @@
+{
+    "id": 9175,
+    "question": "War David Beckham zu Besuch beim Beauty-Doc?",
+    "created_at": "2021-05-03T11:35:37+00:00",
+    "updated_at": "2021-06-14T09:40:20+00:00",
+    "end_at": null,
+    "comment_group_id": 2137525,
+    "published_at": "2021-05-03T16:03:57+00:00",
+    "display_name": "",
+    "total": 487,
+    "answers": [
+        {
+            "id": 20864,
+            "answer": "Ja, das sieht man von Weitem!",
+            "votes": 315,
+            "order": 0
+        },
+        {
+            "id": 20865,
+            "answer": "Nein, das ist bestimmt nur das Licht.",
+            "votes": 53,
+            "order": 1
+        },
+        {
+            "id": 20866,
+            "answer": "Egal, hübsch ist er so oder so!",
+            "votes": 119,
+            "order": 2
+        }
+    ]
+}

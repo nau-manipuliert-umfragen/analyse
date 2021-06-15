@@ -1,0 +1,25 @@
+{
+    "id": 9955,
+    "question": "Wird der Versöhungsversuch der Queen gelingen?",
+    "created_at": "2021-06-08T08:50:48+00:00",
+    "updated_at": "2021-06-14T10:27:16+00:00",
+    "end_at": null,
+    "comment_group_id": 2195654,
+    "published_at": null,
+    "display_name": "",
+    "total": 43,
+    "answers": [
+        {
+            "id": 22544,
+            "answer": "Nein, Harry ist zu stur!",
+            "votes": 22,
+            "order": 0
+        },
+        {
+            "id": 22543,
+            "answer": "Ja, auf Dauer kann er nicht auf die Royals wütend sein.",
+            "votes": 21,
+            "order": 1
+        }
+    ]
+}

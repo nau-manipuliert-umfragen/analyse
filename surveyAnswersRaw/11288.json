@@ -1,0 +1,31 @@
+{
+    "id": 4789,
+    "question": "Warten Sie bis am Montag mit dem Tragen einer Maske im ÖV?",
+    "created_at": "2020-07-02T07:31:11+00:00",
+    "updated_at": "2020-07-05T21:57:05+00:00",
+    "end_at": "2020-07-05T21:59:00+00:00",
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 1254,
+    "answers": [
+        {
+            "id": 11289,
+            "answer": "Nein, das Virus wartet ja auch nicht.",
+            "votes": 744,
+            "order": 0
+        },
+        {
+            "id": 11288,
+            "answer": "Ja, ich zögere es so lange wie möglich hinaus.",
+            "votes": 346,
+            "order": 1
+        },
+        {
+            "id": 11290,
+            "answer": "Mir egal, ich reise nie mit dem ÖV.",
+            "votes": 164,
+            "order": 2
+        }
+    ]
+}

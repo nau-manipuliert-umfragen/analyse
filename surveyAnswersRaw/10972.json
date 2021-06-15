@@ -1,0 +1,25 @@
+{
+    "id": 4641,
+    "question": "Sollte Bayern München einen fünften Meisterstern erhalten?",
+    "created_at": "2020-06-17T06:24:28+00:00",
+    "updated_at": "2021-06-14T09:36:42+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 1861,
+    "answers": [
+        {
+            "id": 10971,
+            "answer": "Ja, mit den aussergewöhnlichen Leistungen hätten sich die Bayern das verdient",
+            "votes": 1659,
+            "order": 0
+        },
+        {
+            "id": 10972,
+            "answer": "Nein, die Regularien gelten auch für die Münchner",
+            "votes": 202,
+            "order": 1
+        }
+    ]
+}

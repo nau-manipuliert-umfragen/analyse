@@ -1,0 +1,25 @@
+{
+    "id": 3108,
+    "question": "Wird Lewis Hamilton 2020 zum siebten Mal Weltmeister?",
+    "created_at": "2020-02-20T10:35:03+00:00",
+    "updated_at": "2021-06-14T09:35:37+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 404,
+    "answers": [
+        {
+            "id": 7645,
+            "answer": "Ja",
+            "votes": 297,
+            "order": 0
+        },
+        {
+            "id": 7644,
+            "answer": "Nein",
+            "votes": 107,
+            "order": 1
+        }
+    ]
+}

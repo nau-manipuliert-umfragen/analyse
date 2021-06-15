@@ -1,0 +1,25 @@
+{
+    "id": 2381,
+    "question": "Nimmt Arthur Honegger die Einladung an?",
+    "created_at": "2019-07-08T13:58:05+00:00",
+    "updated_at": "2021-06-14T09:34:59+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 134,
+    "answers": [
+        {
+            "id": 6004,
+            "answer": "Ja, dann kann er noch bessere Videos posten.",
+            "votes": 94,
+            "order": 100
+        },
+        {
+            "id": 6005,
+            "answer": "Nein, dafür fehlt ihm die Zeit.",
+            "votes": 40,
+            "order": 100
+        }
+    ]
+}

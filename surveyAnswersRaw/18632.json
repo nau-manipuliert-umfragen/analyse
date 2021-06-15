@@ -1,0 +1,31 @@
+{
+    "id": 8123,
+    "question": "Hat Charles Darwin mal herausgefunden, wie das Leben ursprünglich entstand?",
+    "created_at": "2021-03-19T05:39:06+00:00",
+    "updated_at": "2021-06-14T09:39:22+00:00",
+    "end_at": "2021-07-16T04:39:02+00:00",
+    "comment_group_id": 2069484,
+    "published_at": "2021-03-19T12:02:23+00:00",
+    "display_name": "",
+    "total": 2111,
+    "answers": [
+        {
+            "id": 18632,
+            "answer": "Ja, das konnte er beweisen.",
+            "votes": 192,
+            "order": 0
+        },
+        {
+            "id": 18631,
+            "answer": "Nein, darauf fand er keine Antwort.",
+            "votes": 1804,
+            "order": 1
+        },
+        {
+            "id": 18633,
+            "answer": "Ich weiss es nicht.",
+            "votes": 115,
+            "order": 2
+        }
+    ]
+}

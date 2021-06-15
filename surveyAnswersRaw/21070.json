@@ -1,0 +1,25 @@
+{
+    "id": 9275,
+    "question": "Gucken Sie die «Geissens»?",
+    "created_at": "2021-05-06T12:52:02+00:00",
+    "updated_at": "2021-06-14T09:40:25+00:00",
+    "end_at": null,
+    "comment_group_id": 2145047,
+    "published_at": "2021-05-06T13:08:18+00:00",
+    "display_name": "",
+    "total": 2288,
+    "answers": [
+        {
+            "id": 21070,
+            "answer": "Ja, beste Unterhaltung.",
+            "votes": 571,
+            "order": 0
+        },
+        {
+            "id": 21069,
+            "answer": "Nein, finde Reality-TV langweilig.",
+            "votes": 1717,
+            "order": 1
+        }
+    ]
+}

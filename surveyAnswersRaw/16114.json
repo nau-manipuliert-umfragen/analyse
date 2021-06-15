@@ -1,0 +1,31 @@
+{
+    "id": 6977,
+    "question": "Kann der FCZ die YB-Serie heute beenden?",
+    "created_at": "2021-02-02T12:44:42+00:00",
+    "updated_at": "2021-06-14T09:38:23+00:00",
+    "end_at": null,
+    "comment_group_id": 2004016,
+    "published_at": "2021-02-03T08:20:10+00:00",
+    "display_name": "",
+    "total": 285,
+    "answers": [
+        {
+            "id": 16113,
+            "answer": "Ja, das gibt drei Punkte.",
+            "votes": 85,
+            "order": 0
+        },
+        {
+            "id": 16114,
+            "answer": "Nein, das reicht niemals.",
+            "votes": 122,
+            "order": 1
+        },
+        {
+            "id": 16112,
+            "answer": "Immerhin ein Unentschieden liegt drin.",
+            "votes": 78,
+            "order": 2
+        }
+    ]
+}

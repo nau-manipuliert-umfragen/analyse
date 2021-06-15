@@ -1,0 +1,25 @@
+{
+    "id": 5897,
+    "question": "Kann sich YB auswärts gegen Cluj durchsetzen?",
+    "created_at": "2020-10-29T09:27:57+00:00",
+    "updated_at": "2021-06-14T10:23:58+00:00",
+    "end_at": null,
+    "comment_group_id": 1874344,
+    "published_at": "2020-10-29T12:06:52+00:00",
+    "display_name": "",
+    "total": 245,
+    "answers": [
+        {
+            "id": 13731,
+            "answer": "Ja",
+            "votes": 145,
+            "order": 0
+        },
+        {
+            "id": 13732,
+            "answer": "Nein",
+            "votes": 100,
+            "order": 1
+        }
+    ]
+}

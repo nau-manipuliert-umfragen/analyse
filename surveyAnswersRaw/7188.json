@@ -1,0 +1,31 @@
+{
+    "id": 2901,
+    "question": "Was ist für den FCB in dieser Saison noch drin?",
+    "created_at": "2020-02-09T07:42:09+00:00",
+    "updated_at": "2021-06-14T09:35:27+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 164,
+    "answers": [
+        {
+            "id": 7187,
+            "answer": "Nach dem starken Auftritt gegen den FCZ startet die Koller-Elf durch und wird Meister.",
+            "votes": 43,
+            "order": 0
+        },
+        {
+            "id": 7188,
+            "answer": "Der FCB klassiert sich auf den Europa-League-Plätzen zwei oder drei.",
+            "votes": 86,
+            "order": 1
+        },
+        {
+            "id": 7189,
+            "answer": "Die Basler verpassen in dieser Saison die europäischen Plätze.",
+            "votes": 35,
+            "order": 2
+        }
+    ]
+}

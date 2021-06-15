@@ -1,0 +1,25 @@
+{
+    "id": 3332,
+    "question": "Ist die Sperre gegen Gelson Martins gerechtfertigt?",
+    "created_at": "2020-03-06T07:33:42+00:00",
+    "updated_at": "2021-06-14T09:35:47+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 199,
+    "answers": [
+        {
+            "id": 8149,
+            "answer": "Ja klar, auch Stocker hätte man so lange aus dem Verkehr ziehen müssen!",
+            "votes": 137,
+            "order": 0
+        },
+        {
+            "id": 8148,
+            "answer": "Nein – die spinnen, die Franzosen...",
+            "votes": 62,
+            "order": 1
+        }
+    ]
+}

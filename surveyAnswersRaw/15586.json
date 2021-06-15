@@ -1,0 +1,25 @@
+{
+    "id": 6735,
+    "question": "Was halten Sie von Djokovics Forderungen?",
+    "created_at": "2021-01-19T17:12:20+00:00",
+    "updated_at": "2021-06-14T09:38:13+00:00",
+    "end_at": null,
+    "comment_group_id": 1984422,
+    "published_at": "2021-01-20T06:05:15+00:00",
+    "display_name": "",
+    "total": 815,
+    "answers": [
+        {
+            "id": 15586,
+            "answer": "Verständlich, es herrschen besondere Umstände.",
+            "votes": 163,
+            "order": 0
+        },
+        {
+            "id": 15587,
+            "answer": "Die sind lächerlich.",
+            "votes": 652,
+            "order": 1
+        }
+    ]
+}

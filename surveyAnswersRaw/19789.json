@@ -1,0 +1,25 @@
+{
+    "id": 8676,
+    "question": "Sollte Adi Hütter neuer Gladbach-Coach werden?",
+    "created_at": "2021-04-12T06:33:40+00:00",
+    "updated_at": "2021-06-14T09:39:51+00:00",
+    "end_at": null,
+    "comment_group_id": 2103266,
+    "published_at": "2021-04-12T06:35:39+00:00",
+    "display_name": "",
+    "total": 234,
+    "answers": [
+        {
+            "id": 19790,
+            "answer": "Ja, das würde passen.",
+            "votes": 88,
+            "order": 0
+        },
+        {
+            "id": 19789,
+            "answer": "Nein, in Frankfurt ist er besser aufgehoben.",
+            "votes": 146,
+            "order": 1
+        }
+    ]
+}

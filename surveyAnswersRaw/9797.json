@@ -1,0 +1,25 @@
+{
+    "id": 4100,
+    "question": "Was halten Sie von José Mourinho?",
+    "created_at": "2020-05-02T11:51:17+00:00",
+    "updated_at": "2021-06-14T09:36:18+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 97,
+    "answers": [
+        {
+            "id": 9796,
+            "answer": "Ein überragender Trainer!",
+            "votes": 40,
+            "order": 0
+        },
+        {
+            "id": 9797,
+            "answer": "Grosses Klappe, wenig dahinter.",
+            "votes": 57,
+            "order": 1
+        }
+    ]
+}

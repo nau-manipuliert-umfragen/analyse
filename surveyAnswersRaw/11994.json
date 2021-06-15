@@ -1,0 +1,25 @@
+{
+    "id": 5103,
+    "question": "Soll YB den Vertrag von Stürmer Hoarau verlängern?",
+    "created_at": "2020-08-10T07:26:07+00:00",
+    "updated_at": "2021-06-14T09:37:00+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 1398,
+    "answers": [
+        {
+            "id": 11995,
+            "answer": "Ja, er ist eine wichtige Teamstütze.",
+            "votes": 933,
+            "order": 0
+        },
+        {
+            "id": 11994,
+            "answer": "Nein, das wäre nicht sinnvoll.",
+            "votes": 465,
+            "order": 1
+        }
+    ]
+}

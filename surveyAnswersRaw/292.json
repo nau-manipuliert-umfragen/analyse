@@ -1,0 +1,31 @@
+{
+    "id": 122,
+    "question": "Wer gewinnt das Spitzenspiel der Bundesliga?",
+    "created_at": "2017-11-04T07:17:46+00:00",
+    "updated_at": "2021-06-14T09:33:41+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 72,
+    "answers": [
+        {
+            "id": 291,
+            "answer": "Zuhause kommt der BVB wieder in die Spur und gewinnt.",
+            "votes": 24,
+            "order": 100
+        },
+        {
+            "id": 292,
+            "answer": "Es wird ein Unentschieden.",
+            "votes": 22,
+            "order": 100
+        },
+        {
+            "id": 294,
+            "answer": "Sieg für die Münchner! Bayern ist momentan zu stark für Dortmund.",
+            "votes": 26,
+            "order": 100
+        }
+    ]
+}

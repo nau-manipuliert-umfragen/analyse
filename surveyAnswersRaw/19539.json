@@ -1,0 +1,25 @@
+{
+    "id": 8555,
+    "question": "Sind Sie ein Romantiker?",
+    "created_at": "2021-04-06T14:51:44+00:00",
+    "updated_at": "2021-06-14T09:39:45+00:00",
+    "end_at": null,
+    "comment_group_id": 2095077,
+    "published_at": "2021-04-07T10:32:36+00:00",
+    "display_name": "",
+    "total": 442,
+    "answers": [
+        {
+            "id": 19539,
+            "answer": "Nein, ich drücke meine Gefühle anders aus.",
+            "votes": 292,
+            "order": 0
+        },
+        {
+            "id": 19540,
+            "answer": "Kerzen, Rosen und Gedichte – ich liebe es!",
+            "votes": 150,
+            "order": 1
+        }
+    ]
+}

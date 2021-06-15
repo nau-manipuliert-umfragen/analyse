@@ -1,0 +1,25 @@
+{
+    "id": 6106,
+    "question": "Gewinnt Frankfurt am Samstag gegen Leipzig?",
+    "created_at": "2020-11-19T16:38:47+00:00",
+    "updated_at": "2021-06-14T09:37:45+00:00",
+    "end_at": null,
+    "comment_group_id": 1904658,
+    "published_at": "2020-11-20T07:13:42+00:00",
+    "display_name": "",
+    "total": 239,
+    "answers": [
+        {
+            "id": 14199,
+            "answer": "Ja, Hütters Team gelingt ein Exploit.",
+            "votes": 118,
+            "order": 0
+        },
+        {
+            "id": 14200,
+            "answer": "Nein, die Leipziger sind zurzeit zu stark.",
+            "votes": 121,
+            "order": 1
+        }
+    ]
+}

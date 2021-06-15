@@ -1,0 +1,25 @@
+{
+    "id": 3004,
+    "question": "Wie gefällt Ihnen diese Kolumne?",
+    "created_at": "2020-02-14T07:57:10+00:00",
+    "updated_at": "2021-06-14T09:35:32+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 648,
+    "answers": [
+        {
+            "id": 7413,
+            "answer": "Super!",
+            "votes": 458,
+            "order": 0
+        },
+        {
+            "id": 7414,
+            "answer": "Geht gar nicht.",
+            "votes": 190,
+            "order": 1
+        }
+    ]
+}

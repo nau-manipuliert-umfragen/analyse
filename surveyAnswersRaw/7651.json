@@ -1,0 +1,25 @@
+{
+    "id": 3111,
+    "question": "Würden Sie die Wunderkerzen-Choreo der Eintracht-Fans verbieten?",
+    "created_at": "2020-02-20T12:12:14+00:00",
+    "updated_at": "2021-06-14T10:21:52+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 81,
+    "answers": [
+        {
+            "id": 7650,
+            "answer": "Ja, es ist zu gefährlich.",
+            "votes": 30,
+            "order": 0
+        },
+        {
+            "id": 7651,
+            "answer": "Nein, mit einer Bewilligung der Stadt sollte die Choreo durchgeführt werden können.",
+            "votes": 51,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 4105,
+    "question": "Was halten Sie von Meghan Markle Star-Allüren bei den Ex-Angestellten?",
+    "created_at": "2020-05-03T08:10:44+00:00",
+    "updated_at": "2021-06-14T09:36:19+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 2169,
+    "answers": [
+        {
+            "id": 9807,
+            "answer": "Geht gar nicht. Wer denkt sie, wer sie ist?",
+            "votes": 2003,
+            "order": 0
+        },
+        {
+            "id": 9806,
+            "answer": "Sie kommt aus Hollywood, da träumt jede davon, mal Prinzessin zu sein.",
+            "votes": 166,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "id": 494,
+    "question": "Wie geht das Rückspiel aus?",
+    "created_at": "2018-03-06T11:22:28+00:00",
+    "updated_at": "2021-06-14T09:33:57+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 110,
+    "answers": [
+        {
+            "id": 1439,
+            "answer": "Der Befreiungsschlag: Basel gewinnt in England!",
+            "votes": 35,
+            "order": 100
+        },
+        {
+            "id": 1445,
+            "answer": "Keine Chance – der FCB verliert zum zweiten Mal gegen Manchester City.",
+            "votes": 46,
+            "order": 100
+        },
+        {
+            "id": 1448,
+            "answer": "Die Engländer schonen sich: Basel holt ein ehrenhaftes Remis!",
+            "votes": 29,
+            "order": 100
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 4665,
+    "question": "Gefällt es Ihnen, dass Roger Federer auch mit 38 Jahren noch Tennis spielt?",
+    "created_at": "2020-06-19T09:30:31+00:00",
+    "updated_at": "2021-06-14T09:36:43+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 893,
+    "answers": [
+        {
+            "id": 11023,
+            "answer": "Ja",
+            "votes": 792,
+            "order": 0
+        },
+        {
+            "id": 11024,
+            "answer": "Nein",
+            "votes": 101,
+            "order": 1
+        }
+    ]
+}

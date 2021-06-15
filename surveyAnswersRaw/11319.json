@@ -1,0 +1,25 @@
+{
+    "id": 4803,
+    "question": "Möchten Sie auch so wohnen?",
+    "created_at": "2020-07-03T06:40:11+00:00",
+    "updated_at": "2021-06-14T09:36:48+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 179,
+    "answers": [
+        {
+            "id": 11320,
+            "answer": "Ja, klar!",
+            "votes": 69,
+            "order": 0
+        },
+        {
+            "id": 11319,
+            "answer": "Nein, das wäre mir zu protzig.",
+            "votes": 110,
+            "order": 1
+        }
+    ]
+}

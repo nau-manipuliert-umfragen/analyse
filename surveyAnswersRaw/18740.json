@@ -1,0 +1,25 @@
+{
+    "id": 8176,
+    "question": "Glauben Sie, dass sich Harry und William wieder vertragen werden?",
+    "created_at": "2021-03-21T14:22:16+00:00",
+    "updated_at": "2021-06-14T09:39:25+00:00",
+    "end_at": null,
+    "comment_group_id": 2072697,
+    "published_at": "2021-04-10T09:40:03+00:00",
+    "display_name": "",
+    "total": 1454,
+    "answers": [
+        {
+            "id": 18740,
+            "answer": "Ja, Zeit heilt bekanntlich alle Wunden.",
+            "votes": 918,
+            "order": 0
+        },
+        {
+            "id": 18741,
+            "answer": "Nein, William darf ihm niemals verzeihen!",
+            "votes": 536,
+            "order": 1
+        }
+    ]
+}

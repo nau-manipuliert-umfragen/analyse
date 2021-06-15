@@ -1,0 +1,25 @@
+{
+    "id": 3801,
+    "question": "Was halten Sie von Mario Balotelli?",
+    "created_at": "2020-04-07T19:47:10+00:00",
+    "updated_at": "2021-06-14T09:36:06+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 347,
+    "answers": [
+        {
+            "id": 9154,
+            "answer": "Ich finde ihn lustig, er sorgt immer wieder für Unterhaltung.",
+            "votes": 108,
+            "order": 0
+        },
+        {
+            "id": 9155,
+            "answer": "Ein guter Fussballer, neben dem Platz jedoch sehr unprofessionell.",
+            "votes": 239,
+            "order": 1
+        }
+    ]
+}

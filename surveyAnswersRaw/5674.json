@@ -1,0 +1,25 @@
+{
+    "id": 2243,
+    "question": "Sollen Skigebiete bei der aktuellen Trockenheit künstlich beschneien?",
+    "created_at": "2018-10-30T15:05:34+00:00",
+    "updated_at": "2021-06-14T09:34:53+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 115,
+    "answers": [
+        {
+            "id": 5674,
+            "answer": "Ja, Skifahren gehört zur Schweiz und ist wichtig für den Tourismus.",
+            "votes": 53,
+            "order": 100
+        },
+        {
+            "id": 5675,
+            "answer": "Nein, in diesem Jahr sollen die Skigebiete der Umwelt wegen auf Kunstschnee verzichten.",
+            "votes": 62,
+            "order": 100
+        }
+    ]
+}

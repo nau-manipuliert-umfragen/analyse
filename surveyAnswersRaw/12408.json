@@ -1,0 +1,37 @@
+{
+    "id": 5296,
+    "question": "Wer gewinnt den GP von Belgien?",
+    "created_at": "2020-08-29T15:06:30+00:00",
+    "updated_at": "2021-06-14T09:37:07+00:00",
+    "end_at": null,
+    "comment_group_id": 1773192,
+    "published_at": "2020-08-30T06:30:24+00:00",
+    "display_name": "",
+    "total": 166,
+    "answers": [
+        {
+            "id": 12409,
+            "answer": "Lewis Hamilton",
+            "votes": 80,
+            "order": 0
+        },
+        {
+            "id": 12410,
+            "answer": "Valtteri Bottas",
+            "votes": 22,
+            "order": 1
+        },
+        {
+            "id": 12408,
+            "answer": "Max Verstappen",
+            "votes": 36,
+            "order": 2
+        },
+        {
+            "id": 12407,
+            "answer": "Ein anderer Fahrer",
+            "votes": 28,
+            "order": 3
+        }
+    ]
+}

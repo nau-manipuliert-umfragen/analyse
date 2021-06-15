@@ -1,0 +1,25 @@
+{
+    "id": 6551,
+    "question": "Ist Donald Trump noch zurechnungsfähig?",
+    "created_at": "2021-01-07T09:27:27+00:00",
+    "updated_at": "2021-06-14T09:38:06+00:00",
+    "end_at": null,
+    "comment_group_id": 1967223,
+    "published_at": null,
+    "display_name": "",
+    "total": 5659,
+    "answers": [
+        {
+            "id": 15193,
+            "answer": "Ja, seine Anhänger sind das Problem.",
+            "votes": 412,
+            "order": 0
+        },
+        {
+            "id": 15192,
+            "answer": "Nein. Er ist für den Skandal verantwortlich.",
+            "votes": 5247,
+            "order": 1
+        }
+    ]
+}

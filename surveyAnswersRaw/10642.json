@@ -1,0 +1,25 @@
+{
+    "id": 4485,
+    "question": "Ist die Verurteilung der Notärztin in Ordnung?",
+    "created_at": "2020-06-05T09:23:00+00:00",
+    "updated_at": "2021-06-14T10:22:55+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 203,
+    "answers": [
+        {
+            "id": 10642,
+            "answer": "Ja",
+            "votes": 122,
+            "order": 0
+        },
+        {
+            "id": 10641,
+            "answer": "Nein",
+            "votes": 81,
+            "order": 1
+        }
+    ]
+}

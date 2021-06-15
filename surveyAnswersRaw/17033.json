@@ -1,0 +1,25 @@
+{
+    "id": 7379,
+    "question": "Welches Team zieht in den CL-Viertelfinal ein?",
+    "created_at": "2021-02-17T21:45:56+00:00",
+    "updated_at": "2021-06-14T09:38:44+00:00",
+    "end_at": null,
+    "comment_group_id": 2026981,
+    "published_at": "2021-02-17T21:52:56+00:00",
+    "display_name": "",
+    "total": 108,
+    "answers": [
+        {
+            "id": 17033,
+            "answer": "BVB",
+            "votes": 81,
+            "order": 0
+        },
+        {
+            "id": 17032,
+            "answer": "Sevilla",
+            "votes": 27,
+            "order": 1
+        }
+    ]
+}

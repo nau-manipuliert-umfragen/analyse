@@ -1,0 +1,25 @@
+{
+    "id": 5614,
+    "question": "Vermissen Sie Marcel Hirscher?",
+    "created_at": "2020-10-02T09:34:41+00:00",
+    "updated_at": "2021-06-14T09:37:21+00:00",
+    "end_at": null,
+    "comment_group_id": 1830087,
+    "published_at": "2020-10-03T11:19:04+00:00",
+    "display_name": "",
+    "total": 325,
+    "answers": [
+        {
+            "id": 13112,
+            "answer": "Ja",
+            "votes": 169,
+            "order": 0
+        },
+        {
+            "id": 13113,
+            "answer": "Nein",
+            "votes": 156,
+            "order": 1
+        }
+    ]
+}

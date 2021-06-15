@@ -1,0 +1,43 @@
+{
+    "id": 1468,
+    "question": "Welchen Experten mögen Sie in der Schweiz am liebsten?",
+    "created_at": "2018-07-09T07:47:04+00:00",
+    "updated_at": "2021-06-14T09:34:29+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 268,
+    "answers": [
+        {
+            "id": 3985,
+            "answer": "Andy Egli",
+            "votes": 44,
+            "order": 100
+        },
+        {
+            "id": 3988,
+            "answer": "Gürkan Sermeter",
+            "votes": 35,
+            "order": 100
+        },
+        {
+            "id": 3991,
+            "answer": "Ratinho",
+            "votes": 25,
+            "order": 100
+        },
+        {
+            "id": 3994,
+            "answer": "Lutz Pfannenstiel",
+            "votes": 118,
+            "order": 100
+        },
+        {
+            "id": 3997,
+            "answer": "Benjamin Huggel",
+            "votes": 46,
+            "order": 100
+        }
+    ]
+}

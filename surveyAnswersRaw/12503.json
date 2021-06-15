@@ -1,0 +1,25 @@
+{
+    "id": 5337,
+    "question": "Ist der Entscheid des Bundesrats sinnvoll?",
+    "created_at": "2020-09-02T13:29:10+00:00",
+    "updated_at": "2021-06-14T09:37:09+00:00",
+    "end_at": null,
+    "comment_group_id": 1779141,
+    "published_at": "2020-09-02T13:49:33+00:00",
+    "display_name": "",
+    "total": 631,
+    "answers": [
+        {
+            "id": 12503,
+            "answer": "Ja, endlich kann man wieder ins Stadion!",
+            "votes": 339,
+            "order": 0
+        },
+        {
+            "id": 12504,
+            "answer": "Nein, das ist in der aktuellen Lage unpassend.",
+            "votes": 292,
+            "order": 1
+        }
+    ]
+}

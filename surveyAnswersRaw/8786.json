@@ -1,0 +1,25 @@
+{
+    "id": 3631,
+    "question": "Sollten auch andere Vereine ihre Stadien zur Verfügung stellen?",
+    "created_at": "2020-03-26T16:10:56+00:00",
+    "updated_at": "2021-06-14T09:35:59+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 83,
+    "answers": [
+        {
+            "id": 8787,
+            "answer": "Ja, aktuell sind ja sowieso jegliche Veranstaltungen verboten.",
+            "votes": 57,
+            "order": 0
+        },
+        {
+            "id": 8786,
+            "answer": "Nein, nur weil Stadien viel Lagerplatz bieten, gibt es ja nicht automatisch mehr Hilfsmittel.",
+            "votes": 26,
+            "order": 1
+        }
+    ]
+}

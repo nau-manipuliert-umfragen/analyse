@@ -1,0 +1,25 @@
+{
+    "id": 7528,
+    "question": "Wird Djokovic an Federer und Nadal in Sachen Grand-Slam-Titel vorbeiziehen?",
+    "created_at": "2021-02-23T12:42:18+00:00",
+    "updated_at": "2021-06-14T09:38:51+00:00",
+    "end_at": null,
+    "comment_group_id": 2034714,
+    "published_at": null,
+    "display_name": "",
+    "total": 42,
+    "answers": [
+        {
+            "id": 17360,
+            "answer": "Ja, es ist eine Frage der Zeit.",
+            "votes": 21,
+            "order": 0
+        },
+        {
+            "id": 17359,
+            "answer": "Nein, das wird nicht gelingen!",
+            "votes": 21,
+            "order": 1
+        }
+    ]
+}

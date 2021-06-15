@@ -1,0 +1,43 @@
+{
+    "id": 2293,
+    "question": "Wer soll den «Ballon d'Or» gewinnen?",
+    "created_at": "2018-12-03T14:38:32+00:00",
+    "updated_at": "2021-06-14T09:34:55+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 134,
+    "answers": [
+        {
+            "id": 5798,
+            "answer": "Ich wäre für Haris Seferovic!",
+            "votes": 32,
+            "order": 100
+        },
+        {
+            "id": 5799,
+            "answer": "Antoine Griezmann",
+            "votes": 24,
+            "order": 100
+        },
+        {
+            "id": 5800,
+            "answer": "Ein anderer",
+            "votes": 26,
+            "order": 100
+        },
+        {
+            "id": 5801,
+            "answer": "Luka Modric",
+            "votes": 28,
+            "order": 100
+        },
+        {
+            "id": 5802,
+            "answer": "Cristiano Ronaldo",
+            "votes": 24,
+            "order": 100
+        }
+    ]
+}

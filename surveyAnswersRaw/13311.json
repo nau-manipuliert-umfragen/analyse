@@ -1,0 +1,25 @@
+{
+    "id": 5706,
+    "question": "Finden Sie Devilles «gemeine Wappler» lustig?",
+    "created_at": "2020-10-12T12:44:07+00:00",
+    "updated_at": "2021-06-14T09:37:24+00:00",
+    "end_at": null,
+    "comment_group_id": 1846132,
+    "published_at": null,
+    "display_name": "",
+    "total": 658,
+    "answers": [
+        {
+            "id": 13312,
+            "answer": "Ja, der traut sich was.",
+            "votes": 566,
+            "order": 0
+        },
+        {
+            "id": 13311,
+            "answer": "Nein, so frech!",
+            "votes": 92,
+            "order": 1
+        }
+    ]
+}

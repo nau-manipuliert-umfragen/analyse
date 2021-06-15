@@ -1,0 +1,25 @@
+{
+    "id": 4864,
+    "question": "Lässt sich der FC Basel die Qualifikation für den Europa-League-Viertelfinal noch nehmen?",
+    "created_at": "2020-07-09T10:25:27+00:00",
+    "updated_at": "2021-06-14T09:36:50+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 180,
+    "answers": [
+        {
+            "id": 11457,
+            "answer": "Ja, Frankfurt schafft da Comeback.",
+            "votes": 104,
+            "order": 0
+        },
+        {
+            "id": 11458,
+            "answer": "Nein, Mit diesem Vorsprung lässt Basel nichts mehr anbrennen.",
+            "votes": 76,
+            "order": 1
+        }
+    ]
+}

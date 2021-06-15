@@ -1,0 +1,25 @@
+{
+    "id": 9885,
+    "question": "Halten sie die Wahl für richtig?",
+    "created_at": "2021-06-04T13:34:40+00:00",
+    "updated_at": "2021-06-14T09:41:00+00:00",
+    "end_at": null,
+    "comment_group_id": 2191034,
+    "published_at": "2021-06-07T08:37:10+00:00",
+    "display_name": "",
+    "total": 438,
+    "answers": [
+        {
+            "id": 22397,
+            "answer": "Ja, Eliasch ist für den Job am besten geeignet.",
+            "votes": 265,
+            "order": 0
+        },
+        {
+            "id": 22396,
+            "answer": "Nein, Lehmann wäre die bessere Lösung gewesen.",
+            "votes": 173,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "id": 2936,
+    "question": "Hat Srdjan Djokovic recht?",
+    "created_at": "2020-02-10T12:19:53+00:00",
+    "updated_at": "2021-06-14T09:35:29+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 560,
+    "answers": [
+        {
+            "id": 7268,
+            "answer": "Er drückt sich etwas extrem aus, aber ja.",
+            "votes": 139,
+            "order": 0
+        },
+        {
+            "id": 7269,
+            "answer": "Voll und ganz!",
+            "votes": 75,
+            "order": 1
+        },
+        {
+            "id": 7267,
+            "answer": "Nein, was soll das denn?",
+            "votes": 346,
+            "order": 2
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "id": 4430,
+    "question": "Wohin soll Sandro Tonali wechseln?",
+    "created_at": "2020-06-01T19:32:25+00:00",
+    "updated_at": "2021-06-14T09:36:34+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 140,
+    "answers": [
+        {
+            "id": 10517,
+            "answer": "FC Barcelona",
+            "votes": 27,
+            "order": 0
+        },
+        {
+            "id": 10520,
+            "answer": "Paris Saint-Germain",
+            "votes": 21,
+            "order": 1
+        },
+        {
+            "id": 10521,
+            "answer": "Juventus Turin",
+            "votes": 33,
+            "order": 2
+        },
+        {
+            "id": 10519,
+            "answer": "Inter Mailand",
+            "votes": 31,
+            "order": 3
+        },
+        {
+            "id": 10518,
+            "answer": "Zu einem anderen Club",
+            "votes": 28,
+            "order": 4
+        }
+    ]
+}

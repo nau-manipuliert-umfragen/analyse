@@ -1,0 +1,25 @@
+{
+    "id": 6155,
+    "question": "Würden Sie sich über das Ronaldo-Trikot freuen?",
+    "created_at": "2020-11-25T10:42:33+00:00",
+    "updated_at": "2021-06-14T09:37:47+00:00",
+    "end_at": null,
+    "comment_group_id": 1911433,
+    "published_at": null,
+    "display_name": "",
+    "total": 225,
+    "answers": [
+        {
+            "id": 14309,
+            "answer": "Ja, das wäre ein Traum.",
+            "votes": 182,
+            "order": 0
+        },
+        {
+            "id": 14310,
+            "answer": "Nein, ich möchte das Messi-Trikot!",
+            "votes": 43,
+            "order": 1
+        }
+    ]
+}

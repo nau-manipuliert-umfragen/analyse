@@ -1,0 +1,25 @@
+{
+    "id": 5326,
+    "question": "Kann man mit einem Kind weiter Party machen?",
+    "created_at": "2020-09-01T12:50:50+00:00",
+    "updated_at": "2021-06-14T09:37:09+00:00",
+    "end_at": null,
+    "comment_group_id": 1777383,
+    "published_at": "2020-09-01T19:00:51+00:00",
+    "display_name": "",
+    "total": 926,
+    "answers": [
+        {
+            "id": 12479,
+            "answer": "Nein, die beiden werden schon noch auf die Welt kommen.",
+            "votes": 636,
+            "order": 0
+        },
+        {
+            "id": 12480,
+            "answer": "Ja, nur weil man Eltern wird, muss man nicht gleich auf alles verzichten.",
+            "votes": 290,
+            "order": 1
+        }
+    ]
+}

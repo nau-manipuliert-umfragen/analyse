@@ -1,0 +1,25 @@
+{
+    "id": 2128,
+    "question": "Hat Joey Barton recht?",
+    "created_at": "2018-09-22T11:44:51+00:00",
+    "updated_at": "2021-06-14T09:34:49+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 62,
+    "answers": [
+        {
+            "id": 5449,
+            "answer": "Ja, damit trifft er den Nagel auf den Kopf.",
+            "votes": 32,
+            "order": 100
+        },
+        {
+            "id": 5452,
+            "answer": "Nein, der Vergleich ist unsinnig.",
+            "votes": 30,
+            "order": 100
+        }
+    ]
+}

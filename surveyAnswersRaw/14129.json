@@ -1,0 +1,25 @@
+{
+    "id": 6076,
+    "question": "Sollte es einen Forfait-Sieg für die Schweizer Nati geben?",
+    "created_at": "2020-11-17T13:39:45+00:00",
+    "updated_at": "2021-06-14T09:37:43+00:00",
+    "end_at": null,
+    "comment_group_id": 1901384,
+    "published_at": "2020-11-25T07:19:35+00:00",
+    "display_name": "",
+    "total": 2834,
+    "answers": [
+        {
+            "id": 14130,
+            "answer": "Ja",
+            "votes": 1646,
+            "order": 0
+        },
+        {
+            "id": 14129,
+            "answer": "Nein",
+            "votes": 1188,
+            "order": 1
+        }
+    ]
+}

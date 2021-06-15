@@ -1,0 +1,25 @@
+{
+    "id": 8255,
+    "question": "Mögen Sie Kebab?",
+    "created_at": "2021-03-23T15:31:12+00:00",
+    "updated_at": "2021-06-14T09:39:29+00:00",
+    "end_at": null,
+    "comment_group_id": 2075893,
+    "published_at": "2021-03-24T07:12:30+00:00",
+    "display_name": "",
+    "total": 624,
+    "answers": [
+        {
+            "id": 18913,
+            "answer": "Ja, aber nur ohne scharf.",
+            "votes": 304,
+            "order": 0
+        },
+        {
+            "id": 18914,
+            "answer": "Nein, ich mag lieber Bratwurst mit Senf.",
+            "votes": 320,
+            "order": 1
+        }
+    ]
+}

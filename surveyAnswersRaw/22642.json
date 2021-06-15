@@ -1,0 +1,25 @@
+{
+    "id": 10000,
+    "question": "Finden Sie, Luca Hänni war bei der Profi-Challenge fehl am Platz?",
+    "created_at": "2021-06-10T06:51:42+00:00",
+    "updated_at": "2021-06-14T09:59:52+00:00",
+    "end_at": null,
+    "comment_group_id": 2198945,
+    "published_at": "2021-06-12T08:56:16+00:00",
+    "display_name": "",
+    "total": 2006,
+    "answers": [
+        {
+            "id": 22641,
+            "answer": "Ja, er hatte dort nichts verloren.",
+            "votes": 1045,
+            "order": 0
+        },
+        {
+            "id": 22642,
+            "answer": "Nein, er ist doch schon fast ein Profi-Tänzer!",
+            "votes": 961,
+            "order": 1
+        }
+    ]
+}

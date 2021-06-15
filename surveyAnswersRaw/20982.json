@@ -1,0 +1,25 @@
+{
+    "id": 9231,
+    "question": "Verfolgen Sie, wie sich die Risikoliste des BAG jeweils verändert?",
+    "created_at": "2021-05-05T06:58:03+00:00",
+    "updated_at": "2021-06-14T09:40:23+00:00",
+    "end_at": null,
+    "comment_group_id": 2141928,
+    "published_at": "2021-05-05T11:43:02+00:00",
+    "display_name": "",
+    "total": 412,
+    "answers": [
+        {
+            "id": 20981,
+            "answer": "Ja, das interessiert mich, unter anderem wegen der Ferien.",
+            "votes": 286,
+            "order": 0
+        },
+        {
+            "id": 20982,
+            "answer": "Nein, ich gehe vorerst so oder so nicht ins Ausland.",
+            "votes": 126,
+            "order": 1
+        }
+    ]
+}

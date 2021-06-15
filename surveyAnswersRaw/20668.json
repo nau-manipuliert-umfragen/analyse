@@ -1,0 +1,37 @@
+{
+    "id": 9086,
+    "question": "Wie schwer waren Sie bei der Geburt?",
+    "created_at": "2021-04-29T07:49:17+00:00",
+    "updated_at": "2021-06-14T10:26:35+00:00",
+    "end_at": null,
+    "comment_group_id": 2131029,
+    "published_at": "2021-04-29T08:35:28+00:00",
+    "display_name": "",
+    "total": 273,
+    "answers": [
+        {
+            "id": 20668,
+            "answer": "2-3 Kilo",
+            "votes": 79,
+            "order": 0
+        },
+        {
+            "id": 20666,
+            "answer": "3-4 Kilo",
+            "votes": 116,
+            "order": 1
+        },
+        {
+            "id": 20665,
+            "answer": "4-5 Kilo",
+            "votes": 50,
+            "order": 2
+        },
+        {
+            "id": 20667,
+            "answer": "5-6 Kilo",
+            "votes": 28,
+            "order": 3
+        }
+    ]
+}

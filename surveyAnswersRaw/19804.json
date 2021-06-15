@@ -1,0 +1,25 @@
+{
+    "id": 8683,
+    "question": "Wie finden Sie die neue Bachelorette?",
+    "created_at": "2021-04-12T09:11:50+00:00",
+    "updated_at": "2021-06-14T09:39:52+00:00",
+    "end_at": null,
+    "comment_group_id": 2103531,
+    "published_at": "2021-04-12T11:01:12+00:00",
+    "display_name": "",
+    "total": 816,
+    "answers": [
+        {
+            "id": 19803,
+            "answer": "Hübsch und sympathisch!",
+            "votes": 379,
+            "order": 0
+        },
+        {
+            "id": 19804,
+            "answer": "Nicht mein Fall.",
+            "votes": 437,
+            "order": 1
+        }
+    ]
+}

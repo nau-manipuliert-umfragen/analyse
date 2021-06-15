@@ -1,0 +1,25 @@
+{
+    "id": 7432,
+    "question": "Geniessen sie am Wochenende das schöne Wetter?",
+    "created_at": "2021-02-19T10:17:36+00:00",
+    "updated_at": "2021-06-14T09:38:46+00:00",
+    "end_at": null,
+    "comment_group_id": 2029459,
+    "published_at": "2021-02-19T20:02:44+00:00",
+    "display_name": "",
+    "total": 145,
+    "answers": [
+        {
+            "id": 17151,
+            "answer": "Ja, ein Spaziergang liegt auf jeden Fall drin!",
+            "votes": 116,
+            "order": 0
+        },
+        {
+            "id": 17150,
+            "answer": "Nein, ich bleibe zu Hause und schaue die Ski-WM.",
+            "votes": 29,
+            "order": 1
+        }
+    ]
+}

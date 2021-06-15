@@ -1,0 +1,31 @@
+{
+    "id": 4119,
+    "question": "Mit welchem Club verbinden Sie Dimitar Berbatov?",
+    "created_at": "2020-05-04T09:59:21+00:00",
+    "updated_at": "2021-06-14T09:36:19+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 140,
+    "answers": [
+        {
+            "id": 9837,
+            "answer": "Manchester United",
+            "votes": 54,
+            "order": 0
+        },
+        {
+            "id": 9838,
+            "answer": "Tottenham Hotspur",
+            "votes": 23,
+            "order": 1
+        },
+        {
+            "id": 9839,
+            "answer": "Bayer Leverkusen",
+            "votes": 63,
+            "order": 2
+        }
+    ]
+}

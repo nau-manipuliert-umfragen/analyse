@@ -1,0 +1,25 @@
+{
+    "id": 7537,
+    "question": "Sollen Kinder ebenfalls gegen Corona geimpft werden?",
+    "created_at": "2021-02-23T14:41:41+00:00",
+    "updated_at": "2021-06-14T09:38:51+00:00",
+    "end_at": null,
+    "comment_group_id": 2034933,
+    "published_at": "2021-02-23T18:00:15+00:00",
+    "display_name": "",
+    "total": 2543,
+    "answers": [
+        {
+            "id": 17377,
+            "answer": "Ja, auch Kinder müssen geschützt werden.",
+            "votes": 148,
+            "order": 0
+        },
+        {
+            "id": 17378,
+            "answer": "Nein, das Risiko einer Covid-19-Erkrankung ist zu klein.",
+            "votes": 2395,
+            "order": 1
+        }
+    ]
+}

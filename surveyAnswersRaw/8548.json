@@ -1,0 +1,25 @@
+{
+    "id": 3517,
+    "question": "Sollten Fussball-Profis während der Corona-Krise auf einen Teil ihres Gehaltes verzichten?",
+    "created_at": "2020-03-18T14:17:48+00:00",
+    "updated_at": "2021-06-14T09:35:54+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 346,
+    "answers": [
+        {
+            "id": 8549,
+            "answer": "Ja, damit würden sie ein Zeichen der Solidarität setzen.",
+            "votes": 308,
+            "order": 0
+        },
+        {
+            "id": 8548,
+            "answer": "Nein, das ist nicht die Aufgabe der Fussball-Stars.",
+            "votes": 38,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 9722,
+    "question": "Können Sie Naomi Osaka nachvollziehen?",
+    "created_at": "2021-05-27T09:04:52+00:00",
+    "updated_at": "2021-06-14T09:40:51+00:00",
+    "end_at": null,
+    "comment_group_id": 2178162,
+    "published_at": "2021-05-31T12:39:15+00:00",
+    "display_name": "",
+    "total": 199,
+    "answers": [
+        {
+            "id": 22031,
+            "answer": "Ja, die Medien sind nicht immer fair zu den Sportlern.",
+            "votes": 133,
+            "order": 0
+        },
+        {
+            "id": 22032,
+            "answer": "Nein, das ist ihr Beruf. Interviews geben gehört dazu.",
+            "votes": 66,
+            "order": 1
+        }
+    ]
+}

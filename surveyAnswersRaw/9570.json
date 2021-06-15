@@ -1,0 +1,31 @@
+{
+    "id": 3996,
+    "question": "Wie stehen Sie zu Harry und Meghan?",
+    "created_at": "2020-04-24T12:27:30+00:00",
+    "updated_at": "2021-06-14T09:36:14+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": "2021-05-12T09:04:25+00:00",
+    "display_name": "",
+    "total": 3384,
+    "answers": [
+        {
+            "id": 9569,
+            "answer": "Wahnsinnig nahbar und sympathisch, in mir steckt ein kleiner Fan!",
+            "votes": 291,
+            "order": 0
+        },
+        {
+            "id": 9571,
+            "answer": "Sie predigen Wasser, trinken aber Wein, ich mag sie gar nicht!",
+            "votes": 2488,
+            "order": 1
+        },
+        {
+            "id": 9570,
+            "answer": "Ich habe keine Meinung, Harry und Meghan sind mir egal!",
+            "votes": 605,
+            "order": 2
+        }
+    ]
+}

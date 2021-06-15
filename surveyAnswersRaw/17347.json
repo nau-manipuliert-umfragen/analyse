@@ -1,0 +1,25 @@
+{
+    "id": 7522,
+    "question": "Würden Sie ein Speicheltest dem Nasenabstrich vorziehen?",
+    "created_at": "2021-02-23T10:28:34+00:00",
+    "updated_at": "2021-06-14T09:38:50+00:00",
+    "end_at": null,
+    "comment_group_id": 2034453,
+    "published_at": "2021-02-26T09:39:20+00:00",
+    "display_name": "",
+    "total": 4736,
+    "answers": [
+        {
+            "id": 17346,
+            "answer": "Ja, so tut es nicht mehr so weh. Der Einsatz von Spuck-Tests muss forciert werden.",
+            "votes": 4266,
+            "order": 0
+        },
+        {
+            "id": 17347,
+            "answer": "Nein, PCR-Tests via Nasenabstrichen sind die einzig zuverlässige Methode.",
+            "votes": 470,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "id": 4340,
+    "question": "Wer holt sich die Meisterschale in der Bundesliga?",
+    "created_at": "2020-05-24T15:13:25+00:00",
+    "updated_at": "2021-06-14T09:36:30+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 133,
+    "answers": [
+        {
+            "id": 10325,
+            "answer": "Die Bayern schaffen es erneut",
+            "votes": 66,
+            "order": 0
+        },
+        {
+            "id": 10326,
+            "answer": "Borussia Dortmund holt sich den Titel",
+            "votes": 41,
+            "order": 1
+        },
+        {
+            "id": 10324,
+            "answer": "RB Leipzig überrascht noch alle",
+            "votes": 26,
+            "order": 2
+        }
+    ]
+}

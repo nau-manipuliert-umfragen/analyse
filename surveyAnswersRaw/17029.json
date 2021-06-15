@@ -1,0 +1,25 @@
+{
+    "id": 7377,
+    "question": "Haben Sie auch blaues Blut?",
+    "created_at": "2021-02-17T16:07:01+00:00",
+    "updated_at": "2021-06-14T10:25:12+00:00",
+    "end_at": null,
+    "comment_group_id": 2026686,
+    "published_at": "2021-02-20T12:31:10+00:00",
+    "display_name": "",
+    "total": 403,
+    "answers": [
+        {
+            "id": 17028,
+            "answer": "Nicht, dass ich wüsste ...",
+            "votes": 246,
+            "order": 0
+        },
+        {
+            "id": 17029,
+            "answer": "Ja, tatsächlich!",
+            "votes": 157,
+            "order": 1
+        }
+    ]
+}

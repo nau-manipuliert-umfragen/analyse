@@ -1,0 +1,37 @@
+{
+    "id": 3001,
+    "question": "Wie weit geht die Reise des HCD?",
+    "created_at": "2020-02-13T21:27:33+00:00",
+    "updated_at": "2021-06-14T09:35:32+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 119,
+    "answers": [
+        {
+            "id": 7407,
+            "answer": "Im Viertelfinal ist Schluss.",
+            "votes": 25,
+            "order": 0
+        },
+        {
+            "id": 7406,
+            "answer": "Bis in den Halbfinal reichts, weiter nicht.",
+            "votes": 37,
+            "order": 1
+        },
+        {
+            "id": 7405,
+            "answer": "Die Davoser verlieren erst den Final.",
+            "votes": 23,
+            "order": 2
+        },
+        {
+            "id": 7408,
+            "answer": "Es wird der Meistertitel!",
+            "votes": 34,
+            "order": 3
+        }
+    ]
+}

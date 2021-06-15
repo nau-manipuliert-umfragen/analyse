@@ -1,0 +1,25 @@
+{
+    "id": 4131,
+    "question": "Sollte Roger Federer für den FC Villarepos auflaufen?",
+    "created_at": "2020-05-05T09:20:46+00:00",
+    "updated_at": "2021-06-14T09:36:20+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 180,
+    "answers": [
+        {
+            "id": 9869,
+            "answer": "Ja klar, das wäre eine super Sache!",
+            "votes": 88,
+            "order": 0
+        },
+        {
+            "id": 9868,
+            "answer": "Nein, er soll sich aufs Tennis konzentrieren",
+            "votes": 92,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 9296,
+    "question": "Floyd Mayweather vs. Logan Paul: Wer gewinnt den Fight?",
+    "created_at": "2021-05-07T13:56:32+00:00",
+    "updated_at": "2021-06-14T09:40:26+00:00",
+    "end_at": null,
+    "comment_group_id": 2146861,
+    "published_at": "2021-05-09T09:48:06+00:00",
+    "display_name": "",
+    "total": 118,
+    "answers": [
+        {
+            "id": 21114,
+            "answer": "Klare Sache, Favorit Mayweather!",
+            "votes": 79,
+            "order": 0
+        },
+        {
+            "id": 21115,
+            "answer": "Logan Paul wird alle überraschen mit einem Sieg!",
+            "votes": 39,
+            "order": 1
+        }
+    ]
+}

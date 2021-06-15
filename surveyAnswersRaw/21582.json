@@ -1,0 +1,25 @@
+{
+    "id": 9512,
+    "question": "Sollen die Gates-Kids mehr als zehn Millionen erben?",
+    "created_at": "2021-05-18T08:04:05+00:00",
+    "updated_at": "2021-06-14T09:40:40+00:00",
+    "end_at": null,
+    "comment_group_id": 2162525,
+    "published_at": "2021-05-18T16:10:38+00:00",
+    "display_name": "",
+    "total": 826,
+    "answers": [
+        {
+            "id": 21583,
+            "answer": "Ja, zehn Millionen sind bei diesem Vermögen viel zu wenig.",
+            "votes": 510,
+            "order": 0
+        },
+        {
+            "id": 21582,
+            "answer": "Nein, zehn Millionen sind mehr als genug.",
+            "votes": 316,
+            "order": 1
+        }
+    ]
+}

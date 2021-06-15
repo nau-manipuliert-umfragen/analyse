@@ -1,0 +1,25 @@
+{
+    "id": 7648,
+    "question": "Glauben Sie, Prinz Charles wäre der Rolle des Königs gewachsen?",
+    "created_at": "2021-02-28T07:21:34+00:00",
+    "updated_at": "2021-06-14T09:38:56+00:00",
+    "end_at": null,
+    "comment_group_id": 2041320,
+    "published_at": "2021-04-27T09:28:45+00:00",
+    "display_name": "",
+    "total": 6052,
+    "answers": [
+        {
+            "id": 17622,
+            "answer": "Ja, die Queen wird ihm das beigebracht haben.",
+            "votes": 2387,
+            "order": 0
+        },
+        {
+            "id": 17623,
+            "answer": "Nein, William soll bitte übernehmen.",
+            "votes": 3665,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "id": 7756,
+    "question": "Wer sollte FCB-Captain werden?",
+    "created_at": "2021-03-04T08:16:02+00:00",
+    "updated_at": "2021-06-14T09:39:01+00:00",
+    "end_at": null,
+    "comment_group_id": 2047546,
+    "published_at": "2021-03-04T08:28:44+00:00",
+    "display_name": "",
+    "total": 477,
+    "answers": [
+        {
+            "id": 17865,
+            "answer": "Pajtim Kasami",
+            "votes": 152,
+            "order": 0
+        },
+        {
+            "id": 17863,
+            "answer": "Fabian Frei",
+            "votes": 153,
+            "order": 1
+        },
+        {
+            "id": 17864,
+            "answer": "Timm Klose",
+            "votes": 55,
+            "order": 2
+        },
+        {
+            "id": 17862,
+            "answer": "Ein anderer Spieler",
+            "votes": 117,
+            "order": 3
+        }
+    ]
+}

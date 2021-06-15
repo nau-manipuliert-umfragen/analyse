@@ -1,0 +1,25 @@
+{
+    "id": 6908,
+    "question": "Sieben Ausländer pro Team ab der Saison 2022/23 – die richtige Entscheidung?",
+    "created_at": "2021-01-29T16:02:58+00:00",
+    "updated_at": "2021-06-14T09:38:20+00:00",
+    "end_at": null,
+    "comment_group_id": 1999380,
+    "published_at": null,
+    "display_name": "",
+    "total": 226,
+    "answers": [
+        {
+            "id": 15960,
+            "answer": "Ja",
+            "votes": 36,
+            "order": 0
+        },
+        {
+            "id": 15961,
+            "answer": "Nein",
+            "votes": 190,
+            "order": 1
+        }
+    ]
+}

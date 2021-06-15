@@ -1,0 +1,25 @@
+{
+    "id": 8361,
+    "question": "Besitzen Sie auch einen Hund?",
+    "created_at": "2021-03-28T18:11:40+00:00",
+    "updated_at": "2021-06-14T09:39:35+00:00",
+    "end_at": null,
+    "comment_group_id": 2082971,
+    "published_at": "2021-03-28T19:15:23+00:00",
+    "display_name": "",
+    "total": 427,
+    "answers": [
+        {
+            "id": 19139,
+            "answer": "Nein, das wäre mir zu anstrengend.",
+            "votes": 118,
+            "order": 0
+        },
+        {
+            "id": 19140,
+            "answer": "Ja, ich liebe Tiere.",
+            "votes": 309,
+            "order": 1
+        }
+    ]
+}

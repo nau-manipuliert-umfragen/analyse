@@ -1,0 +1,25 @@
+{
+    "id": 5902,
+    "question": "Protz-Ferien in der Corona-Krise?",
+    "created_at": "2020-10-29T14:55:38+00:00",
+    "updated_at": "2021-06-14T09:37:34+00:00",
+    "end_at": null,
+    "comment_group_id": 1875101,
+    "published_at": "2020-10-29T18:00:44+00:00",
+    "display_name": "",
+    "total": 664,
+    "answers": [
+        {
+            "id": 13745,
+            "answer": "Ein No-Go! Sie sollten die Kohle lieber Spenden.",
+            "votes": 406,
+            "order": 0
+        },
+        {
+            "id": 13744,
+            "answer": "Warum nicht? Ist ihr Geld und ihre Gesundheit.",
+            "votes": 258,
+            "order": 1
+        }
+    ]
+}

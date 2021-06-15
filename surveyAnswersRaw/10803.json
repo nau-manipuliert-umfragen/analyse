@@ -1,0 +1,25 @@
+{
+    "id": 4561,
+    "question": "Wie gefällt Ihnen der neue Namen von Sturm-Trainer Nestro El Maestro?",
+    "created_at": "2020-06-11T06:29:14+00:00",
+    "updated_at": "2021-06-14T10:22:58+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 58,
+    "answers": [
+        {
+            "id": 10802,
+            "answer": "Ich finde den Namen kreativ und cool.",
+            "votes": 26,
+            "order": 0
+        },
+        {
+            "id": 10803,
+            "answer": "Naja, das finde ich ein wenig übertrieben.",
+            "votes": 32,
+            "order": 1
+        }
+    ]
+}

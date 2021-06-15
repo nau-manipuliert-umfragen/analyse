@@ -1,0 +1,25 @@
+{
+    "id": 7348,
+    "question": "Wer zieht in den Champions-League-Viertelfinal ein?",
+    "created_at": "2021-02-16T21:41:47+00:00",
+    "updated_at": "2021-06-14T09:38:43+00:00",
+    "end_at": null,
+    "comment_group_id": 2025252,
+    "published_at": "2021-02-16T21:52:23+00:00",
+    "display_name": "",
+    "total": 179,
+    "answers": [
+        {
+            "id": 16957,
+            "answer": "FC Barcelona",
+            "votes": 37,
+            "order": 0
+        },
+        {
+            "id": 16956,
+            "answer": "Paris Saint-Germain",
+            "votes": 142,
+            "order": 1
+        }
+    ]
+}

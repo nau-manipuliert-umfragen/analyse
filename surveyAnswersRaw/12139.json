@@ -1,0 +1,25 @@
+{
+    "id": 5170,
+    "question": "Was halten Sie von den zahlreichen Turtelbildern der beiden?",
+    "created_at": "2020-08-18T06:16:36+00:00",
+    "updated_at": "2021-06-14T09:37:02+00:00",
+    "end_at": null,
+    "comment_group_id": 1753570,
+    "published_at": "2020-08-18T11:26:56+00:00",
+    "display_name": "",
+    "total": 833,
+    "answers": [
+        {
+            "id": 12139,
+            "answer": "Süss, die sind doch frisch verliebt.",
+            "votes": 509,
+            "order": 0
+        },
+        {
+            "id": 12140,
+            "answer": "Irgendwann reicht es dann auch mal. Verliebtsein hin oder her …",
+            "votes": 324,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 9587,
+    "question": "Ist der Aufstieg von GC verdient?",
+    "created_at": "2021-05-20T21:37:01+00:00",
+    "updated_at": "2021-06-14T09:40:44+00:00",
+    "end_at": null,
+    "comment_group_id": 2167877,
+    "published_at": "2021-05-21T06:57:12+00:00",
+    "display_name": "",
+    "total": 548,
+    "answers": [
+        {
+            "id": 21746,
+            "answer": "Ja",
+            "votes": 450,
+            "order": 0
+        },
+        {
+            "id": 21745,
+            "answer": "Nein",
+            "votes": 98,
+            "order": 1
+        }
+    ]
+}

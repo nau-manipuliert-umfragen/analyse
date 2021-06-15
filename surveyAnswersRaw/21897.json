@@ -1,0 +1,25 @@
+{
+    "id": 9660,
+    "question": "Ist Egan Bernal der Sieg am Giro d'Italia noch zu nehmen?",
+    "created_at": "2021-05-24T15:15:57+00:00",
+    "updated_at": "2021-06-14T09:40:48+00:00",
+    "end_at": null,
+    "comment_group_id": 2173573,
+    "published_at": null,
+    "display_name": "",
+    "total": 133,
+    "answers": [
+        {
+            "id": 21898,
+            "answer": "Ja",
+            "votes": 38,
+            "order": 0
+        },
+        {
+            "id": 21897,
+            "answer": "Nein",
+            "votes": 95,
+            "order": 1
+        }
+    ]
+}

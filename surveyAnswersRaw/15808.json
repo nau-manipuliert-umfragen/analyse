@@ -1,0 +1,25 @@
+{
+    "id": 6837,
+    "question": "Fährt ein Schweizer beim Nachtslalom in Schladming (Ö) auf das Podest?",
+    "created_at": "2021-01-26T17:22:27+00:00",
+    "updated_at": "2021-06-14T09:38:17+00:00",
+    "end_at": null,
+    "comment_group_id": 1994349,
+    "published_at": "2021-01-26T17:38:20+00:00",
+    "display_name": "",
+    "total": 124,
+    "answers": [
+        {
+            "id": 15808,
+            "answer": "Ja",
+            "votes": 76,
+            "order": 0
+        },
+        {
+            "id": 15807,
+            "answer": "Nein",
+            "votes": 48,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 8570,
+    "question": "Glauben Sie die Mobbing-Vorwürfe?",
+    "created_at": "2021-04-07T10:15:07+00:00",
+    "updated_at": "2021-06-14T09:39:46+00:00",
+    "end_at": null,
+    "comment_group_id": 2096247,
+    "published_at": "2021-04-07T16:33:31+00:00",
+    "display_name": "",
+    "total": 1049,
+    "answers": [
+        {
+            "id": 19570,
+            "answer": "Ja, nun müssen nur noch mehr Beweise ans Licht kommen.",
+            "votes": 889,
+            "order": 0
+        },
+        {
+            "id": 19571,
+            "answer": "Nein, das ist eine Schmierkampagne.",
+            "votes": 160,
+            "order": 1
+        }
+    ]
+}

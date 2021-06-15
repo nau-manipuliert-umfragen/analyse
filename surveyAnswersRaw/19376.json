@@ -1,0 +1,25 @@
+{
+    "id": 8476,
+    "question": "Würden Sie mit Ihrem Partner in den Stripclub?",
+    "created_at": "2021-04-01T15:35:39+00:00",
+    "updated_at": "2021-06-14T09:39:41+00:00",
+    "end_at": null,
+    "comment_group_id": 2089541,
+    "published_at": "2021-04-02T14:36:30+00:00",
+    "display_name": "",
+    "total": 606,
+    "answers": [
+        {
+            "id": 19377,
+            "answer": "Ja, vier Augen sehen mehr als zwei.",
+            "votes": 248,
+            "order": 0
+        },
+        {
+            "id": 19376,
+            "answer": "Nein, wie billig.",
+            "votes": 358,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 2357,
+    "question": "Wer krallt sich den letzten Playoffrang?",
+    "created_at": "2019-03-04T13:16:32+00:00",
+    "updated_at": "2021-06-14T09:34:58+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 104,
+    "answers": [
+        {
+            "id": 5948,
+            "answer": "Genf-Servette",
+            "votes": 52,
+            "order": 100
+        },
+        {
+            "id": 5949,
+            "answer": "ZSC Lions",
+            "votes": 52,
+            "order": 100
+        }
+    ]
+}

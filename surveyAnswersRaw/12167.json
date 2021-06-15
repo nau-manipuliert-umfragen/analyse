@@ -1,0 +1,25 @@
+{
+    "id": 5183,
+    "question": "Bedauern Sie die Absetzung des Schweizer Eishockey-Cups?",
+    "created_at": "2020-08-19T05:35:50+00:00",
+    "updated_at": "2021-06-14T09:37:03+00:00",
+    "end_at": null,
+    "comment_group_id": 1755294,
+    "published_at": "2020-08-19T05:38:25+00:00",
+    "display_name": "",
+    "total": 203,
+    "answers": [
+        {
+            "id": 12167,
+            "answer": "Ja",
+            "votes": 117,
+            "order": 0
+        },
+        {
+            "id": 12168,
+            "answer": "Nein",
+            "votes": 86,
+            "order": 1
+        }
+    ]
+}

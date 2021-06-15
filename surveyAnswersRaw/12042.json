@@ -1,0 +1,25 @@
+{
+    "id": 5126,
+    "question": "Bleibt Zlatan Ibrahimovic beim AC Milan?",
+    "created_at": "2020-08-11T13:31:44+00:00",
+    "updated_at": "2021-04-05T16:21:45+00:00",
+    "end_at": "2020-08-11T13:31:39+00:00",
+    "comment_group_id": null,
+    "published_at": "2021-04-05T16:21:44+00:00",
+    "display_name": "",
+    "total": 40,
+    "answers": [
+        {
+            "id": 12043,
+            "answer": "Ja",
+            "votes": 20,
+            "order": 0
+        },
+        {
+            "id": 12042,
+            "answer": "Nein",
+            "votes": 20,
+            "order": 1
+        }
+    ]
+}

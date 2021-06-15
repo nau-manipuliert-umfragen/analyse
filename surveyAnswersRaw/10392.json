@@ -1,0 +1,25 @@
+{
+    "id": 4371,
+    "question": "Was halten Sie von Anja Zeidlers neuer Haarpracht?",
+    "created_at": "2020-05-27T11:26:34+00:00",
+    "updated_at": "2021-06-14T09:36:32+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 219,
+    "answers": [
+        {
+            "id": 10391,
+            "answer": "Spitze, wann wenn nicht jetzt kann man sich mal voll vernachlässigen?",
+            "votes": 100,
+            "order": 0
+        },
+        {
+            "id": 10392,
+            "answer": "Ab in den Laden und einen Rasierer kaufen, bitte!",
+            "votes": 119,
+            "order": 1
+        }
+    ]
+}

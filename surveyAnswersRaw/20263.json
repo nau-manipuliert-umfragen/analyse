@@ -1,0 +1,25 @@
+{
+    "id": 8899,
+    "question": "Greifen Sie oft zu veganer Glace?",
+    "created_at": "2021-04-21T09:34:07+00:00",
+    "updated_at": "2021-06-14T09:40:03+00:00",
+    "end_at": null,
+    "comment_group_id": 2117230,
+    "published_at": "2021-04-24T18:30:32+00:00",
+    "display_name": "",
+    "total": 291,
+    "answers": [
+        {
+            "id": 20262,
+            "answer": "Klar! Bei mir kommt nichts anderes ins Wägeli.",
+            "votes": 115,
+            "order": 0
+        },
+        {
+            "id": 20263,
+            "answer": "Bisher nicht. Aber einem Versuch steht nichts im Weg.",
+            "votes": 176,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "id": 5042,
+    "question": "Welchen Desktop-Browser nutzen Sie?",
+    "created_at": "2020-08-03T08:18:56+00:00",
+    "updated_at": "2021-06-14T09:36:58+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": "2021-06-11T07:37:43+00:00",
+    "display_name": "",
+    "total": 419,
+    "answers": [
+        {
+            "id": 11858,
+            "answer": "Google Chrome",
+            "votes": 93,
+            "order": 0
+        },
+        {
+            "id": 11857,
+            "answer": "Microsoft Edge",
+            "votes": 107,
+            "order": 1
+        },
+        {
+            "id": 11859,
+            "answer": "Mozilla Firefox",
+            "votes": 132,
+            "order": 2
+        },
+        {
+            "id": 11856,
+            "answer": "Internet Explorer",
+            "votes": 34,
+            "order": 3
+        },
+        {
+            "id": 11860,
+            "answer": "Andere",
+            "votes": 53,
+            "order": 4
+        }
+    ]
+}

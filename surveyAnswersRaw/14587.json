@@ -1,0 +1,25 @@
+{
+    "id": 6280,
+    "question": "Stimmen Sie Beatrice Egli zu?",
+    "created_at": "2020-12-09T13:47:37+00:00",
+    "updated_at": "2021-06-14T09:37:55+00:00",
+    "end_at": null,
+    "comment_group_id": 1933380,
+    "published_at": "2020-12-09T20:02:37+00:00",
+    "display_name": "",
+    "total": 376,
+    "answers": [
+        {
+            "id": 14586,
+            "answer": "Ja, früher war es einfacher, jemanden kennenzulernen.",
+            "votes": 288,
+            "order": 0
+        },
+        {
+            "id": 14587,
+            "answer": "Nein, die Leute waren genauso unhöflich.",
+            "votes": 88,
+            "order": 1
+        }
+    ]
+}

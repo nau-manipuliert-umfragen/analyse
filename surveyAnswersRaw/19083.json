@@ -1,0 +1,25 @@
+{
+    "id": 8333,
+    "question": "Finden Sie die Kritik an Michael Wendler berechtigt?",
+    "created_at": "2021-03-26T14:15:32+00:00",
+    "updated_at": "2021-06-14T10:26:01+00:00",
+    "end_at": null,
+    "comment_group_id": 2080728,
+    "published_at": null,
+    "display_name": "",
+    "total": 43,
+    "answers": [
+        {
+            "id": 19082,
+            "answer": "Natürlich, wer wirbt denn bitte für Dosenbrot und Waffen?",
+            "votes": 22,
+            "order": 0
+        },
+        {
+            "id": 19083,
+            "answer": "Überhaupt nicht, er darf bewerben, was immer er will.",
+            "votes": 21,
+            "order": 1
+        }
+    ]
+}

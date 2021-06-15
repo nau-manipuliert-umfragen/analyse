@@ -1,0 +1,31 @@
+{
+    "id": 674,
+    "question": "Darf so ein spektakuläres Bild ausgezeichnet werden?",
+    "created_at": "2018-04-12T20:15:09+00:00",
+    "updated_at": "2021-06-14T09:34:03+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 85,
+    "answers": [
+        {
+            "id": 1970,
+            "answer": "Unbedingt. Man soll der Wahrheit ins Auge sehen.",
+            "votes": 36,
+            "order": 100
+        },
+        {
+            "id": 1973,
+            "answer": "Ja. Aber nur, weil der Mann überlebt hat.",
+            "votes": 26,
+            "order": 100
+        },
+        {
+            "id": 1976,
+            "answer": "Auf keinen Fall. Viel zu brutal.",
+            "votes": 23,
+            "order": 100
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 6372,
+    "question": "Finden Sie es richtig, dass die Ermittlungen eingestellt wurden?",
+    "created_at": "2020-12-18T14:58:19+00:00",
+    "updated_at": "2021-06-14T09:37:58+00:00",
+    "end_at": null,
+    "comment_group_id": 1946279,
+    "published_at": "2020-12-18T16:39:37+00:00",
+    "display_name": "",
+    "total": 261,
+    "answers": [
+        {
+            "id": 14795,
+            "answer": "Ja, es lohnt sich nicht, da weiter zu suchen.",
+            "votes": 101,
+            "order": 0
+        },
+        {
+            "id": 14796,
+            "answer": "Nein, so jemand muss zur Rechenschaft gezogen werden!",
+            "votes": 160,
+            "order": 1
+        }
+    ]
+}

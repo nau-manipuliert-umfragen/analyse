@@ -1,0 +1,25 @@
+{
+    "id": 845,
+    "question": "Soll die Spalier-Tradition in der Schweiz eingeführt werden?",
+    "created_at": "2018-05-07T05:57:14+00:00",
+    "updated_at": "2021-06-14T09:34:09+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 124,
+    "answers": [
+        {
+            "id": 2414,
+            "answer": "Ja, es ist ein schönes Zeichen der Anerkennung.",
+            "votes": 61,
+            "order": 100
+        },
+        {
+            "id": 2417,
+            "answer": "Nein, das braucht es nicht.",
+            "votes": 63,
+            "order": 100
+        }
+    ]
+}

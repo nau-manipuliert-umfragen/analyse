@@ -1,0 +1,25 @@
+{
+    "id": 2742,
+    "question": "Finden Sie es richtig, dass Nadal sich ausweisen muss?",
+    "created_at": "2020-01-29T10:08:07+00:00",
+    "updated_at": "2021-06-14T09:35:17+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 171,
+    "answers": [
+        {
+            "id": 6835,
+            "answer": "Natürlich, da sollten keine Ausnahmen gemacht werden.",
+            "votes": 113,
+            "order": 0
+        },
+        {
+            "id": 6834,
+            "answer": "Nein, die besten Spieler der Welt sollte man einfach durchlassen.",
+            "votes": 58,
+            "order": 1
+        }
+    ]
+}

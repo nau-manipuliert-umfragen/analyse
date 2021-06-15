@@ -1,0 +1,25 @@
+{
+    "id": 2669,
+    "question": "Kann der FC St. Gallen um den Gewinn der Meisterschaft mitspielen?",
+    "created_at": "2020-01-22T17:00:07+00:00",
+    "updated_at": "2021-06-14T09:35:14+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 265,
+    "answers": [
+        {
+            "id": 6675,
+            "answer": "Ja, sie werden für YB und den FC Basel zum ernsthaften Konkurrenten.",
+            "votes": 185,
+            "order": 0
+        },
+        {
+            "id": 6676,
+            "answer": "Nein, in der Rückrunde werden sie dieses Niveau nicht mehr halten können.",
+            "votes": 80,
+            "order": 1
+        }
+    ]
+}

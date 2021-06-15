@@ -1,0 +1,25 @@
+{
+    "id": 5855,
+    "question": "Würden Sie Özil bei Arsenal wieder spielen lassen?",
+    "created_at": "2020-10-26T07:47:09+00:00",
+    "updated_at": "2021-06-14T09:37:32+00:00",
+    "end_at": null,
+    "comment_group_id": 1868804,
+    "published_at": "2020-10-26T11:18:17+00:00",
+    "display_name": "",
+    "total": 276,
+    "answers": [
+        {
+            "id": 13644,
+            "answer": "Ja, seine Erfahrungen sind Gold wert.",
+            "votes": 70,
+            "order": 0
+        },
+        {
+            "id": 13643,
+            "answer": "Nein, der hat seinen Zenit bereits überschritten.",
+            "votes": 206,
+            "order": 1
+        }
+    ]
+}

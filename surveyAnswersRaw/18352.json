@@ -1,0 +1,25 @@
+{
+    "id": 7988,
+    "question": "Unterstützen Sie die Erhöhung des Frauenrentenalters auf 65 Jahre?",
+    "created_at": "2021-03-15T07:28:00+00:00",
+    "updated_at": "2021-06-14T09:51:08+00:00",
+    "end_at": null,
+    "comment_group_id": 2062946,
+    "published_at": "2021-06-10T14:02:56+00:00",
+    "display_name": "",
+    "total": 3003,
+    "answers": [
+        {
+            "id": 18352,
+            "answer": "Ja, die oft geforderte Gleichberechtigung gilt auch hier.",
+            "votes": 1748,
+            "order": 0
+        },
+        {
+            "id": 18353,
+            "answer": "Nein, schliesslich verdienen Frauen noch immer weniger als Männer.",
+            "votes": 1255,
+            "order": 1
+        }
+    ]
+}

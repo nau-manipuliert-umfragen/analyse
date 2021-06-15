@@ -1,0 +1,25 @@
+{
+    "id": 7008,
+    "question": "Kann Lausanne den Meister in den beiden Partien ärgern?",
+    "created_at": "2021-02-03T14:11:05+00:00",
+    "updated_at": "2021-06-14T09:38:25+00:00",
+    "end_at": null,
+    "comment_group_id": 2006001,
+    "published_at": "2021-02-06T09:34:06+00:00",
+    "display_name": "",
+    "total": 314,
+    "answers": [
+        {
+            "id": 16186,
+            "answer": "Ja, es bieten sich ja gleich zwei Chancen!",
+            "votes": 65,
+            "order": 0
+        },
+        {
+            "id": 16187,
+            "answer": "Nein, das wird nicht reichen.",
+            "votes": 249,
+            "order": 1
+        }
+    ]
+}

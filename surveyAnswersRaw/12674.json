@@ -1,0 +1,25 @@
+{
+    "id": 5415,
+    "question": "Erkämpft sich Özil bei Arsenal wieder einen Stammplatz?",
+    "created_at": "2020-09-10T11:15:49+00:00",
+    "updated_at": "2021-06-14T09:37:12+00:00",
+    "end_at": null,
+    "comment_group_id": 1793121,
+    "published_at": "2020-10-09T08:28:01+00:00",
+    "display_name": "",
+    "total": 348,
+    "answers": [
+        {
+            "id": 12674,
+            "answer": "Ja, Qualität setzt sich immer durch.",
+            "votes": 50,
+            "order": 0
+        },
+        {
+            "id": 12675,
+            "answer": "Nein, der will doch nur die Kohle ...",
+            "votes": 298,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 8202,
+    "question": "Glauben Sie Meghans Geschichte?",
+    "created_at": "2021-03-22T11:09:25+00:00",
+    "updated_at": "2021-06-14T09:39:26+00:00",
+    "end_at": null,
+    "comment_group_id": 2073868,
+    "published_at": "2021-03-23T07:12:53+00:00",
+    "display_name": "",
+    "total": 2952,
+    "answers": [
+        {
+            "id": 18799,
+            "answer": "Nein, auf der Urkunde steht es ja klipp und klar!",
+            "votes": 2552,
+            "order": 0
+        },
+        {
+            "id": 18798,
+            "answer": "Ja, da wird nur wieder gegen sie gestichelt.",
+            "votes": 400,
+            "order": 1
+        }
+    ]
+}

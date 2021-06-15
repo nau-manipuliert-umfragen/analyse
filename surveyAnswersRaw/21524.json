@@ -1,0 +1,31 @@
+{
+    "id": 9486,
+    "question": "Haben Sie bereits einen Impftermin?",
+    "created_at": "2021-05-17T09:31:30+00:00",
+    "updated_at": "2021-06-14T09:40:37+00:00",
+    "end_at": null,
+    "comment_group_id": 2161021,
+    "published_at": "2021-05-18T09:30:30+00:00",
+    "display_name": "",
+    "total": 1117,
+    "answers": [
+        {
+            "id": 21526,
+            "answer": "Ja, ich bin schon oder werde noch geimpft.",
+            "votes": 653,
+            "order": 0
+        },
+        {
+            "id": 21525,
+            "answer": "Nein, ich warte immer noch auf einen Termin.",
+            "votes": 220,
+            "order": 1
+        },
+        {
+            "id": 21524,
+            "answer": "Ich will mich nicht impfen lassen.",
+            "votes": 244,
+            "order": 2
+        }
+    ]
+}

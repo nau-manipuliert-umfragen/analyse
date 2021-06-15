@@ -1,0 +1,25 @@
+{
+    "id": 7340,
+    "question": "Die Strecke baut zunehmend ab. Ist so ein Rennen noch fair?",
+    "created_at": "2021-02-16T14:37:24+00:00",
+    "updated_at": "2021-06-14T09:38:42+00:00",
+    "end_at": null,
+    "comment_group_id": 2024796,
+    "published_at": "2021-02-16T14:54:53+00:00",
+    "display_name": "",
+    "total": 1604,
+    "answers": [
+        {
+            "id": 16939,
+            "answer": "Nein, das hat doch nichts mehr mit Skisport zu tun.",
+            "votes": 1468,
+            "order": 0
+        },
+        {
+            "id": 16940,
+            "answer": "Ja, die Ausgangslage ist doch für alle gleich.",
+            "votes": 136,
+            "order": 1
+        }
+    ]
+}

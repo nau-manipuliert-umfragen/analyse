@@ -1,0 +1,25 @@
+{
+    "id": 5232,
+    "question": "Ist Ihnen der fehlende Ball-Druck im Final der Champions League aufgefallen?",
+    "created_at": "2020-08-24T06:07:42+00:00",
+    "updated_at": "2021-06-14T09:37:05+00:00",
+    "end_at": null,
+    "comment_group_id": 1762608,
+    "published_at": "2020-08-24T07:06:30+00:00",
+    "display_name": "",
+    "total": 241,
+    "answers": [
+        {
+            "id": 12270,
+            "answer": "Ja, das war offensichtlich!",
+            "votes": 117,
+            "order": 0
+        },
+        {
+            "id": 12271,
+            "answer": "Nein",
+            "votes": 124,
+            "order": 1
+        }
+    ]
+}

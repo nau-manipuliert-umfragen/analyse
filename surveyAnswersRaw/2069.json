@@ -1,0 +1,43 @@
+{
+    "id": 755,
+    "question": "Welchen Titel würden Sie Rafael Nadal verleihen?",
+    "created_at": "2018-04-23T11:17:26+00:00",
+    "updated_at": "2021-06-14T09:34:04+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 124,
+    "answers": [
+        {
+            "id": 2066,
+            "answer": "Sand-Papst",
+            "votes": 22,
+            "order": 100
+        },
+        {
+            "id": 2069,
+            "answer": "Sand-Gott",
+            "votes": 31,
+            "order": 100
+        },
+        {
+            "id": 2072,
+            "answer": "Sand-Imperator",
+            "votes": 27,
+            "order": 100
+        },
+        {
+            "id": 2075,
+            "answer": "Sand-Häuptling",
+            "votes": 21,
+            "order": 100
+        },
+        {
+            "id": 2078,
+            "answer": "Sand-Kaiser",
+            "votes": 23,
+            "order": 100
+        }
+    ]
+}

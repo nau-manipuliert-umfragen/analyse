@@ -1,0 +1,43 @@
+{
+    "id": 3506,
+    "question": "Welcher Tätigkeit widmet sich James Milner in der Corona-Pause als nächstes?",
+    "created_at": "2020-03-18T07:45:11+00:00",
+    "updated_at": "2021-06-14T09:35:54+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 183,
+    "answers": [
+        {
+            "id": 8522,
+            "answer": "Er zählt Autos",
+            "votes": 24,
+            "order": 0
+        },
+        {
+            "id": 8523,
+            "answer": "Er spielt das Videospiel «Cookie Clicker»",
+            "votes": 24,
+            "order": 1
+        },
+        {
+            "id": 8530,
+            "answer": "Er reinigt den Fussboden mit einer Zahnbürste",
+            "votes": 68,
+            "order": 2
+        },
+        {
+            "id": 8531,
+            "answer": "Er spielt eine Runde Monopoly",
+            "votes": 24,
+            "order": 3
+        },
+        {
+            "id": 8532,
+            "answer": "Er findet etwas anderes, um sich die Zeit zu vertreiben",
+            "votes": 43,
+            "order": 4
+        }
+    ]
+}

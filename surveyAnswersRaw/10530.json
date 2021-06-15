@@ -1,0 +1,25 @@
+{
+    "id": 4433,
+    "question": "Würden Sie bei 15 Grad ins Wasser springen?",
+    "created_at": "2020-06-02T08:54:39+00:00",
+    "updated_at": "2020-06-03T08:54:02+00:00",
+    "end_at": "2020-06-03T08:54:35+00:00",
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 548,
+    "answers": [
+        {
+            "id": 10530,
+            "answer": "Ja, das ist gut für die Durchblutung.",
+            "votes": 233,
+            "order": 0
+        },
+        {
+            "id": 10529,
+            "answer": "Nur im Neopren-Anzug!",
+            "votes": 315,
+            "order": 1
+        }
+    ]
+}

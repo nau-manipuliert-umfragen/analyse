@@ -1,0 +1,25 @@
+{
+    "id": 2643,
+    "question": "Schafft Alexander Zverev an den Australian Open 2020 seinen ersten Grand-Slam-Sieg?",
+    "created_at": "2020-01-21T14:03:08+00:00",
+    "updated_at": "2021-06-14T10:21:30+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 74,
+    "answers": [
+        {
+            "id": 6622,
+            "answer": "Ja, jetzt spielt er schliesslich auch für einen guten Zweck.",
+            "votes": 38,
+            "order": 0
+        },
+        {
+            "id": 6623,
+            "answer": "Nein, bei Zverev passt derzeit nicht viel zusammen.",
+            "votes": 36,
+            "order": 1
+        }
+    ]
+}

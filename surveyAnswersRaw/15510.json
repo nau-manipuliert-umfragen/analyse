@@ -1,0 +1,25 @@
+{
+    "id": 6701,
+    "question": "Soll die Ski-WM stattfinden?",
+    "created_at": "2021-01-18T09:01:02+00:00",
+    "updated_at": "2021-06-14T09:38:11+00:00",
+    "end_at": null,
+    "comment_group_id": 1981966,
+    "published_at": null,
+    "display_name": "",
+    "total": 333,
+    "answers": [
+        {
+            "id": 15511,
+            "answer": "Ja",
+            "votes": 123,
+            "order": 0
+        },
+        {
+            "id": 15510,
+            "answer": "Nein",
+            "votes": 210,
+            "order": 1
+        }
+    ]
+}

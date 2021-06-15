@@ -1,0 +1,25 @@
+{
+    "id": 8349,
+    "question": "Haben Sie auch ab und zu Kontakt mit der Polizei?",
+    "created_at": "2021-03-28T07:10:31+00:00",
+    "updated_at": "2021-06-14T09:39:34+00:00",
+    "end_at": null,
+    "comment_group_id": 2082325,
+    "published_at": "2021-03-28T07:35:26+00:00",
+    "display_name": "",
+    "total": 499,
+    "answers": [
+        {
+            "id": 19115,
+            "answer": "Nein, ich habe eine weisse Weste!",
+            "votes": 367,
+            "order": 0
+        },
+        {
+            "id": 19114,
+            "answer": "Ja, leider!",
+            "votes": 132,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 9592,
+    "question": "Was halten Sie von der Kritik des Gesundheitsministers?",
+    "created_at": "2021-05-21T08:02:54+00:00",
+    "updated_at": "2021-06-14T09:40:44+00:00",
+    "end_at": null,
+    "comment_group_id": 2168692,
+    "published_at": "2021-05-21T08:04:00+00:00",
+    "display_name": "",
+    "total": 936,
+    "answers": [
+        {
+            "id": 21756,
+            "answer": "Sehr ehrlich, finde ich gut.",
+            "votes": 299,
+            "order": 0
+        },
+        {
+            "id": 21755,
+            "answer": "Total daneben, Alain Berset schiebt die Schuld anderen in die Schuhe.",
+            "votes": 637,
+            "order": 1
+        }
+    ]
+}

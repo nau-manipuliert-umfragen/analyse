@@ -1,0 +1,31 @@
+{
+    "id": 4018,
+    "question": "Was kann Robert Kubica in der DTM erreichen?",
+    "created_at": "2020-04-27T06:30:14+00:00",
+    "updated_at": "2021-06-14T09:36:15+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 101,
+    "answers": [
+        {
+            "id": 9618,
+            "answer": "Keine Frage, das ist ein Siegfahrer!",
+            "votes": 28,
+            "order": 0
+        },
+        {
+            "id": 9620,
+            "answer": "Für den einen oder anderen Spitzenplatz wird es reichen",
+            "votes": 35,
+            "order": 1
+        },
+        {
+            "id": 9619,
+            "answer": "Das wird leider kein erfolgreiches Kapitel...",
+            "votes": 38,
+            "order": 2
+        }
+    ]
+}

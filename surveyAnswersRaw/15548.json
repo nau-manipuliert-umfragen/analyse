@@ -1,0 +1,25 @@
+{
+    "id": 6719,
+    "question": "Verliert Breel Embolo jetzt seinen Stammplatz in Gladbach?",
+    "created_at": "2021-01-19T05:50:54+00:00",
+    "updated_at": "2021-06-14T09:38:12+00:00",
+    "end_at": null,
+    "comment_group_id": 1983253,
+    "published_at": "2021-01-20T08:46:09+00:00",
+    "display_name": "",
+    "total": 1345,
+    "answers": [
+        {
+            "id": 15549,
+            "answer": "Nein, er ist zu wichtig für das Team!",
+            "votes": 462,
+            "order": 0
+        },
+        {
+            "id": 15548,
+            "answer": "Ja – und er ist selber schuld.",
+            "votes": 883,
+            "order": 1
+        }
+    ]
+}

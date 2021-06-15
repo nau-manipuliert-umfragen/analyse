@@ -1,0 +1,25 @@
+{
+    "id": 6034,
+    "question": "Sind Pietro Lombardis Fremdgeh-Kriterien gerechtfertigt?",
+    "created_at": "2020-11-13T09:22:14+00:00",
+    "updated_at": "2021-06-14T09:37:41+00:00",
+    "end_at": null,
+    "comment_group_id": 1896858,
+    "published_at": "2020-11-15T07:58:49+00:00",
+    "display_name": "",
+    "total": 2264,
+    "answers": [
+        {
+            "id": 14033,
+            "answer": "Klar, sehe ich auch so!",
+            "votes": 1697,
+            "order": 0
+        },
+        {
+            "id": 14034,
+            "answer": "Nein, der übertreibt mal wieder komplett.",
+            "votes": 567,
+            "order": 1
+        }
+    ]
+}

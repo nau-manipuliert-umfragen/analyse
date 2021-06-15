@@ -1,0 +1,25 @@
+{
+    "id": 5826,
+    "question": "Valentino Rossi besuchte eine Geburi-Party – was halten Sie davon?",
+    "created_at": "2020-10-22T12:10:07+00:00",
+    "updated_at": "2021-06-14T09:37:29+00:00",
+    "end_at": null,
+    "comment_group_id": 1863072,
+    "published_at": "2020-10-22T17:00:28+00:00",
+    "display_name": "",
+    "total": 217,
+    "answers": [
+        {
+            "id": 13576,
+            "answer": "Das gehört sich in Corona-Zeiten nicht.",
+            "votes": 100,
+            "order": 0
+        },
+        {
+            "id": 13577,
+            "answer": "Alles okay – mit der Freundin darf man wohl noch mitfeiern!?",
+            "votes": 117,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "id": 8747,
+    "question": "Halten Sie SP-Mann für die richtige Wahl?",
+    "created_at": "2021-04-14T10:39:49+00:00",
+    "updated_at": "2021-04-15T07:23:30+00:00",
+    "end_at": "2021-04-15T10:39:45+00:00",
+    "comment_group_id": 2106874,
+    "published_at": "2021-04-14T11:51:06+00:00",
+    "display_name": "",
+    "total": 220,
+    "answers": [
+        {
+            "id": 19938,
+            "answer": "Ja, als ehemaliger Post-Gewerkschafter kennt er die Probleme.",
+            "votes": 53,
+            "order": 0
+        },
+        {
+            "id": 19939,
+            "answer": "Nein, ihm fehlt die Erfahrung in der Wirtschaft.",
+            "votes": 126,
+            "order": 1
+        },
+        {
+            "id": 19937,
+            "answer": "Man sollte die Rolle des Präsidenten nicht überschätzen.",
+            "votes": 41,
+            "order": 2
+        }
+    ]
+}

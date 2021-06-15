@@ -1,0 +1,25 @@
+{
+    "id": 5088,
+    "question": "Ist der BVB-Umbruch der Grund für die Dominanz der Bayern?",
+    "created_at": "2020-08-07T08:18:34+00:00",
+    "updated_at": "2021-06-14T09:36:59+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 88,
+    "answers": [
+        {
+            "id": 11961,
+            "answer": "Ja",
+            "votes": 54,
+            "order": 0
+        },
+        {
+            "id": 11960,
+            "answer": "Nein",
+            "votes": 34,
+            "order": 1
+        }
+    ]
+}

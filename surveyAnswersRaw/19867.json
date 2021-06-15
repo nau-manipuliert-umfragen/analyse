@@ -1,0 +1,25 @@
+{
+    "id": 8715,
+    "question": "Werden Sie sich die Website zu Ghislaine Maxwell ansehen?",
+    "created_at": "2021-04-13T09:32:38+00:00",
+    "updated_at": "2021-06-14T09:39:53+00:00",
+    "end_at": null,
+    "comment_group_id": 2105227,
+    "published_at": "2021-04-13T11:40:20+00:00",
+    "display_name": "",
+    "total": 285,
+    "answers": [
+        {
+            "id": 19867,
+            "answer": "Nein, ich schenke ihr diese Aufmerksamkeit nicht!",
+            "votes": 202,
+            "order": 0
+        },
+        {
+            "id": 19868,
+            "answer": "Ja, ich möchte sehen was sie Angehörigen zu sagen haben.",
+            "votes": 83,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 3132,
+    "question": "Muss sich Loïc Meillard für seinen Freizeit-Unfall Leichtsinnigkeit vorwerfen?",
+    "created_at": "2020-02-21T13:20:10+00:00",
+    "updated_at": "2021-06-14T09:35:38+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 446,
+    "answers": [
+        {
+            "id": 7695,
+            "answer": "Nein, er hatte einfach Pech. So etwas kann überall passieren.",
+            "votes": 359,
+            "order": 0
+        },
+        {
+            "id": 7694,
+            "answer": "Ja, das war leichtsinnig und unbedacht.",
+            "votes": 87,
+            "order": 1
+        }
+    ]
+}

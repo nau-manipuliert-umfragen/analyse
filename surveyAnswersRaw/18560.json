@@ -1,0 +1,25 @@
+{
+    "id": 8087,
+    "question": "Soll die Homeoffice-Pflicht in eine Empfehlung abgemildert werden?",
+    "created_at": "2021-03-17T16:21:55+00:00",
+    "updated_at": "2021-03-19T12:17:30+00:00",
+    "end_at": "2021-03-19T12:21:42+00:00",
+    "comment_group_id": 2067370,
+    "published_at": "2021-03-17T17:59:57+00:00",
+    "display_name": "",
+    "total": 3854,
+    "answers": [
+        {
+            "id": 18559,
+            "answer": "Ja, es machen eh nur diejenigen Homeoffice, wo das auch praktisch umsetzbar ist.",
+            "votes": 3007,
+            "order": 0
+        },
+        {
+            "id": 18560,
+            "answer": "Nein, lieber noch ein paar Wochen zuwarten, um auf der sicheren Seite zu sein.",
+            "votes": 847,
+            "order": 1
+        }
+    ]
+}

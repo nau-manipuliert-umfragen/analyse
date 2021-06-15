@@ -1,0 +1,31 @@
+{
+    "id": 5552,
+    "question": "Sollten Unternehmen auf TikTok Werbung machen?",
+    "created_at": "2020-09-25T09:22:58+00:00",
+    "updated_at": "2021-06-14T09:37:18+00:00",
+    "end_at": null,
+    "comment_group_id": 1818476,
+    "published_at": "2020-09-28T23:10:48+00:00",
+    "display_name": "",
+    "total": 78,
+    "answers": [
+        {
+            "id": 12980,
+            "answer": "Natürlich, dort kann man einen grossen Kundenkreis ansprechen.",
+            "votes": 32,
+            "order": 0
+        },
+        {
+            "id": 12979,
+            "answer": "Sicher nicht, das ist nur unseriös.",
+            "votes": 23,
+            "order": 1
+        },
+        {
+            "id": 12981,
+            "answer": "Die Nutzer auf TikTok sind wahrscheinlich nicht die Zielgruppe für so etwas.",
+            "votes": 23,
+            "order": 2
+        }
+    ]
+}

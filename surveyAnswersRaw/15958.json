@@ -1,0 +1,25 @@
+{
+    "id": 6907,
+    "question": "Würden Sie bei einer Kuppel-Show mitmachen?",
+    "created_at": "2021-01-29T15:40:02+00:00",
+    "updated_at": "2021-06-14T09:38:20+00:00",
+    "end_at": null,
+    "comment_group_id": 1999340,
+    "published_at": "2021-01-31T19:21:00+00:00",
+    "display_name": "",
+    "total": 1916,
+    "answers": [
+        {
+            "id": 15959,
+            "answer": "Ja, wäre spannend!",
+            "votes": 256,
+            "order": 0
+        },
+        {
+            "id": 15958,
+            "answer": "Nein, das wäre nichts für mich!",
+            "votes": 1660,
+            "order": 1
+        }
+    ]
+}

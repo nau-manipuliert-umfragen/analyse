@@ -1,0 +1,37 @@
+{
+    "id": 3816,
+    "question": "Ist Virgil van Dijk für Sie der beste Verteidiger der Welt?",
+    "created_at": "2020-04-09T06:52:24+00:00",
+    "updated_at": "2021-06-14T09:36:07+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 259,
+    "answers": [
+        {
+            "id": 9183,
+            "answer": "Ja",
+            "votes": 168,
+            "order": 0
+        },
+        {
+            "id": 9186,
+            "answer": "Nein, das ist Teamkollege Trent Alexander-Arnold",
+            "votes": 24,
+            "order": 1
+        },
+        {
+            "id": 9184,
+            "answer": "Nein, an Landsmann Matthijs de Ligt kommt er nicht vorbei",
+            "votes": 30,
+            "order": 2
+        },
+        {
+            "id": 9185,
+            "answer": "Stimmt alles nicht! Unser Manuel Akanji ist der beste",
+            "votes": 37,
+            "order": 3
+        }
+    ]
+}

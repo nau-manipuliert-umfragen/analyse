@@ -1,0 +1,25 @@
+{
+    "id": 4842,
+    "question": "Soll Xherdan Shaqiri bei Liverpool bleiben?",
+    "created_at": "2020-07-07T12:07:58+00:00",
+    "updated_at": "2021-06-14T09:36:49+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": "2020-08-16T12:25:39+00:00",
+    "display_name": "",
+    "total": 1731,
+    "answers": [
+        {
+            "id": 11406,
+            "answer": "Nein, er muss jetzt spielen.",
+            "votes": 1149,
+            "order": 0
+        },
+        {
+            "id": 11407,
+            "answer": "Ja, besser wird es nirgendwo.",
+            "votes": 582,
+            "order": 1
+        }
+    ]
+}

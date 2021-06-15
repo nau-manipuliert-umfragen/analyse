@@ -1,0 +1,25 @@
+{
+    "id": 4478,
+    "question": "Ist der FC Chelsea für Timo Werner die richtige Station?",
+    "created_at": "2020-06-04T18:28:15+00:00",
+    "updated_at": "2021-06-14T09:36:36+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 140,
+    "answers": [
+        {
+            "id": 10626,
+            "answer": "Ja",
+            "votes": 65,
+            "order": 0
+        },
+        {
+            "id": 10625,
+            "answer": "Nein",
+            "votes": 75,
+            "order": 1
+        }
+    ]
+}

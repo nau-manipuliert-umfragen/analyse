@@ -1,0 +1,25 @@
+{
+    "id": 5095,
+    "question": "Stimmen Sie Pascal Zuberbühler zu?",
+    "created_at": "2020-08-07T13:53:36+00:00",
+    "updated_at": "2021-06-14T09:37:00+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 155,
+    "answers": [
+        {
+            "id": 11977,
+            "answer": "Ja",
+            "votes": 50,
+            "order": 0
+        },
+        {
+            "id": 11978,
+            "answer": "Nein",
+            "votes": 105,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 9061,
+    "question": "Haben auch Sie, wie Christian Gross, am liebsten Schweizer Schokolade?",
+    "created_at": "2021-04-28T10:32:02+00:00",
+    "updated_at": "2021-06-14T10:26:34+00:00",
+    "end_at": null,
+    "comment_group_id": 2129161,
+    "published_at": null,
+    "display_name": "",
+    "total": 43,
+    "answers": [
+        {
+            "id": 20614,
+            "answer": "Ja, natürlich!",
+            "votes": 22,
+            "order": 0
+        },
+        {
+            "id": 20615,
+            "answer": "Nein, Schokolade aus dem Ausland schmeckt genauso gut.",
+            "votes": 21,
+            "order": 1
+        }
+    ]
+}

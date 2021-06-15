@@ -1,0 +1,25 @@
+{
+    "id": 4088,
+    "question": "Was halten Sie von Oliver Pochers Anne-Wünsche-Aktion?",
+    "created_at": "2020-05-01T11:15:22+00:00",
+    "updated_at": "2021-06-14T10:22:36+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 465,
+    "answers": [
+        {
+            "id": 9764,
+            "answer": "Irgendwann ist es dann auch mal genug. Lustig ist es schon lange nicht mehr.",
+            "votes": 233,
+            "order": 0
+        },
+        {
+            "id": 9763,
+            "answer": "Weiter, immer weiter. Endlich nimmt diese Influencer mal einer auseinander.",
+            "votes": 232,
+            "order": 1
+        }
+    ]
+}

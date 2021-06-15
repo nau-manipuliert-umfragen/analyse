@@ -1,0 +1,25 @@
+{
+    "id": 5619,
+    "question": "Haben Sie das erste Final-Spiel in der NBA verfolgt?",
+    "created_at": "2020-10-02T12:50:50+00:00",
+    "updated_at": "2020-10-02T14:28:55+00:00",
+    "end_at": "2020-10-02T12:50:49+00:00",
+    "comment_group_id": 1830520,
+    "published_at": "2020-10-02T14:28:54+00:00",
+    "display_name": "",
+    "total": 40,
+    "answers": [
+        {
+            "id": 13124,
+            "answer": "Ja",
+            "votes": 20,
+            "order": 0
+        },
+        {
+            "id": 13123,
+            "answer": "Nein",
+            "votes": 20,
+            "order": 1
+        }
+    ]
+}

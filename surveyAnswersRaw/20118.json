@@ -1,0 +1,25 @@
+{
+    "id": 8831,
+    "question": "Was halten Sie von der Gründung der «Super League»?",
+    "created_at": "2021-04-19T06:34:14+00:00",
+    "updated_at": "2021-06-14T09:39:59+00:00",
+    "end_at": null,
+    "comment_group_id": 2113458,
+    "published_at": "2021-04-19T14:16:03+00:00",
+    "display_name": "",
+    "total": 582,
+    "answers": [
+        {
+            "id": 20118,
+            "answer": "Finde ich gut.",
+            "votes": 91,
+            "order": 0
+        },
+        {
+            "id": 20117,
+            "answer": "Milde gesagt: Das gefällt mir nicht.",
+            "votes": 491,
+            "order": 1
+        }
+    ]
+}

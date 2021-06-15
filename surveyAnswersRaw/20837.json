@@ -1,0 +1,25 @@
+{
+    "id": 9162,
+    "question": "Sollte es Personengrenzen für Shoppingcenter geben?",
+    "created_at": "2021-05-03T08:32:25+00:00",
+    "updated_at": "2021-06-14T09:40:20+00:00",
+    "end_at": null,
+    "comment_group_id": 2137196,
+    "published_at": "2021-05-04T15:31:24+00:00",
+    "display_name": "",
+    "total": 785,
+    "answers": [
+        {
+            "id": 20838,
+            "answer": "Ja, so würde ich mich viel sicherer fühlen.",
+            "votes": 497,
+            "order": 0
+        },
+        {
+            "id": 20837,
+            "answer": "Nein, da müsste man ja stundenlang vor dem Tivoli Schlange stehen.",
+            "votes": 288,
+            "order": 1
+        }
+    ]
+}

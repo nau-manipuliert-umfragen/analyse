@@ -1,0 +1,37 @@
+{
+    "id": 70,
+    "question": "Welcher Gegner soll es werden?",
+    "created_at": "2017-10-10T21:04:21+00:00",
+    "updated_at": "2021-06-14T10:16:44+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 97,
+    "answers": [
+        {
+            "id": 177,
+            "answer": "Nordirland",
+            "votes": 26,
+            "order": 100
+        },
+        {
+            "id": 179,
+            "answer": "Griechenland",
+            "votes": 26,
+            "order": 100
+        },
+        {
+            "id": 180,
+            "answer": "Schweden",
+            "votes": 22,
+            "order": 100
+        },
+        {
+            "id": 182,
+            "answer": "Irland",
+            "votes": 23,
+            "order": 100
+        }
+    ]
+}

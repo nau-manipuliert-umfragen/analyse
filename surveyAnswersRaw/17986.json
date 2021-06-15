@@ -1,0 +1,25 @@
+{
+    "id": 7810,
+    "question": "Gewinnt Marco Odermatt den Gesamtweltcup?",
+    "created_at": "2021-03-07T10:07:01+00:00",
+    "updated_at": "2021-06-14T09:39:04+00:00",
+    "end_at": null,
+    "comment_group_id": 2051642,
+    "published_at": "2021-03-07T10:33:38+00:00",
+    "display_name": "",
+    "total": 381,
+    "answers": [
+        {
+            "id": 17986,
+            "answer": "Ja",
+            "votes": 262,
+            "order": 0
+        },
+        {
+            "id": 17985,
+            "answer": "Nein",
+            "votes": 119,
+            "order": 1
+        }
+    ]
+}

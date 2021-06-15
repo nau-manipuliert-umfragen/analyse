@@ -1,0 +1,25 @@
+{
+    "id": 3425,
+    "question": "Schafft der FC Basel den Einzug ins Viertelfinal?",
+    "created_at": "2020-03-11T16:57:05+00:00",
+    "updated_at": "2021-06-14T09:35:51+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 183,
+    "answers": [
+        {
+            "id": 8354,
+            "answer": "Ja, der FCB geht eine Runde weiter.",
+            "votes": 118,
+            "order": 0
+        },
+        {
+            "id": 8355,
+            "answer": "Nein, die Frankfurter sind eine Nummer zu gross.",
+            "votes": 65,
+            "order": 1
+        }
+    ]
+}

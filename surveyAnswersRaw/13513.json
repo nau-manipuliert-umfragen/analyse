@@ -1,0 +1,19 @@
+{
+    "id": 5797,
+    "question": "Sollten Bundesräte und Beamte bei öffentlichen Auftritten eine Maske tragen?",
+    "created_at": "2020-10-20T08:55:00+00:00",
+    "updated_at": "2020-10-20T08:55:00+00:00",
+    "end_at": "2020-10-20T08:54:55+00:00",
+    "comment_group_id": 1858793,
+    "published_at": null,
+    "display_name": "",
+    "total": 20,
+    "answers": [
+        {
+            "id": 13513,
+            "answer": "Nein, das Ganze wird langsam absurd. Wenn Abstände gegeben sind, braucht es keine Masken.",
+            "votes": 20,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 8491,
+    "question": "Welcher Ferientyp sind Sie?",
+    "created_at": "2021-04-03T10:45:51+00:00",
+    "updated_at": "2021-06-14T09:39:42+00:00",
+    "end_at": null,
+    "comment_group_id": 2090980,
+    "published_at": "2021-04-03T19:10:45+00:00",
+    "display_name": "",
+    "total": 389,
+    "answers": [
+        {
+            "id": 19408,
+            "answer": "Ich bin definitiv Team Zelt!",
+            "votes": 214,
+            "order": 0
+        },
+        {
+            "id": 19409,
+            "answer": "Ich bevorzuge Strandferien im 5-Sterne-Hotel.",
+            "votes": 175,
+            "order": 1
+        }
+    ]
+}

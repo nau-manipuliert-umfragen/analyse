@@ -1,0 +1,25 @@
+{
+    "id": 7231,
+    "question": "Denken Sie, dass die Schweiz bald von einer dritten Welle heimgesucht wird?",
+    "created_at": "2021-02-12T08:00:43+00:00",
+    "updated_at": "2021-06-14T09:38:37+00:00",
+    "end_at": null,
+    "comment_group_id": 2018647,
+    "published_at": "2021-02-12T08:41:13+00:00",
+    "display_name": "",
+    "total": 828,
+    "answers": [
+        {
+            "id": 16690,
+            "answer": "Leider ja, das befürchte ich ganz stark.",
+            "votes": 328,
+            "order": 0
+        },
+        {
+            "id": 16689,
+            "answer": "Nein, diesmal können wir eine erneute Welle abwenden.",
+            "votes": 500,
+            "order": 1
+        }
+    ]
+}

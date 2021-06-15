@@ -1,0 +1,43 @@
+{
+    "id": 9532,
+    "question": "Wer wird neuer Trainer bei YB?",
+    "created_at": "2021-05-19T06:50:24+00:00",
+    "updated_at": "2021-06-14T09:40:41+00:00",
+    "end_at": null,
+    "comment_group_id": 2164585,
+    "published_at": "2021-05-21T17:23:24+00:00",
+    "display_name": "",
+    "total": 3453,
+    "answers": [
+        {
+            "id": 21628,
+            "answer": "Mario Frick",
+            "votes": 350,
+            "order": 0
+        },
+        {
+            "id": 21626,
+            "answer": "Fabio Celestini",
+            "votes": 271,
+            "order": 1
+        },
+        {
+            "id": 21625,
+            "answer": "Bruno Berner",
+            "votes": 1259,
+            "order": 2
+        },
+        {
+            "id": 21624,
+            "answer": "Matteo Vanetta",
+            "votes": 175,
+            "order": 3
+        },
+        {
+            "id": 21627,
+            "answer": "Mister X",
+            "votes": 1398,
+            "order": 4
+        }
+    ]
+}

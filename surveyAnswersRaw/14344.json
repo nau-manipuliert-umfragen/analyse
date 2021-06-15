@@ -1,0 +1,25 @@
+{
+    "id": 6170,
+    "question": "War Maradona der grösste Fussballer aller Zeiten?",
+    "created_at": "2020-11-27T08:33:48+00:00",
+    "updated_at": "2021-06-14T09:37:48+00:00",
+    "end_at": null,
+    "comment_group_id": 1916309,
+    "published_at": "2020-12-01T19:02:02+00:00",
+    "display_name": "",
+    "total": 2745,
+    "answers": [
+        {
+            "id": 14344,
+            "answer": "Ja",
+            "votes": 1277,
+            "order": 0
+        },
+        {
+            "id": 14345,
+            "answer": "Nein",
+            "votes": 1468,
+            "order": 1
+        }
+    ]
+}

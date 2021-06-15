@@ -1,0 +1,25 @@
+{
+    "id": 6102,
+    "question": "Wird Youssoufa Moukokos in der Bundesliga durchstarten?",
+    "created_at": "2020-11-19T09:55:35+00:00",
+    "updated_at": "2021-06-14T09:37:44+00:00",
+    "end_at": null,
+    "comment_group_id": 1903914,
+    "published_at": "2020-11-20T14:09:29+00:00",
+    "display_name": "",
+    "total": 223,
+    "answers": [
+        {
+            "id": 14192,
+            "answer": "Ja, der Junge ist Weltklasse!",
+            "votes": 117,
+            "order": 0
+        },
+        {
+            "id": 14191,
+            "answer": "Nein, zu viel Hype um einen 16-Jährigen.",
+            "votes": 106,
+            "order": 1
+        }
+    ]
+}

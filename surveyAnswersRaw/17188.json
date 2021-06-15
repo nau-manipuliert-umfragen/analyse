@@ -1,0 +1,25 @@
+{
+    "id": 7450,
+    "question": "Haben Sie die Scheidung kommen sehen?",
+    "created_at": "2021-02-19T21:17:44+00:00",
+    "updated_at": "2021-06-14T09:38:47+00:00",
+    "end_at": null,
+    "comment_group_id": 2030375,
+    "published_at": "2021-02-19T21:23:00+00:00",
+    "display_name": "",
+    "total": 249,
+    "answers": [
+        {
+            "id": 17188,
+            "answer": "Sicher! Anders konnte es ja nicht kommen.",
+            "votes": 186,
+            "order": 0
+        },
+        {
+            "id": 17189,
+            "answer": "Natürlich hatten Kim und Kanye ihre Probleme... Aber das es gleich so weit kommt?",
+            "votes": 63,
+            "order": 1
+        }
+    ]
+}

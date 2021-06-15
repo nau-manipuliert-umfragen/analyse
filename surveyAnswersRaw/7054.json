@@ -1,0 +1,25 @@
+{
+    "id": 2843,
+    "question": "Was halten Sie vom Capela-Trade?",
+    "created_at": "2020-02-05T06:18:53+00:00",
+    "updated_at": "2021-06-14T09:35:24+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 113,
+    "answers": [
+        {
+            "id": 7054,
+            "answer": "Das gehört zum Geschäft, damit muss er umgehen.",
+            "votes": 46,
+            "order": 0
+        },
+        {
+            "id": 7055,
+            "answer": "Bitter für den Schweizer, damit schwinden alle Titelhoffnungen.",
+            "votes": 67,
+            "order": 1
+        }
+    ]
+}

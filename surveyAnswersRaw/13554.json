@@ -1,0 +1,25 @@
+{
+    "id": 5815,
+    "question": "Befürworten Sie weitere staatliche Hilfsmassnahmen für Corona-betroffene Firmen und Betriebe?",
+    "created_at": "2020-10-21T13:32:01+00:00",
+    "updated_at": "2021-06-14T09:37:28+00:00",
+    "end_at": null,
+    "comment_group_id": 1861209,
+    "published_at": "2020-10-22T04:30:42+00:00",
+    "display_name": "",
+    "total": 1109,
+    "answers": [
+        {
+            "id": 13554,
+            "answer": "Ja, sonst gibt's Hunderttausende Arbeitslose.",
+            "votes": 649,
+            "order": 0
+        },
+        {
+            "id": 13553,
+            "answer": "Nein, irgendwann muss fertig sein damit, Steuergelder auszugeben.",
+            "votes": 460,
+            "order": 1
+        }
+    ]
+}

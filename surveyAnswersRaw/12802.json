@@ -1,0 +1,25 @@
+{
+    "id": 5470,
+    "question": "Holen die Bayern auch in diesem Jahr den Bundesliga-Meistertitel?",
+    "created_at": "2020-09-16T15:51:32+00:00",
+    "updated_at": "2021-06-14T09:37:15+00:00",
+    "end_at": null,
+    "comment_group_id": 1803812,
+    "published_at": "2020-09-19T06:36:11+00:00",
+    "display_name": "",
+    "total": 409,
+    "answers": [
+        {
+            "id": 12802,
+            "answer": "Ja.",
+            "votes": 316,
+            "order": 0
+        },
+        {
+            "id": 12803,
+            "answer": "Nein.",
+            "votes": 93,
+            "order": 1
+        }
+    ]
+}

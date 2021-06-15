@@ -1,0 +1,25 @@
+{
+    "id": 8026,
+    "question": "Was halten Sie vom heissen Gerücht um Alex Frei und dem FC Sion?",
+    "created_at": "2021-03-15T17:02:04+00:00",
+    "updated_at": "2021-06-14T09:39:16+00:00",
+    "end_at": null,
+    "comment_group_id": 2064123,
+    "published_at": "2021-03-16T06:22:42+00:00",
+    "display_name": "",
+    "total": 839,
+    "answers": [
+        {
+            "id": 18434,
+            "answer": "Das könnte passen!",
+            "votes": 302,
+            "order": 0
+        },
+        {
+            "id": 18433,
+            "answer": "Alex Frei landet sicher nicht bei Sion.",
+            "votes": 537,
+            "order": 1
+        }
+    ]
+}

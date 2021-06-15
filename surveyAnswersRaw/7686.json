@@ -1,0 +1,25 @@
+{
+    "id": 3128,
+    "question": "Sind die GNTM-Models wirklich so untalentiert?",
+    "created_at": "2020-02-21T11:48:37+00:00",
+    "updated_at": "2021-06-14T09:35:38+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 151,
+    "answers": [
+        {
+            "id": 7687,
+            "answer": "Ja, früher waren die Models besser.",
+            "votes": 93,
+            "order": 0
+        },
+        {
+            "id": 7686,
+            "answer": "Nein, Heidi hat Tomaten auf den Augen.",
+            "votes": 58,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 5062,
+    "question": "Wäre Kilian Wenger ein guter Boxer geworden?",
+    "created_at": "2020-08-04T14:48:09+00:00",
+    "updated_at": "2021-06-14T09:36:58+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 175,
+    "answers": [
+        {
+            "id": 11903,
+            "answer": "Ja klar, mit diesem Körperbau!",
+            "votes": 71,
+            "order": 0
+        },
+        {
+            "id": 11902,
+            "answer": "Nein, er ist der geborene Schwinger.",
+            "votes": 104,
+            "order": 1
+        }
+    ]
+}

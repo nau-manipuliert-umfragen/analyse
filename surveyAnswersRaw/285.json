@@ -1,0 +1,25 @@
+{
+    "id": 121,
+    "question": "Würden Sie gerne mit dem Nachtzug ökologischer und im Schlaf ans Ziel rollen?",
+    "created_at": "2017-11-02T13:50:58+00:00",
+    "updated_at": "2021-06-14T09:33:41+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 118,
+    "answers": [
+        {
+            "id": 285,
+            "answer": "Sehr gerne",
+            "votes": 96,
+            "order": 100
+        },
+        {
+            "id": 286,
+            "answer": "Lieber nicht",
+            "votes": 22,
+            "order": 100
+        }
+    ]
+}

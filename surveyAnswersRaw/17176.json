@@ -1,0 +1,25 @@
+{
+    "id": 7444,
+    "question": "Waren Sie schonmal in Dubai?",
+    "created_at": "2021-02-19T14:46:49+00:00",
+    "updated_at": "2021-06-14T09:38:47+00:00",
+    "end_at": null,
+    "comment_group_id": 2030013,
+    "published_at": "2021-02-20T15:55:36+00:00",
+    "display_name": "",
+    "total": 1108,
+    "answers": [
+        {
+            "id": 17175,
+            "answer": "Ja.",
+            "votes": 328,
+            "order": 0
+        },
+        {
+            "id": 17176,
+            "answer": "Nein.",
+            "votes": 780,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 9751,
+    "question": "Wie gefällt Ihnen der Gastbeitrag von Andermatt-Chef Raphael Krucker?",
+    "created_at": "2021-05-29T07:49:23+00:00",
+    "updated_at": "2021-06-14T09:40:53+00:00",
+    "end_at": null,
+    "comment_group_id": 2181398,
+    "published_at": "2021-05-29T11:00:14+00:00",
+    "display_name": "",
+    "total": 530,
+    "answers": [
+        {
+            "id": 22103,
+            "answer": "Gut!",
+            "votes": 218,
+            "order": 0
+        },
+        {
+            "id": 22104,
+            "answer": "Na ja.",
+            "votes": 312,
+            "order": 1
+        }
+    ]
+}

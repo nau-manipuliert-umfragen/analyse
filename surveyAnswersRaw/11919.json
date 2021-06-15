@@ -1,0 +1,25 @@
+{
+    "id": 5069,
+    "question": "Sind Sie auch der Meinung von Hoeness und Matthäus?",
+    "created_at": "2020-08-05T11:00:03+00:00",
+    "updated_at": "2021-06-14T10:23:22+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 43,
+    "answers": [
+        {
+            "id": 11920,
+            "answer": "Ja",
+            "votes": 22,
+            "order": 0
+        },
+        {
+            "id": 11919,
+            "answer": "Nein",
+            "votes": 21,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 6043,
+    "question": "Gelingt der Schweizer Nati heute der Befreiungsschlag gegen Spanien?",
+    "created_at": "2020-11-14T08:23:02+00:00",
+    "updated_at": "2021-06-14T09:37:42+00:00",
+    "end_at": null,
+    "comment_group_id": 1897918,
+    "published_at": "2020-11-14T11:53:27+00:00",
+    "display_name": "",
+    "total": 185,
+    "answers": [
+        {
+            "id": 14053,
+            "answer": "Ja, die Nati gewinnt!",
+            "votes": 66,
+            "order": 0
+        },
+        {
+            "id": 14054,
+            "answer": "Nein, Spanien ist zu stark.",
+            "votes": 119,
+            "order": 1
+        }
+    ]
+}

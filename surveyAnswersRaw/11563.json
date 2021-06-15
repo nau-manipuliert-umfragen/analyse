@@ -1,0 +1,25 @@
+{
+    "id": 4911,
+    "question": "Wäre ein Wechsel zum Aston-Martin-Team ein sinnvoller Schritt für Vettel?",
+    "created_at": "2020-07-15T07:33:09+00:00",
+    "updated_at": "2021-06-14T09:36:53+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 235,
+    "answers": [
+        {
+            "id": 11563,
+            "answer": "Ja, das wäre perfekt.",
+            "votes": 133,
+            "order": 0
+        },
+        {
+            "id": 11562,
+            "answer": "Nein, er soll den Zirkus verlassen!",
+            "votes": 102,
+            "order": 1
+        }
+    ]
+}

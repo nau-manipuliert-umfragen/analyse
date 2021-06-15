@@ -1,0 +1,37 @@
+{
+    "id": 5977,
+    "question": "Wer wird Schweizer Meister in dieser Saison?",
+    "created_at": "2020-11-07T10:49:13+00:00",
+    "updated_at": "2021-06-14T10:24:02+00:00",
+    "end_at": null,
+    "comment_group_id": 1889175,
+    "published_at": "2020-11-08T09:12:25+00:00",
+    "display_name": "",
+    "total": 263,
+    "answers": [
+        {
+            "id": 13910,
+            "answer": "YB holt sich den vierten Titel!",
+            "votes": 132,
+            "order": 0
+        },
+        {
+            "id": 13908,
+            "answer": "Basel krallt sich die Krone.",
+            "votes": 33,
+            "order": 1
+        },
+        {
+            "id": 13909,
+            "answer": "Der FCSG kommt noch.",
+            "votes": 77,
+            "order": 2
+        },
+        {
+            "id": 13932,
+            "answer": "Lugano wird zum Überraschungsmeister",
+            "votes": 21,
+            "order": 3
+        }
+    ]
+}

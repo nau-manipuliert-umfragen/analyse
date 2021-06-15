@@ -1,0 +1,25 @@
+{
+    "id": 2736,
+    "question": "Sollen Schulen die Anwesenheit ihrer Studenten digital überprüfen können?",
+    "created_at": "2020-01-29T09:19:27+00:00",
+    "updated_at": "2021-06-14T09:35:17+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 77,
+    "answers": [
+        {
+            "id": 6821,
+            "answer": "Ja, das kommt schliesslich den Studenten zugute.",
+            "votes": 33,
+            "order": 0
+        },
+        {
+            "id": 6820,
+            "answer": "Nein, das geht zu weit.",
+            "votes": 44,
+            "order": 1
+        }
+    ]
+}

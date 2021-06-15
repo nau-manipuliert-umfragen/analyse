@@ -1,0 +1,25 @@
+{
+    "id": 2769,
+    "question": "Verstehen Sie die Absage von Lindsey Vonn?",
+    "created_at": "2020-01-31T07:54:34+00:00",
+    "updated_at": "2021-06-14T09:35:19+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 483,
+    "answers": [
+        {
+            "id": 6890,
+            "answer": "Ja, Richard Lugner ist ein Grüsel",
+            "votes": 386,
+            "order": 0
+        },
+        {
+            "id": 6889,
+            "answer": "Nein, der Opernball ist doch ein tolles Event",
+            "votes": 97,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 6198,
+    "question": "Wie finden Sie «The Crown»?",
+    "created_at": "2020-12-01T09:00:35+00:00",
+    "updated_at": "2021-06-14T09:37:50+00:00",
+    "end_at": null,
+    "comment_group_id": 1922241,
+    "published_at": "2020-12-01T20:41:36+00:00",
+    "display_name": "",
+    "total": 481,
+    "answers": [
+        {
+            "id": 14410,
+            "answer": "Mega spannend!",
+            "votes": 290,
+            "order": 0
+        },
+        {
+            "id": 14411,
+            "answer": "Ich boykottiere die Sendung, mir tun die Royals leid.",
+            "votes": 191,
+            "order": 1
+        }
+    ]
+}

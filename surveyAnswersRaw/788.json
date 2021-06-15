@@ -1,0 +1,25 @@
+{
+    "id": 299,
+    "question": "Gehört der Cupfinal nach Bern?",
+    "created_at": "2017-12-18T11:28:55+00:00",
+    "updated_at": "2021-06-14T10:19:54+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 98,
+    "answers": [
+        {
+            "id": 785,
+            "answer": "Ja",
+            "votes": 68,
+            "order": 100
+        },
+        {
+            "id": 788,
+            "answer": "Nein",
+            "votes": 30,
+            "order": 100
+        }
+    ]
+}

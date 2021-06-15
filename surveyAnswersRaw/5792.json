@@ -1,0 +1,31 @@
+{
+    "id": 2290,
+    "question": "Wer gewinnt den Spitzenkampf in der Super League.",
+    "created_at": "2018-12-02T07:12:20+00:00",
+    "updated_at": "2021-06-14T09:34:55+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 114,
+    "answers": [
+        {
+            "id": 5791,
+            "answer": "Niemand - es gibt ein Unentschieden.",
+            "votes": 33,
+            "order": 100
+        },
+        {
+            "id": 5792,
+            "answer": "YB - ist doch klar!",
+            "votes": 56,
+            "order": 100
+        },
+        {
+            "id": 5793,
+            "answer": "Der FCB, die Bebbi sind sauer!",
+            "votes": 25,
+            "order": 100
+        }
+    ]
+}

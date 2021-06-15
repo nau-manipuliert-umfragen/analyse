@@ -1,0 +1,43 @@
+{
+    "id": 2242,
+    "question": "Welcher Super-League-Klub muss überraschend die Koffer packen?",
+    "created_at": "2018-10-30T14:43:29+00:00",
+    "updated_at": "2021-06-14T10:21:05+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 168,
+    "answers": [
+        {
+            "id": 5669,
+            "answer": "Young Boys",
+            "votes": 30,
+            "order": 100
+        },
+        {
+            "id": 5670,
+            "answer": "FC Basel",
+            "votes": 50,
+            "order": 100
+        },
+        {
+            "id": 5671,
+            "answer": "FC Zürich",
+            "votes": 30,
+            "order": 100
+        },
+        {
+            "id": 5672,
+            "answer": "FC Thun",
+            "votes": 30,
+            "order": 100
+        },
+        {
+            "id": 5673,
+            "answer": "FC Luzern",
+            "votes": 28,
+            "order": 100
+        }
+    ]
+}

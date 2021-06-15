@@ -1,0 +1,25 @@
+{
+    "id": 8485,
+    "question": "Wer holt 2021 den Weltmeistertitel in der Formel 1?",
+    "created_at": "2021-04-02T14:45:16+00:00",
+    "updated_at": "2021-06-14T09:39:41+00:00",
+    "end_at": null,
+    "comment_group_id": 2090396,
+    "published_at": "2021-05-03T06:43:12+00:00",
+    "display_name": "",
+    "total": 1708,
+    "answers": [
+        {
+            "id": 19396,
+            "answer": "Lewis Hamilton",
+            "votes": 832,
+            "order": 0
+        },
+        {
+            "id": 19397,
+            "answer": "Max Verstappen",
+            "votes": 876,
+            "order": 1
+        }
+    ]
+}

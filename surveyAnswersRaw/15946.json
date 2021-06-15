@@ -1,0 +1,25 @@
+{
+    "id": 6901,
+    "question": "Mögen Sie Marco Rima noch?",
+    "created_at": "2021-01-29T11:19:51+00:00",
+    "updated_at": "2021-06-14T09:38:20+00:00",
+    "end_at": null,
+    "comment_group_id": 1998858,
+    "published_at": "2021-03-17T10:55:21+00:00",
+    "display_name": "",
+    "total": 24325,
+    "answers": [
+        {
+            "id": 15946,
+            "answer": "Ja, er ist Kult.",
+            "votes": 16171,
+            "order": 0
+        },
+        {
+            "id": 15945,
+            "answer": "Nein, seine Corona-Videos gehen zu weit.",
+            "votes": 8154,
+            "order": 1
+        }
+    ]
+}

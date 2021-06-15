@@ -1,0 +1,25 @@
+{
+    "id": 881,
+    "question": "Schafft die beste Nati aller Zeiten den Sprung in den Viertelfinal?",
+    "created_at": "2018-05-14T03:25:30+00:00",
+    "updated_at": "2021-06-14T09:34:09+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 72,
+    "answers": [
+        {
+            "id": 2471,
+            "answer": "Ja! Frankreich ist schlagbar und Russland gibt sich keine Blösse.",
+            "votes": 46,
+            "order": 100
+        },
+        {
+            "id": 2474,
+            "answer": "Nein, die Nati ist nicht eingespielt genug.",
+            "votes": 26,
+            "order": 100
+        }
+    ]
+}

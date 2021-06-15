@@ -1,0 +1,37 @@
+{
+    "id": 4711,
+    "question": "Wer steigt direkt ab?",
+    "created_at": "2020-06-24T18:16:06+00:00",
+    "updated_at": "2021-06-14T10:23:04+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 186,
+    "answers": [
+        {
+            "id": 11126,
+            "answer": "Xamax",
+            "votes": 46,
+            "order": 0
+        },
+        {
+            "id": 11123,
+            "answer": "Thun",
+            "votes": 47,
+            "order": 1
+        },
+        {
+            "id": 11124,
+            "answer": "Sion",
+            "votes": 68,
+            "order": 2
+        },
+        {
+            "id": 11125,
+            "answer": "Anderes Team",
+            "votes": 25,
+            "order": 3
+        }
+    ]
+}

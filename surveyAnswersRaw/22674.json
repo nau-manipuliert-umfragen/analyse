@@ -1,0 +1,25 @@
+{
+    "id": 10014,
+    "question": "Hat Ihnen die Doku «Starke Frauen» gefallen?",
+    "created_at": "2021-06-10T10:55:51+00:00",
+    "updated_at": "2021-06-14T09:41:07+00:00",
+    "end_at": "2021-06-30T10:55:00+00:00",
+    "comment_group_id": 2199552,
+    "published_at": "2021-06-10T11:06:29+00:00",
+    "display_name": "",
+    "total": 330,
+    "answers": [
+        {
+            "id": 22675,
+            "answer": "Ja, ich fand sie sehr interessant.",
+            "votes": 54,
+            "order": 0
+        },
+        {
+            "id": 22674,
+            "answer": "Nein, mir haben die Gegenstimmen gefehlt.",
+            "votes": 276,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 5942,
+    "question": "Ist die Kritik von Martina Navratilova gerechtfertigt?",
+    "created_at": "2020-11-03T14:52:53+00:00",
+    "updated_at": "2021-06-14T09:37:36+00:00",
+    "end_at": null,
+    "comment_group_id": 1883656,
+    "published_at": "2020-11-04T12:45:02+00:00",
+    "display_name": "",
+    "total": 463,
+    "answers": [
+        {
+            "id": 13833,
+            "answer": "Ja",
+            "votes": 391,
+            "order": 0
+        },
+        {
+            "id": 13834,
+            "answer": "Nein",
+            "votes": 72,
+            "order": 1
+        }
+    ]
+}

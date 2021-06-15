@@ -1,0 +1,25 @@
+{
+    "id": 8779,
+    "question": "Was halten Sie von Harrys und Andrews Extrawurst?",
+    "created_at": "2021-04-15T14:59:20+00:00",
+    "updated_at": "2021-06-14T09:39:56+00:00",
+    "end_at": null,
+    "comment_group_id": 2109102,
+    "published_at": "2021-04-16T07:21:58+00:00",
+    "display_name": "",
+    "total": 504,
+    "answers": [
+        {
+            "id": 20007,
+            "answer": "Eine Frechheit!",
+            "votes": 141,
+            "order": 0
+        },
+        {
+            "id": 20006,
+            "answer": "Eine nette Geste der Queen!",
+            "votes": 363,
+            "order": 1
+        }
+    ]
+}

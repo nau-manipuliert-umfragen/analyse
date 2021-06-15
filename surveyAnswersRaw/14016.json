@@ -1,0 +1,31 @@
+{
+    "id": 6026,
+    "question": "Werden Sie sich gegen Corona impfen lassen?",
+    "created_at": "2020-11-12T12:47:24+00:00",
+    "updated_at": "2021-06-14T09:37:40+00:00",
+    "end_at": null,
+    "comment_group_id": 1895775,
+    "published_at": "2020-11-15T06:00:28+00:00",
+    "display_name": "",
+    "total": 8101,
+    "answers": [
+        {
+            "id": 14015,
+            "answer": "Ja.",
+            "votes": 3180,
+            "order": 0
+        },
+        {
+            "id": 14014,
+            "answer": "Ich überlege es mir noch.",
+            "votes": 1676,
+            "order": 1
+        },
+        {
+            "id": 14016,
+            "answer": "Nein.",
+            "votes": 3245,
+            "order": 2
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 6145,
+    "question": "Finden Sie es gut, wenn Athletinnen nun offen über ihre Menstruation reden?",
+    "created_at": "2020-11-24T09:49:52+00:00",
+    "updated_at": "2021-06-14T09:37:47+00:00",
+    "end_at": null,
+    "comment_group_id": 1909804,
+    "published_at": "2020-11-28T10:36:06+00:00",
+    "display_name": "",
+    "total": 843,
+    "answers": [
+        {
+            "id": 14285,
+            "answer": "Ja, klar. Wo liegt das Problem?",
+            "votes": 688,
+            "order": 0
+        },
+        {
+            "id": 14286,
+            "answer": "Nein, das ist doch Privatsache.",
+            "votes": 155,
+            "order": 1
+        }
+    ]
+}

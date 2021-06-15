@@ -1,0 +1,31 @@
+{
+    "id": 9675,
+    "question": "Graut es Ihnen vor der Rückkehr ins Büro?",
+    "created_at": "2021-05-25T09:26:46+00:00",
+    "updated_at": "2021-06-14T09:40:48+00:00",
+    "end_at": null,
+    "comment_group_id": 2174529,
+    "published_at": "2021-05-30T18:00:19+00:00",
+    "display_name": "",
+    "total": 911,
+    "answers": [
+        {
+            "id": 21929,
+            "answer": "Ja, ich leide unter sozialen Ängsten.",
+            "votes": 197,
+            "order": 0
+        },
+        {
+            "id": 21928,
+            "answer": "Ja, aber einfach, weil ich lieber zu Hause arbeite.",
+            "votes": 380,
+            "order": 1
+        },
+        {
+            "id": 21927,
+            "answer": "Nein, ich freue mich!",
+            "votes": 334,
+            "order": 2
+        }
+    ]
+}

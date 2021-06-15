@@ -1,0 +1,25 @@
+{
+    "id": 7732,
+    "question": "Hat der FC Thun noch Chancen auf den Aufstieg?",
+    "created_at": "2021-03-03T07:38:33+00:00",
+    "updated_at": "2021-06-14T09:39:00+00:00",
+    "end_at": null,
+    "comment_group_id": 2045752,
+    "published_at": "2021-03-03T08:17:31+00:00",
+    "display_name": "",
+    "total": 357,
+    "answers": [
+        {
+            "id": 17806,
+            "answer": "Ja, es geht noch lange.",
+            "votes": 193,
+            "order": 0
+        },
+        {
+            "id": 17807,
+            "answer": "Nein, der Zug ist abgefahren!",
+            "votes": 164,
+            "order": 1
+        }
+    ]
+}

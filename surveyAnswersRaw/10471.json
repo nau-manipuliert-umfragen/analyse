@@ -1,0 +1,25 @@
+{
+    "id": 4408,
+    "question": "Schafft Wolfsburg in dieser Saison die Europa-League-Quali?",
+    "created_at": "2020-05-30T14:54:17+00:00",
+    "updated_at": "2021-06-14T10:22:52+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 99,
+    "answers": [
+        {
+            "id": 10471,
+            "answer": "Ja",
+            "votes": 55,
+            "order": 0
+        },
+        {
+            "id": 10470,
+            "answer": "Nein",
+            "votes": 44,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 4168,
+    "question": "Sollte die restliche Bundesliga-Saison kostenlos übertragen werden?",
+    "created_at": "2020-05-08T13:27:41+00:00",
+    "updated_at": "2021-06-14T09:36:22+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 96,
+    "answers": [
+        {
+            "id": 9954,
+            "answer": "Ja",
+            "votes": 65,
+            "order": 0
+        },
+        {
+            "id": 9953,
+            "answer": "Nein",
+            "votes": 31,
+            "order": 1
+        }
+    ]
+}

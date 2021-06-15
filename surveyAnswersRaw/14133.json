@@ -1,0 +1,25 @@
+{
+    "id": 6078,
+    "question": "Wie fänden Sie eine Rückkehr Pogbas zu Juve?",
+    "created_at": "2020-11-17T16:48:34+00:00",
+    "updated_at": "2021-06-14T09:37:43+00:00",
+    "end_at": null,
+    "comment_group_id": 1901624,
+    "published_at": "2020-11-17T18:31:42+00:00",
+    "display_name": "",
+    "total": 78,
+    "answers": [
+        {
+            "id": 14134,
+            "answer": "Schön, Pogba und Juve – das passt!",
+            "votes": 44,
+            "order": 0
+        },
+        {
+            "id": 14133,
+            "answer": "Nicht gut, der Franzose soll in Manchester bleiben – und sich durchsetzen.",
+            "votes": 34,
+            "order": 1
+        }
+    ]
+}

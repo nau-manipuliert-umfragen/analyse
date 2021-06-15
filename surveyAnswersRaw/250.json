@@ -1,0 +1,31 @@
+{
+    "id": 105,
+    "question": "Spenden Sie für bedrohte Tiere?",
+    "created_at": "2017-10-26T14:46:11+00:00",
+    "updated_at": "2021-06-14T10:16:45+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 69,
+    "answers": [
+        {
+            "id": 250,
+            "answer": "Ja, ich liebe Tiere.",
+            "votes": 25,
+            "order": 100
+        },
+        {
+            "id": 252,
+            "answer": "Nein, ich spende nicht.",
+            "votes": 22,
+            "order": 100
+        },
+        {
+            "id": 253,
+            "answer": "Ich würde sehr gerne anfangen.",
+            "votes": 22,
+            "order": 100
+        }
+    ]
+}

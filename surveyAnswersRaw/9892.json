@@ -1,0 +1,25 @@
+{
+    "id": 4141,
+    "question": "Was halten Sie von Madonnas Geburtstagsbesuch?",
+    "created_at": "2020-05-06T08:28:25+00:00",
+    "updated_at": "2021-06-14T09:36:20+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 96,
+    "answers": [
+        {
+            "id": 9893,
+            "answer": "Geht gar nicht. Wie unverantwortlich.",
+            "votes": 54,
+            "order": 0
+        },
+        {
+            "id": 9892,
+            "answer": "Ist doch alles gut, sie hatte ja anscheinend schon das Coronavirus.",
+            "votes": 42,
+            "order": 1
+        }
+    ]
+}

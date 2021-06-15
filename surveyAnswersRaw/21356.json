@@ -1,0 +1,25 @@
+{
+    "id": 9406,
+    "question": "Überholt Lausanne die Genfer in der Tabelle noch?",
+    "created_at": "2021-05-12T17:30:16+00:00",
+    "updated_at": "2021-06-14T09:40:32+00:00",
+    "end_at": null,
+    "comment_group_id": 2154271,
+    "published_at": "2021-05-12T18:06:44+00:00",
+    "display_name": "",
+    "total": 82,
+    "answers": [
+        {
+            "id": 21356,
+            "answer": "Ja",
+            "votes": 41,
+            "order": 0
+        },
+        {
+            "id": 21357,
+            "answer": "Nein",
+            "votes": 41,
+            "order": 1
+        }
+    ]
+}

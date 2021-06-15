@@ -1,0 +1,37 @@
+{
+    "id": 1324,
+    "question": "Wie weit kommt die Schweiz?",
+    "created_at": "2018-06-28T20:15:04+00:00",
+    "updated_at": "2021-06-14T09:34:24+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 142,
+    "answers": [
+        {
+            "id": 3613,
+            "answer": "Viertelfinal",
+            "votes": 46,
+            "order": 100
+        },
+        {
+            "id": 3616,
+            "answer": "Halbfinal",
+            "votes": 38,
+            "order": 100
+        },
+        {
+            "id": 3619,
+            "answer": "Wir werden Weltmeister!",
+            "votes": 34,
+            "order": 100
+        },
+        {
+            "id": 3622,
+            "answer": "Final",
+            "votes": 24,
+            "order": 100
+        }
+    ]
+}

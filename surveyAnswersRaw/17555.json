@@ -1,0 +1,25 @@
+{
+    "id": 7615,
+    "question": "Kommt YB gegen Ajax weiter?",
+    "created_at": "2021-02-26T12:34:15+00:00",
+    "updated_at": "2021-06-14T09:38:54+00:00",
+    "end_at": null,
+    "comment_group_id": 2039543,
+    "published_at": "2021-03-07T14:04:53+00:00",
+    "display_name": "",
+    "total": 1426,
+    "answers": [
+        {
+            "id": 17555,
+            "answer": "Ja, der Coup gelingt!",
+            "votes": 863,
+            "order": 0
+        },
+        {
+            "id": 17554,
+            "answer": "Nein, der Gegner ist zu stark.",
+            "votes": 563,
+            "order": 1
+        }
+    ]
+}

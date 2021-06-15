@@ -1,0 +1,49 @@
+{
+    "id": 6618,
+    "question": "Welches Fahrzeug würden Sie zum Car Of The Year 2021 wählen?",
+    "created_at": "2021-01-12T12:12:24+00:00",
+    "updated_at": "2021-06-14T09:38:08+00:00",
+    "end_at": null,
+    "comment_group_id": 1973716,
+    "published_at": "2021-01-12T12:13:21+00:00",
+    "display_name": "",
+    "total": 636,
+    "answers": [
+        {
+            "id": 15333,
+            "answer": "Citroën C4",
+            "votes": 67,
+            "order": 0
+        },
+        {
+            "id": 15332,
+            "answer": "Fiat 500",
+            "votes": 110,
+            "order": 1
+        },
+        {
+            "id": 15330,
+            "answer": "Land Rover Defender",
+            "votes": 81,
+            "order": 2
+        },
+        {
+            "id": 15329,
+            "answer": "Škoda Octavia oder Cupra Formentor (beide basierend auf MQB-Baukasten)",
+            "votes": 194,
+            "order": 3
+        },
+        {
+            "id": 15334,
+            "answer": "Toyota Yaris",
+            "votes": 97,
+            "order": 4
+        },
+        {
+            "id": 15331,
+            "answer": "VW ID.3",
+            "votes": 87,
+            "order": 5
+        }
+    ]
+}

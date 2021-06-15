@@ -1,0 +1,25 @@
+{
+    "id": 7460,
+    "question": "Sind Sie verheiratet?",
+    "created_at": "2021-02-21T09:08:48+00:00",
+    "updated_at": "2021-06-14T09:38:48+00:00",
+    "end_at": null,
+    "comment_group_id": 2031496,
+    "published_at": "2021-02-21T14:01:07+00:00",
+    "display_name": "",
+    "total": 1937,
+    "answers": [
+        {
+            "id": 17209,
+            "answer": "Ja und ich bereue es keine Sekunde.",
+            "votes": 1331,
+            "order": 0
+        },
+        {
+            "id": 17208,
+            "answer": "Nein, noch nicht.",
+            "votes": 606,
+            "order": 1
+        }
+    ]
+}

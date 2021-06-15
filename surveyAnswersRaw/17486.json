@@ -1,0 +1,25 @@
+{
+    "id": 7585,
+    "question": "Soll eine Impfung als Freipass aus der Quarantäne gelten?",
+    "created_at": "2021-02-25T11:29:47+00:00",
+    "updated_at": "2021-06-14T09:38:53+00:00",
+    "end_at": null,
+    "comment_group_id": 2037659,
+    "published_at": "2021-02-28T18:02:21+00:00",
+    "display_name": "",
+    "total": 1163,
+    "answers": [
+        {
+            "id": 17485,
+            "answer": "Ja, es macht keinen Sinn diese Menschen vom Arbeiten abzuhalten.",
+            "votes": 333,
+            "order": 0
+        },
+        {
+            "id": 17486,
+            "answer": "Nein, jetzt braucht es auch hier Solidarität.",
+            "votes": 830,
+            "order": 1
+        }
+    ]
+}

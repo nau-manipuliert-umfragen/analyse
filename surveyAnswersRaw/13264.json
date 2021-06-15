@@ -1,0 +1,25 @@
+{
+    "id": 5683,
+    "question": "Holt die Schweiz morgen einen Sieg gegen Spanien?",
+    "created_at": "2020-10-09T15:03:30+00:00",
+    "updated_at": "2020-10-09T15:37:43+00:00",
+    "end_at": "2020-10-09T15:03:28+00:00",
+    "comment_group_id": 1842146,
+    "published_at": "2020-10-09T15:37:42+00:00",
+    "display_name": "",
+    "total": 40,
+    "answers": [
+        {
+            "id": 13264,
+            "answer": "Ja",
+            "votes": 20,
+            "order": 0
+        },
+        {
+            "id": 13263,
+            "answer": "Nein",
+            "votes": 20,
+            "order": 1
+        }
+    ]
+}

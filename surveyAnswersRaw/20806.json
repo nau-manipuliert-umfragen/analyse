@@ -1,0 +1,25 @@
+{
+    "id": 9147,
+    "question": "Verwenden Sie Anti-Aging-Produkte?",
+    "created_at": "2021-05-02T08:54:49+00:00",
+    "updated_at": "2021-06-14T09:40:19+00:00",
+    "end_at": null,
+    "comment_group_id": 2135766,
+    "published_at": "2021-05-02T14:06:20+00:00",
+    "display_name": "",
+    "total": 864,
+    "answers": [
+        {
+            "id": 20805,
+            "answer": "Ja, ich bin von ihrer Wirkung überzeugt.",
+            "votes": 300,
+            "order": 0
+        },
+        {
+            "id": 20806,
+            "answer": "Nein, Falten sind auch schön.",
+            "votes": 564,
+            "order": 1
+        }
+    ]
+}

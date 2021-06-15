@@ -1,0 +1,25 @@
+{
+    "id": 9916,
+    "question": "Was halten Sie von Prinz Edwards und Gräfin Sophies Reaktion auf das Oprah-Interview?",
+    "created_at": "2021-06-06T11:55:21+00:00",
+    "updated_at": "2021-06-14T09:43:32+00:00",
+    "end_at": null,
+    "comment_group_id": 2193014,
+    "published_at": "2021-06-06T16:00:55+00:00",
+    "display_name": "",
+    "total": 1322,
+    "answers": [
+        {
+            "id": 22462,
+            "answer": "Souverän und witzig!",
+            "votes": 1145,
+            "order": 0
+        },
+        {
+            "id": 22463,
+            "answer": "Kindisch!",
+            "votes": 177,
+            "order": 1
+        }
+    ]
+}

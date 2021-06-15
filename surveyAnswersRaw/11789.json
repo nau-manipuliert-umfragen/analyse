@@ -1,0 +1,25 @@
+{
+    "id": 5015,
+    "question": "Kann YB eine ganze Ära prägen?",
+    "created_at": "2020-07-30T08:29:55+00:00",
+    "updated_at": "2021-06-14T09:36:57+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 1028,
+    "answers": [
+        {
+            "id": 11790,
+            "answer": "Ja, zur Zeit gibt es kein besseres Team.",
+            "votes": 694,
+            "order": 0
+        },
+        {
+            "id": 11789,
+            "answer": "Nein, der Höhenflug wird bald enden.",
+            "votes": 334,
+            "order": 1
+        }
+    ]
+}

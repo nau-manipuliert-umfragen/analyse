@@ -1,0 +1,25 @@
+{
+    "id": 3976,
+    "question": "Lesen Sie die Tuchel-Biografie?",
+    "created_at": "2020-04-23T07:28:10+00:00",
+    "updated_at": "2021-06-14T09:36:13+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 62,
+    "answers": [
+        {
+            "id": 9523,
+            "answer": "Nein, interessiert mich nicht.",
+            "votes": 41,
+            "order": 0
+        },
+        {
+            "id": 9524,
+            "answer": "Natürlich, die werde ich bestimmt lesen.",
+            "votes": 21,
+            "order": 1
+        }
+    ]
+}

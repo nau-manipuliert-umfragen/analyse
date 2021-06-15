@@ -1,0 +1,25 @@
+{
+    "id": 5473,
+    "question": "Was halten Sie von Ueli Maurers T-Shirt?",
+    "created_at": "2020-09-17T06:11:17+00:00",
+    "updated_at": "2021-06-14T09:37:15+00:00",
+    "end_at": null,
+    "comment_group_id": 1804423,
+    "published_at": "2020-09-17T06:26:47+00:00",
+    "display_name": "",
+    "total": 1384,
+    "answers": [
+        {
+            "id": 12809,
+            "answer": "Super! Endlich ein Bundesrat, der sich in der Öffentlichkeit nicht verstellt!",
+            "votes": 925,
+            "order": 0
+        },
+        {
+            "id": 12808,
+            "answer": "Geht gar nicht! Die Botschaft auf dem T-Shirt ist Werbung für die SVP-Initiative!",
+            "votes": 459,
+            "order": 1
+        }
+    ]
+}

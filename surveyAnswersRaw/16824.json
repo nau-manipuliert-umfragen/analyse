@@ -1,0 +1,25 @@
+{
+    "id": 7289,
+    "question": "Ist Darian Males für den FC Basel eine Verstärkung?",
+    "created_at": "2021-02-15T08:36:53+00:00",
+    "updated_at": "2021-06-14T09:38:40+00:00",
+    "end_at": null,
+    "comment_group_id": 2022391,
+    "published_at": "2021-02-15T08:39:40+00:00",
+    "display_name": "",
+    "total": 468,
+    "answers": [
+        {
+            "id": 16823,
+            "answer": "Ja, das ist genau, was den Bebbi fehlt.",
+            "votes": 141,
+            "order": 0
+        },
+        {
+            "id": 16824,
+            "answer": "Nein, auch er wird die Probleme nicht beheben.",
+            "votes": 327,
+            "order": 1
+        }
+    ]
+}

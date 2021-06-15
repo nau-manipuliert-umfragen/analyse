@@ -1,0 +1,25 @@
+{
+    "id": 6556,
+    "question": "Würden Sie einen Corona-Ring tragen?",
+    "created_at": "2021-01-07T10:25:49+00:00",
+    "updated_at": "2021-06-14T09:38:06+00:00",
+    "end_at": null,
+    "comment_group_id": 1967354,
+    "published_at": "2021-01-07T18:24:29+00:00",
+    "display_name": "",
+    "total": 760,
+    "answers": [
+        {
+            "id": 15202,
+            "answer": "Nein, so ein Quatsch!",
+            "votes": 590,
+            "order": 0
+        },
+        {
+            "id": 15203,
+            "answer": "Ja, klingt super!",
+            "votes": 170,
+            "order": 1
+        }
+    ]
+}

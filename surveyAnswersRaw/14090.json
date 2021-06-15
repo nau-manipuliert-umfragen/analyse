@@ -1,0 +1,25 @@
+{
+    "id": 6058,
+    "question": "Glauben Sie den Russen, dass ihre Impfung wirkt?",
+    "created_at": "2020-11-16T09:56:48+00:00",
+    "updated_at": "2021-06-14T09:37:42+00:00",
+    "end_at": null,
+    "comment_group_id": 1899763,
+    "published_at": "2020-11-17T08:15:02+00:00",
+    "display_name": "",
+    "total": 1510,
+    "answers": [
+        {
+            "id": 14090,
+            "answer": "Ja, warum nicht?",
+            "votes": 624,
+            "order": 0
+        },
+        {
+            "id": 14091,
+            "answer": "Nein.",
+            "votes": 886,
+            "order": 1
+        }
+    ]
+}

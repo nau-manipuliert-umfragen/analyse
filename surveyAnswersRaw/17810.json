@@ -1,0 +1,25 @@
+{
+    "id": 7734,
+    "question": "Erinnert Sie das verworfene Amazon-Logo an Hitler?",
+    "created_at": "2021-03-03T09:19:35+00:00",
+    "updated_at": "2021-06-14T09:39:00+00:00",
+    "end_at": null,
+    "comment_group_id": 2045914,
+    "published_at": "2021-03-03T10:53:43+00:00",
+    "display_name": "",
+    "total": 676,
+    "answers": [
+        {
+            "id": 17810,
+            "answer": "Ja definitiv – zum Glück haben die das Logo wieder ausgewechselt!",
+            "votes": 100,
+            "order": 0
+        },
+        {
+            "id": 17811,
+            "answer": "Nein. Ich verstehe den ganzen Radau überhaupt nicht.",
+            "votes": 576,
+            "order": 1
+        }
+    ]
+}

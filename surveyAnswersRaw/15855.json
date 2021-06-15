@@ -1,0 +1,25 @@
+{
+    "id": 6860,
+    "question": "Was halten Sie vom Wechsel von Mesut Özil?",
+    "created_at": "2021-01-27T17:39:58+00:00",
+    "updated_at": "2021-06-14T09:38:18+00:00",
+    "end_at": null,
+    "comment_group_id": 1995972,
+    "published_at": "2021-01-28T06:26:12+00:00",
+    "display_name": "",
+    "total": 334,
+    "answers": [
+        {
+            "id": 15855,
+            "answer": "Fenerbahce ist genau der richtige Club für Özil!",
+            "votes": 273,
+            "order": 0
+        },
+        {
+            "id": 15854,
+            "answer": "Er könnte noch bei einem Spitzenclub spielen...",
+            "votes": 61,
+            "order": 1
+        }
+    ]
+}

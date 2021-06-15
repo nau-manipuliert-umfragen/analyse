@@ -1,0 +1,25 @@
+{
+    "id": 5580,
+    "question": "Würden Sie momentan trotz Reisewarnung in den Malediven Ferien machen?",
+    "created_at": "2020-09-29T08:41:30+00:00",
+    "updated_at": "2021-06-14T09:37:19+00:00",
+    "end_at": null,
+    "comment_group_id": 1824863,
+    "published_at": "2020-09-29T13:04:15+00:00",
+    "display_name": "",
+    "total": 253,
+    "answers": [
+        {
+            "id": 13039,
+            "answer": "Ja, nur leider fehlt mir das Geld.",
+            "votes": 73,
+            "order": 0
+        },
+        {
+            "id": 13038,
+            "answer": "Nein, ich finde das verantwortungslos.",
+            "votes": 180,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 9257,
+    "question": "Wer gewinnt den Schweizer Cup?",
+    "created_at": "2021-05-05T14:29:36+00:00",
+    "updated_at": "2021-06-14T09:40:24+00:00",
+    "end_at": null,
+    "comment_group_id": 2142864,
+    "published_at": "2021-05-06T11:59:27+00:00",
+    "display_name": "",
+    "total": 643,
+    "answers": [
+        {
+            "id": 21034,
+            "answer": "FC Luzern",
+            "votes": 337,
+            "order": 0
+        },
+        {
+            "id": 21033,
+            "answer": "FC St. Gallen",
+            "votes": 306,
+            "order": 1
+        }
+    ]
+}

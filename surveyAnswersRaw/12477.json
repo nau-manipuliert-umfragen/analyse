@@ -1,0 +1,49 @@
+{
+    "id": 5325,
+    "question": "Zu welchem Verein soll Guillaume Hoarau wechseln?",
+    "created_at": "2020-09-01T12:39:47+00:00",
+    "updated_at": "2021-06-14T10:23:33+00:00",
+    "end_at": null,
+    "comment_group_id": 1777353,
+    "published_at": "2020-09-01T13:44:46+00:00",
+    "display_name": "",
+    "total": 1737,
+    "answers": [
+        {
+            "id": 12473,
+            "answer": "FC Thun",
+            "votes": 884,
+            "order": 0
+        },
+        {
+            "id": 12474,
+            "answer": "FC St. Gallen",
+            "votes": 277,
+            "order": 1
+        },
+        {
+            "id": 12476,
+            "answer": "FC Sion",
+            "votes": 156,
+            "order": 2
+        },
+        {
+            "id": 12478,
+            "answer": "FC Lugano",
+            "votes": 56,
+            "order": 3
+        },
+        {
+            "id": 12477,
+            "answer": "FC Zürich",
+            "votes": 157,
+            "order": 4
+        },
+        {
+            "id": 12475,
+            "answer": "Servette FC",
+            "votes": 207,
+            "order": 5
+        }
+    ]
+}

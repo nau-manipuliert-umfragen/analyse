@@ -1,0 +1,25 @@
+{
+    "id": 6190,
+    "question": "Werden Sie sich Helene Fischers Highlight-Show angucken?",
+    "created_at": "2020-11-30T13:19:03+00:00",
+    "updated_at": "2021-06-14T09:37:49+00:00",
+    "end_at": null,
+    "comment_group_id": 1921314,
+    "published_at": "2020-11-30T17:02:52+00:00",
+    "display_name": "",
+    "total": 258,
+    "answers": [
+        {
+            "id": 14388,
+            "answer": "Nein, wie langweilig!",
+            "votes": 152,
+            "order": 0
+        },
+        {
+            "id": 14389,
+            "answer": "Ja, ich freue mich schon wie ein kleines Kind!",
+            "votes": 106,
+            "order": 1
+        }
+    ]
+}

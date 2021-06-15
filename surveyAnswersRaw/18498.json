@@ -1,0 +1,25 @@
+{
+    "id": 8056,
+    "question": "Macht Alfa-Romeo-Sauber in diesem Jahr einen Schritt nach vorne?",
+    "created_at": "2021-03-16T18:49:57+00:00",
+    "updated_at": "2021-06-14T09:39:18+00:00",
+    "end_at": null,
+    "comment_group_id": 2065847,
+    "published_at": "2021-03-17T14:44:39+00:00",
+    "display_name": "",
+    "total": 331,
+    "answers": [
+        {
+            "id": 18498,
+            "answer": "Ja",
+            "votes": 285,
+            "order": 0
+        },
+        {
+            "id": 18497,
+            "answer": "Nein",
+            "votes": 46,
+            "order": 1
+        }
+    ]
+}

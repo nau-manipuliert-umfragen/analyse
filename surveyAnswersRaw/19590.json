@@ -1,0 +1,25 @@
+{
+    "id": 8580,
+    "question": "Wer qualifiziert sich für den Cup-Halbfinal?",
+    "created_at": "2021-04-07T17:37:44+00:00",
+    "updated_at": "2021-06-14T09:39:46+00:00",
+    "end_at": null,
+    "comment_group_id": 2097017,
+    "published_at": "2021-04-07T17:53:13+00:00",
+    "display_name": "",
+    "total": 108,
+    "answers": [
+        {
+            "id": 19590,
+            "answer": "Lugano",
+            "votes": 69,
+            "order": 0
+        },
+        {
+            "id": 19591,
+            "answer": "Luzern",
+            "votes": 39,
+            "order": 1
+        }
+    ]
+}

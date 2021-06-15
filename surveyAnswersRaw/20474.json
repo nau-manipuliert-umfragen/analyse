@@ -1,0 +1,31 @@
+{
+    "id": 8996,
+    "question": "Tragen Sie auf der Restaurantterrasse eine Maske?",
+    "created_at": "2021-04-26T06:33:19+00:00",
+    "updated_at": "2021-06-14T09:40:09+00:00",
+    "end_at": null,
+    "comment_group_id": 2124799,
+    "published_at": "2021-04-26T15:01:57+00:00",
+    "display_name": "",
+    "total": 4005,
+    "answers": [
+        {
+            "id": 20474,
+            "answer": "Nur, wenn ich nicht am Tisch sitze.",
+            "votes": 2341,
+            "order": 0
+        },
+        {
+            "id": 20473,
+            "answer": "Nein, ich wusste gar nicht, dass Maskenpflicht gilt.",
+            "votes": 1150,
+            "order": 1
+        },
+        {
+            "id": 20472,
+            "answer": "Ja, Sicherheit geht vor.",
+            "votes": 514,
+            "order": 2
+        }
+    ]
+}

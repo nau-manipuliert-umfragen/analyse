@@ -1,0 +1,25 @@
+{
+    "id": 4686,
+    "question": "Gefällt Ihnen der Gastbeitrag von Giuseppe Gracia?",
+    "created_at": "2020-06-22T09:54:04+00:00",
+    "updated_at": "2021-06-14T09:36:43+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 318,
+    "answers": [
+        {
+            "id": 11072,
+            "answer": "Ja.",
+            "votes": 209,
+            "order": 0
+        },
+        {
+            "id": 11073,
+            "answer": "Eher weniger.",
+            "votes": 109,
+            "order": 1
+        }
+    ]
+}

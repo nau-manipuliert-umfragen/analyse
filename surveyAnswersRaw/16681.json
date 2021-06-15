@@ -1,0 +1,37 @@
+{
+    "id": 7227,
+    "question": "Auf wen sollte Alpine als Alonso-Ersatzmann bauen?",
+    "created_at": "2021-02-12T07:05:25+00:00",
+    "updated_at": "2021-06-14T09:38:37+00:00",
+    "end_at": null,
+    "comment_group_id": 2018544,
+    "published_at": "2021-02-12T07:18:27+00:00",
+    "display_name": "",
+    "total": 208,
+    "answers": [
+        {
+            "id": 16682,
+            "answer": "Nico Hülkenberg – vielleicht holt er endlich sein Podium!",
+            "votes": 97,
+            "order": 0
+        },
+        {
+            "id": 16679,
+            "answer": "Sergey Sirotkin natürlich. Wozu hat man einen Reserve-Fahrer?",
+            "votes": 50,
+            "order": 1
+        },
+        {
+            "id": 16681,
+            "answer": "Gebt der Jugend eine Chance: Christian Lundgaard!",
+            "votes": 30,
+            "order": 2
+        },
+        {
+            "id": 16680,
+            "answer": "Alex Albon oder Daniil Kvyat. Vielleicht verraten sie ja was über Red Bull?",
+            "votes": 31,
+            "order": 3
+        }
+    ]
+}

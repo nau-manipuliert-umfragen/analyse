@@ -1,0 +1,25 @@
+{
+    "id": 6176,
+    "question": "Was halten Sie von der Fremdgeh-Beichte des Bachelors?",
+    "created_at": "2020-11-28T06:36:20+00:00",
+    "updated_at": "2021-06-14T09:37:49+00:00",
+    "end_at": null,
+    "comment_group_id": 1918485,
+    "published_at": "2020-12-01T07:36:25+00:00",
+    "display_name": "",
+    "total": 284,
+    "answers": [
+        {
+            "id": 14359,
+            "answer": "Sorry, aber einmal Fremdgänger, immer Fremdgänger.",
+            "votes": 191,
+            "order": 0
+        },
+        {
+            "id": 14360,
+            "answer": "Besser spät als nie, solch eine Einsicht.",
+            "votes": 93,
+            "order": 1
+        }
+    ]
+}

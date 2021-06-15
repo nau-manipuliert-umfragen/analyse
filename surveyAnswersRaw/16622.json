@@ -1,0 +1,25 @@
+{
+    "id": 7201,
+    "question": "Was halten Sie von der Super-G-Strecke der Männer?",
+    "created_at": "2021-02-11T12:21:18+00:00",
+    "updated_at": "2021-06-14T09:38:36+00:00",
+    "end_at": null,
+    "comment_group_id": 2017411,
+    "published_at": "2021-02-11T13:18:20+00:00",
+    "display_name": "",
+    "total": 1336,
+    "answers": [
+        {
+            "id": 16623,
+            "answer": "Das ist ein waschechter Skandal!",
+            "votes": 1017,
+            "order": 0
+        },
+        {
+            "id": 16622,
+            "answer": "Das passt schon.",
+            "votes": 319,
+            "order": 1
+        }
+    ]
+}

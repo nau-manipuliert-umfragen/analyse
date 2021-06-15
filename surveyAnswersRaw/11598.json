@@ -1,0 +1,25 @@
+{
+    "id": 4927,
+    "question": "Was halten Sie von den Spende-Aktionen von Cristiano Ronaldo?",
+    "created_at": "2020-07-16T13:35:24+00:00",
+    "updated_at": "2021-06-14T09:36:53+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 195,
+    "answers": [
+        {
+            "id": 11598,
+            "answer": "Super Aktion vom Portugiesen! Das macht bei weitem nicht jeder Fussballer.",
+            "votes": 149,
+            "order": 0
+        },
+        {
+            "id": 11597,
+            "answer": "Bei dem Gehalt sollten solche Spenden selbstverständlich sein.",
+            "votes": 46,
+            "order": 1
+        }
+    ]
+}

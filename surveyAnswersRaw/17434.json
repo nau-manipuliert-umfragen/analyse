@@ -1,0 +1,25 @@
+{
+    "id": 7562,
+    "question": "Ist Gennaro Gattuso noch der richtige Trainer für den SSC Neapel?",
+    "created_at": "2021-02-24T13:14:11+00:00",
+    "updated_at": "2021-06-14T09:38:52+00:00",
+    "end_at": null,
+    "comment_group_id": 2036278,
+    "published_at": "2021-02-24T13:50:14+00:00",
+    "display_name": "",
+    "total": 62,
+    "answers": [
+        {
+            "id": 17433,
+            "answer": "Ja, die Mannschaft wird sich wieder stabilisieren.",
+            "votes": 32,
+            "order": 0
+        },
+        {
+            "id": 17434,
+            "answer": "Nein, das ist zu wenig für Napoli. Ein neuer Trainer muss her.",
+            "votes": 30,
+            "order": 1
+        }
+    ]
+}

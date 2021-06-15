@@ -1,0 +1,37 @@
+{
+    "id": 5152,
+    "question": "Darf man die Bibel «interpretieren» und im Zusammenhang sehen?",
+    "created_at": "2020-08-14T12:44:35+00:00",
+    "updated_at": "2020-12-20T13:20:33+00:00",
+    "end_at": "2020-12-26T14:32:00+00:00",
+    "comment_group_id": 1749065,
+    "published_at": "2020-08-14T13:28:57+00:00",
+    "display_name": "",
+    "total": 599,
+    "answers": [
+        {
+            "id": 12101,
+            "answer": "Ja, klar.",
+            "votes": 295,
+            "order": 0
+        },
+        {
+            "id": 12099,
+            "answer": "Nein, zu gefährlich.",
+            "votes": 65,
+            "order": 1
+        },
+        {
+            "id": 12102,
+            "answer": "Die Bibel interessiert mich nicht.",
+            "votes": 126,
+            "order": 2
+        },
+        {
+            "id": 12100,
+            "answer": "Ich will nur das Voting-Resultat sehen.",
+            "votes": 113,
+            "order": 3
+        }
+    ]
+}

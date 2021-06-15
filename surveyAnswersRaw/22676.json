@@ -1,0 +1,31 @@
+{
+    "id": 10015,
+    "question": "Wollen sie sich gegen das Coronavirus impfen lassen?",
+    "created_at": "2021-06-10T11:23:53+00:00",
+    "updated_at": "2021-06-14T09:41:07+00:00",
+    "end_at": null,
+    "comment_group_id": 2199656,
+    "published_at": "2021-06-10T19:24:37+00:00",
+    "display_name": "",
+    "total": 2933,
+    "answers": [
+        {
+            "id": 22677,
+            "answer": "Ich bin schon geimpft.",
+            "votes": 1189,
+            "order": 0
+        },
+        {
+            "id": 22678,
+            "answer": "Ja, ich werde mich in nächster Zeit impfen.",
+            "votes": 331,
+            "order": 1
+        },
+        {
+            "id": 22676,
+            "answer": "Nein, auf keinen Fall!",
+            "votes": 1413,
+            "order": 2
+        }
+    ]
+}

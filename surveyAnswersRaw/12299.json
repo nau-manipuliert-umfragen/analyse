@@ -1,0 +1,25 @@
+{
+    "id": 5246,
+    "question": "Soll Messi zu PSG wechseln?",
+    "created_at": "2020-08-25T08:50:11+00:00",
+    "updated_at": "2021-06-14T09:37:05+00:00",
+    "end_at": null,
+    "comment_group_id": 1765414,
+    "published_at": "2020-08-25T11:44:51+00:00",
+    "display_name": "",
+    "total": 111,
+    "answers": [
+        {
+            "id": 12299,
+            "answer": "Ja, das wäre ein guter Schritt.",
+            "votes": 67,
+            "order": 0
+        },
+        {
+            "id": 12300,
+            "answer": "Nein, er soll seine Karriere bei Barcelona beenden.",
+            "votes": 44,
+            "order": 1
+        }
+    ]
+}

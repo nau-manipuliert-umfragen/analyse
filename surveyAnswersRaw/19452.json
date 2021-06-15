@@ -1,0 +1,25 @@
+{
+    "id": 8512,
+    "question": "Wie stehen Sie zu Hafermilch?",
+    "created_at": "2021-04-04T12:10:52+00:00",
+    "updated_at": "2021-06-14T09:39:43+00:00",
+    "end_at": null,
+    "comment_group_id": 2092204,
+    "published_at": "2021-04-04T15:02:08+00:00",
+    "display_name": "",
+    "total": 583,
+    "answers": [
+        {
+            "id": 19452,
+            "answer": "Schmeckt mir gut.",
+            "votes": 132,
+            "order": 0
+        },
+        {
+            "id": 19453,
+            "answer": "Igitt, nichts geht über Kuhmilch!",
+            "votes": 451,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "id": 3848,
+    "question": "Werden Sie sich das Surface Neo kaufen?",
+    "created_at": "2020-04-13T09:10:15+00:00",
+    "updated_at": "2021-06-14T09:36:08+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 147,
+    "answers": [
+        {
+            "id": 9253,
+            "answer": "Das kann ich noch nicht sagen.",
+            "votes": 53,
+            "order": 0
+        },
+        {
+            "id": 9251,
+            "answer": "Ja, definitiv!",
+            "votes": 62,
+            "order": 1
+        },
+        {
+            "id": 9252,
+            "answer": "Nein, das ist nichts für mich.",
+            "votes": 32,
+            "order": 2
+        }
+    ]
+}

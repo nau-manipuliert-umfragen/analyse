@@ -1,0 +1,25 @@
+{
+    "id": 4781,
+    "question": "Wer ist besser?",
+    "created_at": "2020-07-01T12:21:16+00:00",
+    "updated_at": "2021-06-14T09:36:47+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 90,
+    "answers": [
+        {
+            "id": 11271,
+            "answer": "Messi",
+            "votes": 59,
+            "order": 0
+        },
+        {
+            "id": 11270,
+            "answer": "Ronaldo",
+            "votes": 31,
+            "order": 1
+        }
+    ]
+}

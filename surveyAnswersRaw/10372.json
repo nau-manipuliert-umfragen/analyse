@@ -1,0 +1,25 @@
+{
+    "id": 4362,
+    "question": "Was halten Sie von einer Lohnobergrenze?",
+    "created_at": "2020-05-26T13:37:20+00:00",
+    "updated_at": "2021-06-14T09:36:31+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 249,
+    "answers": [
+        {
+            "id": 10373,
+            "answer": "Einführen! Das dämmt die überrissenen Löhne endlich ein.",
+            "votes": 214,
+            "order": 0
+        },
+        {
+            "id": 10372,
+            "answer": "Muss nicht sein. Die jetzigen Löhne sind schon in Ordnung.",
+            "votes": 35,
+            "order": 1
+        }
+    ]
+}

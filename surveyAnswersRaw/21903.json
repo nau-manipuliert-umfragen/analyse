@@ -1,0 +1,25 @@
+{
+    "id": 9663,
+    "question": "10'000 Fans feierten am Pfingstmontag in Luzern den Cup-Sieg und hielten sich nicht an die Corona-Regeln. Hätte die Polizei eingreifen sollen?",
+    "created_at": "2021-05-25T03:34:35+00:00",
+    "updated_at": "2021-06-14T09:40:48+00:00",
+    "end_at": null,
+    "comment_group_id": 2174010,
+    "published_at": "2021-05-25T03:35:54+00:00",
+    "display_name": "",
+    "total": 505,
+    "answers": [
+        {
+            "id": 21904,
+            "answer": "Ja, das machen sie ja bei den Corona-Demos auch!",
+            "votes": 214,
+            "order": 0
+        },
+        {
+            "id": 21903,
+            "answer": "Nein, inzwischen ist das doch nicht mehr so gefährlich.",
+            "votes": 291,
+            "order": 1
+        }
+    ]
+}

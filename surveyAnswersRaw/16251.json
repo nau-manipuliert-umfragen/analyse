@@ -1,0 +1,25 @@
+{
+    "id": 7038,
+    "question": "Verstehen Sie Nastassjas Begründung?",
+    "created_at": "2021-02-04T16:06:44+00:00",
+    "updated_at": "2021-06-14T09:38:26+00:00",
+    "end_at": null,
+    "comment_group_id": 2007952,
+    "published_at": "2021-02-05T07:46:05+00:00",
+    "display_name": "",
+    "total": 1853,
+    "answers": [
+        {
+            "id": 16251,
+            "answer": "Ja, man sollte ähnliche Einstellungen haben.",
+            "votes": 447,
+            "order": 0
+        },
+        {
+            "id": 16252,
+            "answer": "Nein, Robin hat sich ja entschuldigt.",
+            "votes": 1406,
+            "order": 1
+        }
+    ]
+}

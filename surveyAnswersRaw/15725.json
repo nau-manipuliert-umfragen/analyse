@@ -1,0 +1,25 @@
+{
+    "id": 6797,
+    "question": "Wer gewinnt 2021 das Team-Duell bei Red Bull?",
+    "created_at": "2021-01-24T13:11:16+00:00",
+    "updated_at": "2021-06-14T09:38:15+00:00",
+    "end_at": null,
+    "comment_group_id": 1990937,
+    "published_at": "2021-01-24T13:22:47+00:00",
+    "display_name": "",
+    "total": 74,
+    "answers": [
+        {
+            "id": 15724,
+            "answer": "Max Verstappen",
+            "votes": 38,
+            "order": 0
+        },
+        {
+            "id": 15725,
+            "answer": "Sergio Pérez",
+            "votes": 36,
+            "order": 1
+        }
+    ]
+}

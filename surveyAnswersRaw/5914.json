@@ -1,0 +1,31 @@
+{
+    "id": 2343,
+    "question": "Wie endet das Spiel zwischen dem FC Liverpool und Bayern München?",
+    "created_at": "2019-02-19T13:12:17+00:00",
+    "updated_at": "2021-06-14T09:34:57+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 76,
+    "answers": [
+        {
+            "id": 5912,
+            "answer": "Sieg Liverpool",
+            "votes": 30,
+            "order": 100
+        },
+        {
+            "id": 5913,
+            "answer": "Sieg Bayern",
+            "votes": 23,
+            "order": 100
+        },
+        {
+            "id": 5914,
+            "answer": "Remis",
+            "votes": 23,
+            "order": 100
+        }
+    ]
+}

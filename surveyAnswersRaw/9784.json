@@ -1,0 +1,43 @@
+{
+    "id": 4096,
+    "question": "Wohin soll Timo Werner wechseln?",
+    "created_at": "2020-05-02T06:59:40+00:00",
+    "updated_at": "2021-06-14T09:36:18+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 220,
+    "answers": [
+        {
+            "id": 9783,
+            "answer": "FC Liverpool",
+            "votes": 76,
+            "order": 0
+        },
+        {
+            "id": 9785,
+            "answer": "Bayern München",
+            "votes": 30,
+            "order": 1
+        },
+        {
+            "id": 9786,
+            "answer": "Chelsea",
+            "votes": 31,
+            "order": 2
+        },
+        {
+            "id": 9784,
+            "answer": "Bei RB Leipzig bleiben",
+            "votes": 48,
+            "order": 3
+        },
+        {
+            "id": 9782,
+            "answer": "Ein anderer Klub",
+            "votes": 35,
+            "order": 4
+        }
+    ]
+}

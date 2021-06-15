@@ -1,0 +1,25 @@
+{
+    "id": 7103,
+    "question": "Vermissen Sie es, in die Beiz zu gehen?",
+    "created_at": "2021-02-08T12:45:23+00:00",
+    "updated_at": "2021-02-10T11:06:25+00:00",
+    "end_at": "2021-02-10T12:45:20+00:00",
+    "comment_group_id": 2012559,
+    "published_at": "2021-02-09T16:01:28+00:00",
+    "display_name": "",
+    "total": 497,
+    "answers": [
+        {
+            "id": 16401,
+            "answer": "Nein, ich koche sowieso immer selber.",
+            "votes": 123,
+            "order": 0
+        },
+        {
+            "id": 16400,
+            "answer": "Ja, ich hatte gehofft, im März gehen die Restaurants wieder auf.",
+            "votes": 374,
+            "order": 1
+        }
+    ]
+}

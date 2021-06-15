@@ -1,0 +1,25 @@
+{
+    "id": 2296,
+    "question": "Hätte Protheon so gross bleiben sollen?",
+    "created_at": "2018-12-05T19:52:49+00:00",
+    "updated_at": "2021-06-14T10:21:10+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 54,
+    "answers": [
+        {
+            "id": 5807,
+            "answer": "Nein, er war viel zu gross.",
+            "votes": 22,
+            "order": 100
+        },
+        {
+            "id": 5808,
+            "answer": "Ja, Bungie hätte den Bug nicht fixen sollen.",
+            "votes": 32,
+            "order": 100
+        }
+    ]
+}

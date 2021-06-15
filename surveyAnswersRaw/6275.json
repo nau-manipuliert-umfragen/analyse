@@ -1,0 +1,25 @@
+{
+    "id": 2496,
+    "question": "Gefallen Ihnen Brusthaare?",
+    "created_at": "2019-10-23T10:08:50+00:00",
+    "updated_at": "2021-06-14T09:35:04+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 205,
+    "answers": [
+        {
+            "id": 6274,
+            "answer": "Ja, sie sind der Inbegriff von Männlichkeit!",
+            "votes": 134,
+            "order": 0
+        },
+        {
+            "id": 6275,
+            "answer": "Nein, pfui!",
+            "votes": 71,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "id": 5490,
+    "question": "Ihr liebster Mitmensch: Wie soll er/sie mit Ihnen reden?",
+    "created_at": "2020-09-18T12:26:18+00:00",
+    "updated_at": "2021-01-23T16:36:39+00:00",
+    "end_at": "2021-02-07T13:57:00+00:00",
+    "comment_group_id": 1807087,
+    "published_at": "2020-09-18T13:32:58+00:00",
+    "display_name": "",
+    "total": 423,
+    "answers": [
+        {
+            "id": 12849,
+            "answer": "Wie ihm/ihr der Schnabel gewachsen ist.",
+            "votes": 351,
+            "order": 0
+        },
+        {
+            "id": 12850,
+            "answer": "Am liebsten in Versli-Form.",
+            "votes": 36,
+            "order": 1
+        },
+        {
+            "id": 12848,
+            "answer": "Ich will gar nicht mit ihm/ihr reden.",
+            "votes": 36,
+            "order": 2
+        }
+    ]
+}

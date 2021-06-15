@@ -1,0 +1,31 @@
+{
+    "id": 5839,
+    "question": "Was halten Sie von den Fan-Bewegungen beim FC Basel?",
+    "created_at": "2020-10-23T15:10:05+00:00",
+    "updated_at": "2021-06-14T10:23:56+00:00",
+    "end_at": null,
+    "comment_group_id": 1865249,
+    "published_at": "2020-10-23T15:47:15+00:00",
+    "display_name": "",
+    "total": 274,
+    "answers": [
+        {
+            "id": 13605,
+            "answer": "Ich finde gut, dass die Anhänger ihre Meinungen äussern.",
+            "votes": 115,
+            "order": 0
+        },
+        {
+            "id": 13607,
+            "answer": "Das bringt doch nur Unruhe ins Umfeld des Vereins!",
+            "votes": 79,
+            "order": 1
+        },
+        {
+            "id": 13606,
+            "answer": "Interessiert mich nicht.",
+            "votes": 80,
+            "order": 2
+        }
+    ]
+}

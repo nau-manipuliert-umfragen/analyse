@@ -1,0 +1,25 @@
+{
+    "id": 8158,
+    "question": "Soll Ciriaco Sforza wieder auf Valentin Stocker setzen?",
+    "created_at": "2021-03-20T20:24:06+00:00",
+    "updated_at": "2021-06-14T09:39:24+00:00",
+    "end_at": null,
+    "comment_group_id": 2071915,
+    "published_at": "2021-03-21T06:48:34+00:00",
+    "display_name": "",
+    "total": 1114,
+    "answers": [
+        {
+            "id": 18704,
+            "answer": "Ja",
+            "votes": 617,
+            "order": 0
+        },
+        {
+            "id": 18703,
+            "answer": "Nein",
+            "votes": 497,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "id": 5351,
+    "question": "Finden Sie es gut, wenn Ihr Partner noch Kontakt mit der Ex hat?",
+    "created_at": "2020-09-03T11:46:56+00:00",
+    "updated_at": "2021-06-14T09:37:10+00:00",
+    "end_at": null,
+    "comment_group_id": 1780694,
+    "published_at": "2020-09-04T05:58:11+00:00",
+    "display_name": "",
+    "total": 1046,
+    "answers": [
+        {
+            "id": 12533,
+            "answer": "Ja, ich bin überhaupt nicht eifersüchtig,",
+            "votes": 179,
+            "order": 0
+        },
+        {
+            "id": 12531,
+            "answer": "Nein, mein Schatz gehört nur mir!",
+            "votes": 209,
+            "order": 1
+        },
+        {
+            "id": 12532,
+            "answer": "Kommt auf die Situation drauf an.",
+            "votes": 658,
+            "order": 2
+        }
+    ]
+}

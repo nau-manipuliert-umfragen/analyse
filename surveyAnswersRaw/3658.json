@@ -1,0 +1,25 @@
+{
+    "id": 1354,
+    "question": "Was sagen Sie zum Lebensmittel-Verbot für Meghan?",
+    "created_at": "2018-07-01T12:44:26+00:00",
+    "updated_at": "2021-06-14T09:34:25+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 122,
+    "answers": [
+        {
+            "id": 3655,
+            "answer": "Absolut gerechtfertigt, eine Herzogin muss schliesslich eine Falle machen.",
+            "votes": 39,
+            "order": 100
+        },
+        {
+            "id": 3658,
+            "answer": "Total übertrieben, für einen guten Atem gibt's ja Kaugummi.",
+            "votes": 83,
+            "order": 100
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 8848,
+    "question": "Freuen Sie sich über die am Montag in Kraft getretenen Lockerungen?",
+    "created_at": "2021-04-19T12:41:12+00:00",
+    "updated_at": "2021-06-14T09:40:00+00:00",
+    "end_at": null,
+    "comment_group_id": 2114204,
+    "published_at": "2021-04-19T14:13:33+00:00",
+    "display_name": "",
+    "total": 1532,
+    "answers": [
+        {
+            "id": 20152,
+            "answer": "Ja, es war an der Zeit.",
+            "votes": 1058,
+            "order": 0
+        },
+        {
+            "id": 20153,
+            "answer": "Nein, die Lockerungen kommen zu früh.",
+            "votes": 474,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 5905,
+    "question": "Wer setzt sich am 28. November durch?",
+    "created_at": "2020-10-30T07:40:42+00:00",
+    "updated_at": "2021-06-14T09:37:35+00:00",
+    "end_at": null,
+    "comment_group_id": 1875952,
+    "published_at": "2020-10-30T13:35:18+00:00",
+    "display_name": "",
+    "total": 94,
+    "answers": [
+        {
+            "id": 13750,
+            "answer": "Mike Tyson",
+            "votes": 64,
+            "order": 0
+        },
+        {
+            "id": 13751,
+            "answer": "Roy Jones Junior",
+            "votes": 30,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 9542,
+    "question": "Was trauen Sie Deutschland bei der EM zu?",
+    "created_at": "2021-05-19T12:21:47+00:00",
+    "updated_at": "2021-06-14T09:40:42+00:00",
+    "end_at": null,
+    "comment_group_id": 2165392,
+    "published_at": "2021-06-04T14:23:25+00:00",
+    "display_name": "",
+    "total": 119,
+    "answers": [
+        {
+            "id": 21650,
+            "answer": "Sie werden Europameister!",
+            "votes": 48,
+            "order": 0
+        },
+        {
+            "id": 21649,
+            "answer": "Nicht viel, die goldene Zeit vom DFB ist vorüber.",
+            "votes": 71,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 3060,
+    "question": "Verfolgen Sie die NASCAR-Serie?",
+    "created_at": "2020-02-18T07:20:37+00:00",
+    "updated_at": "2021-06-14T10:21:50+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 98,
+    "answers": [
+        {
+            "id": 7537,
+            "answer": "Ja",
+            "votes": 58,
+            "order": 0
+        },
+        {
+            "id": 7538,
+            "answer": "Nein",
+            "votes": 40,
+            "order": 1
+        }
+    ]
+}

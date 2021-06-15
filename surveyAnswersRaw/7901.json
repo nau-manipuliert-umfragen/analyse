@@ -1,0 +1,25 @@
+{
+    "id": 3223,
+    "question": "Verstehen Sie den Entscheid des SFV?",
+    "created_at": "2020-02-28T17:16:10+00:00",
+    "updated_at": "2021-06-14T09:35:42+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 277,
+    "answers": [
+        {
+            "id": 7902,
+            "answer": "Ja, Spiele im Amateurbereich können problemlos stattfinden.",
+            "votes": 134,
+            "order": 0
+        },
+        {
+            "id": 7901,
+            "answer": "Nein, die Spiele sollten weiterhin untersagt werden.",
+            "votes": 143,
+            "order": 1
+        }
+    ]
+}

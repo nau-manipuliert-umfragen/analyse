@@ -1,0 +1,25 @@
+{
+    "id": 8325,
+    "question": "Arbeiten Sie gerne im Homeoffice?",
+    "created_at": "2021-03-26T10:01:09+00:00",
+    "updated_at": "2021-06-14T09:39:33+00:00",
+    "end_at": null,
+    "comment_group_id": 2080193,
+    "published_at": "2021-03-26T13:55:11+00:00",
+    "display_name": "",
+    "total": 253,
+    "answers": [
+        {
+            "id": 19067,
+            "answer": "Ja, ich bin noch in meinen Pyjamas und niemand weiss es!",
+            "votes": 129,
+            "order": 0
+        },
+        {
+            "id": 19066,
+            "answer": "Nein, ich brauche dringend Kontakt zur Aussenwelt!",
+            "votes": 124,
+            "order": 1
+        }
+    ]
+}

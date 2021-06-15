@@ -1,0 +1,31 @@
+{
+    "id": 7168,
+    "question": "Was halten Sie von diesem Porno-Fauxpas in Zürich?",
+    "created_at": "2021-02-10T09:53:07+00:00",
+    "updated_at": "2021-06-14T09:38:35+00:00",
+    "end_at": null,
+    "comment_group_id": 2015374,
+    "published_at": null,
+    "display_name": "",
+    "total": 1286,
+    "answers": [
+        {
+            "id": 16547,
+            "answer": "Hilfe, das geht gar nicht!",
+            "votes": 277,
+            "order": 0
+        },
+        {
+            "id": 16549,
+            "answer": "Das kann passieren.",
+            "votes": 190,
+            "order": 1
+        },
+        {
+            "id": 16548,
+            "answer": "Ich finde es lustig.",
+            "votes": 819,
+            "order": 2
+        }
+    ]
+}

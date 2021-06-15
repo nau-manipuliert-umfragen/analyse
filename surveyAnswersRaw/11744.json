@@ -1,0 +1,25 @@
+{
+    "id": 4994,
+    "question": "Kommt es am 3. August zwischen YB und dem FCSG  zur Finalissima?",
+    "created_at": "2020-07-27T08:45:53+00:00",
+    "updated_at": "2021-06-14T09:36:56+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 1082,
+    "answers": [
+        {
+            "id": 11745,
+            "answer": "Nein, YB macht gegen Sion den Titel perfekt.",
+            "votes": 778,
+            "order": 0
+        },
+        {
+            "id": 11744,
+            "answer": "Ja, die Meisterschaft wird in der letzten Runde entschieden.",
+            "votes": 304,
+            "order": 1
+        }
+    ]
+}

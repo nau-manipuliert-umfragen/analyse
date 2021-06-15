@@ -1,0 +1,25 @@
+{
+    "id": 6065,
+    "question": "Leiden Sie an der «Pandemic Fatigue»?",
+    "created_at": "2020-11-16T13:26:44+00:00",
+    "updated_at": "2021-06-14T09:37:43+00:00",
+    "end_at": null,
+    "comment_group_id": 1900100,
+    "published_at": "2020-11-16T20:14:19+00:00",
+    "display_name": "",
+    "total": 1313,
+    "answers": [
+        {
+            "id": 14105,
+            "answer": "Ja, ich halte es fast nicht mehr aus.",
+            "votes": 608,
+            "order": 0
+        },
+        {
+            "id": 14104,
+            "answer": "Nein, wir müssen da durch!",
+            "votes": 705,
+            "order": 1
+        }
+    ]
+}

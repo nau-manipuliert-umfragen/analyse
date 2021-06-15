@@ -1,0 +1,25 @@
+{
+    "id": 5046,
+    "question": "Freuen Sie sich, dass Cologna unter der Haube ist?",
+    "created_at": "2020-08-03T09:23:18+00:00",
+    "updated_at": "2021-06-14T09:36:58+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 248,
+    "answers": [
+        {
+            "id": 11868,
+            "answer": "Ja, ein superschönes Paar!",
+            "votes": 216,
+            "order": 0
+        },
+        {
+            "id": 11867,
+            "answer": "Also mir hätte er auch noch gefallen...",
+            "votes": 32,
+            "order": 1
+        }
+    ]
+}

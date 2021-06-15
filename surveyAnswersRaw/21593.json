@@ -1,0 +1,25 @@
+{
+    "id": 9516,
+    "question": "Kann Zverev das French Open gewinnen?",
+    "created_at": "2021-05-18T10:00:34+00:00",
+    "updated_at": "2021-06-14T09:40:40+00:00",
+    "end_at": null,
+    "comment_group_id": 2162811,
+    "published_at": "2021-05-25T12:04:46+00:00",
+    "display_name": "",
+    "total": 87,
+    "answers": [
+        {
+            "id": 21592,
+            "answer": "Ja.",
+            "votes": 38,
+            "order": 0
+        },
+        {
+            "id": 21593,
+            "answer": "Nein.",
+            "votes": 49,
+            "order": 1
+        }
+    ]
+}

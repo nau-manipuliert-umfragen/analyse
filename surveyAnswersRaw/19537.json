@@ -1,0 +1,31 @@
+{
+    "id": 8554,
+    "question": "Braucht es mittelfristig ein Investitionsprogramm des Bundes zur Bewältigung der Pandemie-Folgen?",
+    "created_at": "2021-04-06T14:05:54+00:00",
+    "updated_at": "2021-04-13T12:13:24+00:00",
+    "end_at": "2021-04-13T14:05:49+00:00",
+    "comment_group_id": 2094987,
+    "published_at": "2021-04-06T15:29:42+00:00",
+    "display_name": "",
+    "total": 1100,
+    "answers": [
+        {
+            "id": 19538,
+            "answer": "Nein, es gibt ja bereits Milliarden-Ausgaben für Kurzarbeit, Härtefälle und so weiter.",
+            "votes": 573,
+            "order": 0
+        },
+        {
+            "id": 19536,
+            "answer": "Selbstverständlich, jetzt muss man klotzen, nicht kleckern, sonst finden wie nie aus der Baisse.",
+            "votes": 146,
+            "order": 1
+        },
+        {
+            "id": 19537,
+            "answer": "Ja, aber sicher nicht 60 Milliarden Franken und nicht für SP-Anliegen wie Feminismus und Klima.",
+            "votes": 381,
+            "order": 2
+        }
+    ]
+}

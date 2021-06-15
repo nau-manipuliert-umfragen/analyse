@@ -1,0 +1,25 @@
+{
+    "id": 476,
+    "question": "Findet der FC Basel zurück in die Spur?",
+    "created_at": "2018-03-01T10:06:57+00:00",
+    "updated_at": "2021-06-14T09:33:56+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 83,
+    "answers": [
+        {
+            "id": 1376,
+            "answer": "Ja, der FC Basel holt sich den Meister-Pot dank einer unglaublichen Aufholjagd!",
+            "votes": 31,
+            "order": 100
+        },
+        {
+            "id": 1379,
+            "answer": "Nein, die Young Boys sind zu stark und lassen sich den Triumph nicht mehr nehmen.",
+            "votes": 52,
+            "order": 100
+        }
+    ]
+}

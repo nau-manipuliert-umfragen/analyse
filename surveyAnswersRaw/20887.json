@@ -1,0 +1,25 @@
+{
+    "id": 9185,
+    "question": "Wohnen Sie mit ihrem Partner zusammen?",
+    "created_at": "2021-05-03T13:59:33+00:00",
+    "updated_at": "2021-06-14T10:26:39+00:00",
+    "end_at": null,
+    "comment_group_id": 2137817,
+    "published_at": "2021-05-03T15:00:17+00:00",
+    "display_name": "",
+    "total": 922,
+    "answers": [
+        {
+            "id": 20886,
+            "answer": "Ja, es gibt nichts Schöneres!",
+            "votes": 529,
+            "order": 0
+        },
+        {
+            "id": 20887,
+            "answer": "Nein, ich will meine Ruhe haben.",
+            "votes": 393,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 9343,
+    "question": "Wie haben Sie Muttertag gefeiert?",
+    "created_at": "2021-05-10T11:42:08+00:00",
+    "updated_at": "2021-06-14T09:40:29+00:00",
+    "end_at": null,
+    "comment_group_id": 2150314,
+    "published_at": "2021-05-10T14:07:38+00:00",
+    "display_name": "",
+    "total": 222,
+    "answers": [
+        {
+            "id": 21221,
+            "answer": "Blumen, Essen, Schoggi – das ganze Programm!",
+            "votes": 78,
+            "order": 0
+        },
+        {
+            "id": 21220,
+            "answer": "Gar nicht.",
+            "votes": 144,
+            "order": 1
+        }
+    ]
+}

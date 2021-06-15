@@ -1,0 +1,31 @@
+{
+    "id": 7113,
+    "question": "Sorgen Sie sich um Ihren Arbeitsplatz?",
+    "created_at": "2021-02-08T15:13:53+00:00",
+    "updated_at": "2021-02-09T15:09:36+00:00",
+    "end_at": "2021-02-09T15:13:50+00:00",
+    "comment_group_id": 2012862,
+    "published_at": "2021-02-09T05:43:54+00:00",
+    "display_name": "",
+    "total": 1169,
+    "answers": [
+        {
+            "id": 16426,
+            "answer": "Ja, ich habe Angst, wegen der Krise meinen Job zu verlieren.",
+            "votes": 437,
+            "order": 0
+        },
+        {
+            "id": 16427,
+            "answer": "Nein, mein Job ist trotz der Krise sicher.",
+            "votes": 533,
+            "order": 1
+        },
+        {
+            "id": 16425,
+            "answer": "Ich habe wegen des Lockdowns meine Stelle verloren.",
+            "votes": 199,
+            "order": 2
+        }
+    ]
+}

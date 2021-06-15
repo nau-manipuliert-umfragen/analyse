@@ -1,0 +1,25 @@
+{
+    "id": 6504,
+    "question": "Kann sich der SCB noch in die Playoffs retten?",
+    "created_at": "2021-01-02T20:53:56+00:00",
+    "updated_at": "2021-06-14T09:38:04+00:00",
+    "end_at": null,
+    "comment_group_id": 1961580,
+    "published_at": "2021-01-02T20:54:00+00:00",
+    "display_name": "",
+    "total": 587,
+    "answers": [
+        {
+            "id": 15094,
+            "answer": "Ja",
+            "votes": 102,
+            "order": 0
+        },
+        {
+            "id": 15093,
+            "answer": "Nein",
+            "votes": 485,
+            "order": 1
+        }
+    ]
+}

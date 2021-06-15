@@ -1,0 +1,25 @@
+{
+    "id": 5638,
+    "question": "Wäre Marc Schneider der richtige Trainer für den FCZ?",
+    "created_at": "2020-10-05T11:19:15+00:00",
+    "updated_at": "2021-06-14T09:37:21+00:00",
+    "end_at": null,
+    "comment_group_id": 1834571,
+    "published_at": null,
+    "display_name": "",
+    "total": 834,
+    "answers": [
+        {
+            "id": 13161,
+            "answer": "Ja",
+            "votes": 432,
+            "order": 0
+        },
+        {
+            "id": 13162,
+            "answer": "Nein",
+            "votes": 402,
+            "order": 1
+        }
+    ]
+}

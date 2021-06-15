@@ -1,0 +1,25 @@
+{
+    "id": 5790,
+    "question": "Haben Sie schon einmal einen fiesen Kommentar hinterlassen?",
+    "created_at": "2020-10-19T09:56:54+00:00",
+    "updated_at": "2021-06-14T09:59:07+00:00",
+    "end_at": null,
+    "comment_group_id": 1857264,
+    "published_at": "2020-10-19T12:02:21+00:00",
+    "display_name": "",
+    "total": 1844,
+    "answers": [
+        {
+            "id": 13500,
+            "answer": "Nein, das würde ich auch nie.",
+            "votes": 1665,
+            "order": 0
+        },
+        {
+            "id": 13499,
+            "answer": "Ja, aber es war berechtigt.",
+            "votes": 179,
+            "order": 1
+        }
+    ]
+}

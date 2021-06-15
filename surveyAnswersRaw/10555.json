@@ -1,0 +1,25 @@
+{
+    "id": 4444,
+    "question": "Wie gefällt Ihnen die Story von Jeremy?",
+    "created_at": "2020-06-03T09:06:52+00:00",
+    "updated_at": "2021-06-14T09:36:35+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 120,
+    "answers": [
+        {
+            "id": 10554,
+            "answer": "Gut",
+            "votes": 83,
+            "order": 0
+        },
+        {
+            "id": 10555,
+            "answer": "Schlecht",
+            "votes": 37,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "id": 5401,
+    "question": "Welchen Verein kennt man im Ausland?",
+    "created_at": "2020-09-09T13:11:01+00:00",
+    "updated_at": "2021-06-14T10:23:36+00:00",
+    "end_at": null,
+    "comment_group_id": 1791722,
+    "published_at": "2020-09-12T06:05:53+00:00",
+    "display_name": "",
+    "total": 670,
+    "answers": [
+        {
+            "id": 12641,
+            "answer": "GC",
+            "votes": 81,
+            "order": 0
+        },
+        {
+            "id": 12640,
+            "answer": "FC Basel",
+            "votes": 249,
+            "order": 1
+        },
+        {
+            "id": 12644,
+            "answer": "YB",
+            "votes": 196,
+            "order": 2
+        },
+        {
+            "id": 12642,
+            "answer": "FCZ",
+            "votes": 39,
+            "order": 3
+        },
+        {
+            "id": 12643,
+            "answer": "Servette",
+            "votes": 31,
+            "order": 4
+        },
+        {
+            "id": 12645,
+            "answer": "FC Vaduz",
+            "votes": 74,
+            "order": 5
+        }
+    ]
+}

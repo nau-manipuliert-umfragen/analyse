@@ -1,0 +1,25 @@
+{
+    "id": 2866,
+    "question": "Wie finden sie Harry und Meghan als Influencer?",
+    "created_at": "2020-02-06T12:04:37+00:00",
+    "updated_at": "2021-06-14T09:35:25+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 426,
+    "answers": [
+        {
+            "id": 7107,
+            "answer": "Peinlich. Was für ein Abstieg.",
+            "votes": 350,
+            "order": 0
+        },
+        {
+            "id": 7108,
+            "answer": "Schlau. Die wissen, wie man Geld macht.",
+            "votes": 76,
+            "order": 1
+        }
+    ]
+}

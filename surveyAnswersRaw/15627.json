@@ -1,0 +1,25 @@
+{
+    "id": 6754,
+    "question": "Sollte Luka Jovic bei Frankfurt bleiben?",
+    "created_at": "2021-01-20T15:16:15+00:00",
+    "updated_at": "2021-06-14T09:38:14+00:00",
+    "end_at": null,
+    "comment_group_id": 1985944,
+    "published_at": "2021-01-23T14:54:01+00:00",
+    "display_name": "",
+    "total": 343,
+    "answers": [
+        {
+            "id": 15627,
+            "answer": "Ja, das wäre die bessere Option.",
+            "votes": 261,
+            "order": 0
+        },
+        {
+            "id": 15628,
+            "answer": "Nein, er wird sich bei Real noch durchsetzen.",
+            "votes": 82,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 4535,
+    "question": "Soll die Statue von David de Pury aus dem Jahr 1855 auf dem Place Pury in Neuenburg entfernt werden?",
+    "created_at": "2020-06-09T11:07:21+00:00",
+    "updated_at": "2020-06-09T14:59:41+00:00",
+    "end_at": "2020-06-09T15:00:00+00:00",
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 210,
+    "answers": [
+        {
+            "id": 10747,
+            "answer": "Ja, die Skulptur ist ein Zeichen der Unterdrückung und Sklaverei und gehört entfernt.",
+            "votes": 88,
+            "order": 0
+        },
+        {
+            "id": 10748,
+            "answer": "Nein. Die Stadt Neuchâtel hat de Pury viel zu verdanken und die Skulptur gehört zur Stadt.",
+            "votes": 122,
+            "order": 1
+        }
+    ]
+}

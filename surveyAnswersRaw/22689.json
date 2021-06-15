@@ -1,0 +1,25 @@
+{
+    "id": 10020,
+    "question": "Unterstützen Sie das Anliegen der Firmenchefs?",
+    "created_at": "2021-06-10T12:48:56+00:00",
+    "updated_at": "2021-06-11T09:55:05+00:00",
+    "end_at": "2021-06-11T12:48:53+00:00",
+    "comment_group_id": 2199959,
+    "published_at": "2021-06-10T13:09:18+00:00",
+    "display_name": "",
+    "total": 153,
+    "answers": [
+        {
+            "id": 22688,
+            "answer": "Ja.",
+            "votes": 63,
+            "order": 0
+        },
+        {
+            "id": 22689,
+            "answer": "Nein.",
+            "votes": 90,
+            "order": 1
+        }
+    ]
+}

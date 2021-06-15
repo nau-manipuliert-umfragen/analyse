@@ -1,0 +1,25 @@
+{
+    "id": 6281,
+    "question": "Hat Ihr Partner auch einen Tick, der Sie auf die Palme treibt?",
+    "created_at": "2020-12-09T14:43:25+00:00",
+    "updated_at": "2021-06-14T09:37:55+00:00",
+    "end_at": null,
+    "comment_group_id": 1933511,
+    "published_at": "2020-12-10T14:13:02+00:00",
+    "display_name": "",
+    "total": 1344,
+    "answers": [
+        {
+            "id": 14588,
+            "answer": "Nein, mein Baby ist perfekt.",
+            "votes": 552,
+            "order": 0
+        },
+        {
+            "id": 14589,
+            "answer": "Ja, ich kann nicht mehr ...",
+            "votes": 792,
+            "order": 1
+        }
+    ]
+}

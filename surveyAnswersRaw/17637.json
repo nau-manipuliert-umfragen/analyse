@@ -1,0 +1,25 @@
+{
+    "id": 7655,
+    "question": "Gönnen Sie Angelina Jolie ihre Luxus-Hütte?",
+    "created_at": "2021-02-28T11:07:21+00:00",
+    "updated_at": "2021-06-14T09:38:56+00:00",
+    "end_at": null,
+    "comment_group_id": 2041555,
+    "published_at": "2021-02-28T12:07:38+00:00",
+    "display_name": "",
+    "total": 246,
+    "answers": [
+        {
+            "id": 17636,
+            "answer": "Ja, das Haus ist genau wie Jolie selbst bombastisch.",
+            "votes": 160,
+            "order": 0
+        },
+        {
+            "id": 17637,
+            "answer": "Ja, aber nur wenn ich dort mal Ferien machen darf.",
+            "votes": 86,
+            "order": 1
+        }
+    ]
+}

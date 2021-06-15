@@ -1,0 +1,25 @@
+{
+    "id": 5837,
+    "question": "Freuen Sie sich über Mias Comeback?",
+    "created_at": "2020-10-23T12:41:35+00:00",
+    "updated_at": "2021-06-14T09:37:30+00:00",
+    "end_at": null,
+    "comment_group_id": 1864953,
+    "published_at": "2020-10-26T21:01:01+00:00",
+    "display_name": "",
+    "total": 509,
+    "answers": [
+        {
+            "id": 13602,
+            "answer": "Nein, sie hatte ihre Chance.",
+            "votes": 398,
+            "order": 0
+        },
+        {
+            "id": 13601,
+            "answer": "Ja, die Queen ist zurück!",
+            "votes": 111,
+            "order": 1
+        }
+    ]
+}

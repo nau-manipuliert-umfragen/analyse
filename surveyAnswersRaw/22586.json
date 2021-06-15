@@ -1,0 +1,25 @@
+{
+    "id": 9975,
+    "question": "Glauben Sie Harry & Meghan wollten der Queen mit Lilibet eins auswischen?",
+    "created_at": "2021-06-09T08:08:38+00:00",
+    "updated_at": "2021-06-14T10:17:49+00:00",
+    "end_at": null,
+    "comment_group_id": 2197526,
+    "published_at": "2021-06-09T11:12:02+00:00",
+    "display_name": "",
+    "total": 755,
+    "answers": [
+        {
+            "id": 22586,
+            "answer": "Klar, denen traue ich alles zu!",
+            "votes": 527,
+            "order": 0
+        },
+        {
+            "id": 22587,
+            "answer": "Nein, das war bestimmt nett gemeint.",
+            "votes": 228,
+            "order": 1
+        }
+    ]
+}

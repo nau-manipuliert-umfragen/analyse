@@ -1,0 +1,25 @@
+{
+    "id": 2428,
+    "question": "Sollen Ausländer in der Schweiz Polizisten werden?",
+    "created_at": "2019-08-26T09:18:15+00:00",
+    "updated_at": "2021-06-14T09:35:01+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 550,
+    "answers": [
+        {
+            "id": 6111,
+            "answer": "Ja klar, warum nicht?",
+            "votes": 195,
+            "order": 0
+        },
+        {
+            "id": 6112,
+            "answer": "Nein, kommt nicht in Frage",
+            "votes": 355,
+            "order": 1
+        }
+    ]
+}

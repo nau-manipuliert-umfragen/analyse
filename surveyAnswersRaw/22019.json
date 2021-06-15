@@ -1,0 +1,25 @@
+{
+    "id": 9716,
+    "question": "Kann Seoane mit Leverkusen Titel gewinnen?",
+    "created_at": "2021-05-27T06:43:55+00:00",
+    "updated_at": "2021-06-14T09:40:51+00:00",
+    "end_at": null,
+    "comment_group_id": 2177896,
+    "published_at": "2021-05-28T14:28:05+00:00",
+    "display_name": "",
+    "total": 441,
+    "answers": [
+        {
+            "id": 22020,
+            "answer": "Ja.",
+            "votes": 219,
+            "order": 0
+        },
+        {
+            "id": 22019,
+            "answer": "Nein.",
+            "votes": 222,
+            "order": 1
+        }
+    ]
+}

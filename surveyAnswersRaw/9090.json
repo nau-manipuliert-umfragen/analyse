@@ -1,0 +1,25 @@
+{
+    "id": 3770,
+    "question": "Verdienen Fussballer wie Ronaldo zu viel?",
+    "created_at": "2020-04-06T05:24:57+00:00",
+    "updated_at": "2021-06-14T09:36:05+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 325,
+    "answers": [
+        {
+            "id": 9090,
+            "answer": "Natürlich, das sind horrende Summen.",
+            "votes": 253,
+            "order": 0
+        },
+        {
+            "id": 9089,
+            "answer": "Nein, sie leisten auch viel.",
+            "votes": 72,
+            "order": 1
+        }
+    ]
+}

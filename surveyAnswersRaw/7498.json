@@ -1,0 +1,25 @@
+{
+    "id": 3043,
+    "question": "Sollte Manchester City aus der Premier League ausgeschlossen werden?",
+    "created_at": "2020-02-17T08:53:12+00:00",
+    "updated_at": "2021-06-14T09:35:34+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 427,
+    "answers": [
+        {
+            "id": 7498,
+            "answer": "Ja.",
+            "votes": 285,
+            "order": 0
+        },
+        {
+            "id": 7497,
+            "answer": "Nein.",
+            "votes": 142,
+            "order": 1
+        }
+    ]
+}

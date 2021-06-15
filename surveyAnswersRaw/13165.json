@@ -1,0 +1,25 @@
+{
+    "id": 5640,
+    "question": "Denken Sie Harry und Meghan wären in Afrika aufgeblüht?",
+    "created_at": "2020-10-05T13:16:52+00:00",
+    "updated_at": "2021-06-14T09:37:21+00:00",
+    "end_at": null,
+    "comment_group_id": 1834957,
+    "published_at": "2020-10-05T13:42:56+00:00",
+    "display_name": "",
+    "total": 572,
+    "answers": [
+        {
+            "id": 13165,
+            "answer": "Ja, die beiden hätten dort viele tolle Projekten haben können.",
+            "votes": 130,
+            "order": 0
+        },
+        {
+            "id": 13166,
+            "answer": "Nein, Meghan wollte schon immer zurück ins Hollywood-Rampenlicht.",
+            "votes": 442,
+            "order": 1
+        }
+    ]
+}

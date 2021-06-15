@@ -1,0 +1,25 @@
+{
+    "id": 7853,
+    "question": "Schafft Minnesota die Qualifikation für die NHL-Playoffs?",
+    "created_at": "2021-03-09T07:48:04+00:00",
+    "updated_at": "2021-06-14T09:39:07+00:00",
+    "end_at": null,
+    "comment_group_id": 2054407,
+    "published_at": "2021-03-10T18:32:39+00:00",
+    "display_name": "",
+    "total": 60,
+    "answers": [
+        {
+            "id": 18075,
+            "answer": "Ja",
+            "votes": 39,
+            "order": 0
+        },
+        {
+            "id": 18074,
+            "answer": "Nein",
+            "votes": 21,
+            "order": 1
+        }
+    ]
+}

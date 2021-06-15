@@ -1,0 +1,25 @@
+{
+    "id": 5545,
+    "question": "Schafft der FC Thun den Wiederaufstieg?",
+    "created_at": "2020-09-24T14:12:56+00:00",
+    "updated_at": "2021-06-14T09:37:18+00:00",
+    "end_at": null,
+    "comment_group_id": 1817362,
+    "published_at": "2021-05-07T18:52:38+00:00",
+    "display_name": "",
+    "total": 807,
+    "answers": [
+        {
+            "id": 12966,
+            "answer": "Ja.",
+            "votes": 297,
+            "order": 0
+        },
+        {
+            "id": 12967,
+            "answer": "Nein.",
+            "votes": 510,
+            "order": 1
+        }
+    ]
+}

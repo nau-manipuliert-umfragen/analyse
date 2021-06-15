@@ -1,0 +1,25 @@
+{
+    "id": 5671,
+    "question": "Glauben Sie, dass Wladimir Putin eine geheime Familie hat?",
+    "created_at": "2020-10-08T10:12:03+00:00",
+    "updated_at": "2021-06-14T09:37:23+00:00",
+    "end_at": null,
+    "comment_group_id": 1840070,
+    "published_at": "2020-10-08T11:13:25+00:00",
+    "display_name": "",
+    "total": 1155,
+    "answers": [
+        {
+            "id": 13237,
+            "answer": "Ja, bei ihm überrascht mich nichts mehr.",
+            "votes": 1017,
+            "order": 0
+        },
+        {
+            "id": 13236,
+            "answer": "Nein, das ist eine Schmierkampagne der Gegner.",
+            "votes": 138,
+            "order": 1
+        }
+    ]
+}

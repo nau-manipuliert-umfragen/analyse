@@ -1,0 +1,25 @@
+{
+    "id": 8029,
+    "question": "Hat FCB-Legende Erni Maissen recht?",
+    "created_at": "2021-03-15T20:35:24+00:00",
+    "updated_at": "2021-06-14T09:39:16+00:00",
+    "end_at": null,
+    "comment_group_id": 2064307,
+    "published_at": "2021-03-16T17:08:58+00:00",
+    "display_name": "",
+    "total": 328,
+    "answers": [
+        {
+            "id": 18440,
+            "answer": "Ja, die Clubführung müsste klar kommunizieren!",
+            "votes": 250,
+            "order": 0
+        },
+        {
+            "id": 18439,
+            "answer": "Nein, das ist intern und geht die Fans nichts an.",
+            "votes": 78,
+            "order": 1
+        }
+    ]
+}

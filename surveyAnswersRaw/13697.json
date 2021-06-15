@@ -1,0 +1,25 @@
+{
+    "id": 5882,
+    "question": "Was halten Sie vom aktuellen Ankündigungs-Post des Wendlers?",
+    "created_at": "2020-10-28T07:14:41+00:00",
+    "updated_at": "2021-06-14T09:37:34+00:00",
+    "end_at": null,
+    "comment_group_id": 1872118,
+    "published_at": "2020-10-28T08:07:14+00:00",
+    "display_name": "",
+    "total": 1206,
+    "answers": [
+        {
+            "id": 13697,
+            "answer": "Grandios, der Typ versteht es, die Spannung zu halten.",
+            "votes": 107,
+            "order": 0
+        },
+        {
+            "id": 13698,
+            "answer": "Einfach nur: «Egal»!",
+            "votes": 1099,
+            "order": 1
+        }
+    ]
+}

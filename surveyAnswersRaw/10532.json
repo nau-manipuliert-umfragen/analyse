@@ -1,0 +1,25 @@
+{
+    "id": 4434,
+    "question": "Finden Sie es gut, wenn sich Sportler mit Floyd solidarisieren?",
+    "created_at": "2020-06-02T09:08:01+00:00",
+    "updated_at": "2021-06-14T09:36:34+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 93,
+    "answers": [
+        {
+            "id": 10531,
+            "answer": "Ja, klar",
+            "votes": 59,
+            "order": 0
+        },
+        {
+            "id": 10532,
+            "answer": "Nein! Sport und Politik gehören getrennt",
+            "votes": 34,
+            "order": 1
+        }
+    ]
+}

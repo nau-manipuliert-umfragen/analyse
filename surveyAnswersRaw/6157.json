@@ -1,0 +1,25 @@
+{
+    "id": 2447,
+    "question": "Wer gewinnt diesen Viertelfinal?",
+    "created_at": "2019-09-03T12:16:53+00:00",
+    "updated_at": "2021-06-14T09:35:02+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 120,
+    "answers": [
+        {
+            "id": 6156,
+            "answer": "Stan Wawrinka",
+            "votes": 85,
+            "order": 0
+        },
+        {
+            "id": 6157,
+            "answer": "Daniil Medvedev",
+            "votes": 35,
+            "order": 1
+        }
+    ]
+}

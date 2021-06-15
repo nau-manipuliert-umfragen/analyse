@@ -1,0 +1,25 @@
+{
+    "id": 5985,
+    "question": "Kann St. Gallen auch in diesem Jahr um den Titel mitspielen?",
+    "created_at": "2020-11-08T18:59:41+00:00",
+    "updated_at": "2021-06-14T09:37:38+00:00",
+    "end_at": null,
+    "comment_group_id": 1890599,
+    "published_at": "2020-11-08T19:04:48+00:00",
+    "display_name": "",
+    "total": 122,
+    "answers": [
+        {
+            "id": 13927,
+            "answer": "Ja",
+            "votes": 58,
+            "order": 0
+        },
+        {
+            "id": 13926,
+            "answer": "Nein",
+            "votes": 64,
+            "order": 1
+        }
+    ]
+}

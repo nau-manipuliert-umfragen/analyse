@@ -1,0 +1,25 @@
+{
+    "id": 8677,
+    "question": "Erstaunt es Sie, dass Harry alleine reist?",
+    "created_at": "2021-04-12T06:48:18+00:00",
+    "updated_at": "2021-06-14T09:39:51+00:00",
+    "end_at": null,
+    "comment_group_id": 2103281,
+    "published_at": "2021-04-12T07:14:45+00:00",
+    "display_name": "",
+    "total": 1811,
+    "answers": [
+        {
+            "id": 19792,
+            "answer": "Nein, war ja klar.",
+            "votes": 1716,
+            "order": 0
+        },
+        {
+            "id": 19791,
+            "answer": "Ja, ich bin schockiert.",
+            "votes": 95,
+            "order": 1
+        }
+    ]
+}

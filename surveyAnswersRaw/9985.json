@@ -1,0 +1,25 @@
+{
+    "id": 4184,
+    "question": "Ist Christian Gross der beste Schweizer Fussball-Trainer aller Zeiten?",
+    "created_at": "2020-05-10T17:43:07+00:00",
+    "updated_at": "2021-06-14T09:36:23+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 437,
+    "answers": [
+        {
+            "id": 9986,
+            "answer": "Ja",
+            "votes": 271,
+            "order": 0
+        },
+        {
+            "id": 9985,
+            "answer": "Nein",
+            "votes": 166,
+            "order": 1
+        }
+    ]
+}

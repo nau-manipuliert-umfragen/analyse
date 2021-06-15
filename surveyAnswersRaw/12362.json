@@ -1,0 +1,25 @@
+{
+    "id": 5276,
+    "question": "Wie gefällt Ihnen Versa?",
+    "created_at": "2020-08-27T09:21:17+00:00",
+    "updated_at": "2020-08-27T20:33:11+00:00",
+    "end_at": "2020-08-28T09:21:17+00:00",
+    "comment_group_id": 1769598,
+    "published_at": "2020-08-27T09:21:22+00:00",
+    "display_name": "",
+    "total": 168,
+    "answers": [
+        {
+            "id": 12361,
+            "answer": "So ein schöner Name.",
+            "votes": 45,
+            "order": 0
+        },
+        {
+            "id": 12362,
+            "answer": "Ich hätte den Namen nicht geändert.",
+            "votes": 123,
+            "order": 1
+        }
+    ]
+}

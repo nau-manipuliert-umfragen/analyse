@@ -1,0 +1,25 @@
+{
+    "id": 8104,
+    "question": "Würden Sie an einem solchen Experiment teilnehmen?",
+    "created_at": "2021-03-18T11:24:52+00:00",
+    "updated_at": "2021-06-14T09:39:22+00:00",
+    "end_at": null,
+    "comment_group_id": 2068463,
+    "published_at": "2021-03-18T18:35:55+00:00",
+    "display_name": "",
+    "total": 494,
+    "answers": [
+        {
+            "id": 18594,
+            "answer": "Ja, wieso nicht! Es klingt nach einer Erfahrung.",
+            "votes": 172,
+            "order": 0
+        },
+        {
+            "id": 18593,
+            "answer": "Nein, mein warmes Bett ist mir zu bequem.",
+            "votes": 322,
+            "order": 1
+        }
+    ]
+}

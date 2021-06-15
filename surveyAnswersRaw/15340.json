@@ -1,0 +1,25 @@
+{
+    "id": 6621,
+    "question": "Kann Kevin Fiala an die Leistungen aus der letzten Saison anknüpfen?",
+    "created_at": "2021-01-12T15:33:56+00:00",
+    "updated_at": "2021-06-14T09:38:08+00:00",
+    "end_at": null,
+    "comment_group_id": 1974164,
+    "published_at": "2021-01-13T17:43:45+00:00",
+    "display_name": "",
+    "total": 127,
+    "answers": [
+        {
+            "id": 15340,
+            "answer": "Ja, natürlich.",
+            "votes": 101,
+            "order": 0
+        },
+        {
+            "id": 15339,
+            "answer": "Nein, er wird nicht mehr so stark aufspielen.",
+            "votes": 26,
+            "order": 1
+        }
+    ]
+}

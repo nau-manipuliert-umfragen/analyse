@@ -1,0 +1,25 @@
+{
+    "id": 6575,
+    "question": "Sind Sie mit mit der Wahl zufrieden?",
+    "created_at": "2021-01-08T16:08:31+00:00",
+    "updated_at": "2021-06-14T10:24:33+00:00",
+    "end_at": null,
+    "comment_group_id": 1969295,
+    "published_at": "2021-01-10T11:15:34+00:00",
+    "display_name": "",
+    "total": 88,
+    "answers": [
+        {
+            "id": 15243,
+            "answer": "Ja, Alexander Gerndts Volley ist ein absolutes Traumtor!",
+            "votes": 40,
+            "order": 0
+        },
+        {
+            "id": 15242,
+            "answer": "Nein, ich habe anders abgestimmt.",
+            "votes": 48,
+            "order": 1
+        }
+    ]
+}

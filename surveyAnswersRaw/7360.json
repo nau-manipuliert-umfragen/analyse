@@ -1,0 +1,25 @@
+{
+    "id": 2979,
+    "question": "Erreicht der SCB noch die Playoffs?",
+    "created_at": "2020-02-12T14:27:04+00:00",
+    "updated_at": "2021-06-14T09:35:31+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 479,
+    "answers": [
+        {
+            "id": 7360,
+            "answer": "Ja, der SCB fängt sich und schafft den Sprung über den Strich.",
+            "votes": 239,
+            "order": 0
+        },
+        {
+            "id": 7361,
+            "answer": "Nein, die Berner können sich nicht mehr entscheidend steigern und verpassen die Playoffs.",
+            "votes": 240,
+            "order": 1
+        }
+    ]
+}

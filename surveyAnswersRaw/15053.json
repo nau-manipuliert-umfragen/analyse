@@ -1,0 +1,25 @@
+{
+    "id": 6489,
+    "question": "Was sagen Sie zu Prinz Harrys Zweifeln?",
+    "created_at": "2020-12-30T11:35:07+00:00",
+    "updated_at": "2021-06-14T09:38:03+00:00",
+    "end_at": null,
+    "comment_group_id": 1958683,
+    "published_at": "2020-12-30T14:29:36+00:00",
+    "display_name": "",
+    "total": 1057,
+    "answers": [
+        {
+            "id": 15052,
+            "answer": "Zu Recht!",
+            "votes": 484,
+            "order": 0
+        },
+        {
+            "id": 15053,
+            "answer": "Ehrlich gesagt, beschäftigt mich eher das Silvesterfest ...",
+            "votes": 573,
+            "order": 1
+        }
+    ]
+}

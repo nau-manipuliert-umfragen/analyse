@@ -1,0 +1,25 @@
+{
+    "id": 6209,
+    "question": "Schafft die Schweizer Nati der Frauen die EM-Quali über die Barrage?",
+    "created_at": "2020-12-01T21:00:59+00:00",
+    "updated_at": "2021-06-14T09:37:50+00:00",
+    "end_at": null,
+    "comment_group_id": 1923381,
+    "published_at": null,
+    "display_name": "",
+    "total": 42,
+    "answers": [
+        {
+            "id": 14432,
+            "answer": "Ja",
+            "votes": 21,
+            "order": 0
+        },
+        {
+            "id": 14433,
+            "answer": "Nein",
+            "votes": 21,
+            "order": 1
+        }
+    ]
+}

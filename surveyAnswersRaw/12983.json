@@ -1,0 +1,25 @@
+{
+    "id": 5553,
+    "question": "Wie finden Sie das Popcorn im Kino?",
+    "created_at": "2020-09-25T11:01:42+00:00",
+    "updated_at": "2021-06-14T09:37:18+00:00",
+    "end_at": null,
+    "comment_group_id": 1818716,
+    "published_at": "2020-09-26T19:00:29+00:00",
+    "display_name": "",
+    "total": 251,
+    "answers": [
+        {
+            "id": 12982,
+            "answer": "Lecker. Nirgends gibt es besseres Popcorn.",
+            "votes": 86,
+            "order": 0
+        },
+        {
+            "id": 12983,
+            "answer": "Eklig. Das Popcorn ist total pampig.",
+            "votes": 165,
+            "order": 1
+        }
+    ]
+}

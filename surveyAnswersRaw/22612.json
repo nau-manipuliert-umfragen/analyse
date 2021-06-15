@@ -1,0 +1,25 @@
+{
+    "id": 9987,
+    "question": "Was halten Sie von «grünen» Firmen?",
+    "created_at": "2021-06-09T13:22:06+00:00",
+    "updated_at": "2021-06-14T09:42:55+00:00",
+    "end_at": null,
+    "comment_group_id": 2198099,
+    "published_at": "2021-06-13T18:59:35+00:00",
+    "display_name": "",
+    "total": 162,
+    "answers": [
+        {
+            "id": 22612,
+            "answer": "Das ist doch alles «Greenwashing», keine Firma nimmt ihre Versprechen ernst.",
+            "votes": 107,
+            "order": 0
+        },
+        {
+            "id": 22613,
+            "answer": "Es ist wichtig, dass Firmen sich im Umweltschutz engagieren – auch wenn es nur kleine Schritte sind.",
+            "votes": 55,
+            "order": 1
+        }
+    ]
+}

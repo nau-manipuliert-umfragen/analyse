@@ -1,0 +1,25 @@
+{
+    "id": 6771,
+    "question": "Gucken Sie «DSDS» auch ohne Wendler?",
+    "created_at": "2021-01-21T14:06:16+00:00",
+    "updated_at": "2021-06-14T09:38:14+00:00",
+    "end_at": null,
+    "comment_group_id": 1987546,
+    "published_at": "2021-01-22T09:42:44+00:00",
+    "display_name": "",
+    "total": 1380,
+    "answers": [
+        {
+            "id": 15664,
+            "answer": "Nein, ist mir zu langweilig.",
+            "votes": 681,
+            "order": 0
+        },
+        {
+            "id": 15663,
+            "answer": "Ja, bin froh, ist er weg.",
+            "votes": 699,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 2812,
+    "question": "Ist Krzysztof Piatek der richtige Mann für Hertha Berlin?",
+    "created_at": "2020-02-03T11:50:20+00:00",
+    "updated_at": "2020-02-03T11:56:31+00:00",
+    "end_at": "2020-02-04T11:50:16+00:00",
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 40,
+    "answers": [
+        {
+            "id": 6988,
+            "answer": "Ja, er wird den Hauptstadtklub mit seinen Toren verstärken.",
+            "votes": 20,
+            "order": 0
+        },
+        {
+            "id": 6989,
+            "answer": "Nein, auch Piatek kann Hertha nicht zu einem «Big City Club» machen.",
+            "votes": 20,
+            "order": 1
+        }
+    ]
+}

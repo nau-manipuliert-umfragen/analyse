@@ -1,0 +1,31 @@
+{
+    "id": 8270,
+    "question": "Haben Sie seit Beginn der Corona-Krise Kurzarbeitsgelder bezogen?",
+    "created_at": "2021-03-24T09:59:14+00:00",
+    "updated_at": "2021-03-28T07:30:14+00:00",
+    "end_at": "2021-03-26T09:59:08+00:00",
+    "comment_group_id": 2076785,
+    "published_at": "2021-03-28T07:30:11+00:00",
+    "display_name": "",
+    "total": 60,
+    "answers": [
+        {
+            "id": 18948,
+            "answer": "Ja, aber nur während des ersten Lockdowns.",
+            "votes": 20,
+            "order": 0
+        },
+        {
+            "id": 18947,
+            "answer": "Ja, ich bin praktisch seit einem Jahr auf Kurzarbeit.",
+            "votes": 20,
+            "order": 1
+        },
+        {
+            "id": 18946,
+            "answer": "Nein, mein Arbeitgeber ist von der Krise nicht betroffen.",
+            "votes": 20,
+            "order": 2
+        }
+    ]
+}

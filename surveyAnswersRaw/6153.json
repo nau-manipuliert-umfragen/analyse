@@ -1,0 +1,25 @@
+{
+    "id": 2446,
+    "question": "Verstehen Sie Shaqiris Gründe für die Nati-Absage?",
+    "created_at": "2019-09-03T09:02:09+00:00",
+    "updated_at": "2021-06-14T09:35:02+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 680,
+    "answers": [
+        {
+            "id": 6153,
+            "answer": "Ja",
+            "votes": 165,
+            "order": 0
+        },
+        {
+            "id": 6154,
+            "answer": "Nein",
+            "votes": 515,
+            "order": 1
+        }
+    ]
+}

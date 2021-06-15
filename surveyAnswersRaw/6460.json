@@ -1,0 +1,37 @@
+{
+    "id": 2572,
+    "question": "Kann die Schweizer Eishockey-Nati an der Heim-WM den Titel holen?",
+    "created_at": "2020-01-15T13:55:19+00:00",
+    "updated_at": "2021-06-14T09:35:08+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 269,
+    "answers": [
+        {
+            "id": 6459,
+            "answer": "Niemals. Der Druck im eigenen Land ist zu gross.",
+            "votes": 49,
+            "order": 0
+        },
+        {
+            "id": 6457,
+            "answer": "Wir scheitern im Final an Schweden.",
+            "votes": 51,
+            "order": 1
+        },
+        {
+            "id": 6460,
+            "answer": "Es ist möglich. Aber nur wenn die meisten NHL-Stars dabei sind.",
+            "votes": 140,
+            "order": 2
+        },
+        {
+            "id": 6461,
+            "answer": "Was ist schon die Eishockey-WM. Ich verfolge lieber die NHL-Playoffs.",
+            "votes": 29,
+            "order": 3
+        }
+    ]
+}

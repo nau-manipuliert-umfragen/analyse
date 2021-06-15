@@ -1,0 +1,37 @@
+{
+    "id": 8994,
+    "question": "Welche Mannschaft holt sich den Meistertitel?",
+    "created_at": "2021-04-25T18:43:48+00:00",
+    "updated_at": "2021-06-14T09:40:09+00:00",
+    "end_at": null,
+    "comment_group_id": 2124373,
+    "published_at": "2021-04-26T16:31:52+00:00",
+    "display_name": "",
+    "total": 421,
+    "answers": [
+        {
+            "id": 20468,
+            "answer": "EV Zug",
+            "votes": 219,
+            "order": 0
+        },
+        {
+            "id": 20469,
+            "answer": "Rapperswil-Jona Lakers",
+            "votes": 45,
+            "order": 1
+        },
+        {
+            "id": 20466,
+            "answer": "ZSC Lions",
+            "votes": 93,
+            "order": 2
+        },
+        {
+            "id": 20467,
+            "answer": "Genf-Servette",
+            "votes": 64,
+            "order": 3
+        }
+    ]
+}

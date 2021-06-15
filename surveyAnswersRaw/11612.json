@@ -1,0 +1,25 @@
+{
+    "id": 4934,
+    "question": "Soll Toto Wolff die Führung der gesamten Formel 1 übernehmen?",
+    "created_at": "2020-07-17T11:55:51+00:00",
+    "updated_at": "2020-07-17T11:55:51+00:00",
+    "end_at": "2020-07-17T11:55:49+00:00",
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 40,
+    "answers": [
+        {
+            "id": 11613,
+            "answer": "Ja, er eignet sich perfekt!",
+            "votes": 20,
+            "order": 0
+        },
+        {
+            "id": 11612,
+            "answer": "Nein, dies ist eine Nummer zu gross für ihn.",
+            "votes": 20,
+            "order": 1
+        }
+    ]
+}

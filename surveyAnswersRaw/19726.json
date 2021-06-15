@@ -1,0 +1,25 @@
+{
+    "id": 8645,
+    "question": "Steigt der HSV in der nächsten Saison in die Bundesliga auf?",
+    "created_at": "2021-04-10T08:38:32+00:00",
+    "updated_at": "2021-06-14T09:39:50+00:00",
+    "end_at": null,
+    "comment_group_id": 2101155,
+    "published_at": "2021-05-25T11:01:02+00:00",
+    "display_name": "",
+    "total": 417,
+    "answers": [
+        {
+            "id": 19726,
+            "answer": "Ja",
+            "votes": 112,
+            "order": 0
+        },
+        {
+            "id": 19727,
+            "answer": "Nein",
+            "votes": 305,
+            "order": 1
+        }
+    ]
+}

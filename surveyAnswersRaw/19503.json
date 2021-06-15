@@ -1,0 +1,37 @@
+{
+    "id": 8537,
+    "question": "Wer wird spanischer Meister?",
+    "created_at": "2021-04-05T20:08:11+00:00",
+    "updated_at": "2021-06-14T09:39:44+00:00",
+    "end_at": null,
+    "comment_group_id": 2093633,
+    "published_at": "2021-04-25T20:56:54+00:00",
+    "display_name": "",
+    "total": 277,
+    "answers": [
+        {
+            "id": 19500,
+            "answer": "Atletico Madrid",
+            "votes": 54,
+            "order": 0
+        },
+        {
+            "id": 19502,
+            "answer": "FC Barcelona",
+            "votes": 141,
+            "order": 1
+        },
+        {
+            "id": 19503,
+            "answer": "Real Madrid",
+            "votes": 57,
+            "order": 2
+        },
+        {
+            "id": 19501,
+            "answer": "Eine andere Mannschaft",
+            "votes": 25,
+            "order": 3
+        }
+    ]
+}

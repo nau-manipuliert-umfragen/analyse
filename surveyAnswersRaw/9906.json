@@ -1,0 +1,25 @@
+{
+    "id": 4146,
+    "question": "Was halten Sie von den «wiederbelebten» Zwangspausen? ",
+    "created_at": "2020-05-06T12:24:27+00:00",
+    "updated_at": "2021-06-14T09:36:21+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 495,
+    "answers": [
+        {
+            "id": 9907,
+            "answer": "Halb so schlimm. Schliesslich sind es ja nicht minutenlange Werbeblöcke.",
+            "votes": 97,
+            "order": 0
+        },
+        {
+            "id": 9906,
+            "answer": "Das geht gar nicht. Lieber zahle ich mehr für mein TV-Abo.",
+            "votes": 398,
+            "order": 1
+        }
+    ]
+}

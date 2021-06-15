@@ -1,0 +1,31 @@
+{
+    "id": 7287,
+    "question": "Sollte man heutzutage eine Smartwatch besitzen?",
+    "created_at": "2021-02-15T07:39:21+00:00",
+    "updated_at": "2021-06-14T09:38:40+00:00",
+    "end_at": null,
+    "comment_group_id": 2022311,
+    "published_at": "2021-03-27T12:43:26+00:00",
+    "display_name": "",
+    "total": 302,
+    "answers": [
+        {
+            "id": 16820,
+            "answer": "Ja, die Smartwatch ist eine super Ergänzung zum Handy.",
+            "votes": 168,
+            "order": 0
+        },
+        {
+            "id": 16819,
+            "answer": "Nein, um die Zeit zu sehen reicht auch eine normale Uhr am Handgelenk",
+            "votes": 66,
+            "order": 1
+        },
+        {
+            "id": 16818,
+            "answer": "Alles was die Smartwatch kann, kann mein Handy auch so.",
+            "votes": 68,
+            "order": 2
+        }
+    ]
+}

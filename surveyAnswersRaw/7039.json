@@ -1,0 +1,25 @@
+{
+    "id": 2835,
+    "question": "Handelt Jürgen Klopp richtig?",
+    "created_at": "2020-02-04T13:20:07+00:00",
+    "updated_at": "2021-06-14T09:35:23+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 328,
+    "answers": [
+        {
+            "id": 7039,
+            "answer": "Ja, das ist ein wichtiges Zeichen!",
+            "votes": 286,
+            "order": 0
+        },
+        {
+            "id": 7038,
+            "answer": "Nein, völlig übertrieben!",
+            "votes": 42,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "id": 2073,
+    "question": "Wer entscheidet das Duell in der Champions League für sich?",
+    "created_at": "2018-09-16T09:51:07+00:00",
+    "updated_at": "2021-06-14T09:34:46+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 73,
+    "answers": [
+        {
+            "id": 5298,
+            "answer": "Paris St-Germain!",
+            "votes": 23,
+            "order": 100
+        },
+        {
+            "id": 5301,
+            "answer": "Unentschieden",
+            "votes": 22,
+            "order": 100
+        },
+        {
+            "id": 5304,
+            "answer": "Liverpool!",
+            "votes": 28,
+            "order": 100
+        }
+    ]
+}

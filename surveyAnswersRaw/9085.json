@@ -1,0 +1,25 @@
+{
+    "id": 3768,
+    "question": "Wo würden Sie Matthijs de Ligt nächste Saison gerne sehen?",
+    "created_at": "2020-04-05T17:49:52+00:00",
+    "updated_at": "2021-06-14T09:36:05+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 103,
+    "answers": [
+        {
+            "id": 9085,
+            "answer": "Juventus Turin",
+            "votes": 53,
+            "order": 0
+        },
+        {
+            "id": 9086,
+            "answer": "Real Madrid",
+            "votes": 50,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 2335,
+    "question": "Schafft es Lugano in die Playoffs?",
+    "created_at": "2019-02-08T14:59:08+00:00",
+    "updated_at": "2021-06-14T09:34:57+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 104,
+    "answers": [
+        {
+            "id": 5894,
+            "answer": "Nein, sie sind zu unkonstant.",
+            "votes": 42,
+            "order": 100
+        },
+        {
+            "id": 5895,
+            "answer": "Ja, die Luganesi stehen am Schluss über dem Strich.",
+            "votes": 62,
+            "order": 100
+        }
+    ]
+}

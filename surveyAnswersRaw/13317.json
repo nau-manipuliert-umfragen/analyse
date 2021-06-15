@@ -1,0 +1,25 @@
+{
+    "id": 5709,
+    "question": "Finden Sie das Verhalten von Carmen Geiss schlimm?",
+    "created_at": "2020-10-12T14:33:19+00:00",
+    "updated_at": "2021-06-14T09:37:24+00:00",
+    "end_at": null,
+    "comment_group_id": 1846401,
+    "published_at": "2020-10-13T15:47:48+00:00",
+    "display_name": "",
+    "total": 1133,
+    "answers": [
+        {
+            "id": 13318,
+            "answer": "Ja, sie soll aufhören ihren Töchtern nachzueifern.",
+            "votes": 653,
+            "order": 0
+        },
+        {
+            "id": 13317,
+            "answer": "Nein, ist doch schön, dass sie noch so gut drauf ist.",
+            "votes": 480,
+            "order": 1
+        }
+    ]
+}

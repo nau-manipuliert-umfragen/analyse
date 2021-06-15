@@ -1,0 +1,25 @@
+{
+    "id": 8258,
+    "question": "Holt sich Novak Djokovic den Grand-Slam-Rekord (20)?",
+    "created_at": "2021-03-23T18:03:58+00:00",
+    "updated_at": "2021-06-14T09:39:29+00:00",
+    "end_at": null,
+    "comment_group_id": 2076101,
+    "published_at": "2021-03-24T05:48:32+00:00",
+    "display_name": "",
+    "total": 695,
+    "answers": [
+        {
+            "id": 18920,
+            "answer": "Ja, die Marke knackt «Nole» noch!",
+            "votes": 439,
+            "order": 0
+        },
+        {
+            "id": 18921,
+            "answer": "Nein, Federer und Nadal bleiben vorne.",
+            "votes": 256,
+            "order": 1
+        }
+    ]
+}

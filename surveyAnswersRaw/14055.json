@@ -1,0 +1,25 @@
+{
+    "id": 6044,
+    "question": "Soll der FC Barcelona eine Rückkehr von Neymar in Betracht ziehen?",
+    "created_at": "2020-11-14T10:37:31+00:00",
+    "updated_at": "2021-06-14T09:37:42+00:00",
+    "end_at": null,
+    "comment_group_id": 1898056,
+    "published_at": "2020-11-14T11:50:23+00:00",
+    "display_name": "",
+    "total": 110,
+    "answers": [
+        {
+            "id": 14055,
+            "answer": "Ja, er würde dem Team helfen.",
+            "votes": 49,
+            "order": 0
+        },
+        {
+            "id": 14056,
+            "answer": "Nein, der Brasilianer ist zu teuer.",
+            "votes": 61,
+            "order": 1
+        }
+    ]
+}

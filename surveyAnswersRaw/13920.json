@@ -1,0 +1,31 @@
+{
+    "id": 5982,
+    "question": "Werden Sie sich Helene Fischers Jubiläumssendung anschauen?",
+    "created_at": "2020-11-08T09:02:12+00:00",
+    "updated_at": "2021-06-14T09:37:38+00:00",
+    "end_at": null,
+    "comment_group_id": 1889974,
+    "published_at": "2020-11-08T14:05:38+00:00",
+    "display_name": "",
+    "total": 1039,
+    "answers": [
+        {
+            "id": 13921,
+            "answer": "Klar, ich bin ihr grösster Fan!",
+            "votes": 438,
+            "order": 0
+        },
+        {
+            "id": 13920,
+            "answer": "Nein, ich weiss schon alles über sie!",
+            "votes": 256,
+            "order": 1
+        },
+        {
+            "id": 13919,
+            "answer": "Ich bevorzuge Beatrice Egli.",
+            "votes": 345,
+            "order": 2
+        }
+    ]
+}

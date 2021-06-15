@@ -1,0 +1,25 @@
+{
+    "id": 5523,
+    "question": "Sollte sich Toto Wolff aus dem Mercedes-Team zurückziehen?",
+    "created_at": "2020-09-22T12:20:11+00:00",
+    "updated_at": "2021-06-14T09:37:17+00:00",
+    "end_at": null,
+    "comment_group_id": 1813236,
+    "published_at": "2020-09-27T11:09:29+00:00",
+    "display_name": "",
+    "total": 433,
+    "answers": [
+        {
+            "id": 12923,
+            "answer": "Ja",
+            "votes": 225,
+            "order": 0
+        },
+        {
+            "id": 12922,
+            "answer": "Nein",
+            "votes": 208,
+            "order": 1
+        }
+    ]
+}

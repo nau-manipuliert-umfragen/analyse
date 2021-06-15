@@ -1,0 +1,25 @@
+{
+    "id": 6218,
+    "question": "Wird aus Beat und Natascha ein Paar?",
+    "created_at": "2020-12-02T15:31:12+00:00",
+    "updated_at": "2021-06-14T09:37:50+00:00",
+    "end_at": null,
+    "comment_group_id": 1924535,
+    "published_at": "2020-12-03T21:20:50+00:00",
+    "display_name": "",
+    "total": 1389,
+    "answers": [
+        {
+            "id": 14452,
+            "answer": "Ja, sie haben beide einen derben Sinn für Humor.",
+            "votes": 269,
+            "order": 0
+        },
+        {
+            "id": 14451,
+            "answer": "Nein, er ist ihr zu unreif!",
+            "votes": 1120,
+            "order": 1
+        }
+    ]
+}

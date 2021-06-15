@@ -1,0 +1,25 @@
+{
+    "id": 404,
+    "question": "Holt Simon Ammann auch in Südkorea eine Medaille?",
+    "created_at": "2018-02-10T12:56:34+00:00",
+    "updated_at": "2021-06-14T10:19:59+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 51,
+    "answers": [
+        {
+            "id": 1181,
+            "answer": "Ja, an den Olympischen Spielen blüht er auf.",
+            "votes": 23,
+            "order": 100
+        },
+        {
+            "id": 1184,
+            "answer": "Nein, diesmal reicht es leider nicht.",
+            "votes": 28,
+            "order": 100
+        }
+    ]
+}

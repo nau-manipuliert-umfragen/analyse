@@ -1,0 +1,25 @@
+{
+    "id": 5647,
+    "question": "Shaq hat Corona: Ist es richtig, dass die Schweizer Nati trotzdem spielt?",
+    "created_at": "2020-10-06T09:41:23+00:00",
+    "updated_at": "2021-06-14T09:37:22+00:00",
+    "end_at": null,
+    "comment_group_id": 1836152,
+    "published_at": null,
+    "display_name": "",
+    "total": 458,
+    "answers": [
+        {
+            "id": 13181,
+            "answer": "Ja, klar. Alle anderen Spieler sind negativ.",
+            "votes": 320,
+            "order": 0
+        },
+        {
+            "id": 13182,
+            "answer": "Nein, so wird Fussball zur Nebensache!",
+            "votes": 138,
+            "order": 1
+        }
+    ]
+}

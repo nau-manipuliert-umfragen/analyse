@@ -1,0 +1,31 @@
+{
+    "id": 8467,
+    "question": "Was war für Sie das Thema der Woche?",
+    "created_at": "2021-04-01T10:52:01+00:00",
+    "updated_at": "2021-06-14T09:39:40+00:00",
+    "end_at": null,
+    "comment_group_id": 2089028,
+    "published_at": "2021-04-04T09:58:55+00:00",
+    "display_name": "",
+    "total": 725,
+    "answers": [
+        {
+            "id": 19359,
+            "answer": "Der Knatsch um den FC Basel.",
+            "votes": 283,
+            "order": 0
+        },
+        {
+            "id": 19360,
+            "answer": "Dieter Bohlens Abgang bei DSDS.",
+            "votes": 112,
+            "order": 1
+        },
+        {
+            "id": 19361,
+            "answer": "Ueli Mauerers Sektenspruch.",
+            "votes": 330,
+            "order": 2
+        }
+    ]
+}

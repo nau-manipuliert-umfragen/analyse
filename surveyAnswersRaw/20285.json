@@ -1,0 +1,25 @@
+{
+    "id": 8910,
+    "question": "Was halten Sie von der Belohnung für «Koko»?",
+    "created_at": "2021-04-21T12:50:20+00:00",
+    "updated_at": "2021-06-14T09:40:03+00:00",
+    "end_at": null,
+    "comment_group_id": 2117633,
+    "published_at": "2021-04-21T16:03:10+00:00",
+    "display_name": "",
+    "total": 208,
+    "answers": [
+        {
+            "id": 20286,
+            "answer": "Super, finde ich angemessen.",
+            "votes": 154,
+            "order": 0
+        },
+        {
+            "id": 20285,
+            "answer": "Katzenfutter hätte auch gereicht...",
+            "votes": 54,
+            "order": 1
+        }
+    ]
+}

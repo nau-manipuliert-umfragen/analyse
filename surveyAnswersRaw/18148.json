@@ -1,0 +1,25 @@
+{
+    "id": 7886,
+    "question": "Wird die Queen Harry und Meghan die Titel entziehen?",
+    "created_at": "2021-03-10T11:00:39+00:00",
+    "updated_at": "2021-06-14T09:39:10+00:00",
+    "end_at": null,
+    "comment_group_id": 2056344,
+    "published_at": "2021-03-10T12:37:38+00:00",
+    "display_name": "",
+    "total": 1280,
+    "answers": [
+        {
+            "id": 18147,
+            "answer": "Nein, sie sind immer noch eine Familie.",
+            "votes": 217,
+            "order": 0
+        },
+        {
+            "id": 18148,
+            "answer": "Ja, was wollen sie mit ihren Titeln in Los Angeles?",
+            "votes": 1063,
+            "order": 1
+        }
+    ]
+}

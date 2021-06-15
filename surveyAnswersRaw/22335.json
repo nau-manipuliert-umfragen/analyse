@@ -1,0 +1,25 @@
+{
+    "id": 9858,
+    "question": "Verstehen Sie die Aufregung der NBA-Profis?",
+    "created_at": "2021-06-03T16:48:07+00:00",
+    "updated_at": "2021-06-14T09:40:58+00:00",
+    "end_at": null,
+    "comment_group_id": 2189542,
+    "published_at": "2021-06-06T06:02:17+00:00",
+    "display_name": "",
+    "total": 127,
+    "answers": [
+        {
+            "id": 22335,
+            "answer": "Ja, klar!",
+            "votes": 87,
+            "order": 0
+        },
+        {
+            "id": 22334,
+            "answer": "Nein, es ist zwar nicht gut von den Fans, aber das sind halt Emotionen.",
+            "votes": 40,
+            "order": 1
+        }
+    ]
+}

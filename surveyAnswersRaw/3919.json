@@ -1,0 +1,25 @@
+{
+    "id": 1432,
+    "question": "Soll die Schweizer Nati auf Doppelbürger verzichten?",
+    "created_at": "2018-07-06T00:59:37+00:00",
+    "updated_at": "2021-06-14T09:34:28+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 225,
+    "answers": [
+        {
+            "id": 3919,
+            "answer": "Ja, das würde einige Probleme lösen.",
+            "votes": 128,
+            "order": 100
+        },
+        {
+            "id": 3922,
+            "answer": "Nein, das ist erstens unfair und bringt zweitens nichts.",
+            "votes": 97,
+            "order": 100
+        }
+    ]
+}

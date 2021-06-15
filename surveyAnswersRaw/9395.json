@@ -1,0 +1,25 @@
+{
+    "id": 3917,
+    "question": "Halten Sie den Entscheid, die Meisterschaften im Amateur-Fussball abzubrechen für richtig?",
+    "created_at": "2020-04-18T12:03:46+00:00",
+    "updated_at": "2021-06-14T10:22:28+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 175,
+    "answers": [
+        {
+            "id": 9396,
+            "answer": "Ja, die Saison fertigzuspielen wäre unverantwortlich gewesen.",
+            "votes": 116,
+            "order": 0
+        },
+        {
+            "id": 9395,
+            "answer": "Nein, Amateur-Fussball hat viel weniger Zuschauer. Man hätte weiterspielen können.",
+            "votes": 59,
+            "order": 1
+        }
+    ]
+}

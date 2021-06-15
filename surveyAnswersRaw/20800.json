@@ -1,0 +1,25 @@
+{
+    "id": 9145,
+    "question": "Können Sie jodeln?",
+    "created_at": "2021-05-02T06:48:23+00:00",
+    "updated_at": "2021-06-14T09:40:19+00:00",
+    "end_at": null,
+    "comment_group_id": 2135641,
+    "published_at": "2021-05-02T08:47:15+00:00",
+    "display_name": "",
+    "total": 1485,
+    "answers": [
+        {
+            "id": 20801,
+            "answer": "Ja, schon seit ich denken kann.",
+            "votes": 290,
+            "order": 0
+        },
+        {
+            "id": 20800,
+            "answer": "Leider nein!",
+            "votes": 1195,
+            "order": 1
+        }
+    ]
+}

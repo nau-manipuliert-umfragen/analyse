@@ -1,0 +1,25 @@
+{
+    "id": 9674,
+    "question": "Ist Hansi Flick die richtige Wahl?",
+    "created_at": "2021-05-25T09:18:33+00:00",
+    "updated_at": "2021-06-14T09:40:48+00:00",
+    "end_at": null,
+    "comment_group_id": 2174510,
+    "published_at": "2021-05-26T13:16:01+00:00",
+    "display_name": "",
+    "total": 263,
+    "answers": [
+        {
+            "id": 21926,
+            "answer": "Ja",
+            "votes": 221,
+            "order": 0
+        },
+        {
+            "id": 21925,
+            "answer": "Nein",
+            "votes": 42,
+            "order": 1
+        }
+    ]
+}

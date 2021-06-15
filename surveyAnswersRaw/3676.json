@@ -1,0 +1,37 @@
+{
+    "id": 1363,
+    "question": "Wie verfolgen Sie die Fussball-WM in Russland?",
+    "created_at": "2018-07-02T07:55:38+00:00",
+    "updated_at": "2021-06-14T09:34:25+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 99,
+    "answers": [
+        {
+            "id": 3676,
+            "answer": "Direkt im Public Viewing",
+            "votes": 22,
+            "order": 100
+        },
+        {
+            "id": 3679,
+            "answer": "Über den Fernseher",
+            "votes": 29,
+            "order": 100
+        },
+        {
+            "id": 3685,
+            "answer": "Live im Stadion.",
+            "votes": 23,
+            "order": 100
+        },
+        {
+            "id": 3688,
+            "answer": "Auf dem Handy oder Tablet",
+            "votes": 25,
+            "order": 100
+        }
+    ]
+}

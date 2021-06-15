@@ -1,0 +1,25 @@
+{
+    "id": 3075,
+    "question": "Haben Sie auch schon Kleider von «Cedici» gekauft?",
+    "created_at": "2020-02-18T16:32:03+00:00",
+    "updated_at": "2021-06-14T09:35:36+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 158,
+    "answers": [
+        {
+            "id": 7573,
+            "answer": "Ja, die Marke gefällt mir.",
+            "votes": 66,
+            "order": 0
+        },
+        {
+            "id": 7574,
+            "answer": "Nein, das passt nicht zu meinem Kleidungsstil.",
+            "votes": 92,
+            "order": 1
+        }
+    ]
+}

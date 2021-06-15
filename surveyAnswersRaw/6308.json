@@ -1,0 +1,25 @@
+{
+    "id": 2512,
+    "question": "Würden Sie sich so teure Heizsocken kaufen?",
+    "created_at": "2019-11-18T10:56:52+00:00",
+    "updated_at": "2021-06-14T09:35:05+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 112,
+    "answers": [
+        {
+            "id": 6309,
+            "answer": "Ja, endlich warme Füsse.",
+            "votes": 38,
+            "order": 0
+        },
+        {
+            "id": 6308,
+            "answer": "Nein, das ist doch Abzocke.",
+            "votes": 74,
+            "order": 1
+        }
+    ]
+}

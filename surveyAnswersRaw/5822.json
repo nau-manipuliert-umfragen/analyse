@@ -1,0 +1,31 @@
+{
+    "id": 2300,
+    "question": "Wer gewinnt den unerwarteten Spitzenkampf der Super League?",
+    "created_at": "2018-12-08T14:17:49+00:00",
+    "updated_at": "2021-06-14T09:34:56+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 88,
+    "answers": [
+        {
+            "id": 5820,
+            "answer": "Der FC Thun setzt sich durch.",
+            "votes": 30,
+            "order": 100
+        },
+        {
+            "id": 5821,
+            "answer": "Die Young Boys holen sich die drei Punkte.",
+            "votes": 36,
+            "order": 100
+        },
+        {
+            "id": 5822,
+            "answer": "Die beiden Teams trennen sich unentschieden.",
+            "votes": 22,
+            "order": 100
+        }
+    ]
+}

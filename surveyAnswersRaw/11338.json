@@ -1,0 +1,25 @@
+{
+    "id": 4811,
+    "question": "Wer schafft den direkten Aufstieg?",
+    "created_at": "2020-07-03T20:22:03+00:00",
+    "updated_at": "2021-06-14T09:36:48+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 354,
+    "answers": [
+        {
+            "id": 11337,
+            "answer": "Lausanne",
+            "votes": 138,
+            "order": 0
+        },
+        {
+            "id": 11338,
+            "answer": "GC",
+            "votes": 216,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 7129,
+    "question": "Können die Australian Open in diesem Jahr unter fairen Bedingungen durchgeführt werden?",
+    "created_at": "2021-02-09T08:41:23+00:00",
+    "updated_at": "2021-06-14T09:38:31+00:00",
+    "end_at": null,
+    "comment_group_id": 2013613,
+    "published_at": null,
+    "display_name": "",
+    "total": 295,
+    "answers": [
+        {
+            "id": 16465,
+            "answer": "Ja, die Organisatoren geben ihr Bestes.",
+            "votes": 83,
+            "order": 0
+        },
+        {
+            "id": 16464,
+            "answer": "Nein, das ist nicht Grand-Slam-würdig.",
+            "votes": 212,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "id": 3548,
+    "question": "Wo kaufen Sie ihre Games?",
+    "created_at": "2020-03-20T11:15:04+00:00",
+    "updated_at": "2021-06-14T10:22:12+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 168,
+    "answers": [
+        {
+            "id": 8614,
+            "answer": "Im Laden, das ist viel persönlicher!",
+            "votes": 36,
+            "order": 0
+        },
+        {
+            "id": 8615,
+            "answer": "Vorwiegend Online. Hier sind die Preise günstiger.",
+            "votes": 75,
+            "order": 1
+        },
+        {
+            "id": 8613,
+            "answer": "Ich kaufe überhaupt keine Games.",
+            "votes": 57,
+            "order": 2
+        }
+    ]
+}

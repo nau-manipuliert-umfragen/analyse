@@ -1,0 +1,25 @@
+{
+    "id": 10084,
+    "question": "Haben Sie Flugangst?",
+    "created_at": "2021-06-14T09:17:51+00:00",
+    "updated_at": "2021-06-14T10:25:40+00:00",
+    "end_at": null,
+    "comment_group_id": 2206235,
+    "published_at": "2021-06-14T10:06:08+00:00",
+    "display_name": "",
+    "total": 73,
+    "answers": [
+        {
+            "id": 22824,
+            "answer": "Nein, zum Glück nie.",
+            "votes": 41,
+            "order": 0
+        },
+        {
+            "id": 22825,
+            "answer": "Ja, ich reise lieber mit dem Zug.",
+            "votes": 32,
+            "order": 1
+        }
+    ]
+}

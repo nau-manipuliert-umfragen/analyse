@@ -1,0 +1,25 @@
+{
+    "id": 6444,
+    "question": "Rauswurf an Weihnachten. Können Sie das verstehen?",
+    "created_at": "2020-12-24T10:51:26+00:00",
+    "updated_at": "2021-06-14T09:38:01+00:00",
+    "end_at": null,
+    "comment_group_id": 1953433,
+    "published_at": "2020-12-24T16:56:10+00:00",
+    "display_name": "",
+    "total": 782,
+    "answers": [
+        {
+            "id": 14953,
+            "answer": "Ja, so ist halt das Geschäft.",
+            "votes": 347,
+            "order": 0
+        },
+        {
+            "id": 14952,
+            "answer": "Nein, das ist total daneben.",
+            "votes": 435,
+            "order": 1
+        }
+    ]
+}

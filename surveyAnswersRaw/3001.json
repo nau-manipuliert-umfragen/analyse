@@ -1,0 +1,25 @@
+{
+    "id": 1123,
+    "question": "Sollen Bundesbetriebe wie die SBB und SRG Parlamentarier an Events einladen und allenfalls Unkosten übernehmen?",
+    "created_at": "2018-06-13T14:11:30+00:00",
+    "updated_at": "2021-06-14T09:34:16+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 102,
+    "answers": [
+        {
+            "id": 3001,
+            "answer": "Nein, bei staatsnahen Betrieben sollte dies tabu sein.",
+            "votes": 63,
+            "order": 100
+        },
+        {
+            "id": 3004,
+            "answer": "Ja, Networking ist in allen Bereichen wichtig, aber bei den Kosten wird es problematisch.",
+            "votes": 39,
+            "order": 100
+        }
+    ]
+}

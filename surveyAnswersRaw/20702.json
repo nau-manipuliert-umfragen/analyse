@@ -1,0 +1,25 @@
+{
+    "id": 9103,
+    "question": "Sollte dieser Vorfall sportliche Konsequenzen für Porto haben?",
+    "created_at": "2021-04-29T13:12:35+00:00",
+    "updated_at": "2021-06-14T09:40:16+00:00",
+    "end_at": null,
+    "comment_group_id": 2131697,
+    "published_at": "2021-04-29T15:44:18+00:00",
+    "display_name": "",
+    "total": 92,
+    "answers": [
+        {
+            "id": 20701,
+            "answer": "Ja, die Liga muss hart durchgreifen mit Punktabzügen.",
+            "votes": 52,
+            "order": 0
+        },
+        {
+            "id": 20702,
+            "answer": "Nein, disziplinarische Massnahmen gegen den Berater reichen.",
+            "votes": 40,
+            "order": 1
+        }
+    ]
+}

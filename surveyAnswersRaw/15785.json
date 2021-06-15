@@ -1,0 +1,25 @@
+{
+    "id": 6826,
+    "question": "Holen sich die Schweizerinnen heute den Sieg im Riesenslalom?",
+    "created_at": "2021-01-26T10:17:31+00:00",
+    "updated_at": "2021-06-14T09:38:16+00:00",
+    "end_at": null,
+    "comment_group_id": 1993531,
+    "published_at": "2021-01-26T10:25:13+00:00",
+    "display_name": "",
+    "total": 177,
+    "answers": [
+        {
+            "id": 15784,
+            "answer": "Ja, das klappt!",
+            "votes": 136,
+            "order": 0
+        },
+        {
+            "id": 15785,
+            "answer": "Nein, leider nicht.",
+            "votes": 41,
+            "order": 1
+        }
+    ]
+}

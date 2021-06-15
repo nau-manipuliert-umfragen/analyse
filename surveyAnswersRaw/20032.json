@@ -1,0 +1,31 @@
+{
+    "id": 8791,
+    "question": "Und jetzt mal wirklich ehrlich: Wie oft waschen Sie sich die Hände?",
+    "created_at": "2021-04-16T08:59:01+00:00",
+    "updated_at": "2021-06-14T09:39:57+00:00",
+    "end_at": null,
+    "comment_group_id": 2109955,
+    "published_at": "2021-04-16T18:36:45+00:00",
+    "display_name": "",
+    "total": 1351,
+    "answers": [
+        {
+            "id": 20031,
+            "answer": "Nur nach dem Pinkeln.",
+            "votes": 110,
+            "order": 0
+        },
+        {
+            "id": 20032,
+            "answer": "Gelegentlich auch mal zwischendurch.",
+            "votes": 181,
+            "order": 1
+        },
+        {
+            "id": 20030,
+            "answer": "Immer nach jeder WC-Sitzung, vor dem Kochen und Essen und wenn ich nach Hause komme.",
+            "votes": 1060,
+            "order": 2
+        }
+    ]
+}

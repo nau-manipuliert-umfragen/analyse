@@ -1,0 +1,25 @@
+{
+    "id": 9659,
+    "question": "Ist der Cupsieg des FC Luzern verdient?",
+    "created_at": "2021-05-24T14:41:25+00:00",
+    "updated_at": "2021-06-14T09:40:48+00:00",
+    "end_at": null,
+    "comment_group_id": 2173514,
+    "published_at": "2021-05-24T17:19:20+00:00",
+    "display_name": "",
+    "total": 1318,
+    "answers": [
+        {
+            "id": 21896,
+            "answer": "Ja",
+            "votes": 1131,
+            "order": 0
+        },
+        {
+            "id": 21895,
+            "answer": "Nein",
+            "votes": 187,
+            "order": 1
+        }
+    ]
+}

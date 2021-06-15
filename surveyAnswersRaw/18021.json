@@ -1,0 +1,25 @@
+{
+    "id": 7827,
+    "question": "Sind Sie traurig wegen der Trennung von Alisha und Ramona?",
+    "created_at": "2021-03-08T08:05:38+00:00",
+    "updated_at": "2021-06-14T09:39:05+00:00",
+    "end_at": null,
+    "comment_group_id": 2052900,
+    "published_at": "2021-03-12T06:41:11+00:00",
+    "display_name": "",
+    "total": 1791,
+    "answers": [
+        {
+            "id": 18020,
+            "answer": "Ja",
+            "votes": 452,
+            "order": 0
+        },
+        {
+            "id": 18021,
+            "answer": "Nein",
+            "votes": 1339,
+            "order": 1
+        }
+    ]
+}

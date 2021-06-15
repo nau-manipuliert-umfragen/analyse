@@ -1,0 +1,25 @@
+{
+    "id": 5644,
+    "question": "Finden Sie es gut, dass Shaqiri bei Liverpool bleibt?",
+    "created_at": "2020-10-06T05:43:45+00:00",
+    "updated_at": "2021-06-14T09:37:22+00:00",
+    "end_at": null,
+    "comment_group_id": 1835672,
+    "published_at": "2020-10-06T08:28:48+00:00",
+    "display_name": "",
+    "total": 483,
+    "answers": [
+        {
+            "id": 13173,
+            "answer": "Ja, er wird sich wieder zurück ins Team kämpfen",
+            "votes": 131,
+            "order": 0
+        },
+        {
+            "id": 13174,
+            "answer": "Nein, er braucht unbedingt Spielzeit und hätte den Verein verlassen müssen",
+            "votes": 352,
+            "order": 1
+        }
+    ]
+}

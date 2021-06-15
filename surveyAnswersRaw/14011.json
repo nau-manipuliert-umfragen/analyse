@@ -1,0 +1,25 @@
+{
+    "id": 6024,
+    "question": "Immer wieder Spielverschiebungen. Soll die Hockey-Meisterschaft abgebrochen werden?",
+    "created_at": "2020-11-12T09:21:31+00:00",
+    "updated_at": "2021-06-14T09:37:40+00:00",
+    "end_at": null,
+    "comment_group_id": 1895377,
+    "published_at": null,
+    "display_name": "",
+    "total": 195,
+    "answers": [
+        {
+            "id": 14010,
+            "answer": "Ja, so macht das keinen Sinn.",
+            "votes": 113,
+            "order": 0
+        },
+        {
+            "id": 14011,
+            "answer": "Sicher nicht!",
+            "votes": 82,
+            "order": 1
+        }
+    ]
+}

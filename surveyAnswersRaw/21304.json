@@ -1,0 +1,25 @@
+{
+    "id": 9382,
+    "question": "Wie gefällt Ihnen die ehemalige Villa von Lindsey Vonn?",
+    "created_at": "2021-05-12T06:51:05+00:00",
+    "updated_at": "2021-06-14T09:40:31+00:00",
+    "end_at": null,
+    "comment_group_id": 2153011,
+    "published_at": "2021-05-12T18:26:15+00:00",
+    "display_name": "",
+    "total": 344,
+    "answers": [
+        {
+            "id": 21304,
+            "answer": "Schön!",
+            "votes": 210,
+            "order": 0
+        },
+        {
+            "id": 21305,
+            "answer": "Na ja, nicht so mein Fall ...",
+            "votes": 134,
+            "order": 1
+        }
+    ]
+}

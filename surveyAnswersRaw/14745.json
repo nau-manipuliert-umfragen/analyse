@@ -1,0 +1,25 @@
+{
+    "id": 6349,
+    "question": "Kann der FC Basel YB noch Paroli bieten um den Meistertitel?",
+    "created_at": "2020-12-16T21:26:21+00:00",
+    "updated_at": "2021-06-14T09:37:58+00:00",
+    "end_at": null,
+    "comment_group_id": 1943535,
+    "published_at": "2020-12-17T08:15:33+00:00",
+    "display_name": "",
+    "total": 905,
+    "answers": [
+        {
+            "id": 14745,
+            "answer": "Ja",
+            "votes": 132,
+            "order": 0
+        },
+        {
+            "id": 14744,
+            "answer": "Nein",
+            "votes": 773,
+            "order": 1
+        }
+    ]
+}

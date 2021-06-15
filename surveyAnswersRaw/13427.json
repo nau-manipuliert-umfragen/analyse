@@ -1,0 +1,25 @@
+{
+    "id": 5757,
+    "question": "Ist Hansueli auch Ihr Favorit?",
+    "created_at": "2020-10-15T12:54:45+00:00",
+    "updated_at": "2021-06-14T09:37:26+00:00",
+    "end_at": null,
+    "comment_group_id": 1851332,
+    "published_at": "2020-10-17T15:28:23+00:00",
+    "display_name": "",
+    "total": 403,
+    "answers": [
+        {
+            "id": 13427,
+            "answer": "Ja, er ist super.",
+            "votes": 335,
+            "order": 0
+        },
+        {
+            "id": 13428,
+            "answer": "Nein, mir gefällt ein anderer besser.",
+            "votes": 68,
+            "order": 1
+        }
+    ]
+}

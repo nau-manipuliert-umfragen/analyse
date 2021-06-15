@@ -1,0 +1,25 @@
+{
+    "id": 6911,
+    "question": "Haben Sie auch schon einmal einen Tunnel kassiert?",
+    "created_at": "2021-01-29T18:16:42+00:00",
+    "updated_at": "2021-06-14T09:38:20+00:00",
+    "end_at": null,
+    "comment_group_id": 1999573,
+    "published_at": "2021-01-30T06:52:01+00:00",
+    "display_name": "",
+    "total": 117,
+    "answers": [
+        {
+            "id": 15968,
+            "answer": "Ja, das war peinlich.",
+            "votes": 71,
+            "order": 0
+        },
+        {
+            "id": 15967,
+            "answer": "Nein, das passiert mir nie!",
+            "votes": 46,
+            "order": 1
+        }
+    ]
+}

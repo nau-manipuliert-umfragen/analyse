@@ -1,0 +1,25 @@
+{
+    "id": 9775,
+    "question": "Halten sie einen Lewandowski-Abgang für realistisch?",
+    "created_at": "2021-05-31T09:29:22+00:00",
+    "updated_at": "2021-06-14T09:40:54+00:00",
+    "end_at": null,
+    "comment_group_id": 2183567,
+    "published_at": "2021-06-01T13:33:39+00:00",
+    "display_name": "",
+    "total": 187,
+    "answers": [
+        {
+            "id": 22159,
+            "answer": "Ja, er braucht eine neue Herausforderung!",
+            "votes": 97,
+            "order": 0
+        },
+        {
+            "id": 22158,
+            "answer": "Nein, die Bayern würden Lewandowski nie ziehen lassen!",
+            "votes": 90,
+            "order": 1
+        }
+    ]
+}

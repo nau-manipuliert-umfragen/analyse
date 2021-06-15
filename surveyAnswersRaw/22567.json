@@ -1,0 +1,25 @@
+{
+    "id": 9966,
+    "question": "Djokovic gönnt sich gegen Musetti eine Auszeit – verständlich?",
+    "created_at": "2021-06-08T15:02:52+00:00",
+    "updated_at": "2021-06-14T09:41:04+00:00",
+    "end_at": null,
+    "comment_group_id": 2196480,
+    "published_at": "2021-06-09T05:16:55+00:00",
+    "display_name": "",
+    "total": 1059,
+    "answers": [
+        {
+            "id": 22567,
+            "answer": "Natürlich, das macht doch jeder.",
+            "votes": 538,
+            "order": 0
+        },
+        {
+            "id": 22568,
+            "answer": "Nein, da sollte der Schiri eingreifen.",
+            "votes": 521,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "id": 7283,
+    "question": "Was wünschen Sie dem kleinen Archie?",
+    "created_at": "2021-02-14T20:09:52+00:00",
+    "updated_at": "2021-06-14T09:38:40+00:00",
+    "end_at": null,
+    "comment_group_id": 2021976,
+    "published_at": "2021-02-15T05:46:19+00:00",
+    "display_name": "",
+    "total": 1383,
+    "answers": [
+        {
+            "id": 16809,
+            "answer": "Ein Schwesterchen",
+            "votes": 462,
+            "order": 0
+        },
+        {
+            "id": 16807,
+            "answer": "Ein Brüderchen",
+            "votes": 103,
+            "order": 1
+        },
+        {
+            "id": 16808,
+            "answer": "Ist mir egal",
+            "votes": 818,
+            "order": 2
+        }
+    ]
+}

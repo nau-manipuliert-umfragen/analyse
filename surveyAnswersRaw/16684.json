@@ -1,0 +1,25 @@
+{
+    "id": 7228,
+    "question": "Was sagen Sie zum Verhalten des katarischen Fussball-Präsidenten?",
+    "created_at": "2021-02-12T07:55:58+00:00",
+    "updated_at": "2021-06-14T09:38:37+00:00",
+    "end_at": null,
+    "comment_group_id": 2018634,
+    "published_at": "2021-02-12T08:21:46+00:00",
+    "display_name": "",
+    "total": 2512,
+    "answers": [
+        {
+            "id": 16684,
+            "answer": "Ein Skandal, das kann die FIFA nicht dulden!",
+            "votes": 2048,
+            "order": 0
+        },
+        {
+            "id": 16683,
+            "answer": "Was soll die Aufregung? Das gehört dort zur Kultur.",
+            "votes": 464,
+            "order": 1
+        }
+    ]
+}

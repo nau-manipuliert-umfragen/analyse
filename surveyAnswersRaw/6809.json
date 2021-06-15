@@ -1,0 +1,25 @@
+{
+    "id": 2730,
+    "question": "Sollte Zakaria noch länger bei Borussia Mönchengladbach spielen?",
+    "created_at": "2020-01-28T19:32:20+00:00",
+    "updated_at": "2021-06-14T09:35:17+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 135,
+    "answers": [
+        {
+            "id": 6809,
+            "answer": "Ja, dort kann er sich in Ruhe weiterentwickeln.",
+            "votes": 98,
+            "order": 0
+        },
+        {
+            "id": 6808,
+            "answer": "Nein, es ist Zeit für einen Schritt zu einem grösseren Verein.",
+            "votes": 37,
+            "order": 1
+        }
+    ]
+}

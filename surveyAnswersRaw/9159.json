@@ -1,0 +1,25 @@
+{
+    "id": 3804,
+    "question": "Haben Russland und Katar ihre WM gekauft?",
+    "created_at": "2020-04-08T06:10:00+00:00",
+    "updated_at": "2021-06-14T09:36:06+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 238,
+    "answers": [
+        {
+            "id": 9159,
+            "answer": "Ja, ganz klar. Sie müssen jetzt bestraft werden",
+            "votes": 178,
+            "order": 0
+        },
+        {
+            "id": 9158,
+            "answer": "Beendet diese Streitereien endlich. Die WM in Russland ist gespielt und in Katar vieles schon gebaut",
+            "votes": 60,
+            "order": 1
+        }
+    ]
+}

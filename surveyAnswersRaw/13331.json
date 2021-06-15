@@ -1,0 +1,25 @@
+{
+    "id": 5715,
+    "question": "Was halten Sie von dem aktuellen Verhalten von Schlagerstar Michael Wendler?",
+    "created_at": "2020-10-13T07:03:33+00:00",
+    "updated_at": "2021-06-14T09:37:24+00:00",
+    "end_at": null,
+    "comment_group_id": 1847056,
+    "published_at": "2020-10-13T09:05:51+00:00",
+    "display_name": "",
+    "total": 482,
+    "answers": [
+        {
+            "id": 13332,
+            "answer": "Der hat den Schuss echt nicht mehr gehört!",
+            "votes": 396,
+            "order": 0
+        },
+        {
+            "id": 13331,
+            "answer": "Selten so gute Unterhaltung gehabt, wie durch den Wendler. Merci!",
+            "votes": 86,
+            "order": 1
+        }
+    ]
+}

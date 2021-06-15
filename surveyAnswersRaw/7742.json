@@ -1,0 +1,31 @@
+{
+    "id": 3154,
+    "question": "Wer wird Schweizer Meister?",
+    "created_at": "2020-02-23T17:11:30+00:00",
+    "updated_at": "2021-06-14T09:35:39+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 913,
+    "answers": [
+        {
+            "id": 7742,
+            "answer": "St.Gallen",
+            "votes": 440,
+            "order": 0
+        },
+        {
+            "id": 7744,
+            "answer": "YB",
+            "votes": 398,
+            "order": 1
+        },
+        {
+            "id": 7743,
+            "answer": "Basel",
+            "votes": 75,
+            "order": 2
+        }
+    ]
+}

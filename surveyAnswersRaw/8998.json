@@ -1,0 +1,25 @@
+{
+    "id": 3729,
+    "question": "Bremst die Corona-Krise den Transfermarkt nachhaltig ein?",
+    "created_at": "2020-04-03T05:23:59+00:00",
+    "updated_at": "2021-06-14T09:36:03+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 45,
+    "answers": [
+        {
+            "id": 8997,
+            "answer": "Ja, die Krise führt zu einem Umdenken",
+            "votes": 22,
+            "order": 0
+        },
+        {
+            "id": 8998,
+            "answer": "Nein, das wird sich schnell wieder aufblasen",
+            "votes": 23,
+            "order": 1
+        }
+    ]
+}

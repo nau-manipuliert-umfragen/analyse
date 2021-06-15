@@ -1,0 +1,31 @@
+{
+    "id": 3943,
+    "question": "Wer ist der beste Fussballer der Welt?",
+    "created_at": "2020-04-20T12:37:18+00:00",
+    "updated_at": "2021-06-14T09:36:12+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 346,
+    "answers": [
+        {
+            "id": 9456,
+            "answer": "Lionel Messi",
+            "votes": 167,
+            "order": 0
+        },
+        {
+            "id": 9455,
+            "answer": "Cristiano Ronaldo",
+            "votes": 127,
+            "order": 1
+        },
+        {
+            "id": 9457,
+            "answer": "Ein anderer",
+            "votes": 52,
+            "order": 2
+        }
+    ]
+}

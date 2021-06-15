@@ -1,0 +1,25 @@
+{
+    "id": 7204,
+    "question": "Vermissen Sie die Trumps schon im Weissen Haus?",
+    "created_at": "2021-02-11T13:25:37+00:00",
+    "updated_at": "2021-06-14T09:38:36+00:00",
+    "end_at": null,
+    "comment_group_id": 2017559,
+    "published_at": "2021-02-13T09:55:02+00:00",
+    "display_name": "",
+    "total": 603,
+    "answers": [
+        {
+            "id": 16628,
+            "answer": "Ja, die Bidens sind voll langweilig!",
+            "votes": 146,
+            "order": 0
+        },
+        {
+            "id": 16629,
+            "answer": "Nein, Gott sei Dank sind sie weg. Wehe, die kehren wieder zurück!",
+            "votes": 457,
+            "order": 1
+        }
+    ]
+}

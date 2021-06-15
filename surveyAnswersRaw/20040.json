@@ -1,0 +1,25 @@
+{
+    "id": 8795,
+    "question": "Sind Sie beweglich?",
+    "created_at": "2021-04-16T12:30:21+00:00",
+    "updated_at": "2021-06-14T09:39:57+00:00",
+    "end_at": null,
+    "comment_group_id": 2110366,
+    "published_at": "2021-04-16T18:11:57+00:00",
+    "display_name": "",
+    "total": 494,
+    "answers": [
+        {
+            "id": 20040,
+            "answer": "Ja, dank Sport.",
+            "votes": 189,
+            "order": 0
+        },
+        {
+            "id": 20039,
+            "answer": "Nein, mir tut alles weh.",
+            "votes": 305,
+            "order": 1
+        }
+    ]
+}

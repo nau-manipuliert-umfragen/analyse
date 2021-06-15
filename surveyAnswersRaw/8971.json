@@ -1,0 +1,25 @@
+{
+    "id": 3716,
+    "question": "Ist die Entscheidung von Max Eberl richtig?",
+    "created_at": "2020-04-02T09:51:35+00:00",
+    "updated_at": "2021-06-14T09:36:02+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 74,
+    "answers": [
+        {
+            "id": 8971,
+            "answer": "Ja, dieses Team muss belohnt werden!",
+            "votes": 50,
+            "order": 0
+        },
+        {
+            "id": 8972,
+            "answer": "Nein, Gladbach braucht dringend neue Spieler.",
+            "votes": 24,
+            "order": 1
+        }
+    ]
+}

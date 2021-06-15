@@ -1,0 +1,25 @@
+{
+    "id": 8154,
+    "question": "Finden Sie es richtig, dass heute demonstriert wird?",
+    "created_at": "2021-03-20T16:27:18+00:00",
+    "updated_at": "2021-06-14T09:39:24+00:00",
+    "end_at": null,
+    "comment_group_id": 2071747,
+    "published_at": null,
+    "display_name": "",
+    "total": 2078,
+    "answers": [
+        {
+            "id": 18695,
+            "answer": "Ja, die Massnahmen sind unverhältnismässig.",
+            "votes": 1142,
+            "order": 0
+        },
+        {
+            "id": 18696,
+            "answer": "Nein, das schadet der Situation eher.",
+            "votes": 936,
+            "order": 1
+        }
+    ]
+}

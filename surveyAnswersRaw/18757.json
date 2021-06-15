@@ -1,0 +1,25 @@
+{
+    "id": 8184,
+    "question": "Freuen Sie sich auf den Frühling?",
+    "created_at": "2021-03-22T02:59:28+00:00",
+    "updated_at": "2021-06-14T09:39:25+00:00",
+    "end_at": null,
+    "comment_group_id": 2073112,
+    "published_at": "2021-03-22T03:04:11+00:00",
+    "display_name": "",
+    "total": 463,
+    "answers": [
+        {
+            "id": 18756,
+            "answer": "Ja, es kann gar nicht schnell genug gehen!",
+            "votes": 404,
+            "order": 0
+        },
+        {
+            "id": 18757,
+            "answer": "Nein, mir persönlich ist der Winter lieber.",
+            "votes": 59,
+            "order": 1
+        }
+    ]
+}

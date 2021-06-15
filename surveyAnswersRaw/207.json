@@ -1,0 +1,31 @@
+{
+    "id": 81,
+    "question": "Welcher Kürbis ist der schönste?",
+    "created_at": "2017-10-14T14:11:55+00:00",
+    "updated_at": "2021-06-14T10:16:44+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 87,
+    "answers": [
+        {
+            "id": 206,
+            "answer": "Der Kürbis aus Deutschland",
+            "votes": 27,
+            "order": 100
+        },
+        {
+            "id": 207,
+            "answer": "Der Kürbis aus der Schweiz",
+            "votes": 31,
+            "order": 100
+        },
+        {
+            "id": 208,
+            "answer": "Der Kürbis aus Russland",
+            "votes": 29,
+            "order": 100
+        }
+    ]
+}

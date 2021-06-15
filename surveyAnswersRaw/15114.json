@@ -1,0 +1,25 @@
+{
+    "id": 6514,
+    "question": "Hätten Sie Breel Embolo ausgewechselt?",
+    "created_at": "2021-01-04T07:30:36+00:00",
+    "updated_at": "2021-06-14T10:24:31+00:00",
+    "end_at": null,
+    "comment_group_id": 1962736,
+    "published_at": "2021-01-04T10:52:21+00:00",
+    "display_name": "",
+    "total": 111,
+    "answers": [
+        {
+            "id": 15113,
+            "answer": "Nein, der Trainer hat sich richtig entschieden.",
+            "votes": 72,
+            "order": 0
+        },
+        {
+            "id": 15114,
+            "answer": "Ja, ein Stürmer wird an Toren gemessen!",
+            "votes": 39,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 5206,
+    "question": "Holt Bayern München die Champions League?",
+    "created_at": "2020-08-20T06:53:24+00:00",
+    "updated_at": "2021-06-14T09:37:04+00:00",
+    "end_at": null,
+    "comment_group_id": 1757169,
+    "published_at": "2020-08-20T07:02:50+00:00",
+    "display_name": "",
+    "total": 181,
+    "answers": [
+        {
+            "id": 12213,
+            "answer": "Ja",
+            "votes": 113,
+            "order": 0
+        },
+        {
+            "id": 12214,
+            "answer": "Nein",
+            "votes": 68,
+            "order": 1
+        }
+    ]
+}

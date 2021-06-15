@@ -1,0 +1,37 @@
+{
+    "id": 1147,
+    "question": "War der Einsatz von VAR in der Situation richtig?",
+    "created_at": "2018-06-16T12:06:28+00:00",
+    "updated_at": "2021-06-14T09:34:18+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 101,
+    "answers": [
+        {
+            "id": 3130,
+            "answer": "Richtig, aber kein Penalty.",
+            "votes": 23,
+            "order": 100
+        },
+        {
+            "id": 3133,
+            "answer": "Richtig, und es war Penalty.",
+            "votes": 32,
+            "order": 100
+        },
+        {
+            "id": 3136,
+            "answer": "Falsch, und es war auch kein Penalty.",
+            "votes": 23,
+            "order": 100
+        },
+        {
+            "id": 3139,
+            "answer": "Falsch, aber es wäre Penalty gewesen.",
+            "votes": 23,
+            "order": 100
+        }
+    ]
+}

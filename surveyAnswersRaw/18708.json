@@ -1,0 +1,25 @@
+{
+    "id": 8160,
+    "question": "Können Sie gut Schlittschuhlaufen?",
+    "created_at": "2021-03-21T07:39:55+00:00",
+    "updated_at": "2021-06-14T09:39:24+00:00",
+    "end_at": null,
+    "comment_group_id": 2072125,
+    "published_at": "2021-03-21T09:04:31+00:00",
+    "display_name": "",
+    "total": 982,
+    "answers": [
+        {
+            "id": 18707,
+            "answer": "Ja, ich bin eine wahre Eisprinzessin.",
+            "votes": 227,
+            "order": 0
+        },
+        {
+            "id": 18708,
+            "answer": "Nein, ich fliege immer auf die Schnauze.",
+            "votes": 755,
+            "order": 1
+        }
+    ]
+}

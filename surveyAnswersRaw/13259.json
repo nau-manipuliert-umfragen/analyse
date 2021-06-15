@@ -1,0 +1,25 @@
+{
+    "id": 5681,
+    "question": "Stimmen Sie dem Fan-Rating zu?",
+    "created_at": "2020-10-09T14:13:31+00:00",
+    "updated_at": "2021-06-14T09:37:23+00:00",
+    "end_at": null,
+    "comment_group_id": 1842051,
+    "published_at": "2020-10-11T07:00:22+00:00",
+    "display_name": "",
+    "total": 529,
+    "answers": [
+        {
+            "id": 13260,
+            "answer": "Nein, mir gefällt ein anderer Bauer besser.",
+            "votes": 143,
+            "order": 0
+        },
+        {
+            "id": 13259,
+            "answer": "Ja, Roland und Andy haben Gas gegeben.",
+            "votes": 386,
+            "order": 1
+        }
+    ]
+}

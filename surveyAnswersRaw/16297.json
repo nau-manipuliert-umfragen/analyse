@@ -1,0 +1,25 @@
+{
+    "id": 7056,
+    "question": "Holt sich die Schweiz den Sieg in der WM-Abfahrt?",
+    "created_at": "2021-02-05T12:08:39+00:00",
+    "updated_at": "2021-06-14T09:38:27+00:00",
+    "end_at": null,
+    "comment_group_id": 2009042,
+    "published_at": null,
+    "display_name": "",
+    "total": 209,
+    "answers": [
+        {
+            "id": 16296,
+            "answer": "Ja, auf jeden Fall!",
+            "votes": 146,
+            "order": 0
+        },
+        {
+            "id": 16297,
+            "answer": "Nein, das wird nicht klappen.",
+            "votes": 63,
+            "order": 1
+        }
+    ]
+}

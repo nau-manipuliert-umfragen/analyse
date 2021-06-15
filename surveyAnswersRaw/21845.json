@@ -1,0 +1,25 @@
+{
+    "id": 9635,
+    "question": "Soll nächstes Jahr beim ESC Baschi rein?",
+    "created_at": "2021-05-23T08:44:09+00:00",
+    "updated_at": "2021-06-14T09:40:47+00:00",
+    "end_at": null,
+    "comment_group_id": 2171803,
+    "published_at": "2021-05-23T09:29:25+00:00",
+    "display_name": "",
+    "total": 642,
+    "answers": [
+        {
+            "id": 21846,
+            "answer": "Ja, chum bring en hei!",
+            "votes": 207,
+            "order": 0
+        },
+        {
+            "id": 21845,
+            "answer": "Nein, Jesses, bitte nicht!",
+            "votes": 435,
+            "order": 1
+        }
+    ]
+}

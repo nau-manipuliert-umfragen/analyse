@@ -1,0 +1,25 @@
+{
+    "id": 8878,
+    "question": "Was halten Sie von der Hunde-Verhätschelung der thailändischen Royals?",
+    "created_at": "2021-04-20T11:19:19+00:00",
+    "updated_at": "2021-06-14T09:40:01+00:00",
+    "end_at": null,
+    "comment_group_id": 2115699,
+    "published_at": "2021-04-24T17:51:55+00:00",
+    "display_name": "",
+    "total": 625,
+    "answers": [
+        {
+            "id": 20217,
+            "answer": "Wenn ich könnte, würde ich meinen Hund auch so behandeln.",
+            "votes": 127,
+            "order": 0
+        },
+        {
+            "id": 20216,
+            "answer": "Finde ich lächerlich.",
+            "votes": 498,
+            "order": 1
+        }
+    ]
+}

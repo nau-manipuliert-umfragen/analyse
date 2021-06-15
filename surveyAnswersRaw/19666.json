@@ -1,0 +1,25 @@
+{
+    "id": 8615,
+    "question": "Weshalb schmeissen so viele «GNTM»-Models hin?",
+    "created_at": "2021-04-09T07:30:50+00:00",
+    "updated_at": "2021-06-14T09:39:48+00:00",
+    "end_at": null,
+    "comment_group_id": 2099731,
+    "published_at": "2021-04-10T20:37:08+00:00",
+    "display_name": "",
+    "total": 502,
+    "answers": [
+        {
+            "id": 19666,
+            "answer": "Der Druck ist einfach zu gross!",
+            "votes": 88,
+            "order": 0
+        },
+        {
+            "id": 19665,
+            "answer": "Sie haben gemerkt, dass die Show doch nicht so toll ist.",
+            "votes": 414,
+            "order": 1
+        }
+    ]
+}

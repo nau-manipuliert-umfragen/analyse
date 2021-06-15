@@ -1,0 +1,25 @@
+{
+    "id": 2865,
+    "question": "Ist Kobe Bryant der beste Basketballspieler aller Zeiten?",
+    "created_at": "2020-02-06T10:58:50+00:00",
+    "updated_at": "2021-06-14T09:35:25+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 118,
+    "answers": [
+        {
+            "id": 7106,
+            "answer": "Ja, ohne Zweifel.",
+            "votes": 63,
+            "order": 0
+        },
+        {
+            "id": 7105,
+            "answer": "Nein, da gab es noch bessere.",
+            "votes": 55,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 5200,
+    "question": "Schafft der FC Luzern in der kommenden Saison den Sprung in die Europa-Plätze?",
+    "created_at": "2020-08-19T14:10:18+00:00",
+    "updated_at": "2020-08-23T13:08:25+00:00",
+    "end_at": "2020-08-23T14:09:38+00:00",
+    "comment_group_id": 1756453,
+    "published_at": "2020-08-19T14:53:05+00:00",
+    "display_name": "",
+    "total": 278,
+    "answers": [
+        {
+            "id": 12203,
+            "answer": "Ja",
+            "votes": 133,
+            "order": 0
+        },
+        {
+            "id": 12202,
+            "answer": "Nein",
+            "votes": 145,
+            "order": 1
+        }
+    ]
+}

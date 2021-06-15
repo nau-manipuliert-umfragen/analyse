@@ -1,0 +1,31 @@
+{
+    "id": 73,
+    "question": "Ist das Urteil gegen Christian Constantin in Ordnung?",
+    "created_at": "2017-10-12T09:42:11+00:00",
+    "updated_at": "2021-06-14T10:16:44+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 68,
+    "answers": [
+        {
+            "id": 183,
+            "answer": "Absolut ! Jetzt muss es nur noch umgesetzt werden!",
+            "votes": 24,
+            "order": 100
+        },
+        {
+            "id": 184,
+            "answer": "Das Urteil ist eine Frechheit, das hat CC nicht verdient.",
+            "votes": 22,
+            "order": 100
+        },
+        {
+            "id": 185,
+            "answer": "Spielt doch keine Rolle - mit seinen Anwälten wird er die Umsetzung noch jahrelang hinauszögern.",
+            "votes": 22,
+            "order": 100
+        }
+    ]
+}

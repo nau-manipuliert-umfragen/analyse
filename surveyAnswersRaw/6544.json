@@ -1,0 +1,25 @@
+{
+    "id": 2608,
+    "question": "Was denken Sie, ist Nadal ein Doping-Sünder?",
+    "created_at": "2020-01-18T17:05:12+00:00",
+    "updated_at": "2021-06-14T09:35:11+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 335,
+    "answers": [
+        {
+            "id": 6543,
+            "answer": "Ja, diesen Verdacht hege ich schon seit langem.",
+            "votes": 148,
+            "order": 0
+        },
+        {
+            "id": 6544,
+            "answer": "Nein, das kann ich mir nicht vorstellen.",
+            "votes": 187,
+            "order": 1
+        }
+    ]
+}

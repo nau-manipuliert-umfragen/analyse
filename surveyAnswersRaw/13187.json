@@ -1,0 +1,25 @@
+{
+    "id": 5650,
+    "question": "Macht sich Bayern München mit der Rückholaktion unglaubwürdig?",
+    "created_at": "2020-10-06T12:33:14+00:00",
+    "updated_at": "2021-06-14T09:37:22+00:00",
+    "end_at": null,
+    "comment_group_id": 1836517,
+    "published_at": "2020-10-07T06:30:31+00:00",
+    "display_name": "",
+    "total": 205,
+    "answers": [
+        {
+            "id": 13187,
+            "answer": "Ja, absolut unverständlich.",
+            "votes": 125,
+            "order": 0
+        },
+        {
+            "id": 13188,
+            "answer": "Nein, Costa ist ein super Flügel-Spieler.",
+            "votes": 80,
+            "order": 1
+        }
+    ]
+}

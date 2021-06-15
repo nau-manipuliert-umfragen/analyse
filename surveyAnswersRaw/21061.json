@@ -1,0 +1,25 @@
+{
+    "id": 9271,
+    "question": "Wer gewinnt den Show-Kampf?",
+    "created_at": "2021-05-06T09:49:13+00:00",
+    "updated_at": "2021-06-14T09:40:25+00:00",
+    "end_at": null,
+    "comment_group_id": 2144681,
+    "published_at": "2021-05-06T18:04:10+00:00",
+    "display_name": "",
+    "total": 399,
+    "answers": [
+        {
+            "id": 21062,
+            "answer": "Floyd Mayweather.",
+            "votes": 321,
+            "order": 0
+        },
+        {
+            "id": 21061,
+            "answer": "Logan Paul.",
+            "votes": 78,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "id": 5675,
+    "question": "Würden Sie etwas davon tun, wenn Sie dafür 1 Milliarde CHF bekämen? Falls ja, was?",
+    "created_at": "2020-10-08T19:18:13+00:00",
+    "updated_at": "2020-12-06T14:42:34+00:00",
+    "end_at": "2021-03-06T20:18:00+00:00",
+    "comment_group_id": 1840899,
+    "published_at": "2020-10-09T11:00:44+00:00",
+    "display_name": "",
+    "total": 451,
+    "answers": [
+        {
+            "id": 13248,
+            "answer": "Einen Menschen ermorden.",
+            "votes": 37,
+            "order": 0
+        },
+        {
+            "id": 13245,
+            "answer": "Die Liebe meines Lebens verlassen.",
+            "votes": 27,
+            "order": 1
+        },
+        {
+            "id": 13244,
+            "answer": "Den Kontakt zu meiner Familie abbrechen.",
+            "votes": 31,
+            "order": 2
+        },
+        {
+            "id": 13247,
+            "answer": "Niemals! Auch für 10 Mia. würde ich nichts davon tun.",
+            "votes": 199,
+            "order": 3
+        },
+        {
+            "id": 13246,
+            "answer": "Ich will nur das Voting-Resultat sehen.",
+            "votes": 157,
+            "order": 4
+        }
+    ]
+}

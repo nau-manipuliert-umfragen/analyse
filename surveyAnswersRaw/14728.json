@@ -1,0 +1,25 @@
+{
+    "id": 6341,
+    "question": "Was halten Sie von den Untersuchungen zum Tod von Diego Maradona?",
+    "created_at": "2020-12-16T10:03:47+00:00",
+    "updated_at": "2021-06-14T09:37:57+00:00",
+    "end_at": null,
+    "comment_group_id": 1942492,
+    "published_at": "2021-05-01T11:43:02+00:00",
+    "display_name": "",
+    "total": 218,
+    "answers": [
+        {
+            "id": 14728,
+            "answer": "Absolut richtig, es muss alles lückenlos aufgeklärt werden!",
+            "votes": 104,
+            "order": 0
+        },
+        {
+            "id": 14727,
+            "answer": "Unnötig, lasst ihn doch ruhen.",
+            "votes": 114,
+            "order": 1
+        }
+    ]
+}

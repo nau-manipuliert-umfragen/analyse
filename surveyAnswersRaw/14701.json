@@ -1,0 +1,25 @@
+{
+    "id": 6329,
+    "question": "Trauen Sie Roger Federer ein Comeback an den Australian Open zu?",
+    "created_at": "2020-12-15T08:28:06+00:00",
+    "updated_at": "2021-06-14T09:37:57+00:00",
+    "end_at": null,
+    "comment_group_id": 1940771,
+    "published_at": "2020-12-25T07:02:53+00:00",
+    "display_name": "",
+    "total": 499,
+    "answers": [
+        {
+            "id": 14702,
+            "answer": "Ja, der Maestro wird bereit sein!",
+            "votes": 262,
+            "order": 0
+        },
+        {
+            "id": 14701,
+            "answer": "Nein, seine Verletzungspause wird noch länger andauern ...",
+            "votes": 237,
+            "order": 1
+        }
+    ]
+}

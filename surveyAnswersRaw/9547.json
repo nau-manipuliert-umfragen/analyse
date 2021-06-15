@@ -1,0 +1,31 @@
+{
+    "id": 3985,
+    "question": "Was halten Sie von Harry und Meghans Krieg gegen die britische Presse?",
+    "created_at": "2020-04-23T13:20:37+00:00",
+    "updated_at": "2021-06-14T09:36:14+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 618,
+    "answers": [
+        {
+            "id": 9547,
+            "answer": "Harry und Meghan haben recht, man muss sich nicht alles gefallen lassen!",
+            "votes": 139,
+            "order": 0
+        },
+        {
+            "id": 9546,
+            "answer": "Harry und Meghan betreiben Zensur, was für eine Frechheit!",
+            "votes": 180,
+            "order": 1
+        },
+        {
+            "id": 9545,
+            "answer": "Mein Gott, gibt es derzeit nichts Wichtigeres?",
+            "votes": 299,
+            "order": 2
+        }
+    ]
+}

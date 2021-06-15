@@ -1,0 +1,25 @@
+{
+    "id": 4260,
+    "question": "Was halten Sie von der Rückendeckung der Pochers für Rapper Sido?",
+    "created_at": "2020-05-17T07:20:21+00:00",
+    "updated_at": "2021-06-14T09:36:26+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 433,
+    "answers": [
+        {
+            "id": 10150,
+            "answer": "Geht gar nicht. Sido hat sich total daneben benommen!",
+            "votes": 102,
+            "order": 0
+        },
+        {
+            "id": 10149,
+            "answer": "Verständlich, wer will schon Reporter vor der Haustür haben.",
+            "votes": 331,
+            "order": 1
+        }
+    ]
+}

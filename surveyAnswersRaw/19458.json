@@ -1,0 +1,25 @@
+{
+    "id": 8515,
+    "question": "Welche Tanzeinlage finden Sie sexier?",
+    "created_at": "2021-04-04T13:49:01+00:00",
+    "updated_at": "2021-06-14T09:39:43+00:00",
+    "end_at": null,
+    "comment_group_id": 2092307,
+    "published_at": "2021-04-07T14:26:08+00:00",
+    "display_name": "",
+    "total": 269,
+    "answers": [
+        {
+            "id": 19458,
+            "answer": "Die von Heidi Klum.",
+            "votes": 99,
+            "order": 0
+        },
+        {
+            "id": 19459,
+            "answer": "Die von Oliver Pocher.",
+            "votes": 170,
+            "order": 1
+        }
+    ]
+}

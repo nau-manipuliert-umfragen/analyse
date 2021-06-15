@@ -1,0 +1,25 @@
+{
+    "id": 7120,
+    "question": "Was halten sie von Faustkämpfen im Eishockey?",
+    "created_at": "2021-02-08T16:13:56+00:00",
+    "updated_at": "2021-06-14T09:38:30+00:00",
+    "end_at": null,
+    "comment_group_id": 2012988,
+    "published_at": "2021-02-10T06:21:18+00:00",
+    "display_name": "",
+    "total": 131,
+    "answers": [
+        {
+            "id": 16444,
+            "answer": "Das ist unnötig und blöd.",
+            "votes": 56,
+            "order": 0
+        },
+        {
+            "id": 16443,
+            "answer": "Ich verstehe die Spieler, manchmal muss es einfach sein.",
+            "votes": 75,
+            "order": 1
+        }
+    ]
+}

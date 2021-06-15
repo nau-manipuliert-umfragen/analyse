@@ -1,0 +1,25 @@
+{
+    "id": 9891,
+    "question": "YB und Raphael Wicky – passt das?",
+    "created_at": "2021-06-05T07:31:38+00:00",
+    "updated_at": "2021-06-14T09:41:00+00:00",
+    "end_at": null,
+    "comment_group_id": 2191837,
+    "published_at": null,
+    "display_name": "",
+    "total": 42,
+    "answers": [
+        {
+            "id": 22409,
+            "answer": "Ja",
+            "votes": 21,
+            "order": 0
+        },
+        {
+            "id": 22410,
+            "answer": "Nein",
+            "votes": 21,
+            "order": 1
+        }
+    ]
+}

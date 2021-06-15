@@ -1,0 +1,25 @@
+{
+    "id": 2432,
+    "question": "Finden Sie die ESAF-Regelung sexistisch?",
+    "created_at": "2019-08-27T06:56:39+00:00",
+    "updated_at": "2021-06-14T09:35:01+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 239,
+    "answers": [
+        {
+            "id": 6119,
+            "answer": "Ja, wir schreiben doch das Jahr 2019.",
+            "votes": 130,
+            "order": 0
+        },
+        {
+            "id": 6120,
+            "answer": "Nein, wo ist das Problem?",
+            "votes": 109,
+            "order": 1
+        }
+    ]
+}

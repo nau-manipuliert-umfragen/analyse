@@ -1,0 +1,31 @@
+{
+    "id": 3012,
+    "question": "Würden Sie als Profi am freien Tag auch in Training gehen?",
+    "created_at": "2020-02-14T12:37:05+00:00",
+    "updated_at": "2021-06-14T09:35:33+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 118,
+    "answers": [
+        {
+            "id": 7430,
+            "answer": "Ja, für diesen Lohn muss man täglich arbeiten.",
+            "votes": 68,
+            "order": 0
+        },
+        {
+            "id": 7432,
+            "answer": "Nein, niemals.",
+            "votes": 26,
+            "order": 1
+        },
+        {
+            "id": 7431,
+            "answer": "Training?",
+            "votes": 24,
+            "order": 2
+        }
+    ]
+}

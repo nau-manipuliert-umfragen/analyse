@@ -1,0 +1,37 @@
+{
+    "id": 5315,
+    "question": "Wohin wird Hoarau wechseln?",
+    "created_at": "2020-08-31T12:38:09+00:00",
+    "updated_at": "2021-06-14T09:37:08+00:00",
+    "end_at": null,
+    "comment_group_id": 1775700,
+    "published_at": "2020-08-31T12:43:55+00:00",
+    "display_name": "",
+    "total": 851,
+    "answers": [
+        {
+            "id": 12454,
+            "answer": "Sion",
+            "votes": 177,
+            "order": 0
+        },
+        {
+            "id": 12453,
+            "answer": "Lausanne",
+            "votes": 121,
+            "order": 1
+        },
+        {
+            "id": 12452,
+            "answer": "Servette",
+            "votes": 140,
+            "order": 2
+        },
+        {
+            "id": 12451,
+            "answer": "Ein anderer Verein",
+            "votes": 413,
+            "order": 3
+        }
+    ]
+}

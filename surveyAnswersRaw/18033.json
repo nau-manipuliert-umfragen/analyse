@@ -1,0 +1,25 @@
+{
+    "id": 7833,
+    "question": "Verstehen Sie die Kritik von Mikaela Shiffrin?",
+    "created_at": "2021-03-08T13:12:13+00:00",
+    "updated_at": "2021-06-14T09:39:05+00:00",
+    "end_at": null,
+    "comment_group_id": 2053421,
+    "published_at": "2021-03-08T14:04:25+00:00",
+    "display_name": "",
+    "total": 436,
+    "answers": [
+        {
+            "id": 18033,
+            "answer": "Ja",
+            "votes": 293,
+            "order": 0
+        },
+        {
+            "id": 18032,
+            "answer": "Nein",
+            "votes": 143,
+            "order": 1
+        }
+    ]
+}

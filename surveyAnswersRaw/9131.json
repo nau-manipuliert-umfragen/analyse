@@ -1,0 +1,25 @@
+{
+    "id": 3790,
+    "question": "Ist es richtig, sich in Corona-Zeiten für ein Amt zu bewerben?",
+    "created_at": "2020-04-07T12:48:42+00:00",
+    "updated_at": "2021-06-14T09:36:06+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 162,
+    "answers": [
+        {
+            "id": 9132,
+            "answer": "Ja, warum nicht?",
+            "votes": 106,
+            "order": 0
+        },
+        {
+            "id": 9131,
+            "answer": "Nein, der total falsche Moment",
+            "votes": 56,
+            "order": 1
+        }
+    ]
+}

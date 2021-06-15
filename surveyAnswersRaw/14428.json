@@ -1,0 +1,25 @@
+{
+    "id": 6207,
+    "question": "Was halten Sie von Böllern rund um Fussball-Spiele?",
+    "created_at": "2020-12-01T18:15:10+00:00",
+    "updated_at": "2021-06-14T09:37:50+00:00",
+    "end_at": null,
+    "comment_group_id": 1923279,
+    "published_at": "2020-12-01T18:25:35+00:00",
+    "display_name": "",
+    "total": 78,
+    "answers": [
+        {
+            "id": 14428,
+            "answer": "Das ist Blödsinn – und gefährlich!",
+            "votes": 48,
+            "order": 0
+        },
+        {
+            "id": 14429,
+            "answer": "Das gehört dazu.",
+            "votes": 30,
+            "order": 1
+        }
+    ]
+}

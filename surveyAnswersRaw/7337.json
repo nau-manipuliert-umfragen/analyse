@@ -1,0 +1,25 @@
+{
+    "id": 2968,
+    "question": "Verstehen Sie den Rücktritt von Jürgen Klinsmann bei Hertha Berlin?",
+    "created_at": "2020-02-12T07:13:45+00:00",
+    "updated_at": "2021-06-14T09:35:31+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 571,
+    "answers": [
+        {
+            "id": 7338,
+            "answer": "Ja, das Projekt ist zum Scheitern verurteilt.",
+            "votes": 102,
+            "order": 0
+        },
+        {
+            "id": 7337,
+            "answer": "Nein, so ein Abgang ist unterste Schublade.",
+            "votes": 469,
+            "order": 1
+        }
+    ]
+}

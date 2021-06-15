@@ -1,0 +1,25 @@
+{
+    "id": 7399,
+    "question": "Kuscheln Sie auch mit ihrem Schwager?",
+    "created_at": "2021-02-18T12:53:16+00:00",
+    "updated_at": "2021-06-14T09:38:45+00:00",
+    "end_at": null,
+    "comment_group_id": 2028049,
+    "published_at": "2021-02-18T17:02:58+00:00",
+    "display_name": "",
+    "total": 660,
+    "answers": [
+        {
+            "id": 17077,
+            "answer": "Nein, um Gottes willen!",
+            "votes": 574,
+            "order": 0
+        },
+        {
+            "id": 17078,
+            "answer": "Ja, ist ja nichts mehr dabei.",
+            "votes": 86,
+            "order": 1
+        }
+    ]
+}

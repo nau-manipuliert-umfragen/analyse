@@ -1,0 +1,31 @@
+{
+    "id": 3063,
+    "question": "Haben Sie das SBB-Game bereits gespielt?",
+    "created_at": "2020-02-18T09:25:45+00:00",
+    "updated_at": "2021-06-14T09:35:35+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 141,
+    "answers": [
+        {
+            "id": 7543,
+            "answer": "Nein. Aber jetzt, da ich davon gehört habe, werde ich es ausprobieren!",
+            "votes": 60,
+            "order": 0
+        },
+        {
+            "id": 7544,
+            "answer": "Nein, solch Spielereien interessieren mich nicht.",
+            "votes": 43,
+            "order": 1
+        },
+        {
+            "id": 7545,
+            "answer": "Ja, ich habe es bereits getestet!",
+            "votes": 38,
+            "order": 2
+        }
+    ]
+}

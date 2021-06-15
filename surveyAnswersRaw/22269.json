@@ -1,0 +1,25 @@
+{
+    "id": 9827,
+    "question": "Fliegen Sie der Umwelt zuliebe weniger?",
+    "created_at": "2021-06-02T11:49:53+00:00",
+    "updated_at": "2021-06-03T11:47:56+00:00",
+    "end_at": "2021-06-03T11:49:50+00:00",
+    "comment_group_id": 2187157,
+    "published_at": "2021-06-02T17:15:32+00:00",
+    "display_name": "",
+    "total": 374,
+    "answers": [
+        {
+            "id": 22269,
+            "answer": "Ja.",
+            "votes": 146,
+            "order": 0
+        },
+        {
+            "id": 22268,
+            "answer": "Nein.",
+            "votes": 228,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 9326,
+    "question": "Soll der Final von Istanbul nach England verlegt werden?",
+    "created_at": "2021-05-09T19:48:15+00:00",
+    "updated_at": "2021-06-14T09:40:28+00:00",
+    "end_at": null,
+    "comment_group_id": 2149335,
+    "published_at": "2021-05-09T19:49:10+00:00",
+    "display_name": "",
+    "total": 242,
+    "answers": [
+        {
+            "id": 21182,
+            "answer": "Ja",
+            "votes": 187,
+            "order": 0
+        },
+        {
+            "id": 21183,
+            "answer": "Nein",
+            "votes": 55,
+            "order": 1
+        }
+    ]
+}

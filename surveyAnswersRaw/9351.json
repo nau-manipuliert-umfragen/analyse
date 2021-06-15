@@ -1,0 +1,25 @@
+{
+    "id": 3896,
+    "question": "Was halten Sie von der Kritik?",
+    "created_at": "2020-04-16T08:42:52+00:00",
+    "updated_at": "2021-06-14T09:36:10+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 510,
+    "answers": [
+        {
+            "id": 9351,
+            "answer": "Gerechtfertigt",
+            "votes": 177,
+            "order": 0
+        },
+        {
+            "id": 9350,
+            "answer": "Völlig unnötig",
+            "votes": 333,
+            "order": 1
+        }
+    ]
+}

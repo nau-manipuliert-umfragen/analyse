@@ -1,0 +1,25 @@
+{
+    "id": 3661,
+    "question": "Haben Sie sich vor der Corona-Pandemie Gedanken zum richtigen Händewaschen gemacht?",
+    "created_at": "2020-03-29T15:58:44+00:00",
+    "updated_at": "2020-03-29T15:58:44+00:00",
+    "end_at": "2020-03-29T15:58:37+00:00",
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 40,
+    "answers": [
+        {
+            "id": 8857,
+            "answer": "Ja",
+            "votes": 20,
+            "order": 0
+        },
+        {
+            "id": 8858,
+            "answer": "Nein",
+            "votes": 20,
+            "order": 1
+        }
+    ]
+}

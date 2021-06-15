@@ -1,0 +1,25 @@
+{
+    "id": 5018,
+    "question": "Finden Sie es gut, dass ein Ex-Junior von Köbi das Grab von Alice bepflanzt?",
+    "created_at": "2020-07-30T09:17:33+00:00",
+    "updated_at": "2021-06-14T09:36:57+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 2647,
+    "answers": [
+        {
+            "id": 11796,
+            "answer": "Ja, das ist eine schöne Geste.",
+            "votes": 2239,
+            "order": 0
+        },
+        {
+            "id": 11797,
+            "answer": "Nein, das wäre die Aufgabe von Jadwiga Kuhn!",
+            "votes": 408,
+            "order": 1
+        }
+    ]
+}

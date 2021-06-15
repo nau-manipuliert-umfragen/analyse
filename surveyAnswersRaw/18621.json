@@ -1,0 +1,25 @@
+{
+    "id": 8118,
+    "question": "Ist die Frauen-Training-Strafe gegen Heiko Vogel sexistisch?",
+    "created_at": "2021-03-18T15:25:35+00:00",
+    "updated_at": "2021-06-14T09:39:22+00:00",
+    "end_at": null,
+    "comment_group_id": 2068933,
+    "published_at": "2021-03-23T15:01:35+00:00",
+    "display_name": "",
+    "total": 522,
+    "answers": [
+        {
+            "id": 18622,
+            "answer": "Ja, das geht gar nicht.",
+            "votes": 302,
+            "order": 0
+        },
+        {
+            "id": 18621,
+            "answer": "Nein",
+            "votes": 220,
+            "order": 1
+        }
+    ]
+}

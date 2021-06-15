@@ -1,0 +1,25 @@
+{
+    "id": 7832,
+    "question": "Was halten Sie von diesen fortgeschrittenen Masken?",
+    "created_at": "2021-03-08T11:12:50+00:00",
+    "updated_at": "2021-06-14T09:39:05+00:00",
+    "end_at": null,
+    "comment_group_id": 2053268,
+    "published_at": "2021-03-08T16:34:10+00:00",
+    "display_name": "",
+    "total": 299,
+    "answers": [
+        {
+            "id": 18031,
+            "answer": "Das ist cool!",
+            "votes": 83,
+            "order": 0
+        },
+        {
+            "id": 18030,
+            "answer": "Unnötig, ich bleibe bei meinen bisherigen Masken.",
+            "votes": 216,
+            "order": 1
+        }
+    ]
+}

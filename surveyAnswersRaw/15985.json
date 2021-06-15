@@ -1,0 +1,25 @@
+{
+    "id": 6919,
+    "question": "Nutzen auch Sie Smart-Home-Geräte?",
+    "created_at": "2021-01-30T14:18:58+00:00",
+    "updated_at": "2021-06-14T09:38:21+00:00",
+    "end_at": null,
+    "comment_group_id": 2000236,
+    "published_at": "2021-04-12T09:24:03+00:00",
+    "display_name": "",
+    "total": 314,
+    "answers": [
+        {
+            "id": 15985,
+            "answer": "Ja, das ist sehr praktisch.",
+            "votes": 204,
+            "order": 0
+        },
+        {
+            "id": 15984,
+            "answer": "Nein, das ist mir zu teuer.",
+            "votes": 110,
+            "order": 1
+        }
+    ]
+}

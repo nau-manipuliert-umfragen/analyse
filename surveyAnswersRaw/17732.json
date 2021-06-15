@@ -1,0 +1,25 @@
+{
+    "id": 7699,
+    "question": "Kehrt Eden Hazard bei Real Madrid zu alter Stärke zurück?",
+    "created_at": "2021-03-01T16:18:10+00:00",
+    "updated_at": "2021-06-14T09:38:58+00:00",
+    "end_at": null,
+    "comment_group_id": 2043615,
+    "published_at": "2021-03-07T08:05:22+00:00",
+    "display_name": "",
+    "total": 337,
+    "answers": [
+        {
+            "id": 17732,
+            "answer": "Ja.",
+            "votes": 91,
+            "order": 0
+        },
+        {
+            "id": 17733,
+            "answer": "Nein.",
+            "votes": 246,
+            "order": 1
+        }
+    ]
+}

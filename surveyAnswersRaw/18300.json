@@ -1,0 +1,25 @@
+{
+    "id": 7962,
+    "question": "Fährt heute eine Schweizerin aufs Slalom-Podest?",
+    "created_at": "2021-03-13T10:12:45+00:00",
+    "updated_at": "2021-06-14T10:25:44+00:00",
+    "end_at": null,
+    "comment_group_id": 2060928,
+    "published_at": "2021-03-13T10:15:38+00:00",
+    "display_name": "",
+    "total": 147,
+    "answers": [
+        {
+            "id": 18301,
+            "answer": "Ja",
+            "votes": 90,
+            "order": 0
+        },
+        {
+            "id": 18300,
+            "answer": "Nein",
+            "votes": 57,
+            "order": 1
+        }
+    ]
+}

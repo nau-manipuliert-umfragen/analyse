@@ -1,0 +1,25 @@
+{
+    "id": 6052,
+    "question": "Singen Sie mit ihrem Partner auch unter der Dusche?",
+    "created_at": "2020-11-15T13:24:27+00:00",
+    "updated_at": "2021-06-14T09:37:42+00:00",
+    "end_at": null,
+    "comment_group_id": 1898899,
+    "published_at": "2020-11-16T07:38:20+00:00",
+    "display_name": "",
+    "total": 156,
+    "answers": [
+        {
+            "id": 14075,
+            "answer": "Natürlich, da kann uns ja auch keiner hören!",
+            "votes": 40,
+            "order": 0
+        },
+        {
+            "id": 14074,
+            "answer": "Nein, ich singe nur, wenn ich alleine bin.",
+            "votes": 116,
+            "order": 1
+        }
+    ]
+}

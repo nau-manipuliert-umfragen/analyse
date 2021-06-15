@@ -1,0 +1,37 @@
+{
+    "id": 1806,
+    "question": "Würden Sie Juul probieren?",
+    "created_at": "2018-08-20T05:11:11+00:00",
+    "updated_at": "2021-06-14T10:20:49+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 210,
+    "answers": [
+        {
+            "id": 4722,
+            "answer": "Nein, bin überzeugter Nichtraucher.",
+            "votes": 46,
+            "order": 100
+        },
+        {
+            "id": 4728,
+            "answer": "Nein, ich bleibe bei der normalen Zigarette.",
+            "votes": 26,
+            "order": 100
+        },
+        {
+            "id": 4734,
+            "answer": "Ja, obwohl ich Nichtraucher bin.",
+            "votes": 43,
+            "order": 100
+        },
+        {
+            "id": 4737,
+            "answer": "Ja, mit gewöhnlichen E-Zigis konnte ich mir das Rauchen nämlich nicht abgewöhnen.",
+            "votes": 95,
+            "order": 100
+        }
+    ]
+}

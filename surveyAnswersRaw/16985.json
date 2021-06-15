@@ -1,0 +1,31 @@
+{
+    "id": 7360,
+    "question": "Achten Sie beim Kauf vom Lebensmittel und Konsumgüter auf das RSPO-Label?",
+    "created_at": "2021-02-17T10:20:15+00:00",
+    "updated_at": "2021-06-14T09:38:43+00:00",
+    "end_at": null,
+    "comment_group_id": 2025924,
+    "published_at": "2021-02-20T13:54:16+00:00",
+    "display_name": "",
+    "total": 301,
+    "answers": [
+        {
+            "id": 16985,
+            "answer": "Ja, nicht zertifiziertes Palmöl kaufe ich nicht.",
+            "votes": 50,
+            "order": 0
+        },
+        {
+            "id": 16986,
+            "answer": "Nein, das Label hat keinen Einfluss auf meinen Einkauf.",
+            "votes": 81,
+            "order": 1
+        },
+        {
+            "id": 16984,
+            "answer": "Ich kaufe keine Produkte, wo Palmöl drin steckt.",
+            "votes": 170,
+            "order": 2
+        }
+    ]
+}

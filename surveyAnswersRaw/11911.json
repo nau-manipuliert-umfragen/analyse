@@ -1,0 +1,25 @@
+{
+    "id": 5065,
+    "question": "Kann sich Fulham in der Premier League halten?",
+    "created_at": "2020-08-05T06:13:50+00:00",
+    "updated_at": "2021-06-14T09:36:59+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 74,
+    "answers": [
+        {
+            "id": 11911,
+            "answer": "Ja, es hat die Qualität.",
+            "votes": 36,
+            "order": 0
+        },
+        {
+            "id": 11912,
+            "answer": "Nein, das wird nichts.",
+            "votes": 38,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 3914,
+    "question": "Glauben Sie Tysons Ex-Trainer Fenech?",
+    "created_at": "2020-04-17T18:04:03+00:00",
+    "updated_at": "2021-06-14T09:36:11+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 163,
+    "answers": [
+        {
+            "id": 9389,
+            "answer": "Ja",
+            "votes": 80,
+            "order": 0
+        },
+        {
+            "id": 9390,
+            "answer": "Nein",
+            "votes": 83,
+            "order": 1
+        }
+    ]
+}

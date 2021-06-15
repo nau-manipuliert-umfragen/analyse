@@ -1,0 +1,25 @@
+{
+    "id": 5164,
+    "question": "Soll Xherdan Shaqiri den FC Liverpool verlassen?",
+    "created_at": "2020-08-17T13:37:12+00:00",
+    "updated_at": "2021-06-14T09:37:02+00:00",
+    "end_at": null,
+    "comment_group_id": 1752835,
+    "published_at": "2020-08-18T05:23:39+00:00",
+    "display_name": "",
+    "total": 325,
+    "answers": [
+        {
+            "id": 12127,
+            "answer": "Ja, er muss unbedingt mehr spielen.",
+            "votes": 188,
+            "order": 0
+        },
+        {
+            "id": 12128,
+            "answer": "Nein, er wird wieder mehr Einsatzzeit erhalten.",
+            "votes": 137,
+            "order": 1
+        }
+    ]
+}

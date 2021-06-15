@@ -1,0 +1,31 @@
+{
+    "id": 8566,
+    "question": "Wofür geben Sie Ihr Geld am liebsten aus?",
+    "created_at": "2021-04-07T09:22:41+00:00",
+    "updated_at": "2021-06-14T09:39:46+00:00",
+    "end_at": null,
+    "comment_group_id": 2096149,
+    "published_at": "2021-04-08T17:52:44+00:00",
+    "display_name": "",
+    "total": 261,
+    "answers": [
+        {
+            "id": 19561,
+            "answer": "Luxusgüter!",
+            "votes": 38,
+            "order": 0
+        },
+        {
+            "id": 19563,
+            "answer": "Feines Essen!",
+            "votes": 99,
+            "order": 1
+        },
+        {
+            "id": 19562,
+            "answer": "Gar nicht, ich spare lieber.",
+            "votes": 124,
+            "order": 2
+        }
+    ]
+}

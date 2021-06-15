@@ -1,0 +1,31 @@
+{
+    "id": 3238,
+    "question": "Können Sie sich vorstellen, ein Handy mit rundum Display im Alltag zu benutzen?",
+    "created_at": "2020-03-01T12:34:43+00:00",
+    "updated_at": "2021-06-14T09:35:43+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 177,
+    "answers": [
+        {
+            "id": 7938,
+            "answer": "Ja, sieht schön aus und ist praktisch!",
+            "votes": 94,
+            "order": 0
+        },
+        {
+            "id": 7939,
+            "answer": "Nein, das Ding geht doch viel zu schnell kaputt!",
+            "votes": 48,
+            "order": 1
+        },
+        {
+            "id": 7940,
+            "answer": "Ich bin mir nicht sicher.",
+            "votes": 35,
+            "order": 2
+        }
+    ]
+}

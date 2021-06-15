@@ -1,0 +1,25 @@
+{
+    "id": 5765,
+    "question": "Wird der FC Liverpool in der Partie gegen Everton den Rank kriegen?",
+    "created_at": "2020-10-16T08:26:51+00:00",
+    "updated_at": "2020-10-16T18:46:48+00:00",
+    "end_at": "2020-10-16T08:26:54+00:00",
+    "comment_group_id": 1852391,
+    "published_at": "2020-10-16T18:46:46+00:00",
+    "display_name": "",
+    "total": 40,
+    "answers": [
+        {
+            "id": 13446,
+            "answer": "Ja definitiv!",
+            "votes": 20,
+            "order": 0
+        },
+        {
+            "id": 13445,
+            "answer": "Nein, ich denke nicht.",
+            "votes": 20,
+            "order": 1
+        }
+    ]
+}

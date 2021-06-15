@@ -1,0 +1,31 @@
+{
+    "id": 7066,
+    "question": "Was hält Sie frisch und munter?",
+    "created_at": "2021-02-05T14:44:19+00:00",
+    "updated_at": "2021-02-06T13:03:04+00:00",
+    "end_at": "2021-02-05T14:44:17+00:00",
+    "comment_group_id": 2009392,
+    "published_at": "2021-02-06T13:03:03+00:00",
+    "display_name": "",
+    "total": 60,
+    "answers": [
+        {
+            "id": 16317,
+            "answer": "Ausgewogene Ernährung.",
+            "votes": 20,
+            "order": 0
+        },
+        {
+            "id": 16316,
+            "answer": "Viel Sport.",
+            "votes": 20,
+            "order": 1
+        },
+        {
+            "id": 16318,
+            "answer": "Lesen.",
+            "votes": 20,
+            "order": 2
+        }
+    ]
+}

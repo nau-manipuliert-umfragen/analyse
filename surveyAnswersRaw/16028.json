@@ -1,0 +1,25 @@
+{
+    "id": 6939,
+    "question": "Ist die Kritik an FCB-Abwehrchef Timm Klose berechtigt?",
+    "created_at": "2021-02-01T08:51:26+00:00",
+    "updated_at": "2021-06-14T09:38:21+00:00",
+    "end_at": null,
+    "comment_group_id": 2002003,
+    "published_at": "2021-02-01T12:30:28+00:00",
+    "display_name": "",
+    "total": 437,
+    "answers": [
+        {
+            "id": 16029,
+            "answer": "Ja, von ihm kann man mehr erwarten.",
+            "votes": 346,
+            "order": 0
+        },
+        {
+            "id": 16028,
+            "answer": "Nein, es sind alle mitschuldig.",
+            "votes": 91,
+            "order": 1
+        }
+    ]
+}

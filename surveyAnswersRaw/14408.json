@@ -1,0 +1,25 @@
+{
+    "id": 6197,
+    "question": "Sind Sie froh darüber, dass Don Nachbaur nicht mehr SCB-Trainer ist?",
+    "created_at": "2020-12-01T08:35:56+00:00",
+    "updated_at": "2021-06-14T09:37:50+00:00",
+    "end_at": null,
+    "comment_group_id": 1922191,
+    "published_at": null,
+    "display_name": "",
+    "total": 437,
+    "answers": [
+        {
+            "id": 14409,
+            "answer": "Ja",
+            "votes": 275,
+            "order": 0
+        },
+        {
+            "id": 14408,
+            "answer": "Nein",
+            "votes": 162,
+            "order": 1
+        }
+    ]
+}

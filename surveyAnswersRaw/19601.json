@@ -1,0 +1,25 @@
+{
+    "id": 8585,
+    "question": "Schafft Bayern München im Rückspiel die Wende?",
+    "created_at": "2021-04-08T06:03:47+00:00",
+    "updated_at": "2021-06-14T09:39:47+00:00",
+    "end_at": null,
+    "comment_group_id": 2097632,
+    "published_at": "2021-04-08T07:11:46+00:00",
+    "display_name": "",
+    "total": 322,
+    "answers": [
+        {
+            "id": 19601,
+            "answer": "Ja",
+            "votes": 139,
+            "order": 0
+        },
+        {
+            "id": 19600,
+            "answer": "Nein",
+            "votes": 183,
+            "order": 1
+        }
+    ]
+}

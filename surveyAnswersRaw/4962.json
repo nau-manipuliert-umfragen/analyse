@@ -1,0 +1,37 @@
+{
+    "id": 1929,
+    "question": "Auf welchem Platz landet YB in dieser Hammergruppe?",
+    "created_at": "2018-08-30T17:37:08+00:00",
+    "updated_at": "2021-06-14T10:20:52+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 145,
+    "answers": [
+        {
+            "id": 4956,
+            "answer": "Platz 2",
+            "votes": 26,
+            "order": 100
+        },
+        {
+            "id": 4959,
+            "answer": "Platz 4",
+            "votes": 40,
+            "order": 100
+        },
+        {
+            "id": 4962,
+            "answer": "Platz 1",
+            "votes": 33,
+            "order": 100
+        },
+        {
+            "id": 4965,
+            "answer": "Platz 3",
+            "votes": 46,
+            "order": 100
+        }
+    ]
+}

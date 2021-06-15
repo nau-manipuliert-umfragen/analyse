@@ -1,0 +1,25 @@
+{
+    "id": 4294,
+    "question": "Finden Sie die Strafe für Manchester City berechtigt?",
+    "created_at": "2020-05-19T19:51:23+00:00",
+    "updated_at": "2021-06-14T09:36:28+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 50,
+    "answers": [
+        {
+            "id": 10224,
+            "answer": "Ja, auf jeden Fall.",
+            "votes": 27,
+            "order": 0
+        },
+        {
+            "id": 10223,
+            "answer": "Nein, das ist etwas zu hart.",
+            "votes": 23,
+            "order": 1
+        }
+    ]
+}

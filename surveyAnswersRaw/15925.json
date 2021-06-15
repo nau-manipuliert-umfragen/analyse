@@ -1,0 +1,31 @@
+{
+    "id": 6892,
+    "question": "Was ist der Grund für Vettels neuen Look?",
+    "created_at": "2021-01-29T08:21:33+00:00",
+    "updated_at": "2021-06-14T09:38:19+00:00",
+    "end_at": null,
+    "comment_group_id": 1998421,
+    "published_at": "2021-01-29T13:19:05+00:00",
+    "display_name": "",
+    "total": 263,
+    "answers": [
+        {
+            "id": 15927,
+            "answer": "Die Ferrari-Zeit war zum Haareraufen.",
+            "votes": 128,
+            "order": 0
+        },
+        {
+            "id": 15926,
+            "answer": "Er möchte sich als Prinz-William-Darsteller versuchen.",
+            "votes": 39,
+            "order": 1
+        },
+        {
+            "id": 15925,
+            "answer": "Er hofft auf aerodynamische Vorteile.",
+            "votes": 96,
+            "order": 2
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 4749,
+    "question": "Sind Sie für eine Gehaltsobergrenze im Fussball?",
+    "created_at": "2020-06-29T07:53:18+00:00",
+    "updated_at": "2021-06-14T09:36:46+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 42,
+    "answers": [
+        {
+            "id": 11204,
+            "answer": "Ja, die verdienen dann immer noch genug.",
+            "votes": 21,
+            "order": 0
+        },
+        {
+            "id": 11203,
+            "answer": "Nein, alles so belassen, wie es ist.",
+            "votes": 21,
+            "order": 1
+        }
+    ]
+}

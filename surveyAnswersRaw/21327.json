@@ -1,0 +1,25 @@
+{
+    "id": 9392,
+    "question": "Sollten die drei Klubs von den Uefa-Wettbewerben ausgeschlossen werden?",
+    "created_at": "2021-05-12T11:55:04+00:00",
+    "updated_at": "2021-06-14T09:40:31+00:00",
+    "end_at": null,
+    "comment_group_id": 2153668,
+    "published_at": null,
+    "display_name": "",
+    "total": 257,
+    "answers": [
+        {
+            "id": 21327,
+            "answer": "Ja",
+            "votes": 181,
+            "order": 0
+        },
+        {
+            "id": 21326,
+            "answer": "Nein",
+            "votes": 76,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 4101,
+    "question": "Sollte Xherdan Shaqiri bei Liverpool bleiben?",
+    "created_at": "2020-05-02T13:40:00+00:00",
+    "updated_at": "2021-06-14T09:36:18+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 419,
+    "answers": [
+        {
+            "id": 9799,
+            "answer": "Ja, er wird seine Chance noch bekommen.",
+            "votes": 86,
+            "order": 0
+        },
+        {
+            "id": 9798,
+            "answer": "Nein, ein Wechsel wäre sinnvoll.",
+            "votes": 333,
+            "order": 1
+        }
+    ]
+}

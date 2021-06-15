@@ -1,0 +1,25 @@
+{
+    "id": 5805,
+    "question": "Verstehen Sie den Entscheid von Bernhard Burgener?",
+    "created_at": "2020-10-20T14:34:29+00:00",
+    "updated_at": "2021-06-14T10:23:54+00:00",
+    "end_at": null,
+    "comment_group_id": 1859575,
+    "published_at": "2020-10-21T09:06:51+00:00",
+    "display_name": "",
+    "total": 272,
+    "answers": [
+        {
+            "id": 13534,
+            "answer": "Ja, das macht Sinn.",
+            "votes": 217,
+            "order": 0
+        },
+        {
+            "id": 13533,
+            "answer": "Nein, er sollte beide Funktionen behalten.",
+            "votes": 55,
+            "order": 1
+        }
+    ]
+}

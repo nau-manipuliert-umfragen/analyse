@@ -1,0 +1,25 @@
+{
+    "id": 7332,
+    "question": "Wer setzt sich im Halbfinale durch?",
+    "created_at": "2021-02-16T12:07:12+00:00",
+    "updated_at": "2021-06-14T09:38:42+00:00",
+    "end_at": null,
+    "comment_group_id": 2024441,
+    "published_at": null,
+    "display_name": "",
+    "total": 57,
+    "answers": [
+        {
+            "id": 16920,
+            "answer": "Serena Williams",
+            "votes": 27,
+            "order": 0
+        },
+        {
+            "id": 16919,
+            "answer": "Naomi Osaka",
+            "votes": 30,
+            "order": 1
+        }
+    ]
+}

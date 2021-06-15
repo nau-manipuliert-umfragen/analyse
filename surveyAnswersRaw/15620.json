@@ -1,0 +1,43 @@
+{
+    "id": 6750,
+    "question": "Wer wird Meister in der Serie A?",
+    "created_at": "2021-01-20T14:27:05+00:00",
+    "updated_at": "2021-06-14T10:24:41+00:00",
+    "end_at": null,
+    "comment_group_id": 1985814,
+    "published_at": "2021-02-21T15:54:43+00:00",
+    "display_name": "",
+    "total": 407,
+    "answers": [
+        {
+            "id": 15618,
+            "answer": "AC Milan",
+            "votes": 196,
+            "order": 0
+        },
+        {
+            "id": 15616,
+            "answer": "Inter Mailand",
+            "votes": 88,
+            "order": 1
+        },
+        {
+            "id": 15617,
+            "answer": "Juventus Turin",
+            "votes": 69,
+            "order": 2
+        },
+        {
+            "id": 15619,
+            "answer": "SSC Napoli",
+            "votes": 27,
+            "order": 3
+        },
+        {
+            "id": 15620,
+            "answer": "Ein anderer Club",
+            "votes": 27,
+            "order": 4
+        }
+    ]
+}

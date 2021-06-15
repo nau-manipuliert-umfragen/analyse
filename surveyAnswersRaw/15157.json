@@ -1,0 +1,25 @@
+{
+    "id": 6534,
+    "question": "Finden Sie Andrinas Aussagen berechtigt?",
+    "created_at": "2021-01-05T13:42:06+00:00",
+    "updated_at": "2021-06-14T09:38:05+00:00",
+    "end_at": null,
+    "comment_group_id": 1964636,
+    "published_at": "2021-01-06T07:02:05+00:00",
+    "display_name": "",
+    "total": 747,
+    "answers": [
+        {
+            "id": 15157,
+            "answer": "Nein, die Influencer müssen mit Kritik rechnen.",
+            "votes": 470,
+            "order": 0
+        },
+        {
+            "id": 15158,
+            "answer": "Ja, was Pocher macht, ist unmenschlich.",
+            "votes": 277,
+            "order": 1
+        }
+    ]
+}

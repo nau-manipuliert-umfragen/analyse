@@ -1,0 +1,25 @@
+{
+    "id": 3179,
+    "question": "Sind die Absagen der Aussteller nachvollziehbar?",
+    "created_at": "2020-02-25T12:49:12+00:00",
+    "updated_at": "2021-06-14T09:35:40+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 47,
+    "answers": [
+        {
+            "id": 7800,
+            "answer": "Ja, die Unternehmen haben die Verantwortung, ihre Belegschaft zu schützen.",
+            "votes": 24,
+            "order": 0
+        },
+        {
+            "id": 7801,
+            "answer": "Nein, das ist doch alles nur Panikmache.",
+            "votes": 23,
+            "order": 1
+        }
+    ]
+}

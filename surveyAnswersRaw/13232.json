@@ -1,0 +1,25 @@
+{
+    "id": 5669,
+    "question": "Glauben Sie, dass es Britney wirklich so schlecht geht, wie der Anwalt dies behauptet?",
+    "created_at": "2020-10-08T08:43:12+00:00",
+    "updated_at": "2021-06-14T09:37:23+00:00",
+    "end_at": null,
+    "comment_group_id": 1839850,
+    "published_at": "2020-10-08T19:18:43+00:00",
+    "display_name": "",
+    "total": 686,
+    "answers": [
+        {
+            "id": 13232,
+            "answer": "Nein, das ist doch alles nur Show.",
+            "votes": 534,
+            "order": 0
+        },
+        {
+            "id": 13233,
+            "answer": "Ja, sie wirkt überhaupt nicht mehr zurechnungsfähig.",
+            "votes": 152,
+            "order": 1
+        }
+    ]
+}

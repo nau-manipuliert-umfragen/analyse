@@ -1,0 +1,25 @@
+{
+    "id": 7872,
+    "question": "Verstehen Sie Meghans und Harrys Beliebtheit in den USA?",
+    "created_at": "2021-03-09T13:12:59+00:00",
+    "updated_at": "2021-06-14T09:39:09+00:00",
+    "end_at": null,
+    "comment_group_id": 2055050,
+    "published_at": "2021-03-09T20:30:01+00:00",
+    "display_name": "",
+    "total": 818,
+    "answers": [
+        {
+            "id": 18119,
+            "answer": "Nein, die beiden lügen doch wie gedruckt.",
+            "votes": 488,
+            "order": 0
+        },
+        {
+            "id": 18118,
+            "answer": "Ja, sie passen besser nach Hollywood.",
+            "votes": 330,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 8483,
+    "question": "Wer gewinnt das Berliner Derby?",
+    "created_at": "2021-04-02T13:02:43+00:00",
+    "updated_at": "2021-06-14T09:39:41+00:00",
+    "end_at": null,
+    "comment_group_id": 2090294,
+    "published_at": "2021-04-02T13:09:48+00:00",
+    "display_name": "",
+    "total": 165,
+    "answers": [
+        {
+            "id": 19393,
+            "answer": "Union Berlin.",
+            "votes": 137,
+            "order": 0
+        },
+        {
+            "id": 19392,
+            "answer": "Hertha BSC.",
+            "votes": 28,
+            "order": 1
+        }
+    ]
+}

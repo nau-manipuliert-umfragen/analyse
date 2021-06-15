@@ -1,0 +1,25 @@
+{
+    "id": 4894,
+    "question": "Kann sich Pius Suter in der NHL durchsetzen?",
+    "created_at": "2020-07-13T08:56:10+00:00",
+    "updated_at": "2021-06-14T09:36:52+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 138,
+    "answers": [
+        {
+            "id": 11526,
+            "answer": "Ja, er bringt alle Voraussetzungen dafür mit.",
+            "votes": 88,
+            "order": 0
+        },
+        {
+            "id": 11527,
+            "answer": "Nein, das ist Nummer zu gross für ihn.",
+            "votes": 50,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 7296,
+    "question": "Hätten Sie gedacht, dass Meghan schwanger ist?",
+    "created_at": "2021-02-15T09:51:34+00:00",
+    "updated_at": "2021-06-14T09:38:40+00:00",
+    "end_at": null,
+    "comment_group_id": 2022563,
+    "published_at": "2021-02-15T11:24:11+00:00",
+    "display_name": "",
+    "total": 1003,
+    "answers": [
+        {
+            "id": 16839,
+            "answer": "Ja, es hat sich abgezeichnet.",
+            "votes": 780,
+            "order": 0
+        },
+        {
+            "id": 16838,
+            "answer": "Nein, ich bin überrascht!",
+            "votes": 223,
+            "order": 1
+        }
+    ]
+}

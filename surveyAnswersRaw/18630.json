@@ -1,0 +1,25 @@
+{
+    "id": 8122,
+    "question": "Fällt das Fazit nach der Europacup-Saison von YB positiv aus?",
+    "created_at": "2021-03-18T22:53:54+00:00",
+    "updated_at": "2021-06-14T09:39:22+00:00",
+    "end_at": null,
+    "comment_group_id": 2069346,
+    "published_at": "2021-03-18T23:10:18+00:00",
+    "display_name": "",
+    "total": 177,
+    "answers": [
+        {
+            "id": 18630,
+            "answer": "Ja, da waren einige starke Leistungen dabei.",
+            "votes": 118,
+            "order": 0
+        },
+        {
+            "id": 18629,
+            "answer": "Nein, man hätte es in die Champions League schaffen müssen!",
+            "votes": 59,
+            "order": 1
+        }
+    ]
+}

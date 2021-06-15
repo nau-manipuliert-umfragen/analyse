@@ -1,0 +1,25 @@
+{
+    "id": 5254,
+    "question": "Sind Sie auch schon jemandem zu nahe gekommen?",
+    "created_at": "2020-08-25T15:05:53+00:00",
+    "updated_at": "2020-08-26T14:30:28+00:00",
+    "end_at": "2020-08-26T15:05:37+00:00",
+    "comment_group_id": 1766532,
+    "published_at": "2020-08-25T19:03:55+00:00",
+    "display_name": "",
+    "total": 163,
+    "answers": [
+        {
+            "id": 12315,
+            "answer": "Ja, nach ein paar Bier vergisst man die Abstandsregeln.",
+            "votes": 86,
+            "order": 0
+        },
+        {
+            "id": 12316,
+            "answer": "Nein, Abstandsregeln vergisst man nicht.",
+            "votes": 77,
+            "order": 1
+        }
+    ]
+}

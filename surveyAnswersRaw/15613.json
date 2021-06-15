@@ -1,0 +1,25 @@
+{
+    "id": 6748,
+    "question": "Werden Sie Melania vermissen?",
+    "created_at": "2021-01-20T12:54:49+00:00",
+    "updated_at": "2021-06-14T09:38:13+00:00",
+    "end_at": null,
+    "comment_group_id": 1985599,
+    "published_at": null,
+    "display_name": "",
+    "total": 1896,
+    "answers": [
+        {
+            "id": 15612,
+            "answer": "Ja, sie hat Unterhaltungswert.",
+            "votes": 253,
+            "order": 0
+        },
+        {
+            "id": 15613,
+            "answer": "Niemals!",
+            "votes": 1643,
+            "order": 1
+        }
+    ]
+}

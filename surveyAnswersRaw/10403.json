@@ -1,0 +1,25 @@
+{
+    "id": 4377,
+    "question": "Was halten Sie von den Rap-Künsten der Beiden?",
+    "created_at": "2020-05-27T14:15:45+00:00",
+    "updated_at": "2020-05-27T14:15:45+00:00",
+    "end_at": "2020-05-27T14:15:40+00:00",
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 40,
+    "answers": [
+        {
+            "id": 10403,
+            "answer": "Find ich super!",
+            "votes": 20,
+            "order": 0
+        },
+        {
+            "id": 10404,
+            "answer": "Es könnte besser sein.",
+            "votes": 20,
+            "order": 1
+        }
+    ]
+}

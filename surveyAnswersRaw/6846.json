@@ -1,0 +1,25 @@
+{
+    "id": 2747,
+    "question": "Hätten sie einen Akkreditierungs-Entzug für richtig gehalten?",
+    "created_at": "2020-01-29T15:27:21+00:00",
+    "updated_at": "2021-06-14T09:35:18+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 364,
+    "answers": [
+        {
+            "id": 6846,
+            "answer": "Ja, der Journalist vertritt schliesslich den ganzen Sender.",
+            "votes": 256,
+            "order": 0
+        },
+        {
+            "id": 6845,
+            "answer": "Nein, damit würden auch unschuldige Journalisten bestraft werden.",
+            "votes": 108,
+            "order": 1
+        }
+    ]
+}

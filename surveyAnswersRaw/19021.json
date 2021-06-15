@@ -1,0 +1,31 @@
+{
+    "id": 8305,
+    "question": "Haben Sie sich impfen lassen und hatten Sie Nebenwirkungen?",
+    "created_at": "2021-03-25T12:27:16+00:00",
+    "updated_at": "2021-06-14T09:39:32+00:00",
+    "end_at": null,
+    "comment_group_id": 2078837,
+    "published_at": "2021-03-26T08:00:08+00:00",
+    "display_name": "",
+    "total": 2155,
+    "answers": [
+        {
+            "id": 19022,
+            "answer": "Ja! Fieber, Schüttelfrost und den Covid-Arm.",
+            "votes": 276,
+            "order": 0
+        },
+        {
+            "id": 19020,
+            "answer": "Ja! Aber ich habe keine Nebenwirkungen verspürt.",
+            "votes": 420,
+            "order": 1
+        },
+        {
+            "id": 19021,
+            "answer": "Nein! Aber ich werde mich auch nicht imfpen lassen.",
+            "votes": 1459,
+            "order": 2
+        }
+    ]
+}

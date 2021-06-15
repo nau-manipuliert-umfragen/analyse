@@ -1,0 +1,25 @@
+{
+    "id": 5707,
+    "question": "Grand-Slam-Rekord: Wird Rafa Nadal King Roger überholen?",
+    "created_at": "2020-10-12T13:13:38+00:00",
+    "updated_at": "2021-06-14T10:23:50+00:00",
+    "end_at": null,
+    "comment_group_id": 1846202,
+    "published_at": "2020-10-12T13:43:02+00:00",
+    "display_name": "",
+    "total": 530,
+    "answers": [
+        {
+            "id": 13314,
+            "answer": "Ja, Rafa holt sich bald den 21. Grand-Slam-Titel.",
+            "votes": 408,
+            "order": 0
+        },
+        {
+            "id": 13313,
+            "answer": "Nein, Roger schlägt zurück!",
+            "votes": 122,
+            "order": 1
+        }
+    ]
+}

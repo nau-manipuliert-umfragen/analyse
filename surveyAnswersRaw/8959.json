@@ -1,0 +1,25 @@
+{
+    "id": 3709,
+    "question": "Verstehen Sie die Reaktion von Jérôme Boateng?",
+    "created_at": "2020-04-02T08:03:46+00:00",
+    "updated_at": "2021-06-14T09:36:02+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 332,
+    "answers": [
+        {
+            "id": 8958,
+            "answer": "Natürlich, er hat damit absolut recht – ich wäre auch gefahren!",
+            "votes": 254,
+            "order": 0
+        },
+        {
+            "id": 8959,
+            "answer": "Regeln sind Regeln, auch für Herrn Boateng",
+            "votes": 78,
+            "order": 1
+        }
+    ]
+}

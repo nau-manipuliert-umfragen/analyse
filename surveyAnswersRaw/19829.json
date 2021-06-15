@@ -1,0 +1,25 @@
+{
+    "id": 8697,
+    "question": "Verstehen Sie Piers Morgans Kritik an Meghan?",
+    "created_at": "2021-04-12T12:34:50+00:00",
+    "updated_at": "2021-06-14T09:39:52+00:00",
+    "end_at": null,
+    "comment_group_id": 2103939,
+    "published_at": "2021-04-12T15:05:01+00:00",
+    "display_name": "",
+    "total": 841,
+    "answers": [
+        {
+            "id": 19830,
+            "answer": "Nein, der spinnt doch.",
+            "votes": 183,
+            "order": 0
+        },
+        {
+            "id": 19829,
+            "answer": "Ja, ihr Verhalten ist nun Mal merkwürdig.",
+            "votes": 658,
+            "order": 1
+        }
+    ]
+}

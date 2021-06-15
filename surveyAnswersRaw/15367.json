@@ -1,0 +1,31 @@
+{
+    "id": 6634,
+    "question": "Passen Andy und Beatrice gut zusammen?",
+    "created_at": "2021-01-13T11:09:07+00:00",
+    "updated_at": "2021-06-14T09:38:09+00:00",
+    "end_at": null,
+    "comment_group_id": 1975350,
+    "published_at": "2021-01-14T14:06:10+00:00",
+    "display_name": "",
+    "total": 377,
+    "answers": [
+        {
+            "id": 15365,
+            "answer": "Ja, sie sind ein Traumpaar.",
+            "votes": 87,
+            "order": 0
+        },
+        {
+            "id": 15367,
+            "answer": "Nein, das wird nichts!",
+            "votes": 145,
+            "order": 1
+        },
+        {
+            "id": 15366,
+            "answer": "Abwarten ...",
+            "votes": 145,
+            "order": 2
+        }
+    ]
+}

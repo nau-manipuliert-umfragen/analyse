@@ -1,0 +1,31 @@
+{
+    "id": 6605,
+    "question": "Sind Sie auf Tinder?",
+    "created_at": "2021-01-11T14:26:25+00:00",
+    "updated_at": "2021-06-14T09:38:08+00:00",
+    "end_at": null,
+    "comment_group_id": 1972360,
+    "published_at": "2021-01-11T19:29:27+00:00",
+    "display_name": "",
+    "total": 786,
+    "answers": [
+        {
+            "id": 15304,
+            "answer": "Ja, ich liebe es zu swipen!",
+            "votes": 105,
+            "order": 0
+        },
+        {
+            "id": 15302,
+            "answer": "Nein, ich bin da altmodisch.",
+            "votes": 329,
+            "order": 1
+        },
+        {
+            "id": 15303,
+            "answer": "Ich bin bereits vergeben.",
+            "votes": 352,
+            "order": 2
+        }
+    ]
+}

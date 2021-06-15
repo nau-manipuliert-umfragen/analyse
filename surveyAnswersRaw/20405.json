@@ -1,0 +1,25 @@
+{
+    "id": 8965,
+    "question": "Besitzen Sie nach wie vor eine Saisonkarte Ihres Vereins?",
+    "created_at": "2021-04-23T13:48:23+00:00",
+    "updated_at": "2021-06-14T09:40:07+00:00",
+    "end_at": null,
+    "comment_group_id": 2121445,
+    "published_at": "2021-04-23T14:25:41+00:00",
+    "display_name": "",
+    "total": 220,
+    "answers": [
+        {
+            "id": 20404,
+            "answer": "Ja, damit unterstütze ich meinen Club.",
+            "votes": 169,
+            "order": 0
+        },
+        {
+            "id": 20405,
+            "answer": "Nein, während der Corona-Pandemie hab ich meines abgegeben.",
+            "votes": 51,
+            "order": 1
+        }
+    ]
+}

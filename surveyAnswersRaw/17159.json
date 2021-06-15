@@ -1,0 +1,25 @@
+{
+    "id": 7436,
+    "question": "Wie finden sie die Idee der Israeli?",
+    "created_at": "2021-02-19T11:23:00+00:00",
+    "updated_at": "2021-06-14T09:38:47+00:00",
+    "end_at": null,
+    "comment_group_id": 2029609,
+    "published_at": "2021-02-19T16:05:28+00:00",
+    "display_name": "",
+    "total": 336,
+    "answers": [
+        {
+            "id": 17159,
+            "answer": "Super, ich würde sofort mitmachen!",
+            "votes": 196,
+            "order": 0
+        },
+        {
+            "id": 17158,
+            "answer": "Nein, das ist mir dann doch zu unseriös.",
+            "votes": 140,
+            "order": 1
+        }
+    ]
+}

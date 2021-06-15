@@ -1,0 +1,25 @@
+{
+    "id": 1057,
+    "question": "Finden Sie die kostenlosen E-Bike-Kurse der Kapo Zürich sinnvoll?",
+    "created_at": "2018-05-31T07:34:28+00:00",
+    "updated_at": "2021-06-14T09:34:15+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 48,
+    "answers": [
+        {
+            "id": 2863,
+            "answer": "Ja. Damit wird es in Zukunft weniger Unfälle geben.",
+            "votes": 26,
+            "order": 100
+        },
+        {
+            "id": 2866,
+            "answer": "Nein. Das bringt nichts und ist nur teuer.",
+            "votes": 22,
+            "order": 100
+        }
+    ]
+}

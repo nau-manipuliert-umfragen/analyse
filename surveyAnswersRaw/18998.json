@@ -1,0 +1,25 @@
+{
+    "id": 8294,
+    "question": "Stimmen Sie die Äusserungen von Taskforce-Chef Ackermann zuversichtlich?",
+    "created_at": "2021-03-25T08:44:39+00:00",
+    "updated_at": "2021-06-14T09:39:31+00:00",
+    "end_at": null,
+    "comment_group_id": 2078334,
+    "published_at": "2021-03-25T18:00:31+00:00",
+    "display_name": "",
+    "total": 981,
+    "answers": [
+        {
+            "id": 18998,
+            "answer": "Ja, es scheint, als gäbe es Licht am Corona-Horizont.",
+            "votes": 485,
+            "order": 0
+        },
+        {
+            "id": 18999,
+            "answer": "Nein, ich befürchte, Corona wird zur «Never-Ending-Story».",
+            "votes": 496,
+            "order": 1
+        }
+    ]
+}

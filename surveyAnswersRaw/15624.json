@@ -1,0 +1,25 @@
+{
+    "id": 6752,
+    "question": "Freuen Sie sich, dass Donald Trump das Weisse Haus verlassen hat?",
+    "created_at": "2021-01-20T14:59:53+00:00",
+    "updated_at": "2021-06-14T09:38:13+00:00",
+    "end_at": null,
+    "comment_group_id": 1985904,
+    "published_at": null,
+    "display_name": "",
+    "total": 1087,
+    "answers": [
+        {
+            "id": 15624,
+            "answer": "Ja, endlich.",
+            "votes": 805,
+            "order": 0
+        },
+        {
+            "id": 15623,
+            "answer": "Nein, dünkt mich schade.",
+            "votes": 282,
+            "order": 1
+        }
+    ]
+}

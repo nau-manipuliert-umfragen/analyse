@@ -1,0 +1,25 @@
+{
+    "id": 5096,
+    "question": "Haben Sie Angst vor Irina Beller?",
+    "created_at": "2020-08-07T14:02:03+00:00",
+    "updated_at": "2020-08-07T14:02:03+00:00",
+    "end_at": "2020-08-08T14:01:55+00:00",
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 40,
+    "answers": [
+        {
+            "id": 11979,
+            "answer": "Ja, der schreibe ich nicht mehr.",
+            "votes": 20,
+            "order": 0
+        },
+        {
+            "id": 11980,
+            "answer": "Nein, ich find sie lustig.",
+            "votes": 20,
+            "order": 1
+        }
+    ]
+}

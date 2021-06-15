@@ -1,0 +1,25 @@
+{
+    "id": 9831,
+    "question": "Hat Zverev Titelchancen beim French Open?",
+    "created_at": "2021-06-02T12:53:00+00:00",
+    "updated_at": "2021-06-14T09:40:57+00:00",
+    "end_at": null,
+    "comment_group_id": 2187286,
+    "published_at": "2021-06-02T12:57:21+00:00",
+    "display_name": "",
+    "total": 80,
+    "answers": [
+        {
+            "id": 22277,
+            "answer": "Ja",
+            "votes": 36,
+            "order": 0
+        },
+        {
+            "id": 22276,
+            "answer": "Nein",
+            "votes": 44,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 6928,
+    "question": "Ist Messi schuld am Schuldenberg von Barça?",
+    "created_at": "2021-01-31T13:56:31+00:00",
+    "updated_at": "2021-06-14T09:38:21+00:00",
+    "end_at": null,
+    "comment_group_id": 2001197,
+    "published_at": "2021-02-01T05:41:07+00:00",
+    "display_name": "",
+    "total": 461,
+    "answers": [
+        {
+            "id": 16004,
+            "answer": "Ja, er hätte auf einen Teil seines Wahnsinns-Lohn verzichten sollen.",
+            "votes": 211,
+            "order": 0
+        },
+        {
+            "id": 16003,
+            "answer": "Nein, sein Klub hat die Verantwortung zu tragen.",
+            "votes": 250,
+            "order": 1
+        }
+    ]
+}

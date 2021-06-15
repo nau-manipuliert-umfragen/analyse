@@ -1,0 +1,25 @@
+{
+    "id": 5270,
+    "question": "Ist Ciriaco Sforza der richtige Trainer für den FC Basel?",
+    "created_at": "2020-08-26T14:05:25+00:00",
+    "updated_at": "2021-06-14T09:37:06+00:00",
+    "end_at": null,
+    "comment_group_id": 1768323,
+    "published_at": "2020-08-28T16:05:18+00:00",
+    "display_name": "",
+    "total": 1791,
+    "answers": [
+        {
+            "id": 12350,
+            "answer": "Ja",
+            "votes": 581,
+            "order": 0
+        },
+        {
+            "id": 12349,
+            "answer": "Nein",
+            "votes": 1210,
+            "order": 1
+        }
+    ]
+}

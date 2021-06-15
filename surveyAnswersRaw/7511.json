@@ -1,0 +1,25 @@
+{
+    "id": 3049,
+    "question": "Hat Samsung bei den Angaben zu den neuen Smartphones übertrieben?",
+    "created_at": "2020-02-17T10:38:50+00:00",
+    "updated_at": "2021-06-14T09:35:35+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 105,
+    "answers": [
+        {
+            "id": 7511,
+            "answer": "Ja, mit überspritzen Tatsachen Werbung zu machen, gehört sich nicht.",
+            "votes": 66,
+            "order": 0
+        },
+        {
+            "id": 7512,
+            "answer": "Nein, alle Hersteller dehnen bei der Werbung die Grenzen der Wahrheit.",
+            "votes": 39,
+            "order": 1
+        }
+    ]
+}

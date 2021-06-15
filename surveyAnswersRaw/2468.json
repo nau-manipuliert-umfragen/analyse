@@ -1,0 +1,25 @@
+{
+    "id": 875,
+    "question": "Welchen Song hätten sie zum offiziellen WM-Song gekürt?",
+    "created_at": "2018-05-12T06:42:34+00:00",
+    "updated_at": "2021-06-14T09:34:09+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 85,
+    "answers": [
+        {
+            "id": 2465,
+            "answer": "«Olé Olé» von DJ Antoine",
+            "votes": 29,
+            "order": 100
+        },
+        {
+            "id": 2468,
+            "answer": "«Feel the Heat» von Damian Lynn",
+            "votes": 56,
+            "order": 100
+        }
+    ]
+}

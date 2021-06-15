@@ -1,0 +1,31 @@
+{
+    "id": 2264,
+    "question": "Wer entscheidet das heutige Duell für sich?",
+    "created_at": "2018-11-10T13:36:34+00:00",
+    "updated_at": "2021-06-14T09:34:54+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 65,
+    "answers": [
+        {
+            "id": 5734,
+            "answer": "Der FC Basel.",
+            "votes": 22,
+            "order": 100
+        },
+        {
+            "id": 5735,
+            "answer": "Der FC Thun.",
+            "votes": 22,
+            "order": 100
+        },
+        {
+            "id": 5736,
+            "answer": "Gar niemand, das Spiel endet remis.",
+            "votes": 21,
+            "order": 100
+        }
+    ]
+}

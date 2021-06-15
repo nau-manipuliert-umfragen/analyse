@@ -1,0 +1,25 @@
+{
+    "id": 5992,
+    "question": "Findet der FC Barcelona in naher Zukunft zurück zu alter Stärke?",
+    "created_at": "2020-11-09T14:01:52+00:00",
+    "updated_at": "2021-06-14T09:37:38+00:00",
+    "end_at": null,
+    "comment_group_id": 1891736,
+    "published_at": "2020-11-09T16:30:45+00:00",
+    "display_name": "",
+    "total": 445,
+    "answers": [
+        {
+            "id": 13941,
+            "answer": "Ja",
+            "votes": 110,
+            "order": 0
+        },
+        {
+            "id": 13942,
+            "answer": "Nein, das dauert noch Jahre.",
+            "votes": 335,
+            "order": 1
+        }
+    ]
+}

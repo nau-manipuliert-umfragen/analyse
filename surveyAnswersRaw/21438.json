@@ -1,0 +1,25 @@
+{
+    "id": 9445,
+    "question": "Verstehen Sie die Entscheidung von Ferrari?",
+    "created_at": "2021-05-14T15:38:04+00:00",
+    "updated_at": "2021-06-14T09:40:34+00:00",
+    "end_at": null,
+    "comment_group_id": 2157343,
+    "published_at": "2021-05-14T17:00:14+00:00",
+    "display_name": "",
+    "total": 347,
+    "answers": [
+        {
+            "id": 21437,
+            "answer": "Ja, damit könnte ein Sprung nach vorne gelingen.",
+            "votes": 214,
+            "order": 0
+        },
+        {
+            "id": 21438,
+            "answer": "Nein, das macht überhaupt keinen Sinn!",
+            "votes": 133,
+            "order": 1
+        }
+    ]
+}

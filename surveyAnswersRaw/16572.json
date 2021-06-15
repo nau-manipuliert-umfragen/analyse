@@ -1,0 +1,31 @@
+{
+    "id": 7178,
+    "question": "Welcher Nati-Star verlängert den Vertrag bei Borussia Mönchengladbach?",
+    "created_at": "2021-02-10T14:45:40+00:00",
+    "updated_at": "2021-06-14T09:38:35+00:00",
+    "end_at": null,
+    "comment_group_id": 2016032,
+    "published_at": "2021-02-11T16:30:06+00:00",
+    "display_name": "",
+    "total": 318,
+    "answers": [
+        {
+            "id": 16572,
+            "answer": "Nico Elvedi",
+            "votes": 157,
+            "order": 0
+        },
+        {
+            "id": 16570,
+            "answer": "Denis Zakaria",
+            "votes": 32,
+            "order": 1
+        },
+        {
+            "id": 16571,
+            "answer": "Beide",
+            "votes": 129,
+            "order": 2
+        }
+    ]
+}

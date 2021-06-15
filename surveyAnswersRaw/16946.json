@@ -1,0 +1,25 @@
+{
+    "id": 7343,
+    "question": "Wie finden Sie Vanessa Mais Video?",
+    "created_at": "2021-02-16T15:23:16+00:00",
+    "updated_at": "2021-06-14T09:38:43+00:00",
+    "end_at": null,
+    "comment_group_id": 2024905,
+    "published_at": "2021-02-16T16:38:42+00:00",
+    "display_name": "",
+    "total": 875,
+    "answers": [
+        {
+            "id": 16947,
+            "answer": "Peinlich! Warum postet man so was?",
+            "votes": 551,
+            "order": 0
+        },
+        {
+            "id": 16946,
+            "answer": "Witzig! Mehr davon!",
+            "votes": 324,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 6803,
+    "question": "Cyberpunk 2077: Werden Sie dem Entwickler CD Projekt Red jemals verzeihen?",
+    "created_at": "2021-01-24T14:44:56+00:00",
+    "updated_at": "2021-06-14T09:38:16+00:00",
+    "end_at": null,
+    "comment_group_id": 1991084,
+    "published_at": "2021-03-02T12:19:29+00:00",
+    "display_name": "",
+    "total": 207,
+    "answers": [
+        {
+            "id": 15739,
+            "answer": "Es gibt nichts zu verzeihen – einem Spiel dieses Kalibers kann man nicht böse sein.",
+            "votes": 134,
+            "order": 0
+        },
+        {
+            "id": 15738,
+            "answer": "Mein Vertrauen wurde aufs übelste missbraucht – die Fehler sind unverzeihbar.",
+            "votes": 73,
+            "order": 1
+        }
+    ]
+}

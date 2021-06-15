@@ -1,0 +1,25 @@
+{
+    "id": 6294,
+    "question": "Ist die Rote Karte für Jean-Pierre Nsame gerecht?",
+    "created_at": "2020-12-11T09:29:38+00:00",
+    "updated_at": "2021-06-14T09:37:55+00:00",
+    "end_at": null,
+    "comment_group_id": 1936025,
+    "published_at": "2020-12-11T10:39:15+00:00",
+    "display_name": "",
+    "total": 394,
+    "answers": [
+        {
+            "id": 14621,
+            "answer": "Nein, Gelb reicht völlig!",
+            "votes": 273,
+            "order": 0
+        },
+        {
+            "id": 14620,
+            "answer": "Ja, kann man geben.",
+            "votes": 121,
+            "order": 1
+        }
+    ]
+}

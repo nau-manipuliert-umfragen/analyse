@@ -1,0 +1,25 @@
+{
+    "id": 7703,
+    "question": "Würden Sie eine EM nur in England begrüssen?",
+    "created_at": "2021-03-02T06:29:08+00:00",
+    "updated_at": "2021-06-14T09:38:59+00:00",
+    "end_at": null,
+    "comment_group_id": 2044042,
+    "published_at": "2021-03-02T06:56:37+00:00",
+    "display_name": "",
+    "total": 267,
+    "answers": [
+        {
+            "id": 17742,
+            "answer": "Ja, ich war ohnehin kein Fan dieses Ganz-Europa-Plans",
+            "votes": 173,
+            "order": 0
+        },
+        {
+            "id": 17741,
+            "answer": "Nein, das Turnier gehört ganz abgesagt!",
+            "votes": 94,
+            "order": 1
+        }
+    ]
+}

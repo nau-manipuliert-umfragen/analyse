@@ -1,0 +1,25 @@
+{
+    "id": 8340,
+    "question": "Finden Sie die Aktion vom DFB scheinheilig?",
+    "created_at": "2021-03-27T11:32:01+00:00",
+    "updated_at": "2021-06-14T09:39:34+00:00",
+    "end_at": null,
+    "comment_group_id": 2081585,
+    "published_at": "2021-03-27T11:41:57+00:00",
+    "display_name": "",
+    "total": 101,
+    "answers": [
+        {
+            "id": 19096,
+            "answer": "Ja, absolut.",
+            "votes": 73,
+            "order": 0
+        },
+        {
+            "id": 19097,
+            "answer": "Nein, ich fand die Aktion gut!",
+            "votes": 28,
+            "order": 1
+        }
+    ]
+}

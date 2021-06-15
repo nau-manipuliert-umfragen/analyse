@@ -1,0 +1,25 @@
+{
+    "id": 3681,
+    "question": "Glauben Sie, dass die Eishockey WM noch vor 2025 in der Schweiz stattfindet?",
+    "created_at": "2020-03-31T12:25:30+00:00",
+    "updated_at": "2021-06-14T09:36:01+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 350,
+    "answers": [
+        {
+            "id": 8898,
+            "answer": "Ja",
+            "votes": 126,
+            "order": 0
+        },
+        {
+            "id": 8897,
+            "answer": "Nein",
+            "votes": 224,
+            "order": 1
+        }
+    ]
+}

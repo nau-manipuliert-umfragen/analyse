@@ -1,0 +1,25 @@
+{
+    "id": 8914,
+    "question": "Was halten Sie davon, dass wohl nur Geimpfte, Getestete oder Genesene an Konzerte oder in Clubs gehen dürfen?",
+    "created_at": "2021-04-21T13:52:45+00:00",
+    "updated_at": "2021-06-14T09:40:04+00:00",
+    "end_at": null,
+    "comment_group_id": 2117760,
+    "published_at": "2021-04-21T14:25:27+00:00",
+    "display_name": "",
+    "total": 763,
+    "answers": [
+        {
+            "id": 20294,
+            "answer": "Finde ich richtig, wer sich nicht impfen lässt, ist selber schuld.",
+            "votes": 206,
+            "order": 0
+        },
+        {
+            "id": 20293,
+            "answer": "Total daneben, damit werden viele Menschen diskriminiert.",
+            "votes": 557,
+            "order": 1
+        }
+    ]
+}

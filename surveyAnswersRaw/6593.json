@@ -1,0 +1,31 @@
+{
+    "id": 2631,
+    "question": "Ist YB-Stürmer Nsame der verdiente «RSL Best Player»?",
+    "created_at": "2020-01-20T20:30:07+00:00",
+    "updated_at": "2021-06-14T09:35:12+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 155,
+    "answers": [
+        {
+            "id": 6594,
+            "answer": "Absolut, er ist der richtige Gewinner.",
+            "votes": 100,
+            "order": 0
+        },
+        {
+            "id": 6593,
+            "answer": "Nein, Jonas Omlin hätte es mehr verdient.",
+            "votes": 30,
+            "order": 1
+        },
+        {
+            "id": 6595,
+            "answer": "Nein, Raphaël Nuzzolo wäre der richtige Sieger.",
+            "votes": 25,
+            "order": 2
+        }
+    ]
+}

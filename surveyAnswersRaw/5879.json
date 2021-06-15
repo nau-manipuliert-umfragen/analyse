@@ -1,0 +1,25 @@
+{
+    "id": 2327,
+    "question": "Zieht GC den Kopf noch aus der Schlinge?",
+    "created_at": "2019-02-03T11:17:13+00:00",
+    "updated_at": "2021-06-14T09:34:57+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 228,
+    "answers": [
+        {
+            "id": 5879,
+            "answer": "Ja, das Team ist stark genug.",
+            "votes": 91,
+            "order": 100
+        },
+        {
+            "id": 5880,
+            "answer": "Nein, GC landet auf dem Barrage-Platz.",
+            "votes": 137,
+            "order": 100
+        }
+    ]
+}

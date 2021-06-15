@@ -1,0 +1,43 @@
+{
+    "id": 8185,
+    "question": "Wie weit kommen die Schweizer?",
+    "created_at": "2021-03-22T06:43:17+00:00",
+    "updated_at": "2021-06-14T09:39:25+00:00",
+    "end_at": null,
+    "comment_group_id": 2073247,
+    "published_at": "2021-03-22T06:49:46+00:00",
+    "display_name": "",
+    "total": 216,
+    "answers": [
+        {
+            "id": 18758,
+            "answer": "Gruppenphase",
+            "votes": 72,
+            "order": 0
+        },
+        {
+            "id": 18759,
+            "answer": "Viertelfinale",
+            "votes": 51,
+            "order": 1
+        },
+        {
+            "id": 18760,
+            "answer": "Halbfinale",
+            "votes": 29,
+            "order": 2
+        },
+        {
+            "id": 18762,
+            "answer": "Finale",
+            "votes": 30,
+            "order": 3
+        },
+        {
+            "id": 18761,
+            "answer": "Sieger",
+            "votes": 34,
+            "order": 4
+        }
+    ]
+}

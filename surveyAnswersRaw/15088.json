@@ -1,0 +1,25 @@
+{
+    "id": 6501,
+    "question": "Stört Sie Luca Hännis Playback-Gesang?",
+    "created_at": "2021-01-02T07:52:20+00:00",
+    "updated_at": "2021-06-14T09:38:04+00:00",
+    "end_at": null,
+    "comment_group_id": 1960999,
+    "published_at": "2021-01-02T09:16:57+00:00",
+    "display_name": "",
+    "total": 965,
+    "answers": [
+        {
+            "id": 15088,
+            "answer": "Ja, er hat ja bewiesen, dass er auch anders kann.",
+            "votes": 295,
+            "order": 0
+        },
+        {
+            "id": 15087,
+            "answer": "Nein, das ist bei solchen TV-Sendungen normal.",
+            "votes": 670,
+            "order": 1
+        }
+    ]
+}

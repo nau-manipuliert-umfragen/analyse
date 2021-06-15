@@ -1,0 +1,37 @@
+{
+    "id": 4204,
+    "question": "Wie soll Ferrari den Abgang von Sebastian Vettel kompensieren?",
+    "created_at": "2020-05-12T15:35:54+00:00",
+    "updated_at": "2021-06-14T09:36:24+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 273,
+    "answers": [
+        {
+            "id": 10030,
+            "answer": "Einen langfristigen Nummer-2-Piloten suchen",
+            "votes": 74,
+            "order": 0
+        },
+        {
+            "id": 10031,
+            "answer": "Einen Statthalter für ein oder zwei Jahre holen",
+            "votes": 36,
+            "order": 1
+        },
+        {
+            "id": 10033,
+            "answer": "Einen Nachwuchsfahrer direkt in die Formel 1 befördern",
+            "votes": 109,
+            "order": 2
+        },
+        {
+            "id": 10032,
+            "answer": "Einen Altstar für ein Jahr aus dem Ruhestand holen",
+            "votes": 54,
+            "order": 3
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 3695,
+    "question": "Soll man in Zeiten von Corona Aprilscherze machen?",
+    "created_at": "2020-04-01T11:49:20+00:00",
+    "updated_at": "2021-06-14T09:36:02+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 271,
+    "answers": [
+        {
+            "id": 8931,
+            "answer": "Ja, ist doch lustig.",
+            "votes": 111,
+            "order": 0
+        },
+        {
+            "id": 8930,
+            "answer": "Nein, total daneben.",
+            "votes": 160,
+            "order": 1
+        }
+    ]
+}

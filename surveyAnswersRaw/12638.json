@@ -1,0 +1,25 @@
+{
+    "id": 5400,
+    "question": "Sollten sich Stars zu der Corona-Politik äussern?",
+    "created_at": "2020-09-09T12:46:08+00:00",
+    "updated_at": "2021-06-14T09:37:12+00:00",
+    "end_at": null,
+    "comment_group_id": 1791668,
+    "published_at": "2020-09-09T16:32:10+00:00",
+    "display_name": "",
+    "total": 1318,
+    "answers": [
+        {
+            "id": 12638,
+            "answer": "Ja, wir leben schliesslich in einem freien Land.",
+            "votes": 843,
+            "order": 0
+        },
+        {
+            "id": 12639,
+            "answer": "Nein, überlasst das bitte den Experten.",
+            "votes": 475,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 9904,
+    "question": "Würden Sie einen Federer-Rückzug verstehen?",
+    "created_at": "2021-06-06T06:09:35+00:00",
+    "updated_at": "2021-06-14T09:41:01+00:00",
+    "end_at": null,
+    "comment_group_id": 2192644,
+    "published_at": "2021-06-06T06:22:33+00:00",
+    "display_name": "",
+    "total": 1619,
+    "answers": [
+        {
+            "id": 22439,
+            "answer": "Ja",
+            "votes": 1025,
+            "order": 0
+        },
+        {
+            "id": 22440,
+            "answer": "Nein",
+            "votes": 594,
+            "order": 1
+        }
+    ]
+}

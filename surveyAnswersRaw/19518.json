@@ -1,0 +1,25 @@
+{
+    "id": 8545,
+    "question": "Schulden die Royals Harry und Meghan eine Entschuldigung?",
+    "created_at": "2021-04-06T09:22:12+00:00",
+    "updated_at": "2021-06-14T09:39:44+00:00",
+    "end_at": null,
+    "comment_group_id": 2094460,
+    "published_at": "2021-04-07T06:31:58+00:00",
+    "display_name": "",
+    "total": 1589,
+    "answers": [
+        {
+            "id": 19518,
+            "answer": "Nein, wenn schon andersrum.",
+            "votes": 1461,
+            "order": 0
+        },
+        {
+            "id": 19519,
+            "answer": "Ja, Meghan wurde nicht genügend geschützt.",
+            "votes": 128,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "id": 7114,
+    "question": "Würden sie als Milliardär auch die Hälfte ihres Vermögens spenden?",
+    "created_at": "2021-02-08T15:17:05+00:00",
+    "updated_at": "2021-06-14T10:24:58+00:00",
+    "end_at": null,
+    "comment_group_id": 2012872,
+    "published_at": null,
+    "display_name": "",
+    "total": 65,
+    "answers": [
+        {
+            "id": 16428,
+            "answer": "Ja, wenn ich Milliardär wäre ginge sogar noch mehr.",
+            "votes": 22,
+            "order": 0
+        },
+        {
+            "id": 16430,
+            "answer": "Nein, ich würde gar nicht spenden.",
+            "votes": 22,
+            "order": 2
+        },
+        {
+            "id": 16431,
+            "answer": "Nein, ich würde gar nicht spenden.",
+            "votes": 21,
+            "order": 2
+        }
+    ]
+}

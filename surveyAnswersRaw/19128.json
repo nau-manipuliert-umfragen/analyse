@@ -1,0 +1,25 @@
+{
+    "id": 8355,
+    "question": "Waren Sie dieses Jahr schon an einer Grillparty?",
+    "created_at": "2021-03-28T13:21:47+00:00",
+    "updated_at": "2021-06-14T09:39:35+00:00",
+    "end_at": null,
+    "comment_group_id": 2082692,
+    "published_at": "2021-03-29T09:27:56+00:00",
+    "display_name": "",
+    "total": 5965,
+    "answers": [
+        {
+            "id": 19127,
+            "answer": "Nein, das ist mir im Moment zu riskant.",
+            "votes": 1619,
+            "order": 0
+        },
+        {
+            "id": 19128,
+            "answer": "Ja, klar.",
+            "votes": 4346,
+            "order": 1
+        }
+    ]
+}

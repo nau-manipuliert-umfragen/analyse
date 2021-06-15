@@ -1,0 +1,25 @@
+{
+    "id": 3584,
+    "question": "Was halten Sie von solch einer Geburtsregelung?",
+    "created_at": "2020-03-23T08:20:23+00:00",
+    "updated_at": "2021-06-14T09:35:57+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 539,
+    "answers": [
+        {
+            "id": 8691,
+            "answer": "Voll daneben, vorallem bei einem solch wichtigen Ereignis.",
+            "votes": 269,
+            "order": 0
+        },
+        {
+            "id": 8690,
+            "answer": "Sinnvoll, denn es werden Mutter, Kind und Geburtshelfer gleichzeitig geschützt.",
+            "votes": 270,
+            "order": 1
+        }
+    ]
+}

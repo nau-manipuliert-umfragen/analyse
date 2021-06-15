@@ -1,0 +1,25 @@
+{
+    "id": 6624,
+    "question": "Hat Manchester United das Zeug dazu, englischer Meister zu werden?",
+    "created_at": "2021-01-12T22:20:05+00:00",
+    "updated_at": "2021-06-14T09:38:09+00:00",
+    "end_at": null,
+    "comment_group_id": 1974567,
+    "published_at": "2021-01-12T22:22:40+00:00",
+    "display_name": "",
+    "total": 74,
+    "answers": [
+        {
+            "id": 15346,
+            "answer": "Ja",
+            "votes": 45,
+            "order": 0
+        },
+        {
+            "id": 15345,
+            "answer": "Nein",
+            "votes": 29,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "id": 2308,
+    "question": "Wer setzt sich im Duell Liverpool – Bayern durch?",
+    "created_at": "2018-12-17T11:38:28+00:00",
+    "updated_at": "2021-06-14T09:34:56+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 110,
+    "answers": [
+        {
+            "id": 5837,
+            "answer": "Liverpool, Shaqiri ist in Topform.",
+            "votes": 58,
+            "order": 100
+        },
+        {
+            "id": 5838,
+            "answer": "Die Bayern sind zu stark für Liverpool.",
+            "votes": 31,
+            "order": 100
+        },
+        {
+            "id": 5839,
+            "answer": "Mir egal, mich interessiert nur die Europa League mit dem FCZ.",
+            "votes": 21,
+            "order": 100
+        }
+    ]
+}

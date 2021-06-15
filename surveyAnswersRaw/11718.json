@@ -1,0 +1,25 @@
+{
+    "id": 4981,
+    "question": "Was halten Sie von Meghan Markles Party-Plänen?",
+    "created_at": "2020-07-24T13:00:54+00:00",
+    "updated_at": "2021-06-14T09:36:55+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 615,
+    "answers": [
+        {
+            "id": 11718,
+            "answer": "Richtig fahrlässig! Da werden sich sicherlich einige Gäste infizieren.",
+            "votes": 560,
+            "order": 0
+        },
+        {
+            "id": 11717,
+            "answer": "Gute Idee! In diesen dunkeln Zeiten brauchen die Menschen Ablenkung.",
+            "votes": 55,
+            "order": 1
+        }
+    ]
+}

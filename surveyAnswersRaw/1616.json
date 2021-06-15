@@ -1,0 +1,25 @@
+{
+    "id": 551,
+    "question": "Was halten Sie von Tieren im Zirkus?",
+    "created_at": "2018-03-15T09:34:00+00:00",
+    "updated_at": "2021-06-14T09:33:59+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 148,
+    "answers": [
+        {
+            "id": 1613,
+            "answer": "Tiere gehören in die Natur und nicht in den Zirkus",
+            "votes": 89,
+            "order": 100
+        },
+        {
+            "id": 1616,
+            "answer": "Solange sie nicht zu Schaden kommen sehe ich kein Problem",
+            "votes": 59,
+            "order": 100
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 6683,
+    "question": "Würden sie trotz Gebühr nach Thailand reisen?",
+    "created_at": "2021-01-16T10:10:14+00:00",
+    "updated_at": "2021-06-14T09:38:11+00:00",
+    "end_at": null,
+    "comment_group_id": 1979934,
+    "published_at": "2021-01-16T10:17:37+00:00",
+    "display_name": "",
+    "total": 232,
+    "answers": [
+        {
+            "id": 15473,
+            "answer": "Ja, neun Franken passen in mein Reise-Budget.",
+            "votes": 119,
+            "order": 0
+        },
+        {
+            "id": 15474,
+            "answer": "Nein, die Gebühr geht mir gegen den Strich!",
+            "votes": 113,
+            "order": 1
+        }
+    ]
+}

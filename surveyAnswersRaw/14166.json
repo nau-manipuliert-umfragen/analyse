@@ -1,0 +1,25 @@
+{
+    "id": 6093,
+    "question": "Darf man sich über den Papst lustig machen?",
+    "created_at": "2020-11-18T12:14:01+00:00",
+    "updated_at": "2020-11-19T12:07:27+00:00",
+    "end_at": "2020-11-19T12:13:59+00:00",
+    "comment_group_id": 1902678,
+    "published_at": "2020-11-18T18:00:01+00:00",
+    "display_name": "",
+    "total": 490,
+    "answers": [
+        {
+            "id": 14166,
+            "answer": "Ja, nach diesem Like schon.",
+            "votes": 251,
+            "order": 0
+        },
+        {
+            "id": 14165,
+            "answer": "Nein, das ist total respektlos!",
+            "votes": 239,
+            "order": 1
+        }
+    ]
+}

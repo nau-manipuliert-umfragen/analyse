@@ -1,0 +1,31 @@
+{
+    "id": 5896,
+    "question": "Was halten Sie von den neuen Corona-Massnahmen des Bundes?",
+    "created_at": "2020-10-29T09:21:57+00:00",
+    "updated_at": "2020-11-01T00:23:08+00:00",
+    "end_at": "2020-11-01T09:21:55+00:00",
+    "comment_group_id": 1874338,
+    "published_at": "2020-10-29T13:32:53+00:00",
+    "display_name": "",
+    "total": 2387,
+    "answers": [
+        {
+            "id": 13730,
+            "answer": "Der Bundesrat geht mit diesen Einschränkungen viel zu weit.",
+            "votes": 364,
+            "order": 0
+        },
+        {
+            "id": 13728,
+            "answer": "Die neuen Regeln sind zu wenig streng, um die Fallzahlen eindämmen zu können.",
+            "votes": 1514,
+            "order": 1
+        },
+        {
+            "id": 13729,
+            "answer": "Die getroffenen Massnahmen sind gerade richtig.",
+            "votes": 509,
+            "order": 2
+        }
+    ]
+}

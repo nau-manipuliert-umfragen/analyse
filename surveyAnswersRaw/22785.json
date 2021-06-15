@@ -1,0 +1,25 @@
+{
+    "id": 10066,
+    "question": "Wem glauben Sie im Streit?",
+    "created_at": "2021-06-13T10:15:04+00:00",
+    "updated_at": "2021-06-14T09:41:10+00:00",
+    "end_at": null,
+    "comment_group_id": 2204902,
+    "published_at": "2021-06-13T10:28:30+00:00",
+    "display_name": "",
+    "total": 600,
+    "answers": [
+        {
+            "id": 22785,
+            "answer": "Meghan.",
+            "votes": 150,
+            "order": 0
+        },
+        {
+            "id": 22784,
+            "answer": "Ihrem Papi Thomas.",
+            "votes": 450,
+            "order": 1
+        }
+    ]
+}

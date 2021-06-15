@@ -1,0 +1,25 @@
+{
+    "id": 7139,
+    "question": "Finden Sie es gut, dass Calmund abspeckt?",
+    "created_at": "2021-02-09T13:24:35+00:00",
+    "updated_at": "2021-06-14T09:38:32+00:00",
+    "end_at": null,
+    "comment_group_id": 2014203,
+    "published_at": "2021-02-10T06:00:02+00:00",
+    "display_name": "",
+    "total": 1026,
+    "answers": [
+        {
+            "id": 16488,
+            "answer": "Ja, super!",
+            "votes": 940,
+            "order": 0
+        },
+        {
+            "id": 16487,
+            "answer": "Nein, die Kilos gehören doch zu ihm.",
+            "votes": 86,
+            "order": 1
+        }
+    ]
+}

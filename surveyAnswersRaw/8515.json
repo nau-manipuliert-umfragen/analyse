@@ -1,0 +1,25 @@
+{
+    "id": 3502,
+    "question": "Was halten Sie von einem Wechsel von Thomas Meunier zum BVB?",
+    "created_at": "2020-03-17T16:00:04+00:00",
+    "updated_at": "2021-06-14T10:22:10+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 45,
+    "answers": [
+        {
+            "id": 8515,
+            "answer": "Starker Hakimi-Ersatz.",
+            "votes": 22,
+            "order": 0
+        },
+        {
+            "id": 8514,
+            "answer": "Keine gute Idee.",
+            "votes": 23,
+            "order": 1
+        }
+    ]
+}

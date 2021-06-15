@@ -1,0 +1,25 @@
+{
+    "id": 6980,
+    "question": "Würden Sie Strandferien trotz Corona machen?",
+    "created_at": "2021-02-02T14:17:04+00:00",
+    "updated_at": "2021-06-14T09:38:23+00:00",
+    "end_at": null,
+    "comment_group_id": 2004242,
+    "published_at": "2021-02-02T20:21:38+00:00",
+    "display_name": "",
+    "total": 725,
+    "answers": [
+        {
+            "id": 16119,
+            "answer": "Nein, zu riskant!",
+            "votes": 464,
+            "order": 0
+        },
+        {
+            "id": 16120,
+            "answer": "Ja, muss jeder selbst wissen.",
+            "votes": 261,
+            "order": 1
+        }
+    ]
+}

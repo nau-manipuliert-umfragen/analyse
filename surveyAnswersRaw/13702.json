@@ -1,0 +1,25 @@
+{
+    "id": 5884,
+    "question": "Sehen Sie die Ähnlichkeit?",
+    "created_at": "2020-10-28T07:33:17+00:00",
+    "updated_at": "2021-06-14T09:37:34+00:00",
+    "end_at": null,
+    "comment_group_id": 1872169,
+    "published_at": "2020-10-28T10:21:23+00:00",
+    "display_name": "",
+    "total": 795,
+    "answers": [
+        {
+            "id": 13702,
+            "answer": "Nein, ich finde Christina Luft viel hübscher als Jolie.",
+            "votes": 438,
+            "order": 0
+        },
+        {
+            "id": 13701,
+            "answer": "Ja, sie sieht aus wie eine junge Angelina.",
+            "votes": 357,
+            "order": 1
+        }
+    ]
+}

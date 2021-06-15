@@ -1,0 +1,25 @@
+{
+    "id": 6001,
+    "question": "Sollte Ivanka Trump eines Tages wirklich selbst kandidieren?",
+    "created_at": "2020-11-10T10:09:17+00:00",
+    "updated_at": "2021-06-14T09:37:39+00:00",
+    "end_at": null,
+    "comment_group_id": 1892633,
+    "published_at": null,
+    "display_name": "",
+    "total": 3869,
+    "answers": [
+        {
+            "id": 13959,
+            "answer": "Ja",
+            "votes": 645,
+            "order": 0
+        },
+        {
+            "id": 13960,
+            "answer": "Nein",
+            "votes": 3224,
+            "order": 1
+        }
+    ]
+}

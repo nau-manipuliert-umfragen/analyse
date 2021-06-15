@@ -1,0 +1,25 @@
+{
+    "id": 6360,
+    "question": "Steigt Vaduz aus der Super League ab?",
+    "created_at": "2020-12-17T18:57:22+00:00",
+    "updated_at": "2021-06-14T09:37:58+00:00",
+    "end_at": null,
+    "comment_group_id": 1945019,
+    "published_at": "2020-12-17T19:08:48+00:00",
+    "display_name": "",
+    "total": 215,
+    "answers": [
+        {
+            "id": 14770,
+            "answer": "Ja, die Liechtensteiner sind zu schwach.",
+            "votes": 104,
+            "order": 0
+        },
+        {
+            "id": 14769,
+            "answer": "Nein, das Team von Mario Frick schafft den Liga-Erhalt.",
+            "votes": 111,
+            "order": 1
+        }
+    ]
+}

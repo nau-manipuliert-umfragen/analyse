@@ -1,0 +1,25 @@
+{
+    "id": 8155,
+    "question": "Steigt Schalke aus der Bundesliga ab?",
+    "created_at": "2021-03-20T18:25:39+00:00",
+    "updated_at": "2021-06-14T09:39:24+00:00",
+    "end_at": null,
+    "comment_group_id": 2071828,
+    "published_at": "2021-03-20T19:29:43+00:00",
+    "display_name": "",
+    "total": 272,
+    "answers": [
+        {
+            "id": 18697,
+            "answer": "Ja, die Knappen sind nicht mehr zu retten.",
+            "votes": 237,
+            "order": 0
+        },
+        {
+            "id": 18698,
+            "answer": "Nein, «Königsblau» schafft das Wunder.",
+            "votes": 35,
+            "order": 1
+        }
+    ]
+}

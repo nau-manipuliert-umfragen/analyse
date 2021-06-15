@@ -1,0 +1,25 @@
+{
+    "id": 3931,
+    "question": "Was halten Sie davon, dass die Arsenal-Spieler psychologische Hilfe bekommen?",
+    "created_at": "2020-04-19T13:03:43+00:00",
+    "updated_at": "2021-06-14T09:36:11+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 154,
+    "answers": [
+        {
+            "id": 9428,
+            "answer": "Finde ich gut, es ist eine sehr schwierige Zeit.",
+            "votes": 74,
+            "order": 0
+        },
+        {
+            "id": 9427,
+            "answer": "Unverständlich, das sind Profis und die müssen damit klar kommen.",
+            "votes": 80,
+            "order": 1
+        }
+    ]
+}

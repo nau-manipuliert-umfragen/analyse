@@ -1,0 +1,25 @@
+{
+    "id": 6633,
+    "question": "Wer gewinnt den alpinen Nationencup?",
+    "created_at": "2021-01-13T10:24:48+00:00",
+    "updated_at": "2021-06-14T09:38:09+00:00",
+    "end_at": null,
+    "comment_group_id": 1975239,
+    "published_at": "2021-01-17T07:07:26+00:00",
+    "display_name": "",
+    "total": 1569,
+    "answers": [
+        {
+            "id": 15364,
+            "answer": "Schweiz.",
+            "votes": 1403,
+            "order": 0
+        },
+        {
+            "id": 15363,
+            "answer": "Österreich.",
+            "votes": 166,
+            "order": 1
+        }
+    ]
+}

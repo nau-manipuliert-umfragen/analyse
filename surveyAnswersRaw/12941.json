@@ -1,0 +1,31 @@
+{
+    "id": 5532,
+    "question": "Wer sollte die Auszeichnung als UEFA Fussballer des Jahres gewinnen?",
+    "created_at": "2020-09-23T11:57:56+00:00",
+    "updated_at": "2021-06-14T09:37:17+00:00",
+    "end_at": null,
+    "comment_group_id": 1815088,
+    "published_at": "2020-09-24T20:13:58+00:00",
+    "display_name": "",
+    "total": 66,
+    "answers": [
+        {
+            "id": 12941,
+            "answer": "Robert Lewandowski",
+            "votes": 22,
+            "order": 0
+        },
+        {
+            "id": 12939,
+            "answer": "Manuel Neuer",
+            "votes": 23,
+            "order": 1
+        },
+        {
+            "id": 12940,
+            "answer": "Kevin de Bruyne",
+            "votes": 21,
+            "order": 2
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 3080,
+    "question": "Wer schafft den Einzug in den CL-Viertelfinal?",
+    "created_at": "2020-02-18T21:17:23+00:00",
+    "updated_at": "2021-06-14T09:35:36+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 150,
+    "answers": [
+        {
+            "id": 7585,
+            "answer": "Borussia Dortmund",
+            "votes": 102,
+            "order": 0
+        },
+        {
+            "id": 7584,
+            "answer": "Paris Saint-Germain",
+            "votes": 48,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 4307,
+    "question": "Halten Sie einen Re-Start der spanischen La Liga Mitte Juni für vertretbar?",
+    "created_at": "2020-05-20T14:38:18+00:00",
+    "updated_at": "2021-06-14T09:36:29+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 106,
+    "answers": [
+        {
+            "id": 10251,
+            "answer": "Ja, offensichtlich wird für den nötigen Schutz gesorgt.",
+            "votes": 63,
+            "order": 0
+        },
+        {
+            "id": 10252,
+            "answer": "Nein, es ist einfach noch zu früh.",
+            "votes": 43,
+            "order": 1
+        }
+    ]
+}

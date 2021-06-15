@@ -1,0 +1,43 @@
+{
+    "id": 8928,
+    "question": "Wie weit kommt die Eishockey-Nati an der WM 2021 in Riga?",
+    "created_at": "2021-04-22T08:00:25+00:00",
+    "updated_at": "2021-05-21T17:17:54+00:00",
+    "end_at": "2021-05-22T08:00:19+00:00",
+    "comment_group_id": 2118898,
+    "published_at": "2021-05-16T14:41:31+00:00",
+    "display_name": "",
+    "total": 580,
+    "answers": [
+        {
+            "id": 20321,
+            "answer": "In der Vorrunde ist bereits Schluss.",
+            "votes": 62,
+            "order": 0
+        },
+        {
+            "id": 20324,
+            "answer": "Das Minimalziel Viertelfinal schaffen die «Eisgenossen».",
+            "votes": 162,
+            "order": 1
+        },
+        {
+            "id": 20322,
+            "answer": "Die Runde der letzten vier ist Endstation.",
+            "votes": 133,
+            "order": 2
+        },
+        {
+            "id": 20323,
+            "answer": "Die Schweiz schafft es nach 2013 und 2018 erneut in den WM-Final, verliert aber wieder.",
+            "votes": 56,
+            "order": 3
+        },
+        {
+            "id": 20325,
+            "answer": "WELTMEISTER! Die Schweiz wird Weltmeister.",
+            "votes": 167,
+            "order": 4
+        }
+    ]
+}

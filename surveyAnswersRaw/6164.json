@@ -1,0 +1,31 @@
+{
+    "id": 2450,
+    "question": "Wie finden Sie die Aktion von Xhaka?",
+    "created_at": "2019-09-06T11:42:13+00:00",
+    "updated_at": "2021-06-14T09:35:02+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 711,
+    "answers": [
+        {
+            "id": 6163,
+            "answer": "Das geht gar nicht!",
+            "votes": 225,
+            "order": 0
+        },
+        {
+            "id": 6162,
+            "answer": "Schon in Ordnung von Xhaka.",
+            "votes": 290,
+            "order": 1
+        },
+        {
+            "id": 6164,
+            "answer": "Mir egal, ich will einen anderen Captain!",
+            "votes": 196,
+            "order": 2
+        }
+    ]
+}

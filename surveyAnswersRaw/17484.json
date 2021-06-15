@@ -1,0 +1,31 @@
+{
+    "id": 7584,
+    "question": "Was tun Sie, wenn Ihr Reiseziel auf der BAG-Liste landet?",
+    "created_at": "2021-02-25T11:11:30+00:00",
+    "updated_at": "2021-06-14T09:38:53+00:00",
+    "end_at": null,
+    "comment_group_id": 2037618,
+    "published_at": "2021-02-25T20:19:51+00:00",
+    "display_name": "",
+    "total": 944,
+    "answers": [
+        {
+            "id": 17482,
+            "answer": "Ich storniere die Ferien, die Quarantäne ist mir zu umständlich.",
+            "votes": 472,
+            "order": 0
+        },
+        {
+            "id": 17484,
+            "answer": "Ich gehe trotzdem, die Auszeit ist mir wichtig.",
+            "votes": 261,
+            "order": 1
+        },
+        {
+            "id": 17483,
+            "answer": "Ich buche die Ferien um und hoffe, dass mein Reiseziel bald von der Liste fliegt.",
+            "votes": 211,
+            "order": 2
+        }
+    ]
+}

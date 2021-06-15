@@ -1,0 +1,25 @@
+{
+    "id": 8874,
+    "question": "Kann YB das Leistungsniveau bis Ende Saison durchziehen?",
+    "created_at": "2021-04-20T10:13:25+00:00",
+    "updated_at": "2021-06-14T09:40:01+00:00",
+    "end_at": null,
+    "comment_group_id": 2115573,
+    "published_at": "2021-04-20T14:25:29+00:00",
+    "display_name": "",
+    "total": 47,
+    "answers": [
+        {
+            "id": 20208,
+            "answer": "Ja",
+            "votes": 25,
+            "order": 0
+        },
+        {
+            "id": 20209,
+            "answer": "Nein",
+            "votes": 22,
+            "order": 1
+        }
+    ]
+}

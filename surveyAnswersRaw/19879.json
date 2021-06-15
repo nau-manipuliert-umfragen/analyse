@@ -1,0 +1,25 @@
+{
+    "id": 8720,
+    "question": "CR7 und Juve: Passt das noch?",
+    "created_at": "2021-04-13T10:54:22+00:00",
+    "updated_at": "2021-06-14T09:39:54+00:00",
+    "end_at": null,
+    "comment_group_id": 2105378,
+    "published_at": "2021-04-13T12:56:58+00:00",
+    "display_name": "",
+    "total": 205,
+    "answers": [
+        {
+            "id": 19878,
+            "answer": "Ja, ohne Ronaldo geht nichts bei Juventus.",
+            "votes": 73,
+            "order": 0
+        },
+        {
+            "id": 19879,
+            "answer": "Nein, er sollte den Verein verlassen.",
+            "votes": 132,
+            "order": 1
+        }
+    ]
+}

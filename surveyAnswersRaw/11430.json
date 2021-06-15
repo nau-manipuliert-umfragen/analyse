@@ -1,0 +1,25 @@
+{
+    "id": 4853,
+    "question": "Verbringen auch Sie Ihre Sommerferien im Schweizer Süden?",
+    "created_at": "2020-07-08T12:40:07+00:00",
+    "updated_at": "2021-06-14T09:36:50+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 337,
+    "answers": [
+        {
+            "id": 11430,
+            "answer": "Ja, das ist der schönste Fleck der Schweiz.",
+            "votes": 190,
+            "order": 0
+        },
+        {
+            "id": 11431,
+            "answer": "Nein, ich bevorzuge andere Regionen oder das Ausland.",
+            "votes": 147,
+            "order": 1
+        }
+    ]
+}

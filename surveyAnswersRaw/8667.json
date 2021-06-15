@@ -1,0 +1,25 @@
+{
+    "id": 3573,
+    "question": "Wie fanden Sie die Performance von Marcio gestern Abend?",
+    "created_at": "2020-03-22T11:35:05+00:00",
+    "updated_at": "2021-06-14T09:35:57+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 230,
+    "answers": [
+        {
+            "id": 8666,
+            "answer": "Super, da hat wenigstens mal einer auf der Bühne Gas gegeben.",
+            "votes": 105,
+            "order": 0
+        },
+        {
+            "id": 8667,
+            "answer": "Schräg – trifft es in allen Punkten.",
+            "votes": 125,
+            "order": 1
+        }
+    ]
+}

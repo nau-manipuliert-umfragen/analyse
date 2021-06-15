@@ -1,0 +1,25 @@
+{
+    "id": 3495,
+    "question": "Halten Sie sich an die Corona-Regeln der Behörden?",
+    "created_at": "2020-03-17T11:56:28+00:00",
+    "updated_at": "2021-06-14T09:35:53+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 172,
+    "answers": [
+        {
+            "id": 8501,
+            "answer": "Ja",
+            "votes": 144,
+            "order": 0
+        },
+        {
+            "id": 8500,
+            "answer": "Nein",
+            "votes": 28,
+            "order": 1
+        }
+    ]
+}

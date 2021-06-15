@@ -1,0 +1,25 @@
+{
+    "id": 7371,
+    "question": "Würden Sie Ihr Kind melden, wenn es Ihnen gegenüber gewalttätig würde?",
+    "created_at": "2021-02-17T14:02:10+00:00",
+    "updated_at": "2021-02-18T18:02:17+00:00",
+    "end_at": "2021-02-18T14:02:08+00:00",
+    "comment_group_id": 2026414,
+    "published_at": "2021-02-18T18:02:15+00:00",
+    "display_name": "",
+    "total": 40,
+    "answers": [
+        {
+            "id": 17016,
+            "answer": "Nein, ich würde mich zu sehr schämen.",
+            "votes": 20,
+            "order": 0
+        },
+        {
+            "id": 17015,
+            "answer": "Ja, ein solches Verhalten muss Konsequenzen haben.",
+            "votes": 20,
+            "order": 1
+        }
+    ]
+}

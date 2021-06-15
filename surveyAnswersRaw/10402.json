@@ -1,0 +1,25 @@
+{
+    "id": 4376,
+    "question": "Könne die Corona-Pause zum Vorteil für Roger Federer werden?",
+    "created_at": "2020-05-27T13:28:10+00:00",
+    "updated_at": "2021-06-14T09:36:32+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 236,
+    "answers": [
+        {
+            "id": 10401,
+            "answer": "Ja",
+            "votes": 187,
+            "order": 0
+        },
+        {
+            "id": 10402,
+            "answer": "Nein",
+            "votes": 49,
+            "order": 1
+        }
+    ]
+}

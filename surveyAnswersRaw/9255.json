@@ -1,0 +1,25 @@
+{
+    "id": 3849,
+    "question": "Sollte Tottenham ihren Stürmer-Star Harry Kane verkaufen?",
+    "created_at": "2020-04-13T09:47:35+00:00",
+    "updated_at": "2021-06-14T09:36:08+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 91,
+    "answers": [
+        {
+            "id": 9254,
+            "answer": "Ja, der Verein braucht unbedingt Geld.",
+            "votes": 39,
+            "order": 0
+        },
+        {
+            "id": 9255,
+            "answer": "Nein, ein Verkauf von Kane wäre sportlich gesehen ein zu grosser Verlust.",
+            "votes": 52,
+            "order": 1
+        }
+    ]
+}

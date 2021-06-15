@@ -1,0 +1,25 @@
+{
+    "id": 8211,
+    "question": "Planen auch Sie eine Flugreise über Ostern?",
+    "created_at": "2021-03-22T14:27:52+00:00",
+    "updated_at": "2021-03-29T07:09:13+00:00",
+    "end_at": "2021-03-24T11:00:00+00:00",
+    "comment_group_id": 2074243,
+    "published_at": "2021-03-29T07:09:11+00:00",
+    "display_name": "",
+    "total": 40,
+    "answers": [
+        {
+            "id": 18818,
+            "answer": "Ja, ich brauche Ferien.",
+            "votes": 20,
+            "order": 0
+        },
+        {
+            "id": 18817,
+            "answer": "Nein, ich verbringe die Feiertage in der Schweiz.",
+            "votes": 20,
+            "order": 1
+        }
+    ]
+}

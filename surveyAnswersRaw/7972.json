@@ -1,0 +1,25 @@
+{
+    "id": 3253,
+    "question": "Können Sie die Schmähungen gegen Hopp und den DFB nachvollziehen?",
+    "created_at": "2020-03-02T10:17:51+00:00",
+    "updated_at": "2021-06-14T09:35:43+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 521,
+    "answers": [
+        {
+            "id": 7972,
+            "answer": "Ja, die Fans haben mit dem Protest nicht unrecht.",
+            "votes": 151,
+            "order": 0
+        },
+        {
+            "id": 7973,
+            "answer": "Nein, hier wurde eine Grenze deutlich überschritten!",
+            "votes": 370,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 6584,
+    "question": "Ist Edin Terzić der richtige Coach für den BVB?",
+    "created_at": "2021-01-09T19:17:27+00:00",
+    "updated_at": "2021-06-14T09:38:07+00:00",
+    "end_at": null,
+    "comment_group_id": 1970276,
+    "published_at": "2021-02-13T16:24:39+00:00",
+    "display_name": "",
+    "total": 354,
+    "answers": [
+        {
+            "id": 15260,
+            "answer": "Ja, er soll bleiben.",
+            "votes": 114,
+            "order": 0
+        },
+        {
+            "id": 15259,
+            "answer": "Nein, da gibt es bessere Optionen.",
+            "votes": 240,
+            "order": 1
+        }
+    ]
+}

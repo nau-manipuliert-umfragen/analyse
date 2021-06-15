@@ -1,0 +1,25 @@
+{
+    "id": 4959,
+    "question": "Hat Hakan Yakin mit seinem Vorwurf an Schiedsrichter Anojen Kanagasingam Recht?",
+    "created_at": "2020-07-21T21:03:49+00:00",
+    "updated_at": "2021-06-14T09:36:54+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 800,
+    "answers": [
+        {
+            "id": 11667,
+            "answer": "Ja",
+            "votes": 314,
+            "order": 0
+        },
+        {
+            "id": 11666,
+            "answer": "Nein",
+            "votes": 486,
+            "order": 1
+        }
+    ]
+}

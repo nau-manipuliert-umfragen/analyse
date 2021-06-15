@@ -1,0 +1,25 @@
+{
+    "id": 6603,
+    "question": "Halten Sie sich ausnahmslos an die Maskenpflicht?",
+    "created_at": "2021-01-11T12:20:10+00:00",
+    "updated_at": "2021-01-12T08:48:16+00:00",
+    "end_at": "2021-01-13T12:19:00+00:00",
+    "comment_group_id": 1972102,
+    "published_at": "2021-01-11T12:26:57+00:00",
+    "display_name": "",
+    "total": 82,
+    "answers": [
+        {
+            "id": 15298,
+            "answer": "Ja, Regeln sind Regeln.",
+            "votes": 38,
+            "order": 0
+        },
+        {
+            "id": 15299,
+            "answer": "Nein, die Maske stört mich.",
+            "votes": 44,
+            "order": 1
+        }
+    ]
+}

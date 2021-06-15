@@ -1,0 +1,25 @@
+{
+    "id": 6367,
+    "question": "Wer gewinnt das Spiel vom Samstag?",
+    "created_at": "2020-12-18T08:49:07+00:00",
+    "updated_at": "2021-06-14T09:37:58+00:00",
+    "end_at": null,
+    "comment_group_id": 1945504,
+    "published_at": "2020-12-18T15:16:20+00:00",
+    "display_name": "",
+    "total": 92,
+    "answers": [
+        {
+            "id": 14782,
+            "answer": "FC St.Gallen",
+            "votes": 48,
+            "order": 0
+        },
+        {
+            "id": 14781,
+            "answer": "FC Basel",
+            "votes": 44,
+            "order": 1
+        }
+    ]
+}

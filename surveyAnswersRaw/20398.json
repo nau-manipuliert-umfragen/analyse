@@ -1,0 +1,25 @@
+{
+    "id": 8962,
+    "question": "Freuen Sie sich auf die neue Staffel?",
+    "created_at": "2021-04-23T12:39:30+00:00",
+    "updated_at": "2021-06-14T09:40:06+00:00",
+    "end_at": null,
+    "comment_group_id": 2121315,
+    "published_at": "2021-04-26T13:29:21+00:00",
+    "display_name": "",
+    "total": 227,
+    "answers": [
+        {
+            "id": 20398,
+            "answer": "Nein, schaue die Sendung nicht.",
+            "votes": 157,
+            "order": 0
+        },
+        {
+            "id": 20397,
+            "answer": "Ja, meine Montage sind gerettet!",
+            "votes": 70,
+            "order": 1
+        }
+    ]
+}

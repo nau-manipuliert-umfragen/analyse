@@ -1,0 +1,25 @@
+{
+    "id": 4065,
+    "question": "Sollte Leroy Sané zu Bayern München wechseln?",
+    "created_at": "2020-04-30T07:48:02+00:00",
+    "updated_at": "2021-06-14T09:36:17+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 89,
+    "answers": [
+        {
+            "id": 9719,
+            "answer": "Ja, das wäre der richtige Schritt.",
+            "votes": 42,
+            "order": 0
+        },
+        {
+            "id": 9718,
+            "answer": "Nein, er sollte bei ManCity bleiben.",
+            "votes": 47,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "id": 6047,
+    "question": "Wer gewinnt den GP der Türkei?",
+    "created_at": "2020-11-14T14:04:34+00:00",
+    "updated_at": "2021-06-14T09:37:42+00:00",
+    "end_at": null,
+    "comment_group_id": 1898215,
+    "published_at": null,
+    "display_name": "",
+    "total": 252,
+    "answers": [
+        {
+            "id": 14062,
+            "answer": "Racing Point holt sich mit Stroll oder Perez den Sieg in der Formel 1!",
+            "votes": 29,
+            "order": 0
+        },
+        {
+            "id": 14065,
+            "answer": "Verstappen jubelt für Red Bull.",
+            "votes": 73,
+            "order": 1
+        },
+        {
+            "id": 14063,
+            "answer": "Hamilton (Mercedes) holt auf und setzt sich an die Spitze.",
+            "votes": 105,
+            "order": 2
+        },
+        {
+            "id": 14064,
+            "answer": "Ein anderer",
+            "votes": 45,
+            "order": 3
+        }
+    ]
+}

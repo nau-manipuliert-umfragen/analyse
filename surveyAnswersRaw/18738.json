@@ -1,0 +1,25 @@
+{
+    "id": 8175,
+    "question": "Finden Sie es richtig, dass die Queen auch sparen muss?",
+    "created_at": "2021-03-21T12:50:36+00:00",
+    "updated_at": "2021-06-14T09:39:25+00:00",
+    "end_at": null,
+    "comment_group_id": 2072566,
+    "published_at": "2021-03-22T07:20:01+00:00",
+    "display_name": "",
+    "total": 1809,
+    "answers": [
+        {
+            "id": 18739,
+            "answer": "Ja, sie braucht wirklich kein eigenes Flugzeug.",
+            "votes": 1457,
+            "order": 0
+        },
+        {
+            "id": 18738,
+            "answer": "Hallo, geht's noch? Sie ist die Königin!",
+            "votes": 352,
+            "order": 1
+        }
+    ]
+}

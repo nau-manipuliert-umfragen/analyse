@@ -1,0 +1,31 @@
+{
+    "id": 7398,
+    "question": "Gibt es eine Schweizer Medaille im Riesenslalom?",
+    "created_at": "2021-02-18T12:01:23+00:00",
+    "updated_at": "2021-06-14T09:38:45+00:00",
+    "end_at": null,
+    "comment_group_id": 2027949,
+    "published_at": "2021-02-18T12:13:35+00:00",
+    "display_name": "",
+    "total": 108,
+    "answers": [
+        {
+            "id": 17074,
+            "answer": "Ja, heute gibt es Gold!",
+            "votes": 45,
+            "order": 0
+        },
+        {
+            "id": 17076,
+            "answer": "Eine Medaille ja, aber nicht Platz eins.",
+            "votes": 38,
+            "order": 1
+        },
+        {
+            "id": 17075,
+            "answer": "Nein, das klappt heute leider nicht...",
+            "votes": 25,
+            "order": 2
+        }
+    ]
+}

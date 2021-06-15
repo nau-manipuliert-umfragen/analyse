@@ -1,0 +1,25 @@
+{
+    "id": 4174,
+    "question": "Ist die Wiederaufnahme der Bundesliga-Saison vertretbar?",
+    "created_at": "2020-05-09T14:37:15+00:00",
+    "updated_at": "2020-05-09T14:37:15+00:00",
+    "end_at": "2020-05-09T14:37:09+00:00",
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 40,
+    "answers": [
+        {
+            "id": 9965,
+            "answer": "Ja",
+            "votes": 20,
+            "order": 0
+        },
+        {
+            "id": 9966,
+            "answer": "Nein",
+            "votes": 20,
+            "order": 1
+        }
+    ]
+}

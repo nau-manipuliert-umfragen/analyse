@@ -1,0 +1,25 @@
+{
+    "id": 5863,
+    "question": "Planen Sie, trotz Corona einen Weihnachtsbaum zu kaufen?",
+    "created_at": "2020-10-26T13:25:58+00:00",
+    "updated_at": "2021-06-14T09:37:33+00:00",
+    "end_at": null,
+    "comment_group_id": 1869572,
+    "published_at": "2020-10-31T19:03:05+00:00",
+    "display_name": "",
+    "total": 412,
+    "answers": [
+        {
+            "id": 13659,
+            "answer": "Ja, ohne Baum kein Weihnachten.",
+            "votes": 247,
+            "order": 0
+        },
+        {
+            "id": 13658,
+            "answer": "Nein, das grosse Familienfest findet sowieso nicht statt.",
+            "votes": 165,
+            "order": 1
+        }
+    ]
+}

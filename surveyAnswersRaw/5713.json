@@ -1,0 +1,25 @@
+{
+    "id": 2257,
+    "question": "Haben Sie Angst vor K.o.-Tropfen?",
+    "created_at": "2018-11-06T09:03:34+00:00",
+    "updated_at": "2021-06-14T09:34:54+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 51,
+    "answers": [
+        {
+            "id": 5713,
+            "answer": "Ja",
+            "votes": 28,
+            "order": 100
+        },
+        {
+            "id": 5714,
+            "answer": "Nein",
+            "votes": 23,
+            "order": 100
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "id": 7760,
+    "question": "Wie halten Sie sich in der Corona-Zeit fit?",
+    "created_at": "2021-03-04T10:46:03+00:00",
+    "updated_at": "2021-06-14T09:39:01+00:00",
+    "end_at": null,
+    "comment_group_id": 2047920,
+    "published_at": "2021-03-04T12:08:28+00:00",
+    "display_name": "",
+    "total": 290,
+    "answers": [
+        {
+            "id": 17872,
+            "answer": "Ich gehe jetzt öfters Joggen und treibe mehr Sport.",
+            "votes": 69,
+            "order": 0
+        },
+        {
+            "id": 17873,
+            "answer": "Ich schaue nun bewusster auf meine Ernährung.",
+            "votes": 56,
+            "order": 1
+        },
+        {
+            "id": 17874,
+            "answer": "Ich habe mein Fitness-Verhalten wegen Corona nicht geändert.",
+            "votes": 94,
+            "order": 2
+        },
+        {
+            "id": 17875,
+            "answer": "Sport ist Mord.",
+            "votes": 71,
+            "order": 3
+        }
+    ]
+}

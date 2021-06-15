@@ -1,0 +1,31 @@
+{
+    "id": 5562,
+    "question": "Macht ein solches Feature auf Twitter Sinn?",
+    "created_at": "2020-09-27T14:49:00+00:00",
+    "updated_at": "2021-06-14T09:37:18+00:00",
+    "end_at": null,
+    "comment_group_id": 1821464,
+    "published_at": "2020-09-28T08:30:34+00:00",
+    "display_name": "",
+    "total": 116,
+    "answers": [
+        {
+            "id": 13001,
+            "answer": "Nein, die Nutzer sollen selbst wissen, was sie teilen wollen und was nicht.",
+            "votes": 35,
+            "order": 0
+        },
+        {
+            "id": 13002,
+            "answer": "Es sollte eigentlich normal sein zu wissen, was man teilt, ohne dazu aufgefordert zu werden.",
+            "votes": 41,
+            "order": 1
+        },
+        {
+            "id": 13000,
+            "answer": "Ja, offensichtlich wäre so eine Funktion schon lange notwendig.",
+            "votes": 40,
+            "order": 2
+        }
+    ]
+}

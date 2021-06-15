@@ -1,0 +1,25 @@
+{
+    "id": 6154,
+    "question": "Was halten Sie vom Verhalten von Emmanuel Dennis?",
+    "created_at": "2020-11-24T22:59:12+00:00",
+    "updated_at": "2021-06-14T09:37:47+00:00",
+    "end_at": null,
+    "comment_group_id": 1910829,
+    "published_at": "2020-11-25T06:01:33+00:00",
+    "display_name": "",
+    "total": 212,
+    "answers": [
+        {
+            "id": 14308,
+            "answer": "Diese Allüren gehen gar nicht!",
+            "votes": 174,
+            "order": 0
+        },
+        {
+            "id": 14307,
+            "answer": "Verständlich. Ich will auch immer den gleichen Sitzplatz.",
+            "votes": 38,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 5537,
+    "question": "Würden Sie eine Rückkehr von Daniel Koch an seine alte Wirkungsstätte begrüssen?",
+    "created_at": "2020-09-24T06:47:25+00:00",
+    "updated_at": "2021-06-14T09:37:17+00:00",
+    "end_at": null,
+    "comment_group_id": 1816304,
+    "published_at": "2020-09-24T06:47:32+00:00",
+    "display_name": "",
+    "total": 1860,
+    "answers": [
+        {
+            "id": 12951,
+            "answer": "Ja, er war immer Herr der Lage als Mr. Corona.",
+            "votes": 1168,
+            "order": 0
+        },
+        {
+            "id": 12950,
+            "answer": "Nein, seine Auftritte nerven. Er soll nun den Ruhestand geniessen.",
+            "votes": 692,
+            "order": 1
+        }
+    ]
+}

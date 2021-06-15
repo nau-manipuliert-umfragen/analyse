@@ -1,0 +1,25 @@
+{
+    "id": 3880,
+    "question": "Wäre ein Verkauf an Staveley und Co. gut für Newcastle United?",
+    "created_at": "2020-04-15T12:58:21+00:00",
+    "updated_at": "2021-06-14T09:36:09+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 105,
+    "answers": [
+        {
+            "id": 9319,
+            "answer": "Ja",
+            "votes": 71,
+            "order": 0
+        },
+        {
+            "id": 9320,
+            "answer": "Nein",
+            "votes": 34,
+            "order": 1
+        }
+    ]
+}

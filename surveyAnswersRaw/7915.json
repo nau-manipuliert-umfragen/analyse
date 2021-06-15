@@ -1,0 +1,25 @@
+{
+    "id": 3229,
+    "question": "Hat der SCB den Gang in die Platzierungsrunde verdient?",
+    "created_at": "2020-02-29T11:07:54+00:00",
+    "updated_at": "2021-06-14T09:35:42+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 653,
+    "answers": [
+        {
+            "id": 7915,
+            "answer": "Ja, die Berner stehen verdient auf Rang neun.",
+            "votes": 553,
+            "order": 0
+        },
+        {
+            "id": 7916,
+            "answer": "Nein, diese hochkarätige Mannschaft gehört in die Playoffs.",
+            "votes": 100,
+            "order": 1
+        }
+    ]
+}

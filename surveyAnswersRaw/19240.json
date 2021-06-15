@@ -1,0 +1,25 @@
+{
+    "id": 8410,
+    "question": "Haben sich Harry und Meghan mit dem Interview selbst ins Bein geschossen?",
+    "created_at": "2021-03-30T09:55:41+00:00",
+    "updated_at": "2021-06-14T09:39:37+00:00",
+    "end_at": null,
+    "comment_group_id": 2085651,
+    "published_at": "2021-03-30T11:08:04+00:00",
+    "display_name": "",
+    "total": 574,
+    "answers": [
+        {
+            "id": 19240,
+            "answer": "Nein, sie haben alles richtig gemacht.",
+            "votes": 51,
+            "order": 0
+        },
+        {
+            "id": 19239,
+            "answer": "Ja, echt peinlich.",
+            "votes": 523,
+            "order": 1
+        }
+    ]
+}

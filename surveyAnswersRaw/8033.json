@@ -1,0 +1,25 @@
+{
+    "id": 3280,
+    "question": "Setzt sich die Schweiz in dieser Gruppe durch?",
+    "created_at": "2020-03-03T17:24:41+00:00",
+    "updated_at": "2021-06-14T09:35:45+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 257,
+    "answers": [
+        {
+            "id": 8034,
+            "answer": "Ja, natürlich",
+            "votes": 92,
+            "order": 0
+        },
+        {
+            "id": 8033,
+            "answer": "Nein, keine Chance",
+            "votes": 165,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 6092,
+    "question": "Soll Jogi Löw seine verstossenen Stars zurückholen?",
+    "created_at": "2020-11-18T11:09:23+00:00",
+    "updated_at": "2021-06-14T09:37:44+00:00",
+    "end_at": null,
+    "comment_group_id": 1902564,
+    "published_at": "2020-11-18T11:46:32+00:00",
+    "display_name": "",
+    "total": 660,
+    "answers": [
+        {
+            "id": 14164,
+            "answer": "Ja, dann wirds besser.",
+            "votes": 381,
+            "order": 0
+        },
+        {
+            "id": 14163,
+            "answer": "Nein, daran liegt es nicht!",
+            "votes": 279,
+            "order": 1
+        }
+    ]
+}

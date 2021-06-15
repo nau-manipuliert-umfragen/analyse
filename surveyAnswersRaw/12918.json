@@ -1,0 +1,25 @@
+{
+    "id": 5521,
+    "question": "Trifft Hoarau am Samstag gegen YB?",
+    "created_at": "2020-09-22T09:07:04+00:00",
+    "updated_at": "2021-06-14T09:37:17+00:00",
+    "end_at": null,
+    "comment_group_id": 1812824,
+    "published_at": "2020-09-22T09:32:18+00:00",
+    "display_name": "",
+    "total": 438,
+    "answers": [
+        {
+            "id": 12918,
+            "answer": "Auf jeden Fall, sofern er spielt.",
+            "votes": 274,
+            "order": 0
+        },
+        {
+            "id": 12919,
+            "answer": "Nein, seine Zeit ist abglaufen!",
+            "votes": 164,
+            "order": 1
+        }
+    ]
+}

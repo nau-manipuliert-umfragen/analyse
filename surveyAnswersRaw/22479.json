@@ -1,0 +1,25 @@
+{
+    "id": 9924,
+    "question": "Wie gefällt Ihnen der Name von Meghans Töchterchen?",
+    "created_at": "2021-06-06T16:19:29+00:00",
+    "updated_at": "2021-06-14T09:41:02+00:00",
+    "end_at": null,
+    "comment_group_id": 2193285,
+    "published_at": null,
+    "display_name": "",
+    "total": 2242,
+    "answers": [
+        {
+            "id": 22478,
+            "answer": "Ich finde ihn herzig.",
+            "votes": 1521,
+            "order": 0
+        },
+        {
+            "id": 22479,
+            "answer": "Mir gefällt er nicht.",
+            "votes": 721,
+            "order": 1
+        }
+    ]
+}

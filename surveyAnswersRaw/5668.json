@@ -1,0 +1,25 @@
+{
+    "id": 2241,
+    "question": "Sind Sie dafür, dass die Winterzeit abgeschafft werden könnte?",
+    "created_at": "2018-10-27T07:11:54+00:00",
+    "updated_at": "2021-06-14T09:34:53+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 159,
+    "answers": [
+        {
+            "id": 5667,
+            "answer": "Ja, denn in der Winterzeit ist es am Abend schon so früh dunkel.",
+            "votes": 94,
+            "order": 100
+        },
+        {
+            "id": 5668,
+            "answer": "Nein, ich befürworte den Wechsel, er stört mich nicht.",
+            "votes": 65,
+            "order": 100
+        }
+    ]
+}

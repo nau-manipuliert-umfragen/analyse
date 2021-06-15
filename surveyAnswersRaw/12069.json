@@ -1,0 +1,25 @@
+{
+    "id": 5139,
+    "question": "Wie beurteilen Sie den Frust von Moreno Costanzo?",
+    "created_at": "2020-08-13T08:23:33+00:00",
+    "updated_at": "2021-06-14T09:37:01+00:00",
+    "end_at": null,
+    "comment_group_id": 1746792,
+    "published_at": "2020-08-13T08:50:53+00:00",
+    "display_name": "",
+    "total": 490,
+    "answers": [
+        {
+            "id": 12070,
+            "answer": "Ich kann ihn verstehen, Costanzo hat einen würdigen Abgang verdient.",
+            "votes": 298,
+            "order": 0
+        },
+        {
+            "id": 12069,
+            "answer": "Nachtreten ist daneben!",
+            "votes": 192,
+            "order": 1
+        }
+    ]
+}

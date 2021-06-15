@@ -1,0 +1,25 @@
+{
+    "id": 9394,
+    "question": "Sind Sie im Amateur-Sport tätig?",
+    "created_at": "2021-05-12T12:57:39+00:00",
+    "updated_at": "2021-06-14T09:40:31+00:00",
+    "end_at": null,
+    "comment_group_id": 2153795,
+    "published_at": "2021-05-12T13:21:20+00:00",
+    "display_name": "",
+    "total": 219,
+    "answers": [
+        {
+            "id": 21331,
+            "answer": "Ja",
+            "votes": 137,
+            "order": 0
+        },
+        {
+            "id": 21330,
+            "answer": "Nein",
+            "votes": 82,
+            "order": 1
+        }
+    ]
+}

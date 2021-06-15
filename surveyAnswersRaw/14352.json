@@ -1,0 +1,37 @@
+{
+    "id": 6174,
+    "question": "Lebt die Seele von Maradona weiter?",
+    "created_at": "2020-11-27T11:35:50+00:00",
+    "updated_at": "2021-03-16T15:35:23+00:00",
+    "end_at": "2021-02-11T11:36:02+00:00",
+    "comment_group_id": 1917098,
+    "published_at": "2020-11-27T14:16:36+00:00",
+    "display_name": "",
+    "total": 610,
+    "answers": [
+        {
+            "id": 14353,
+            "answer": "Ich weiss es nicht",
+            "votes": 70,
+            "order": 0
+        },
+        {
+            "id": 14352,
+            "answer": "Ja, es gibt ein Leben nach dem Tod",
+            "votes": 336,
+            "order": 1
+        },
+        {
+            "id": 14354,
+            "answer": "Nein, nichts von ihm lebt weiter",
+            "votes": 114,
+            "order": 2
+        },
+        {
+            "id": 14355,
+            "answer": "Ich will nur das Voting-Resultat sehen",
+            "votes": 90,
+            "order": 3
+        }
+    ]
+}

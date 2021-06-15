@@ -1,0 +1,25 @@
+{
+    "id": 9316,
+    "question": "Würden Sie sich Botox spritzen lassen?",
+    "created_at": "2021-05-09T11:03:02+00:00",
+    "updated_at": "2021-06-14T09:40:27+00:00",
+    "end_at": null,
+    "comment_group_id": 2148801,
+    "published_at": "2021-05-09T17:00:44+00:00",
+    "display_name": "",
+    "total": 520,
+    "answers": [
+        {
+            "id": 21161,
+            "answer": "Ja, das wäre es mir wert.",
+            "votes": 81,
+            "order": 0
+        },
+        {
+            "id": 21160,
+            "answer": "Nein, ich stehe zu meinen Falten.",
+            "votes": 439,
+            "order": 1
+        }
+    ]
+}

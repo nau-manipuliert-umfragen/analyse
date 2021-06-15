@@ -1,0 +1,25 @@
+{
+    "id": 6291,
+    "question": "War Sebastian Vettels Zeit bei Ferrari ein Erfolg?",
+    "created_at": "2020-12-10T16:20:01+00:00",
+    "updated_at": "2021-06-14T09:37:55+00:00",
+    "end_at": null,
+    "comment_group_id": 1935271,
+    "published_at": "2020-12-11T10:39:59+00:00",
+    "display_name": "",
+    "total": 306,
+    "answers": [
+        {
+            "id": 14610,
+            "answer": "Ja, das muss ihm erst mal jemand nachmachen!",
+            "votes": 167,
+            "order": 0
+        },
+        {
+            "id": 14609,
+            "answer": "Nein, ohne den WM-Titel kann es kein Erfolg sein.",
+            "votes": 139,
+            "order": 1
+        }
+    ]
+}

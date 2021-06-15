@@ -1,0 +1,31 @@
+{
+    "id": 4339,
+    "question": "Wer gewinnt den Bundesliga-Spitzenkampf am Dienstag?",
+    "created_at": "2020-05-24T14:02:22+00:00",
+    "updated_at": "2021-06-14T09:36:30+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 185,
+    "answers": [
+        {
+            "id": 10322,
+            "answer": "Bayern wird sich durchsetzen und für die Vorentscheidung sorgen",
+            "votes": 75,
+            "order": 0
+        },
+        {
+            "id": 10323,
+            "answer": "Der BVB macht es wieder spannend",
+            "votes": 76,
+            "order": 1
+        },
+        {
+            "id": 10321,
+            "answer": "Das Spiel endet unentschieden!",
+            "votes": 34,
+            "order": 2
+        }
+    ]
+}

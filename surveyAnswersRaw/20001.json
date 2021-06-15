@@ -1,0 +1,25 @@
+{
+    "id": 8776,
+    "question": "Haben Sie das Kino-Erlebnis in den letzten Monaten vermisst?",
+    "created_at": "2021-04-15T13:53:36+00:00",
+    "updated_at": "2021-06-14T09:39:56+00:00",
+    "end_at": null,
+    "comment_group_id": 2109003,
+    "published_at": "2021-04-16T19:03:59+00:00",
+    "display_name": "",
+    "total": 444,
+    "answers": [
+        {
+            "id": 20000,
+            "answer": "Ja, ich werde nächste Woche sofort wieder vor die Leinwand sitzen.",
+            "votes": 211,
+            "order": 0
+        },
+        {
+            "id": 20001,
+            "answer": "Nein, «Home-Cinema» reicht mir.",
+            "votes": 233,
+            "order": 1
+        }
+    ]
+}

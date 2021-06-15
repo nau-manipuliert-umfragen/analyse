@@ -1,0 +1,25 @@
+{
+    "id": 6042,
+    "question": "Was könnte der Wendler wohl verkünden wollen?",
+    "created_at": "2020-11-14T07:45:50+00:00",
+    "updated_at": "2021-06-14T09:37:42+00:00",
+    "end_at": null,
+    "comment_group_id": 1897896,
+    "published_at": "2020-11-14T11:34:02+00:00",
+    "display_name": "",
+    "total": 1236,
+    "answers": [
+        {
+            "id": 14051,
+            "answer": "Ganz klar: Er wird Vater.",
+            "votes": 287,
+            "order": 0
+        },
+        {
+            "id": 14052,
+            "answer": "Langweilig, er bringt eine neue Single auf den Markt.",
+            "votes": 949,
+            "order": 1
+        }
+    ]
+}

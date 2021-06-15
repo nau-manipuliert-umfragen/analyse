@@ -1,0 +1,25 @@
+{
+    "id": 5195,
+    "question": "Finden Sie die neuen Abo-Preise gerechtfertigt?",
+    "created_at": "2020-08-19T12:25:59+00:00",
+    "updated_at": "2021-06-14T09:37:03+00:00",
+    "end_at": null,
+    "comment_group_id": 1756183,
+    "published_at": "2020-08-19T18:42:20+00:00",
+    "display_name": "",
+    "total": 535,
+    "answers": [
+        {
+            "id": 12193,
+            "answer": "Ja, für mehr Leistung muss man auch zahlen.",
+            "votes": 91,
+            "order": 0
+        },
+        {
+            "id": 12192,
+            "answer": "Nein, Swisscom ist im nationalen Vergleich viel zu teuer.",
+            "votes": 444,
+            "order": 1
+        }
+    ]
+}

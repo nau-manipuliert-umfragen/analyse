@@ -1,0 +1,25 @@
+{
+    "id": 9011,
+    "question": "Fanden Sie den Sex-Spruch lustig?",
+    "created_at": "2021-04-26T13:19:49+00:00",
+    "updated_at": "2021-06-14T09:40:10+00:00",
+    "end_at": null,
+    "comment_group_id": 2125570,
+    "published_at": "2021-04-26T18:01:34+00:00",
+    "display_name": "",
+    "total": 231,
+    "answers": [
+        {
+            "id": 20505,
+            "answer": "Nein, sein armes Mami!",
+            "votes": 99,
+            "order": 0
+        },
+        {
+            "id": 20504,
+            "answer": "Ja, mal was Lustiges an den sonst so verklemmten Oscars.",
+            "votes": 132,
+            "order": 1
+        }
+    ]
+}

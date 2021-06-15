@@ -1,0 +1,25 @@
+{
+    "id": 3900,
+    "question": "Können Sie sich an den Davis-Cup-Triumph von 2014 erinnern?",
+    "created_at": "2020-04-16T12:46:16+00:00",
+    "updated_at": "2021-06-14T09:36:10+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 164,
+    "answers": [
+        {
+            "id": 9359,
+            "answer": "Natürlich, das war absolut grossartig!",
+            "votes": 111,
+            "order": 0
+        },
+        {
+            "id": 9358,
+            "answer": "Nein, keinen Schimmer.",
+            "votes": 53,
+            "order": 1
+        }
+    ]
+}

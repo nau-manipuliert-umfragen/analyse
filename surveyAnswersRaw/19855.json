@@ -1,0 +1,31 @@
+{
+    "id": 8709,
+    "question": "Was hält Sie vom Kauf eines E-Autos ab?",
+    "created_at": "2021-04-13T08:03:46+00:00",
+    "updated_at": "2021-04-14T07:32:00+00:00",
+    "end_at": "2021-04-14T08:03:41+00:00",
+    "comment_group_id": 2104996,
+    "published_at": "2021-04-13T08:18:16+00:00",
+    "display_name": "",
+    "total": 310,
+    "answers": [
+        {
+            "id": 19855,
+            "answer": "Mir ist die Modellauswahl zu gering.",
+            "votes": 44,
+            "order": 0
+        },
+        {
+            "id": 19856,
+            "answer": "E-Autos sind mir zu teuer.",
+            "votes": 140,
+            "order": 1
+        },
+        {
+            "id": 19854,
+            "answer": "Mir fehlt es an Lademöglichkeiten.",
+            "votes": 126,
+            "order": 2
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 6114,
+    "question": "Gewinnt der FCZ am Sonntag in Sion?",
+    "created_at": "2020-11-20T13:40:55+00:00",
+    "updated_at": "2021-06-14T10:24:11+00:00",
+    "end_at": null,
+    "comment_group_id": 1905809,
+    "published_at": "2020-11-20T14:49:56+00:00",
+    "display_name": "",
+    "total": 121,
+    "answers": [
+        {
+            "id": 14219,
+            "answer": "Ja, die Erfolgsserie geht weiter.",
+            "votes": 89,
+            "order": 0
+        },
+        {
+            "id": 14220,
+            "answer": "Nein, im Wallis ist fertig lustig!",
+            "votes": 32,
+            "order": 1
+        }
+    ]
+}

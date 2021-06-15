@@ -1,0 +1,25 @@
+{
+    "id": 8209,
+    "question": "Lassen Sie ihre Pflanzen vertrocknen?",
+    "created_at": "2021-03-22T13:41:57+00:00",
+    "updated_at": "2021-06-14T09:39:27+00:00",
+    "end_at": null,
+    "comment_group_id": 2074165,
+    "published_at": "2021-03-22T19:00:41+00:00",
+    "display_name": "",
+    "total": 596,
+    "answers": [
+        {
+            "id": 18813,
+            "answer": "Nein, ich passe gut auf sie auf.",
+            "votes": 360,
+            "order": 0
+        },
+        {
+            "id": 18814,
+            "answer": "Ja, leider.",
+            "votes": 236,
+            "order": 1
+        }
+    ]
+}

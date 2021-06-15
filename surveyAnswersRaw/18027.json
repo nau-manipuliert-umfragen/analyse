@@ -1,0 +1,25 @@
+{
+    "id": 7830,
+    "question": "Gefällt Ihnen der Gastbeitrag von Willy Oggier?",
+    "created_at": "2021-03-08T09:44:58+00:00",
+    "updated_at": "2021-06-14T09:39:05+00:00",
+    "end_at": null,
+    "comment_group_id": 2053100,
+    "published_at": "2021-03-08T19:36:00+00:00",
+    "display_name": "",
+    "total": 456,
+    "answers": [
+        {
+            "id": 18027,
+            "answer": "Ja, er hat recht!",
+            "votes": 201,
+            "order": 0
+        },
+        {
+            "id": 18026,
+            "answer": "Na ja.",
+            "votes": 255,
+            "order": 1
+        }
+    ]
+}

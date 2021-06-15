@@ -1,0 +1,25 @@
+{
+    "id": 9330,
+    "question": "Haben Sie sich den WM-Final gegen Russland angeschaut?",
+    "created_at": "2021-05-10T05:42:49+00:00",
+    "updated_at": "2021-06-14T09:40:28+00:00",
+    "end_at": null,
+    "comment_group_id": 2149551,
+    "published_at": "2021-05-10T06:49:50+00:00",
+    "display_name": "",
+    "total": 314,
+    "answers": [
+        {
+            "id": 21192,
+            "answer": "Ja",
+            "votes": 191,
+            "order": 0
+        },
+        {
+            "id": 21191,
+            "answer": "Nein",
+            "votes": 123,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "id": 5793,
+    "question": "Welchen Namen finden Sie besser?",
+    "created_at": "2020-10-19T14:21:36+00:00",
+    "updated_at": "2021-06-14T09:37:28+00:00",
+    "end_at": null,
+    "comment_group_id": 1857858,
+    "published_at": "2020-10-19T15:01:44+00:00",
+    "display_name": "",
+    "total": 534,
+    "answers": [
+        {
+            "id": 13506,
+            "answer": "Roger-Federer-Arena",
+            "votes": 146,
+            "order": 0
+        },
+        {
+            "id": 13505,
+            "answer": "St. Jakobshalle",
+            "votes": 295,
+            "order": 1
+        },
+        {
+            "id": 13507,
+            "answer": "Egal, Hauptsache Roger Federer ist weiter auf der Tour mit dabei!",
+            "votes": 93,
+            "order": 2
+        }
+    ]
+}

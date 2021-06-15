@@ -1,0 +1,25 @@
+{
+    "id": 6751,
+    "question": "Schaffen die Grasshoppers den direkten Aufstieg in die Super League?",
+    "created_at": "2021-01-20T14:39:30+00:00",
+    "updated_at": "2021-06-14T09:38:13+00:00",
+    "end_at": null,
+    "comment_group_id": 1985845,
+    "published_at": "2021-01-20T14:59:31+00:00",
+    "display_name": "",
+    "total": 410,
+    "answers": [
+        {
+            "id": 15621,
+            "answer": "Ja",
+            "votes": 306,
+            "order": 0
+        },
+        {
+            "id": 15622,
+            "answer": "Nein",
+            "votes": 104,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "id": 9996,
+    "question": "Finden Sie es richtig, dass die Tennis-Fans wegen der Corona-Sperrstunde mitten im Spiel nach Hause geschickt wurden?",
+    "created_at": "2021-06-10T02:47:25+00:00",
+    "updated_at": "2021-06-14T09:41:06+00:00",
+    "end_at": null,
+    "comment_group_id": 2198749,
+    "published_at": "2021-06-10T02:53:00+00:00",
+    "display_name": "",
+    "total": 412,
+    "answers": [
+        {
+            "id": 22633,
+            "answer": "Ja, die Corona-Regeln müssen auch von den Tennis-Fans eingehalten werden!",
+            "votes": 112,
+            "order": 0
+        },
+        {
+            "id": 22631,
+            "answer": "Nein, ich denke die Behörden sollten eine Ausnahme machen!",
+            "votes": 92,
+            "order": 1
+        },
+        {
+            "id": 22632,
+            "answer": "Die Veranstalter sollten einfach die Zeiten anpassen und das Problem wäre gelöst!",
+            "votes": 208,
+            "order": 2
+        }
+    ]
+}

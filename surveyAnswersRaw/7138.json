@@ -1,0 +1,25 @@
+{
+    "id": 2880,
+    "question": "Wer gewinnt das «Match in Africa»?",
+    "created_at": "2020-02-07T08:44:06+00:00",
+    "updated_at": "2021-06-14T09:35:26+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 236,
+    "answers": [
+        {
+            "id": 7138,
+            "answer": "Roger Federer",
+            "votes": 161,
+            "order": 0
+        },
+        {
+            "id": 7137,
+            "answer": "Rafael Nadal",
+            "votes": 75,
+            "order": 1
+        }
+    ]
+}

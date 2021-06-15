@@ -1,0 +1,25 @@
+{
+    "id": 6858,
+    "question": "Hätte der FC Basel weiterhin auf Urs Fischer setzen sollen?",
+    "created_at": "2021-01-27T15:39:36+00:00",
+    "updated_at": "2021-06-14T09:38:18+00:00",
+    "end_at": null,
+    "comment_group_id": 1995787,
+    "published_at": "2021-01-28T12:31:07+00:00",
+    "display_name": "",
+    "total": 894,
+    "answers": [
+        {
+            "id": 15851,
+            "answer": "Ja, er hätte einen Vertrag verdient.",
+            "votes": 802,
+            "order": 0
+        },
+        {
+            "id": 15850,
+            "answer": "Nein, es war die richtige Entscheidung.",
+            "votes": 92,
+            "order": 1
+        }
+    ]
+}

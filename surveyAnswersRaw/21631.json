@@ -1,0 +1,25 @@
+{
+    "id": 9534,
+    "question": "Erstaunt es Sie, dass Bill Gates und Epstein sich kannten?",
+    "created_at": "2021-05-19T07:07:58+00:00",
+    "updated_at": "2021-06-14T09:40:41+00:00",
+    "end_at": null,
+    "comment_group_id": 2164612,
+    "published_at": "2021-05-19T08:58:39+00:00",
+    "display_name": "",
+    "total": 382,
+    "answers": [
+        {
+            "id": 21632,
+            "answer": "Nein, Epstein kannte offenbar jeden.",
+            "votes": 292,
+            "order": 0
+        },
+        {
+            "id": 21631,
+            "answer": "Ja, ich hätte ihm das nicht zugetraut.",
+            "votes": 90,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 4955,
+    "question": "Gewinnt Juventus Turin in Italien die Meisterschaft?",
+    "created_at": "2020-07-21T09:28:32+00:00",
+    "updated_at": "2021-06-14T09:36:54+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 96,
+    "answers": [
+        {
+            "id": 11659,
+            "answer": "Ja",
+            "votes": 73,
+            "order": 0
+        },
+        {
+            "id": 11658,
+            "answer": "Nein",
+            "votes": 23,
+            "order": 1
+        }
+    ]
+}

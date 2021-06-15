@@ -1,0 +1,25 @@
+{
+    "id": 5476,
+    "question": "Schafft es YB in die Europa League?",
+    "created_at": "2020-09-17T08:06:31+00:00",
+    "updated_at": "2021-06-14T09:37:15+00:00",
+    "end_at": null,
+    "comment_group_id": 1804701,
+    "published_at": "2020-09-17T09:02:55+00:00",
+    "display_name": "",
+    "total": 494,
+    "answers": [
+        {
+            "id": 12815,
+            "answer": "Aber klar doch",
+            "votes": 257,
+            "order": 0
+        },
+        {
+            "id": 12814,
+            "answer": "Nein, da fehlt die Qualität",
+            "votes": 237,
+            "order": 1
+        }
+    ]
+}

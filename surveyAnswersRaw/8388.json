@@ -1,0 +1,25 @@
+{
+    "id": 3442,
+    "question": "Kann Jérôme Boateng an seine vergangenen Erfolge anknüpfen?",
+    "created_at": "2020-03-12T14:29:07+00:00",
+    "updated_at": "2020-03-12T14:32:34+00:00",
+    "end_at": "2020-03-12T14:29:05+00:00",
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 40,
+    "answers": [
+        {
+            "id": 8387,
+            "answer": "Ja, nun kommt seine Zeit.",
+            "votes": 20,
+            "order": 0
+        },
+        {
+            "id": 8388,
+            "answer": "Nein, dies war nur ein einziger Erfolg.",
+            "votes": 20,
+            "order": 1
+        }
+    ]
+}

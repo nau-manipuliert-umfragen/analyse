@@ -1,0 +1,25 @@
+{
+    "id": 7152,
+    "question": "Verstehen Sie den Hype um Youssoufa Moukoko?",
+    "created_at": "2021-02-09T16:59:58+00:00",
+    "updated_at": "2021-06-14T09:38:33+00:00",
+    "end_at": null,
+    "comment_group_id": 2014640,
+    "published_at": "2021-02-09T17:16:58+00:00",
+    "display_name": "",
+    "total": 84,
+    "answers": [
+        {
+            "id": 16513,
+            "answer": "Ja, er wird ein absoluter Superstar.",
+            "votes": 45,
+            "order": 0
+        },
+        {
+            "id": 16514,
+            "answer": "Nein, abwarten. Er ist erst 16 Jahre alt und hat noch nichts bewiesen.",
+            "votes": 39,
+            "order": 1
+        }
+    ]
+}

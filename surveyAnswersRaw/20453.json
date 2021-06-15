@@ -1,0 +1,25 @@
+{
+    "id": 8987,
+    "question": "Holt die Schweiz heute wieder eine Medaille an der Kunstturn-EM in Basel?",
+    "created_at": "2021-04-25T11:03:07+00:00",
+    "updated_at": "2021-06-14T09:40:08+00:00",
+    "end_at": null,
+    "comment_group_id": 2123771,
+    "published_at": "2021-04-25T11:09:37+00:00",
+    "display_name": "",
+    "total": 115,
+    "answers": [
+        {
+            "id": 20452,
+            "answer": "Ja",
+            "votes": 66,
+            "order": 0
+        },
+        {
+            "id": 20453,
+            "answer": "Nein",
+            "votes": 49,
+            "order": 1
+        }
+    ]
+}

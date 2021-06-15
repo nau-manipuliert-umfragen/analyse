@@ -1,0 +1,25 @@
+{
+    "id": 4190,
+    "question": "Sollte die Super League den VAR wieder abschaffen?",
+    "created_at": "2020-05-11T11:00:39+00:00",
+    "updated_at": "2021-06-14T09:36:23+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 407,
+    "answers": [
+        {
+            "id": 9998,
+            "answer": "Ja.",
+            "votes": 151,
+            "order": 0
+        },
+        {
+            "id": 9997,
+            "answer": "Nein.",
+            "votes": 256,
+            "order": 1
+        }
+    ]
+}

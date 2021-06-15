@@ -1,0 +1,25 @@
+{
+    "id": 2329,
+    "question": "Wird Murat Yakin in Sion zum Langzeit-Trainer?",
+    "created_at": "2019-02-03T11:44:00+00:00",
+    "updated_at": "2021-06-14T09:34:57+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 89,
+    "answers": [
+        {
+            "id": 5881,
+            "answer": "Ja, er und CC harmonieren prächtig – da wächst etwas heran.",
+            "votes": 51,
+            "order": 100
+        },
+        {
+            "id": 5882,
+            "answer": "Nein, bei Constantin ist das unmöglich.",
+            "votes": 38,
+            "order": 100
+        }
+    ]
+}

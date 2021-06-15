@@ -1,0 +1,25 @@
+{
+    "id": 6950,
+    "question": "Soll Lausanne im Sturm noch nachlegen?",
+    "created_at": "2021-02-01T12:12:10+00:00",
+    "updated_at": "2021-06-14T09:38:22+00:00",
+    "end_at": null,
+    "comment_group_id": 2002489,
+    "published_at": "2021-02-01T12:41:14+00:00",
+    "display_name": "",
+    "total": 75,
+    "answers": [
+        {
+            "id": 16052,
+            "answer": "Ja, es muss noch ein Angreifer kommen!",
+            "votes": 46,
+            "order": 0
+        },
+        {
+            "id": 16053,
+            "answer": "Nein, es ist genügend Qualität vorhanden.",
+            "votes": 29,
+            "order": 1
+        }
+    ]
+}

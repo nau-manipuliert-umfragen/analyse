@@ -1,0 +1,25 @@
+{
+    "id": 614,
+    "question": "Wer zieht in den Playoff-Final ein?",
+    "created_at": "2018-03-26T09:51:18+00:00",
+    "updated_at": "2021-06-14T09:34:01+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 42,
+    "answers": [
+        {
+            "id": 1808,
+            "answer": "EHC Biel",
+            "votes": 21,
+            "order": 100
+        },
+        {
+            "id": 1811,
+            "answer": "HC Lugano",
+            "votes": 21,
+            "order": 100
+        }
+    ]
+}

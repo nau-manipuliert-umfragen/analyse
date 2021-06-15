@@ -1,0 +1,25 @@
+{
+    "id": 6351,
+    "question": "Verstehen Sie Vivien Geiss' Entscheid?",
+    "created_at": "2020-12-17T09:31:57+00:00",
+    "updated_at": "2021-06-14T09:37:58+00:00",
+    "end_at": null,
+    "comment_group_id": 1944060,
+    "published_at": "2020-12-17T11:02:55+00:00",
+    "display_name": "",
+    "total": 1177,
+    "answers": [
+        {
+            "id": 14748,
+            "answer": "Nein, Laura hat noch eine Chance verdient.",
+            "votes": 90,
+            "order": 0
+        },
+        {
+            "id": 14749,
+            "answer": "Ja, Laura und Michael Wendler verhalten sich unprofessionell.",
+            "votes": 1087,
+            "order": 1
+        }
+    ]
+}

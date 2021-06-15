@@ -1,0 +1,31 @@
+{
+    "id": 7315,
+    "question": "Gibt es heute die nächste(n) Medaille(n) für die Schweiz?",
+    "created_at": "2021-02-15T16:20:10+00:00",
+    "updated_at": "2021-06-14T09:38:41+00:00",
+    "end_at": null,
+    "comment_group_id": 2023389,
+    "published_at": "2021-02-16T12:35:53+00:00",
+    "display_name": "",
+    "total": 444,
+    "answers": [
+        {
+            "id": 16881,
+            "answer": "Ja, das gibt mehrere!",
+            "votes": 158,
+            "order": 0
+        },
+        {
+            "id": 16882,
+            "answer": "Ja, eine wird es gewiss.",
+            "votes": 205,
+            "order": 1
+        },
+        {
+            "id": 16883,
+            "answer": "Nein, heute leider nicht.",
+            "votes": 81,
+            "order": 2
+        }
+    ]
+}

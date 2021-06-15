@@ -1,0 +1,25 @@
+{
+    "id": 5240,
+    "question": "Kann sich YB für die Champions-League-Gruppenphase qualifizieren?",
+    "created_at": "2020-08-24T13:18:45+00:00",
+    "updated_at": "2021-06-14T09:37:05+00:00",
+    "end_at": null,
+    "comment_group_id": 1763925,
+    "published_at": "2020-08-24T16:19:46+00:00",
+    "display_name": "",
+    "total": 370,
+    "answers": [
+        {
+            "id": 12286,
+            "answer": "Na klar",
+            "votes": 302,
+            "order": 0
+        },
+        {
+            "id": 12287,
+            "answer": "Nein, das klappt nicht",
+            "votes": 68,
+            "order": 1
+        }
+    ]
+}

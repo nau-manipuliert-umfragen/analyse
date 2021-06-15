@@ -1,0 +1,37 @@
+{
+    "id": 134,
+    "question": "Was für eine Bilanz ziehen Sie ein Jahr nach Trumps Wahl?",
+    "created_at": "2017-11-08T08:19:52+00:00",
+    "updated_at": "2021-06-14T09:33:42+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 172,
+    "answers": [
+        {
+            "id": 341,
+            "answer": "Ich hab's immer gesagt: das kann nicht gut gehen mit einem wie Trump als Präsidenten.",
+            "votes": 89,
+            "order": 100
+        },
+        {
+            "id": 343,
+            "answer": "Ich bin enttäuscht, weil er seine Versprechungen nicht einhalten kann.",
+            "votes": 23,
+            "order": 100
+        },
+        {
+            "id": 346,
+            "answer": "Trump ist eine positive Überraschung, denn vor einem Jahr hatte ich Zweifel, ob das gut kommt.",
+            "votes": 25,
+            "order": 100
+        },
+        {
+            "id": 347,
+            "answer": "Er beweist, dass er der richtige Mann ist und er bringt die USA vorwärts.",
+            "votes": 35,
+            "order": 100
+        }
+    ]
+}

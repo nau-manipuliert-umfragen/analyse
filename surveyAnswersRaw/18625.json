@@ -1,0 +1,25 @@
+{
+    "id": 8120,
+    "question": "Würden Sie einen Promi daten?",
+    "created_at": "2021-03-18T15:55:34+00:00",
+    "updated_at": "2021-06-14T09:39:22+00:00",
+    "end_at": null,
+    "comment_group_id": 2068969,
+    "published_at": "2021-03-20T11:07:31+00:00",
+    "display_name": "",
+    "total": 646,
+    "answers": [
+        {
+            "id": 18626,
+            "answer": "Nein, zu anstrengend!",
+            "votes": 516,
+            "order": 0
+        },
+        {
+            "id": 18625,
+            "answer": "Ja, wie toll wäre das denn?",
+            "votes": 130,
+            "order": 1
+        }
+    ]
+}

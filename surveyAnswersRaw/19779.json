@@ -1,0 +1,25 @@
+{
+    "id": 8671,
+    "question": "Macht YB gegen Lugano den Sack zu?",
+    "created_at": "2021-04-11T17:37:08+00:00",
+    "updated_at": "2021-06-14T09:39:51+00:00",
+    "end_at": null,
+    "comment_group_id": 2102872,
+    "published_at": "2021-04-11T18:03:21+00:00",
+    "display_name": "",
+    "total": 256,
+    "answers": [
+        {
+            "id": 19780,
+            "answer": "Ja",
+            "votes": 223,
+            "order": 0
+        },
+        {
+            "id": 19779,
+            "answer": "Nein",
+            "votes": 33,
+            "order": 1
+        }
+    ]
+}

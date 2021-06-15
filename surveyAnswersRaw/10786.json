@@ -1,0 +1,25 @@
+{
+    "id": 4553,
+    "question": "Sehnen Sie sich auch nach etwas Sonne?",
+    "created_at": "2020-06-10T12:34:06+00:00",
+    "updated_at": "2021-06-14T09:36:39+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 146,
+    "answers": [
+        {
+            "id": 10787,
+            "answer": "Ja, ohne Sonne kann ich nicht leben",
+            "votes": 81,
+            "order": 0
+        },
+        {
+            "id": 10786,
+            "answer": "Egal, ich funktioniere bei jedem Wetter",
+            "votes": 65,
+            "order": 1
+        }
+    ]
+}

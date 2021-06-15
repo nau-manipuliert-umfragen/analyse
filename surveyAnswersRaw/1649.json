@@ -1,0 +1,31 @@
+{
+    "id": 566,
+    "question": "Holt Ihr euch das Spiel «Sea of Thieves»?",
+    "created_at": "2018-03-19T15:07:54+00:00",
+    "updated_at": "2021-06-14T09:33:59+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 72,
+    "answers": [
+        {
+            "id": 1649,
+            "answer": "Ja, endlich wieder ein spannendes Piratenabenteuer!",
+            "votes": 23,
+            "order": 100
+        },
+        {
+            "id": 1652,
+            "answer": "Nein, das Game spricht mich überhaupt nicht an.",
+            "votes": 26,
+            "order": 100
+        },
+        {
+            "id": 1655,
+            "answer": "Vielleicht, ich kann mich noch nicht entscheiden.",
+            "votes": 23,
+            "order": 100
+        }
+    ]
+}

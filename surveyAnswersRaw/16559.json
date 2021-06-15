@@ -1,0 +1,25 @@
+{
+    "id": 7173,
+    "question": "Vermissen Sie die Fasnacht?",
+    "created_at": "2021-02-10T12:11:15+00:00",
+    "updated_at": "2021-06-14T09:38:35+00:00",
+    "end_at": null,
+    "comment_group_id": 2015680,
+    "published_at": "2021-02-10T15:57:29+00:00",
+    "display_name": "",
+    "total": 1268,
+    "answers": [
+        {
+            "id": 16559,
+            "answer": "Ja, und wie!",
+            "votes": 724,
+            "order": 0
+        },
+        {
+            "id": 16560,
+            "answer": "Nein, ich hasse Guggenmusik.",
+            "votes": 544,
+            "order": 1
+        }
+    ]
+}

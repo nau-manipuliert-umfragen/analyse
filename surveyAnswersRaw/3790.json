@@ -1,0 +1,31 @@
+{
+    "id": 1405,
+    "question": "Hat Shaqiri recht mit seiner Aussage?",
+    "created_at": "2018-07-03T19:42:11+00:00",
+    "updated_at": "2021-06-14T09:34:26+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 193,
+    "answers": [
+        {
+            "id": 3790,
+            "answer": "Ja! Schweden hat von Fussball keine Ahnung.",
+            "votes": 38,
+            "order": 100
+        },
+        {
+            "id": 3793,
+            "answer": "Weder die Schweiz noch Schweden haben gut gespielt.",
+            "votes": 54,
+            "order": 100
+        },
+        {
+            "id": 3796,
+            "answer": "Nein! Die Nati ist selber Schuld. Schwache Leistung.",
+            "votes": 101,
+            "order": 100
+        }
+    ]
+}

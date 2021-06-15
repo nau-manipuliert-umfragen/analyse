@@ -1,0 +1,31 @@
+{
+    "id": 3845,
+    "question": "Was halten Sie von Neymars Mutter und ihrem Freund?",
+    "created_at": "2020-04-12T19:01:14+00:00",
+    "updated_at": "2021-06-14T09:36:08+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 2700,
+    "answers": [
+        {
+            "id": 9244,
+            "answer": "Mutter (52), ihr Freund (23), ihr Sohn (28) – das geht einfach zu weit",
+            "votes": 936,
+            "order": 0
+        },
+        {
+            "id": 9243,
+            "answer": "Liebe kennt kein Alter",
+            "votes": 454,
+            "order": 1
+        },
+        {
+            "id": 9245,
+            "answer": "Ist mir egal. Die soll machen, was sie will",
+            "votes": 1310,
+            "order": 2
+        }
+    ]
+}

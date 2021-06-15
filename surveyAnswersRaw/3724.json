@@ -1,0 +1,25 @@
+{
+    "id": 1375,
+    "question": "Gewinnt die Schweizer Nati heute gegen Schweden?",
+    "created_at": "2018-07-03T04:38:06+00:00",
+    "updated_at": "2021-06-14T09:34:26+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 163,
+    "answers": [
+        {
+            "id": 3724,
+            "answer": "Ja klar, unsere Jungs lassen sich nicht provozieren und packen das.",
+            "votes": 75,
+            "order": 100
+        },
+        {
+            "id": 3727,
+            "answer": "Nein, die Schweden sind eine Nummer zur gross.",
+            "votes": 88,
+            "order": 100
+        }
+    ]
+}

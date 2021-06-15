@@ -1,0 +1,31 @@
+{
+    "id": 2539,
+    "question": "Wie verfolgen Sie die Weltcuprennen in Adelboden?",
+    "created_at": "2020-01-12T17:41:40+00:00",
+    "updated_at": "2021-06-14T09:35:07+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 288,
+    "answers": [
+        {
+            "id": 6383,
+            "answer": "Ich fiebere vor Ort mit.",
+            "votes": 109,
+            "order": 0
+        },
+        {
+            "id": 6382,
+            "answer": "Ich verfolge die Rennen im TV.",
+            "votes": 148,
+            "order": 1
+        },
+        {
+            "id": 6384,
+            "answer": "Ich schaue Handball-EM.",
+            "votes": 31,
+            "order": 2
+        }
+    ]
+}

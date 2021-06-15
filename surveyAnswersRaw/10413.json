@@ -1,0 +1,25 @@
+{
+    "id": 4382,
+    "question": "Gelingt Urs Fischer mit Union der Klassenerhalt?",
+    "created_at": "2020-05-28T07:37:29+00:00",
+    "updated_at": "2021-06-14T09:36:32+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 174,
+    "answers": [
+        {
+            "id": 10413,
+            "answer": "Ja, die «Eisernen» schaffen es.",
+            "votes": 142,
+            "order": 0
+        },
+        {
+            "id": 10414,
+            "answer": "Nein, die Berliner müssen wieder runter.",
+            "votes": 32,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 2987,
+    "question": "Wird das der schlechteste Elfmeter des Jahres 2020?",
+    "created_at": "2020-02-13T09:25:48+00:00",
+    "updated_at": "2021-06-14T09:35:32+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 60,
+    "answers": [
+        {
+            "id": 7376,
+            "answer": "Ja, was er sich dabei gedacht hat, ist unbegreiflich.",
+            "votes": 30,
+            "order": 0
+        },
+        {
+            "id": 7377,
+            "answer": "Nein, wir werden mit Sicherheit noch schlechtere Strafstösse sehen.",
+            "votes": 30,
+            "order": 1
+        }
+    ]
+}

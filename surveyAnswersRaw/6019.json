@@ -1,0 +1,31 @@
+{
+    "id": 2387,
+    "question": "Halten Sie ein Werbeverbot «für besonders klimaschädliche Produkte und Dienstleistungen» für nötig?",
+    "created_at": "2019-07-18T07:30:02+00:00",
+    "updated_at": "2021-06-14T09:34:59+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 333,
+    "answers": [
+        {
+            "id": 6017,
+            "answer": "Ist mir eigentlich egal.",
+            "votes": 39,
+            "order": 100
+        },
+        {
+            "id": 6018,
+            "answer": "Nein, ich finde die Idee schlecht.",
+            "votes": 228,
+            "order": 100
+        },
+        {
+            "id": 6019,
+            "answer": "Ja, es ist eine gute Idee.",
+            "votes": 66,
+            "order": 100
+        }
+    ]
+}

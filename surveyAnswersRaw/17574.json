@@ -1,0 +1,25 @@
+{
+    "id": 7624,
+    "question": "Würden Sie eine Kugel für ihren Wauwau abfangen?",
+    "created_at": "2021-02-26T16:02:50+00:00",
+    "updated_at": "2021-06-14T09:38:55+00:00",
+    "end_at": null,
+    "comment_group_id": 2039950,
+    "published_at": "2021-02-27T17:06:41+00:00",
+    "display_name": "",
+    "total": 269,
+    "answers": [
+        {
+            "id": 17574,
+            "answer": "Ja, klar.",
+            "votes": 105,
+            "order": 0
+        },
+        {
+            "id": 17573,
+            "answer": "Muss ich das beantworten ...",
+            "votes": 164,
+            "order": 1
+        }
+    ]
+}

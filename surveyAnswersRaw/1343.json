@@ -1,0 +1,31 @@
+{
+    "id": 467,
+    "question": "Würde ein solcher Lohngleichheitsbericht etwas bringen?",
+    "created_at": "2018-02-28T13:58:07+00:00",
+    "updated_at": "2021-06-14T09:33:55+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 118,
+    "answers": [
+        {
+            "id": 1340,
+            "answer": "Ja, Transparenz ist die Basis für Lohngleichheit.",
+            "votes": 64,
+            "order": 100
+        },
+        {
+            "id": 1343,
+            "answer": "Nein, Lohngleichheit soll nicht politisch erzwungen werden.",
+            "votes": 32,
+            "order": 100
+        },
+        {
+            "id": 1349,
+            "answer": "Wäre gut, würde aber das Problem nicht lösen.",
+            "votes": 22,
+            "order": 100
+        }
+    ]
+}

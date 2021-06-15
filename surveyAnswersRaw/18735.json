@@ -1,0 +1,31 @@
+{
+    "id": 8174,
+    "question": "Trainieren sie während der Pandemie auch so hart wie Luke Evans?",
+    "created_at": "2021-03-21T12:22:31+00:00",
+    "updated_at": "2021-06-14T09:39:25+00:00",
+    "end_at": null,
+    "comment_group_id": 2072539,
+    "published_at": "2021-03-21T12:33:11+00:00",
+    "display_name": "",
+    "total": 64,
+    "answers": [
+        {
+            "id": 18736,
+            "answer": "Ja, ich will fit sein.",
+            "votes": 21,
+            "order": 0
+        },
+        {
+            "id": 18735,
+            "answer": "Nur selten.",
+            "votes": 21,
+            "order": 1
+        },
+        {
+            "id": 18737,
+            "answer": "Ich verstehe diese Frage nicht.",
+            "votes": 22,
+            "order": 2
+        }
+    ]
+}

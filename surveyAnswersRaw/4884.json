@@ -1,0 +1,31 @@
+{
+    "id": 1893,
+    "question": "Wie hat ihnen der CL-Start auf Teleclub gefallen?",
+    "created_at": "2018-08-29T05:38:56+00:00",
+    "updated_at": "2021-06-14T09:34:41+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 186,
+    "answers": [
+        {
+            "id": 4884,
+            "answer": "Schlecht.",
+            "votes": 67,
+            "order": 100
+        },
+        {
+            "id": 4887,
+            "answer": "Ich suche noch den Sender.",
+            "votes": 71,
+            "order": 100
+        },
+        {
+            "id": 4890,
+            "answer": "Gut.",
+            "votes": 48,
+            "order": 100
+        }
+    ]
+}

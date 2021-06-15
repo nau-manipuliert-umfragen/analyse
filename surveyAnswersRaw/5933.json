@@ -1,0 +1,49 @@
+{
+    "id": 2352,
+    "question": "Welcher Schweizer Club schnappt sich «Raser Raul»?",
+    "created_at": "2019-02-27T14:01:46+00:00",
+    "updated_at": "2021-06-14T09:34:58+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 304,
+    "answers": [
+        {
+            "id": 5931,
+            "answer": "CC holt ihn nach Sion",
+            "votes": 69,
+            "order": 100
+        },
+        {
+            "id": 5932,
+            "answer": "YB",
+            "votes": 29,
+            "order": 100
+        },
+        {
+            "id": 5933,
+            "answer": "St. Gallen, Luzern oder GC",
+            "votes": 65,
+            "order": 100
+        },
+        {
+            "id": 5934,
+            "answer": "FCB",
+            "votes": 26,
+            "order": 100
+        },
+        {
+            "id": 5935,
+            "answer": "Keiner",
+            "votes": 75,
+            "order": 100
+        },
+        {
+            "id": 5936,
+            "answer": "«Egal»",
+            "votes": 40,
+            "order": 100
+        }
+    ]
+}

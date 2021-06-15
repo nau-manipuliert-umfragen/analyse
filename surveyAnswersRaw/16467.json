@@ -1,0 +1,25 @@
+{
+    "id": 7130,
+    "question": "Holen die Schweizerinnen heute im Super-G die ersten Medaillen?",
+    "created_at": "2021-02-09T08:59:52+00:00",
+    "updated_at": "2021-06-14T09:38:31+00:00",
+    "end_at": null,
+    "comment_group_id": 2013644,
+    "published_at": "2021-02-11T06:48:39+00:00",
+    "display_name": "",
+    "total": 231,
+    "answers": [
+        {
+            "id": 16466,
+            "answer": "Ja, das wird ein WM-Start nach Mass!",
+            "votes": 156,
+            "order": 0
+        },
+        {
+            "id": 16467,
+            "answer": "Nein, leider nicht.",
+            "votes": 75,
+            "order": 1
+        }
+    ]
+}

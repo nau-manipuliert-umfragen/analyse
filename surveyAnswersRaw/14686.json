@@ -1,0 +1,25 @@
+{
+    "id": 6323,
+    "question": "Sind die Einschränkungen für die Gastronomie gerechtfertigt?",
+    "created_at": "2020-12-14T19:00:58+00:00",
+    "updated_at": "2021-06-14T09:37:56+00:00",
+    "end_at": null,
+    "comment_group_id": 1940334,
+    "published_at": "2020-12-15T07:07:44+00:00",
+    "display_name": "",
+    "total": 4068,
+    "answers": [
+        {
+            "id": 14687,
+            "answer": "Ja, es gilt jede mögliche Ansteckung zu verhindern. Koste es, was es wollte.",
+            "votes": 1657,
+            "order": 0
+        },
+        {
+            "id": 14686,
+            "answer": "Nein, Beizen sind kein Corona-Hotspot. Aber der Bundesrat zerstört viele Betriebe.",
+            "votes": 2411,
+            "order": 1
+        }
+    ]
+}

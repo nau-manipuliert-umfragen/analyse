@@ -1,0 +1,31 @@
+{
+    "id": 638,
+    "question": "Verzichten Sie auf Fleisch?",
+    "created_at": "2018-04-05T05:54:02+00:00",
+    "updated_at": "2021-06-14T10:20:09+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 422,
+    "answers": [
+        {
+            "id": 1868,
+            "answer": "Ja, ich bin Vegetarier/Veganer.",
+            "votes": 273,
+            "order": 100
+        },
+        {
+            "id": 1871,
+            "answer": "Nein, dafür schmeckt mir Fleisch zu gut.",
+            "votes": 75,
+            "order": 100
+        },
+        {
+            "id": 1877,
+            "answer": "Ja, ich verzichte manchmal bewusst auf Fleischprodukte.",
+            "votes": 74,
+            "order": 100
+        }
+    ]
+}

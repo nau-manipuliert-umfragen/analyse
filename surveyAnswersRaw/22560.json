@@ -1,0 +1,31 @@
+{
+    "id": 9963,
+    "question": "Würden Sie sich mit einer Misch-Impfung gegen Corona impfen lassen?",
+    "created_at": "2021-06-08T13:16:08+00:00",
+    "updated_at": "2021-06-08T16:58:56+00:00",
+    "end_at": "2021-06-08T13:16:05+00:00",
+    "comment_group_id": 2196176,
+    "published_at": "2021-06-08T16:58:55+00:00",
+    "display_name": "",
+    "total": 60,
+    "answers": [
+        {
+            "id": 22562,
+            "answer": "Ja, auf jeden Fall!",
+            "votes": 20,
+            "order": 0
+        },
+        {
+            "id": 22560,
+            "answer": "Ich würde abwarten.",
+            "votes": 20,
+            "order": 1
+        },
+        {
+            "id": 22561,
+            "answer": "Nein, die Risiken wären mir zu gross.",
+            "votes": 20,
+            "order": 2
+        }
+    ]
+}

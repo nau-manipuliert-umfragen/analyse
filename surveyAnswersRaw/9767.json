@@ -1,0 +1,31 @@
+{
+    "id": 4089,
+    "question": "Wer hat das grösste Ego?",
+    "created_at": "2020-05-01T11:17:15+00:00",
+    "updated_at": "2021-06-14T10:22:36+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 244,
+    "answers": [
+        {
+            "id": 9765,
+            "answer": "Zlatan Ibrahimovic",
+            "votes": 131,
+            "order": 0
+        },
+        {
+            "id": 9766,
+            "answer": "Mario Balotelli",
+            "votes": 38,
+            "order": 1
+        },
+        {
+            "id": 9767,
+            "answer": "José Mourinho",
+            "votes": 75,
+            "order": 2
+        }
+    ]
+}

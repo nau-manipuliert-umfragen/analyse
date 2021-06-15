@@ -1,0 +1,25 @@
+{
+    "id": 5441,
+    "question": "Stimmen Sie Dominic Thiem zu?",
+    "created_at": "2020-09-14T12:07:32+00:00",
+    "updated_at": "2021-06-14T09:37:13+00:00",
+    "end_at": null,
+    "comment_group_id": 1799500,
+    "published_at": "2020-09-14T17:00:08+00:00",
+    "display_name": "",
+    "total": 475,
+    "answers": [
+        {
+            "id": 12741,
+            "answer": "Ja, Federer ist ein absoluter Superstar.",
+            "votes": 430,
+            "order": 0
+        },
+        {
+            "id": 12742,
+            "answer": "Nein, da gibt es andere Sportler, welche ich dem Schweizer bevorzuge.",
+            "votes": 45,
+            "order": 1
+        }
+    ]
+}

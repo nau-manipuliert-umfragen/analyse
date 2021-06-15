@@ -1,0 +1,31 @@
+{
+    "id": 9337,
+    "question": "Hat sich Angelina Jolie unters Messer gelegt?",
+    "created_at": "2021-05-10T09:23:48+00:00",
+    "updated_at": "2021-06-14T09:40:28+00:00",
+    "end_at": null,
+    "comment_group_id": 2150025,
+    "published_at": "2021-05-10T09:54:38+00:00",
+    "display_name": "",
+    "total": 616,
+    "answers": [
+        {
+            "id": 21208,
+            "answer": "Ja, das sieht man von Weitem.",
+            "votes": 468,
+            "order": 0
+        },
+        {
+            "id": 21206,
+            "answer": "Nein, das ist nur Spekulation.",
+            "votes": 49,
+            "order": 1
+        },
+        {
+            "id": 21207,
+            "answer": "Egal, hübsch ist sie sowieso.",
+            "votes": 99,
+            "order": 2
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 7230,
+    "question": "Mögen Sie kaltes Wetter?",
+    "created_at": "2021-02-12T08:00:05+00:00",
+    "updated_at": "2021-06-14T09:38:37+00:00",
+    "end_at": null,
+    "comment_group_id": 2018645,
+    "published_at": "2021-02-12T08:18:56+00:00",
+    "display_name": "",
+    "total": 345,
+    "answers": [
+        {
+            "id": 16687,
+            "answer": "Ja, ich mache es mir vor dem TV gemütlich.",
+            "votes": 163,
+            "order": 0
+        },
+        {
+            "id": 16688,
+            "answer": "Nein, ich warte ungeduldig auf den Sommer.",
+            "votes": 182,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 9106,
+    "question": "Glauben Sie, dass Harry das Interview bereut?",
+    "created_at": "2021-04-29T13:30:37+00:00",
+    "updated_at": "2021-06-14T09:40:16+00:00",
+    "end_at": null,
+    "comment_group_id": 2131743,
+    "published_at": "2021-04-29T14:57:33+00:00",
+    "display_name": "",
+    "total": 1369,
+    "answers": [
+        {
+            "id": 20708,
+            "answer": "Nein, dazu ist er zu abgebrüht.",
+            "votes": 330,
+            "order": 0
+        },
+        {
+            "id": 20707,
+            "answer": "Ja, er muss sich jetzt den Konsequenzen stellen.",
+            "votes": 1039,
+            "order": 1
+        }
+    ]
+}

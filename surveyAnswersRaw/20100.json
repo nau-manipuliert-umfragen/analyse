@@ -1,0 +1,31 @@
+{
+    "id": 8823,
+    "question": "Auf welchem Rang beendet der FCB die Saison?",
+    "created_at": "2021-04-18T17:04:24+00:00",
+    "updated_at": "2021-06-14T09:39:59+00:00",
+    "end_at": null,
+    "comment_group_id": 2113033,
+    "published_at": "2021-04-18T18:01:25+00:00",
+    "display_name": "",
+    "total": 822,
+    "answers": [
+        {
+            "id": 20101,
+            "answer": "2-3",
+            "votes": 679,
+            "order": 0
+        },
+        {
+            "id": 20100,
+            "answer": "4-6",
+            "votes": 95,
+            "order": 1
+        },
+        {
+            "id": 20102,
+            "answer": "7-10",
+            "votes": 48,
+            "order": 2
+        }
+    ]
+}

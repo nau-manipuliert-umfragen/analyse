@@ -1,0 +1,31 @@
+{
+    "id": 9813,
+    "question": "Weshalb meldet sich Ivanka Trump nicht mehr in der Öffentlichkeit?",
+    "created_at": "2021-06-02T07:36:40+00:00",
+    "updated_at": "2021-06-14T09:40:56+00:00",
+    "end_at": null,
+    "comment_group_id": 2186620,
+    "published_at": "2021-06-03T15:55:27+00:00",
+    "display_name": "",
+    "total": 1004,
+    "answers": [
+        {
+            "id": 22237,
+            "answer": "Sie plant sicher ein Trump-Comeback!",
+            "votes": 294,
+            "order": 0
+        },
+        {
+            "id": 22236,
+            "answer": "Sie hat Angst wegen den Ermittlungen!",
+            "votes": 445,
+            "order": 1
+        },
+        {
+            "id": 22235,
+            "answer": "Sie möchte mehr Zeit mit ihrer Familie verbringen.",
+            "votes": 265,
+            "order": 2
+        }
+    ]
+}

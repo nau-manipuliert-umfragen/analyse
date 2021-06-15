@@ -1,0 +1,25 @@
+{
+    "id": 5550,
+    "question": "Begrüssen Sie den frischen Wind im Bundesamt für Gesundheit?",
+    "created_at": "2020-09-25T07:46:54+00:00",
+    "updated_at": "2021-06-14T09:37:18+00:00",
+    "end_at": null,
+    "comment_group_id": 1818202,
+    "published_at": "2020-09-25T09:29:51+00:00",
+    "display_name": "",
+    "total": 575,
+    "answers": [
+        {
+            "id": 12976,
+            "answer": "Ja, die letzten Monate herrschte dort ein absolutes Chaos.",
+            "votes": 364,
+            "order": 0
+        },
+        {
+            "id": 12977,
+            "answer": "Nein, Berset, Kuster & Co. haben einen hervorragenden Job gemacht.",
+            "votes": 211,
+            "order": 1
+        }
+    ]
+}

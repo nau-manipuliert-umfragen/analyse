@@ -1,0 +1,25 @@
+{
+    "id": 2187,
+    "question": "Haben die Berner eine Chance gegen Valencia?",
+    "created_at": "2018-10-03T04:05:54+00:00",
+    "updated_at": "2021-06-14T09:34:52+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 62,
+    "answers": [
+        {
+            "id": 5550,
+            "answer": "Ja, die Spanier liegen in Reichweite für YB.",
+            "votes": 29,
+            "order": 100
+        },
+        {
+            "id": 5553,
+            "answer": "Nein! In dieser Hammergruppe wäre jeder Punkt eine Sensation.",
+            "votes": 33,
+            "order": 100
+        }
+    ]
+}

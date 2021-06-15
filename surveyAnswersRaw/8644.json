@@ -1,0 +1,25 @@
+{
+    "id": 3562,
+    "question": "Soll Borussia Dortmund Mario Götze im Sommer ziehen lassen?",
+    "created_at": "2020-03-21T08:38:51+00:00",
+    "updated_at": "2021-06-14T10:22:13+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 201,
+    "answers": [
+        {
+            "id": 8644,
+            "answer": "Ja",
+            "votes": 163,
+            "order": 0
+        },
+        {
+            "id": 8643,
+            "answer": "Nein",
+            "votes": 38,
+            "order": 1
+        }
+    ]
+}

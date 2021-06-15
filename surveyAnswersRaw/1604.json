@@ -1,0 +1,25 @@
+{
+    "id": 545,
+    "question": "Welcher Sicht stimmen Sie zu?",
+    "created_at": "2018-03-14T18:21:55+00:00",
+    "updated_at": "2021-06-14T09:33:59+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 81,
+    "answers": [
+        {
+            "id": 1604,
+            "answer": "Günstigere Wohnungen",
+            "votes": 40,
+            "order": 100
+        },
+        {
+            "id": 1610,
+            "answer": "Tiefere Steuern",
+            "votes": 41,
+            "order": 100
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 3172,
+    "question": "Schafft der FC Thun den Klassenerhalt?",
+    "created_at": "2020-02-25T06:55:16+00:00",
+    "updated_at": "2021-06-14T09:35:40+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 442,
+    "answers": [
+        {
+            "id": 7784,
+            "answer": "Ja, er bleibt in der Super League.",
+            "votes": 363,
+            "order": 0
+        },
+        {
+            "id": 7785,
+            "answer": "Nein, er wird absteigen.",
+            "votes": 79,
+            "order": 1
+        }
+    ]
+}

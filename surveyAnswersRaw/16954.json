@@ -1,0 +1,25 @@
+{
+    "id": 7347,
+    "question": "Holt die Schweiz im Mannschaftswettbewerb eine WM-Medaille?",
+    "created_at": "2021-02-16T16:43:17+00:00",
+    "updated_at": "2021-06-14T09:38:43+00:00",
+    "end_at": null,
+    "comment_group_id": 2025038,
+    "published_at": "2021-02-17T09:29:22+00:00",
+    "display_name": "",
+    "total": 140,
+    "answers": [
+        {
+            "id": 16954,
+            "answer": "Ja",
+            "votes": 93,
+            "order": 0
+        },
+        {
+            "id": 16955,
+            "answer": "Nein",
+            "votes": 47,
+            "order": 1
+        }
+    ]
+}

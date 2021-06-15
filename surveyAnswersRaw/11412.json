@@ -1,0 +1,25 @@
+{
+    "id": 4844,
+    "question": "Achten Sie beim Einkaufen von Beeren auf das Herkunfsland?",
+    "created_at": "2020-07-07T12:54:55+00:00",
+    "updated_at": "2021-06-14T09:36:49+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 337,
+    "answers": [
+        {
+            "id": 11411,
+            "answer": "Ja, ich kaufe ausschliesslich einheimische Produkte.",
+            "votes": 222,
+            "order": 0
+        },
+        {
+            "id": 11412,
+            "answer": "Nein, bei mir kommt alles in den Einkaufswagen.",
+            "votes": 115,
+            "order": 1
+        }
+    ]
+}

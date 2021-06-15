@@ -1,0 +1,25 @@
+{
+    "id": 9591,
+    "question": "Wer steigt direkt ab?",
+    "created_at": "2021-05-21T07:31:27+00:00",
+    "updated_at": "2021-06-14T09:40:44+00:00",
+    "end_at": null,
+    "comment_group_id": 2168593,
+    "published_at": null,
+    "display_name": "",
+    "total": 42,
+    "answers": [
+        {
+            "id": 21754,
+            "answer": "Sion",
+            "votes": 21,
+            "order": 0
+        },
+        {
+            "id": 21753,
+            "answer": "Vaduz",
+            "votes": 21,
+            "order": 1
+        }
+    ]
+}

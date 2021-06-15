@@ -1,0 +1,25 @@
+{
+    "id": 5750,
+    "question": "Was halten Sie vom Selbstbewusstsein des neuen Bachelors?",
+    "created_at": "2020-10-15T06:39:42+00:00",
+    "updated_at": "2021-06-14T09:37:26+00:00",
+    "end_at": null,
+    "comment_group_id": 1850537,
+    "published_at": "2020-10-19T07:35:47+00:00",
+    "display_name": "",
+    "total": 861,
+    "answers": [
+        {
+            "id": 13412,
+            "answer": "Grandios, endlich einer der weiss, dass er klasse ist.",
+            "votes": 102,
+            "order": 0
+        },
+        {
+            "id": 13411,
+            "answer": "Sorry aber er erfüllt echt jedes Klischee.",
+            "votes": 759,
+            "order": 1
+        }
+    ]
+}

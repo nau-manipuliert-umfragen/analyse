@@ -1,0 +1,31 @@
+{
+    "id": 3,
+    "question": "Gewinnt die Schweizer Nati heute in Nordirland?",
+    "created_at": "2017-09-03T14:40:26+00:00",
+    "updated_at": "2021-06-14T09:33:42+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 86,
+    "answers": [
+        {
+            "id": 364,
+            "answer": "Ja",
+            "votes": 39,
+            "order": 100
+        },
+        {
+            "id": 365,
+            "answer": "Nein",
+            "votes": 23,
+            "order": 100
+        },
+        {
+            "id": 367,
+            "answer": "Es gibt ein Unentschieden.",
+            "votes": 24,
+            "order": 100
+        }
+    ]
+}

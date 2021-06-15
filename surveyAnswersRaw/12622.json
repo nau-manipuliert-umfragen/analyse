@@ -1,0 +1,25 @@
+{
+    "id": 5392,
+    "question": "Finden Sie die Strafe gegen Foden und Greenwood gerechtfertigt?",
+    "created_at": "2020-09-09T06:15:24+00:00",
+    "updated_at": "2021-06-14T09:51:22+00:00",
+    "end_at": null,
+    "comment_group_id": 1790751,
+    "published_at": "2020-09-09T09:07:36+00:00",
+    "display_name": "",
+    "total": 447,
+    "answers": [
+        {
+            "id": 12623,
+            "answer": "Ja, die beiden sollten ihre Vorbildrolle wahrnehmen",
+            "votes": 243,
+            "order": 0
+        },
+        {
+            "id": 12622,
+            "answer": "Nein, sie sind noch jung, da macht man Dummheiten",
+            "votes": 204,
+            "order": 1
+        }
+    ]
+}

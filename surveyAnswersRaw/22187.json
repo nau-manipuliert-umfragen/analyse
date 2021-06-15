@@ -1,0 +1,25 @@
+{
+    "id": 9789,
+    "question": "Gefällt Ihnen der Look von Damiano David?",
+    "created_at": "2021-06-01T07:46:08+00:00",
+    "updated_at": "2021-06-14T09:40:55+00:00",
+    "end_at": null,
+    "comment_group_id": 2184820,
+    "published_at": "2021-06-01T18:01:37+00:00",
+    "display_name": "",
+    "total": 1170,
+    "answers": [
+        {
+            "id": 22188,
+            "answer": "Ja.",
+            "votes": 538,
+            "order": 0
+        },
+        {
+            "id": 22187,
+            "answer": "Nein.",
+            "votes": 632,
+            "order": 1
+        }
+    ]
+}

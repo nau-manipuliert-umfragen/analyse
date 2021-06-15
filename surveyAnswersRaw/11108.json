@@ -1,0 +1,25 @@
+{
+    "id": 4703,
+    "question": "Sind die Rücktrittsforderungen an Clemens Tönnies gerechtfertigt?",
+    "created_at": "2020-06-24T09:32:54+00:00",
+    "updated_at": "2021-06-14T09:36:44+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 194,
+    "answers": [
+        {
+            "id": 11108,
+            "answer": "Ja",
+            "votes": 154,
+            "order": 0
+        },
+        {
+            "id": 11107,
+            "answer": "Nein",
+            "votes": 40,
+            "order": 1
+        }
+    ]
+}

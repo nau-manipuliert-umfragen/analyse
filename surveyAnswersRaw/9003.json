@@ -1,0 +1,25 @@
+{
+    "id": 3732,
+    "question": "Ist es vernünftig, in diesem Alter noch Vater zu werden?",
+    "created_at": "2020-04-03T07:21:45+00:00",
+    "updated_at": "2021-06-14T09:36:03+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 685,
+    "answers": [
+        {
+            "id": 9004,
+            "answer": "Ja",
+            "votes": 76,
+            "order": 0
+        },
+        {
+            "id": 9003,
+            "answer": "Nein",
+            "votes": 609,
+            "order": 1
+        }
+    ]
+}

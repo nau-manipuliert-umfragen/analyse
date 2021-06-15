@@ -1,0 +1,25 @@
+{
+    "id": 7990,
+    "question": "Würden Sie sich bei einem Einbruch auch auswechseln lassen?",
+    "created_at": "2021-03-15T07:39:07+00:00",
+    "updated_at": "2021-06-14T09:39:15+00:00",
+    "end_at": null,
+    "comment_group_id": 2062980,
+    "published_at": null,
+    "display_name": "",
+    "total": 182,
+    "answers": [
+        {
+            "id": 18357,
+            "answer": "Ja, klar!",
+            "votes": 148,
+            "order": 0
+        },
+        {
+            "id": 18356,
+            "answer": "Nein, ich würde cool weiterspielen.",
+            "votes": 34,
+            "order": 1
+        }
+    ]
+}

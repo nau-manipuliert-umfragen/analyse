@@ -1,0 +1,31 @@
+{
+    "id": 8960,
+    "question": "Was war für Sie das Thema der Woche?",
+    "created_at": "2021-04-23T12:23:42+00:00",
+    "updated_at": "2021-05-02T11:46:36+00:00",
+    "end_at": "2021-05-02T12:23:36+00:00",
+    "comment_group_id": 2121275,
+    "published_at": "2021-04-25T10:01:37+00:00",
+    "display_name": "",
+    "total": 413,
+    "answers": [
+        {
+            "id": 20392,
+            "answer": "Der royale Streit",
+            "votes": 71,
+            "order": 0
+        },
+        {
+            "id": 20394,
+            "answer": "Die Raucher-Regel",
+            "votes": 252,
+            "order": 1
+        },
+        {
+            "id": 20393,
+            "answer": "Die European Super League",
+            "votes": 90,
+            "order": 2
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "id": 2744,
+    "question": "Wie weit kommt Dominic Thiem an diesen Australian Open?",
+    "created_at": "2020-01-29T13:01:54+00:00",
+    "updated_at": "2021-06-14T09:35:17+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 151,
+    "answers": [
+        {
+            "id": 6839,
+            "answer": "Jetzt gewinnt er das Ding!",
+            "votes": 56,
+            "order": 0
+        },
+        {
+            "id": 6838,
+            "answer": "Schafft es in den Final, verliert aber.",
+            "votes": 50,
+            "order": 1
+        },
+        {
+            "id": 6840,
+            "answer": "Im Halbfinal gegen Zverev ist Endstation.",
+            "votes": 45,
+            "order": 2
+        }
+    ]
+}

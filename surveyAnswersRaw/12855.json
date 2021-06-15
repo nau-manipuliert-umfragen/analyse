@@ -1,0 +1,25 @@
+{
+    "id": 5493,
+    "question": "Gefällt Ihnen der neue Capital-Bra-Song zu Ehren von Mesut Özil?",
+    "created_at": "2020-09-18T13:43:46+00:00",
+    "updated_at": "2021-06-14T09:37:15+00:00",
+    "end_at": null,
+    "comment_group_id": 1807263,
+    "published_at": "2020-09-18T15:43:51+00:00",
+    "display_name": "",
+    "total": 243,
+    "answers": [
+        {
+            "id": 12856,
+            "answer": "Ja, toller Track!",
+            "votes": 161,
+            "order": 0
+        },
+        {
+            "id": 12855,
+            "answer": "Nein, gar nicht mein Stil.",
+            "votes": 82,
+            "order": 1
+        }
+    ]
+}

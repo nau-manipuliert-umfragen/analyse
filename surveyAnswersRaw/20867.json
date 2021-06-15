@@ -1,0 +1,25 @@
+{
+    "id": 9176,
+    "question": "Wer wird Schweizer Meister?",
+    "created_at": "2021-05-03T11:48:00+00:00",
+    "updated_at": "2021-06-14T09:40:20+00:00",
+    "end_at": null,
+    "comment_group_id": 2137544,
+    "published_at": "2021-05-05T19:16:30+00:00",
+    "display_name": "",
+    "total": 260,
+    "answers": [
+        {
+            "id": 20868,
+            "answer": "EV Zug",
+            "votes": 199,
+            "order": 0
+        },
+        {
+            "id": 20867,
+            "answer": "Genf-Servette",
+            "votes": 61,
+            "order": 1
+        }
+    ]
+}

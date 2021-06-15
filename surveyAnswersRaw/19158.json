@@ -1,0 +1,25 @@
+{
+    "id": 8370,
+    "question": "Mögen Sie Rogue-like-Spiele?",
+    "created_at": "2021-03-29T07:26:39+00:00",
+    "updated_at": "2021-06-14T09:39:35+00:00",
+    "end_at": null,
+    "comment_group_id": 2083748,
+    "published_at": "2021-03-29T07:28:36+00:00",
+    "display_name": "",
+    "total": 54,
+    "answers": [
+        {
+            "id": 19157,
+            "answer": "Nein, nach jedem Tod von vorn anzufangen ist mir zu blöd...",
+            "votes": 26,
+            "order": 0
+        },
+        {
+            "id": 19158,
+            "answer": "Ja, ich mag die zusätzliche Herausforderung!",
+            "votes": 28,
+            "order": 1
+        }
+    ]
+}

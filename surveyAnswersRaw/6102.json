@@ -1,0 +1,25 @@
+{
+    "id": 2425,
+    "question": "Gönnen auch Sie Stucki den Königstitel?",
+    "created_at": "2019-08-26T07:39:29+00:00",
+    "updated_at": "2021-06-14T09:35:01+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 771,
+    "answers": [
+        {
+            "id": 6101,
+            "answer": "Ja",
+            "votes": 733,
+            "order": 0
+        },
+        {
+            "id": 6102,
+            "answer": "Nein",
+            "votes": 38,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 3188,
+    "question": "Haben Sie auch Angst vor dem Coronavirus?",
+    "created_at": "2020-02-26T10:23:59+00:00",
+    "updated_at": "2021-06-14T09:35:41+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 4545,
+    "answers": [
+        {
+            "id": 7827,
+            "answer": "Ja, man liest ja überall davon.",
+            "votes": 1716,
+            "order": 0
+        },
+        {
+            "id": 7828,
+            "answer": "Nein, das ist doch nur eine Grippe.",
+            "votes": 2829,
+            "order": 1
+        }
+    ]
+}

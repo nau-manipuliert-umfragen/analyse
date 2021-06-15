@@ -1,0 +1,25 @@
+{
+    "id": 5939,
+    "question": "Soll Jürgen Klopp in Bergamo auf Xherdan Shaqiri setzen?",
+    "created_at": "2020-11-03T09:41:37+00:00",
+    "updated_at": "2021-06-14T09:37:36+00:00",
+    "end_at": null,
+    "comment_group_id": 1882780,
+    "published_at": "2020-11-03T12:38:50+00:00",
+    "display_name": "",
+    "total": 140,
+    "answers": [
+        {
+            "id": 13827,
+            "answer": "Ja, er ist super drauf!",
+            "votes": 92,
+            "order": 0
+        },
+        {
+            "id": 13828,
+            "answer": "Nein, es gibt mindestens elf bessere Spieler bei Liverpool.",
+            "votes": 48,
+            "order": 1
+        }
+    ]
+}

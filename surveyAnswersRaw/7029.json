@@ -1,0 +1,43 @@
+{
+    "id": 2831,
+    "question": "Wer ist der grösste Fussballer aller Zeiten?",
+    "created_at": "2020-02-04T10:29:02+00:00",
+    "updated_at": "2021-06-14T09:35:23+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 180,
+    "answers": [
+        {
+            "id": 7028,
+            "answer": "Cristiano Ronaldo",
+            "votes": 68,
+            "order": 0
+        },
+        {
+            "id": 7027,
+            "answer": "Lionel Messi",
+            "votes": 35,
+            "order": 1
+        },
+        {
+            "id": 7030,
+            "answer": "Pelé",
+            "votes": 27,
+            "order": 2
+        },
+        {
+            "id": 7029,
+            "answer": "Diego Maradona",
+            "votes": 26,
+            "order": 3
+        },
+        {
+            "id": 7031,
+            "answer": "Ein anderer",
+            "votes": 24,
+            "order": 4
+        }
+    ]
+}

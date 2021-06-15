@@ -1,0 +1,25 @@
+{
+    "id": 2468,
+    "question": "Wie finden Sie das geplante neue Qualifying-Format?",
+    "created_at": "2019-09-13T09:23:24+00:00",
+    "updated_at": "2021-06-14T09:35:03+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 427,
+    "answers": [
+        {
+            "id": 6209,
+            "answer": "Gut",
+            "votes": 253,
+            "order": 0
+        },
+        {
+            "id": 6210,
+            "answer": "Schlecht",
+            "votes": 174,
+            "order": 1
+        }
+    ]
+}

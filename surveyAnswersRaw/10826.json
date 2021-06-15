@@ -1,0 +1,25 @@
+{
+    "id": 4572,
+    "question": "Handelte Trainer Jürgen Klopp damals richtig, als er seine U23 zum FA-Cup-Rückspiel antreten liess?",
+    "created_at": "2020-06-11T13:00:37+00:00",
+    "updated_at": "2021-06-14T09:36:39+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 305,
+    "answers": [
+        {
+            "id": 10826,
+            "answer": "Ja, er hat doch nichts falsch gemacht?",
+            "votes": 230,
+            "order": 0
+        },
+        {
+            "id": 10825,
+            "answer": "Nein, das macht man nicht.",
+            "votes": 75,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 8577,
+    "question": "Hätten Sie Donald Trump gerne als Grossvater?",
+    "created_at": "2021-04-07T14:26:46+00:00",
+    "updated_at": "2021-06-14T09:39:46+00:00",
+    "end_at": null,
+    "comment_group_id": 2096664,
+    "published_at": "2021-04-08T19:10:53+00:00",
+    "display_name": "",
+    "total": 1300,
+    "answers": [
+        {
+            "id": 19584,
+            "answer": "Um Himmels willen, nein!",
+            "votes": 625,
+            "order": 0
+        },
+        {
+            "id": 19585,
+            "answer": "Ja, er scheint ein guter Typ zu sein.",
+            "votes": 675,
+            "order": 1
+        }
+    ]
+}

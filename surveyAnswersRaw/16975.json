@@ -1,0 +1,31 @@
+{
+    "id": 7356,
+    "question": "Was vermissen Sie am meisten im Lockdown?",
+    "created_at": "2021-02-17T08:59:54+00:00",
+    "updated_at": "2021-06-14T09:38:43+00:00",
+    "end_at": null,
+    "comment_group_id": 2025714,
+    "published_at": "2021-02-17T12:00:13+00:00",
+    "display_name": "",
+    "total": 344,
+    "answers": [
+        {
+            "id": 16976,
+            "answer": "Freunde treffen.",
+            "votes": 119,
+            "order": 0
+        },
+        {
+            "id": 16975,
+            "answer": "In einem Restaurant essen.",
+            "votes": 93,
+            "order": 1
+        },
+        {
+            "id": 16974,
+            "answer": "In die Ferien zu gehen.",
+            "votes": 132,
+            "order": 2
+        }
+    ]
+}

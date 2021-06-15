@@ -1,0 +1,25 @@
+{
+    "id": 8508,
+    "question": "Was sagen Sie zur BVB-Kritik von Didi Hamann?",
+    "created_at": "2021-04-04T09:05:00+00:00",
+    "updated_at": "2021-06-14T09:39:42+00:00",
+    "end_at": null,
+    "comment_group_id": 2091987,
+    "published_at": "2021-04-04T13:42:13+00:00",
+    "display_name": "",
+    "total": 350,
+    "answers": [
+        {
+            "id": 19445,
+            "answer": "Er hat Recht, sowas darf nicht sein.",
+            "votes": 251,
+            "order": 0
+        },
+        {
+            "id": 19444,
+            "answer": "Nein, das Haaland-Team darf sich mit anderen Clubs treffen.",
+            "votes": 99,
+            "order": 1
+        }
+    ]
+}

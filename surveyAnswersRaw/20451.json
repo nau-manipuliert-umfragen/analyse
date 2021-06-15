@@ -1,0 +1,25 @@
+{
+    "id": 8986,
+    "question": "Werden Sie nun auch wieder Veranstaltungen besuchen?",
+    "created_at": "2021-04-25T09:52:53+00:00",
+    "updated_at": "2021-06-14T09:40:08+00:00",
+    "end_at": null,
+    "comment_group_id": 2123694,
+    "published_at": "2021-04-25T13:19:09+00:00",
+    "display_name": "",
+    "total": 296,
+    "answers": [
+        {
+            "id": 20450,
+            "answer": "Ja, ich habe es so vermisst!",
+            "votes": 139,
+            "order": 0
+        },
+        {
+            "id": 20451,
+            "answer": "Nein, lieber erst mal ein Bier auf der Terrasse trinken gehen.",
+            "votes": 157,
+            "order": 1
+        }
+    ]
+}

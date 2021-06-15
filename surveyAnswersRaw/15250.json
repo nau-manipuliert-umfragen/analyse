@@ -1,0 +1,25 @@
+{
+    "id": 6579,
+    "question": "Gewinnt nach Daniel Yule im letzten Jahr erneut ein Schweizer den Slalom in Adelboden?",
+    "created_at": "2021-01-09T11:24:45+00:00",
+    "updated_at": "2021-01-11T06:33:28+00:00",
+    "end_at": "2021-01-11T11:24:42+00:00",
+    "comment_group_id": 1969867,
+    "published_at": "2021-01-10T01:55:04+00:00",
+    "display_name": "",
+    "total": 134,
+    "answers": [
+        {
+            "id": 15250,
+            "answer": "Ja, ein Schweizer schafft das.",
+            "votes": 84,
+            "order": 0
+        },
+        {
+            "id": 15251,
+            "answer": "Nein, die Konkurrenz wird die Nase vorne haben.",
+            "votes": 50,
+            "order": 1
+        }
+    ]
+}

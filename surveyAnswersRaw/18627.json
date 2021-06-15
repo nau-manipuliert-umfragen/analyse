@@ -1,0 +1,25 @@
+{
+    "id": 8121,
+    "question": "Holt Roger Federer in Tokio 2021 sein erstes Olympia-Einzel-Gold?",
+    "created_at": "2021-03-18T17:28:05+00:00",
+    "updated_at": "2021-06-14T09:39:22+00:00",
+    "end_at": null,
+    "comment_group_id": 2069154,
+    "published_at": "2021-03-19T14:44:42+00:00",
+    "display_name": "",
+    "total": 180,
+    "answers": [
+        {
+            "id": 18628,
+            "answer": "Ja, der Maestro überrascht alle!",
+            "votes": 74,
+            "order": 0
+        },
+        {
+            "id": 18627,
+            "answer": "Nein, so weit ist er im Sommer noch nicht.",
+            "votes": 106,
+            "order": 1
+        }
+    ]
+}

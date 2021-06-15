@@ -1,0 +1,25 @@
+{
+    "id": 2918,
+    "question": "Wie gefällt Ihnen der Treffer von Kevin Fiala?",
+    "created_at": "2020-02-10T07:30:39+00:00",
+    "updated_at": "2021-06-14T09:35:28+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 65,
+    "answers": [
+        {
+            "id": 7229,
+            "answer": "Prädikat Weltklasse!",
+            "votes": 41,
+            "order": 0
+        },
+        {
+            "id": 7230,
+            "answer": "Schön, aber mehr auch nicht.",
+            "votes": 24,
+            "order": 1
+        }
+    ]
+}

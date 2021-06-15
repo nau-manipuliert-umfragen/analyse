@@ -1,0 +1,25 @@
+{
+    "id": 632,
+    "question": "Soll YB für eine Meisterfeier des Balkon des Bundeshaus benutzen dürfen?",
+    "created_at": "2018-04-04T09:01:12+00:00",
+    "updated_at": "2021-06-14T09:34:02+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 381,
+    "answers": [
+        {
+            "id": 1856,
+            "answer": "Ja, klar: Nach über 30 Jahren haben sich das die Berner verdient!",
+            "votes": 323,
+            "order": 100
+        },
+        {
+            "id": 1859,
+            "answer": "Nein, auf keinen Fall: Das Bundeshaus gehört der ganzen Schweiz und nicht YB!",
+            "votes": 58,
+            "order": 100
+        }
+    ]
+}

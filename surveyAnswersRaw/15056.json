@@ -1,0 +1,25 @@
+{
+    "id": 6491,
+    "question": "Hat sich Lewis Hamilton den Titel verdient?",
+    "created_at": "2020-12-31T00:00:16+00:00",
+    "updated_at": "2021-06-14T09:38:03+00:00",
+    "end_at": null,
+    "comment_group_id": 1959225,
+    "published_at": "2021-01-01T21:22:18+00:00",
+    "display_name": "",
+    "total": 355,
+    "answers": [
+        {
+            "id": 15057,
+            "answer": "Yes, Sir!",
+            "votes": 187,
+            "order": 0
+        },
+        {
+            "id": 15056,
+            "answer": "Nein, das ist übertrieben.",
+            "votes": 168,
+            "order": 1
+        }
+    ]
+}

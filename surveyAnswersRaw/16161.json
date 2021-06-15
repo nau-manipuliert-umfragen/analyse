@@ -1,0 +1,31 @@
+{
+    "id": 6997,
+    "question": "Bestellen Sie Produkte bei Amazon?",
+    "created_at": "2021-02-03T09:40:23+00:00",
+    "updated_at": "2021-02-03T22:54:29+00:00",
+    "end_at": "2021-02-04T09:40:19+00:00",
+    "comment_group_id": 2005473,
+    "published_at": "2021-02-03T11:02:40+00:00",
+    "display_name": "",
+    "total": 142,
+    "answers": [
+        {
+            "id": 16163,
+            "answer": "Ja, die Auswahl und der Kundendienst überzeugen mich.",
+            "votes": 32,
+            "order": 0
+        },
+        {
+            "id": 16161,
+            "answer": "Nein, ich bestelle lieber bei Digitec, Brack oder Microspot.",
+            "votes": 58,
+            "order": 1
+        },
+        {
+            "id": 16162,
+            "answer": "Ich kaufe selten bis nie online ein.",
+            "votes": 52,
+            "order": 2
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 8110,
+    "question": "Was halten Sie davon, dass ein Masken-Verweigerer fünf Jahre Hausverbot kriegt?",
+    "created_at": "2021-03-18T13:45:48+00:00",
+    "updated_at": "2021-06-14T09:39:22+00:00",
+    "end_at": null,
+    "comment_group_id": 2068729,
+    "published_at": "2021-03-18T13:54:16+00:00",
+    "display_name": "",
+    "total": 5391,
+    "answers": [
+        {
+            "id": 18605,
+            "answer": "Richtig so, die Verweigerer gefährden die Gesundheit der Kunden und Mitarbeiter.",
+            "votes": 2148,
+            "order": 0
+        },
+        {
+            "id": 18606,
+            "answer": "Die Strafe ist zu hart.",
+            "votes": 3243,
+            "order": 1
+        }
+    ]
+}

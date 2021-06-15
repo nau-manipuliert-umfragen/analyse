@@ -1,0 +1,25 @@
+{
+    "id": 6716,
+    "question": "Sind mehrtägige Sitzungen mit Übernachtung und Abendessen nötig?",
+    "created_at": "2021-01-18T17:00:48+00:00",
+    "updated_at": "2021-06-14T09:38:12+00:00",
+    "end_at": null,
+    "comment_group_id": 1982892,
+    "published_at": "2021-01-19T09:01:51+00:00",
+    "display_name": "",
+    "total": 2517,
+    "answers": [
+        {
+            "id": 15543,
+            "answer": "Ja, unsere Institutionen müssen funktionieren. Das SVP-Treffen ist völlig okay.",
+            "votes": 661,
+            "order": 0
+        },
+        {
+            "id": 15542,
+            "answer": "Nein, wenns um Inhalte geht lassen sich diese auch online austauschen.",
+            "votes": 1856,
+            "order": 1
+        }
+    ]
+}

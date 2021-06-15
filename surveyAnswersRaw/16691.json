@@ -1,0 +1,31 @@
+{
+    "id": 7232,
+    "question": "Wissen Sie schon, was Sie zur E-ID abstimmen werden?",
+    "created_at": "2021-02-12T08:24:16+00:00",
+    "updated_at": "2021-06-14T09:38:37+00:00",
+    "end_at": null,
+    "comment_group_id": 2018685,
+    "published_at": "2021-02-12T13:28:33+00:00",
+    "display_name": "",
+    "total": 1231,
+    "answers": [
+        {
+            "id": 16692,
+            "answer": "Ja, ich bin dafür.",
+            "votes": 171,
+            "order": 0
+        },
+        {
+            "id": 16693,
+            "answer": "Nein, ich bin mir noch unsicher.",
+            "votes": 199,
+            "order": 1
+        },
+        {
+            "id": 16691,
+            "answer": "Ja, ich bin gegen das Gesetz.",
+            "votes": 861,
+            "order": 2
+        }
+    ]
+}

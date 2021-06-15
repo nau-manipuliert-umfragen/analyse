@@ -1,0 +1,31 @@
+{
+    "id": 2682,
+    "question": "Ist Nadals Kuss unangebracht und sexistisch?",
+    "created_at": "2020-01-24T07:47:44+00:00",
+    "updated_at": "2020-01-26T22:49:38+00:00",
+    "end_at": "2020-01-26T22:59:00+00:00",
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 602,
+    "answers": [
+        {
+            "id": 6705,
+            "answer": "Nein, das ist nichts als fair.",
+            "votes": 512,
+            "order": 0
+        },
+        {
+            "id": 6707,
+            "answer": "Jein, unangebracht ja – sexistisch nein.",
+            "votes": 54,
+            "order": 1
+        },
+        {
+            "id": 6706,
+            "answer": "Ja, ein Handschlag oder «Sorry» hätte gereicht.",
+            "votes": 36,
+            "order": 2
+        }
+    ]
+}

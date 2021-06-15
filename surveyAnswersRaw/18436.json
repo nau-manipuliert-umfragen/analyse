@@ -1,0 +1,25 @@
+{
+    "id": 8027,
+    "question": "Halten Sie das Ziel, bis Ende Juni die impfwillige Bevölkerung zu impfen, für realistisch?",
+    "created_at": "2021-03-15T18:34:40+00:00",
+    "updated_at": "2021-06-14T09:39:16+00:00",
+    "end_at": null,
+    "comment_group_id": 2064237,
+    "published_at": "2021-03-15T19:25:33+00:00",
+    "display_name": "",
+    "total": 5345,
+    "answers": [
+        {
+            "id": 18435,
+            "answer": "Ja, das ist durchaus noch möglich, wenn alles perfekt klappt.",
+            "votes": 1307,
+            "order": 0
+        },
+        {
+            "id": 18436,
+            "answer": "Nein, das ist praktisch unmöglich. Das BAG sollte dies endlich zugeben.",
+            "votes": 4038,
+            "order": 1
+        }
+    ]
+}

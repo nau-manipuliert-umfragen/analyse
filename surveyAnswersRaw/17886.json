@@ -1,0 +1,25 @@
+{
+    "id": 7766,
+    "question": "Sind Sie ein Familienmensch?",
+    "created_at": "2021-03-04T13:45:09+00:00",
+    "updated_at": "2021-06-14T09:39:02+00:00",
+    "end_at": null,
+    "comment_group_id": 2048308,
+    "published_at": "2021-03-24T20:02:56+00:00",
+    "display_name": "",
+    "total": 1304,
+    "answers": [
+        {
+            "id": 17886,
+            "answer": "Ja, meine Familie ist mir wichtiger als alles andere.",
+            "votes": 1046,
+            "order": 0
+        },
+        {
+            "id": 17887,
+            "answer": "Nein, ich bevorzuge meine Freunde.",
+            "votes": 258,
+            "order": 1
+        }
+    ]
+}

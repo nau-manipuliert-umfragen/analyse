@@ -1,0 +1,25 @@
+{
+    "id": 1968,
+    "question": "Gehen Sie häufig ins Theater Basel?",
+    "created_at": "2018-09-04T08:08:05+00:00",
+    "updated_at": "2021-06-14T09:34:43+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 42,
+    "answers": [
+        {
+            "id": 5061,
+            "answer": "Nein, Theater sagt mir nichts.",
+            "votes": 21,
+            "order": 100
+        },
+        {
+            "id": 5067,
+            "answer": "Ja, ich schätze das Theater Basel sehr und besuche es regelmässig.",
+            "votes": 21,
+            "order": 100
+        }
+    ]
+}

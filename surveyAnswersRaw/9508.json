@@ -1,0 +1,25 @@
+{
+    "id": 3968,
+    "question": "Sollte die Super League ihren Spielbetrieb wieder aufnehmen?",
+    "created_at": "2020-04-22T08:24:14+00:00",
+    "updated_at": "2021-06-14T09:36:13+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 541,
+    "answers": [
+        {
+            "id": 9507,
+            "answer": "Ja",
+            "votes": 336,
+            "order": 0
+        },
+        {
+            "id": 9508,
+            "answer": "Nein",
+            "votes": 205,
+            "order": 1
+        }
+    ]
+}

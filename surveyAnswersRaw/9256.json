@@ -1,0 +1,31 @@
+{
+    "id": 3850,
+    "question": "Wie stehen Sie zu 5G?",
+    "created_at": "2020-04-13T10:03:11+00:00",
+    "updated_at": "2021-06-14T09:36:08+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": "2020-08-24T19:19:24+00:00",
+    "display_name": "",
+    "total": 1711,
+    "answers": [
+        {
+            "id": 9257,
+            "answer": "Ich bin absolut dagegen!",
+            "votes": 721,
+            "order": 0
+        },
+        {
+            "id": 9258,
+            "answer": "5G ist eine gute Sache, die muss man fördern!",
+            "votes": 763,
+            "order": 1
+        },
+        {
+            "id": 9256,
+            "answer": "Mir ist das eigentlich ziemlich egal.",
+            "votes": 227,
+            "order": 2
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 9543,
+    "question": "Wer steigt direkt in die Super League auf?",
+    "created_at": "2021-05-19T12:26:34+00:00",
+    "updated_at": "2021-06-14T09:40:42+00:00",
+    "end_at": null,
+    "comment_group_id": 2165405,
+    "published_at": "2021-05-20T11:49:04+00:00",
+    "display_name": "",
+    "total": 292,
+    "answers": [
+        {
+            "id": 21652,
+            "answer": "GC",
+            "votes": 152,
+            "order": 0
+        },
+        {
+            "id": 21651,
+            "answer": "Thun",
+            "votes": 140,
+            "order": 1
+        }
+    ]
+}

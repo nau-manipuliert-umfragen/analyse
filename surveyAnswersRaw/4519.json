@@ -1,0 +1,25 @@
+{
+    "id": 1717,
+    "question": "Gelingt dem FC Basel der Sprung in die Champions League?",
+    "created_at": "2018-07-31T10:54:16+00:00",
+    "updated_at": "2021-06-14T09:34:36+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 42,
+    "answers": [
+        {
+            "id": 4519,
+            "answer": "Ja, sie schaffen das.",
+            "votes": 21,
+            "order": 100
+        },
+        {
+            "id": 4522,
+            "answer": "Nein, der Zug ist abgefahren.",
+            "votes": 21,
+            "order": 100
+        }
+    ]
+}

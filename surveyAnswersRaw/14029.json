@@ -1,0 +1,31 @@
+{
+    "id": 6032,
+    "question": "Macht es Sinn, sich beim Onlineshopping auf Kundenrezensionen zu verlassen?",
+    "created_at": "2020-11-13T07:42:40+00:00",
+    "updated_at": "2021-06-14T09:37:41+00:00",
+    "end_at": null,
+    "comment_group_id": 1896716,
+    "published_at": "2020-11-13T08:01:04+00:00",
+    "display_name": "",
+    "total": 175,
+    "answers": [
+        {
+            "id": 14028,
+            "answer": "Sicher, sonst kann man ja kaum wissen, ob sich ein Kauf lohnt.",
+            "votes": 51,
+            "order": 0
+        },
+        {
+            "id": 14030,
+            "answer": "Nein, man kann ja nicht kontrollieren, ob diese auch stimmen.",
+            "votes": 73,
+            "order": 1
+        },
+        {
+            "id": 14029,
+            "answer": "Am besten ist es, gar nicht online einzukaufen.",
+            "votes": 51,
+            "order": 2
+        }
+    ]
+}

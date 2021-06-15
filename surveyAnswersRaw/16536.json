@@ -1,0 +1,31 @@
+{
+    "id": 7163,
+    "question": "Was halten sie von den Aussagen Philipp Iseneggers?",
+    "created_at": "2021-02-10T09:12:32+00:00",
+    "updated_at": "2021-06-14T09:38:34+00:00",
+    "end_at": null,
+    "comment_group_id": 2015285,
+    "published_at": null,
+    "display_name": "",
+    "total": 63,
+    "answers": [
+        {
+            "id": 16538,
+            "answer": "Das ist alles Quatsch.",
+            "votes": 21,
+            "order": 0
+        },
+        {
+            "id": 16536,
+            "answer": "Ich finde, er liegt richtig und soll das auch so verbreiten.",
+            "votes": 21,
+            "order": 1
+        },
+        {
+            "id": 16537,
+            "answer": "Ich vertrete zwar seine Ansicht, aber in ein Youtube-Video gehört das nicht.",
+            "votes": 21,
+            "order": 2
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 1345,
+    "question": "Sollten Regeln für Senioren am Steuer verschärft werden?",
+    "created_at": "2018-07-01T05:35:37+00:00",
+    "updated_at": "2021-06-14T09:34:24+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 63,
+    "answers": [
+        {
+            "id": 3643,
+            "answer": "Ja! Die Zahlen steigen sonst immer weiter!",
+            "votes": 32,
+            "order": 100
+        },
+        {
+            "id": 3646,
+            "answer": "Nein, Senioren verdienen so viel Unterstützung wie möglich – auch beim Autofahren!",
+            "votes": 31,
+            "order": 100
+        }
+    ]
+}

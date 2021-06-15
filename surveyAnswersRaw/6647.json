@@ -1,0 +1,31 @@
+{
+    "id": 2653,
+    "question": "Was ist für Mönchengladbach und Yann Sommer in dieser Saison drin?",
+    "created_at": "2020-01-22T10:16:49+00:00",
+    "updated_at": "2021-06-14T10:21:31+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 86,
+    "answers": [
+        {
+            "id": 6646,
+            "answer": "Die Fohlen können Meister werden.",
+            "votes": 26,
+            "order": 0
+        },
+        {
+            "id": 6647,
+            "answer": "Die Champions League liegt für Gladbach drin.",
+            "votes": 37,
+            "order": 1
+        },
+        {
+            "id": 6645,
+            "answer": "Am Ende reichts noch für die Europa League.",
+            "votes": 23,
+            "order": 2
+        }
+    ]
+}

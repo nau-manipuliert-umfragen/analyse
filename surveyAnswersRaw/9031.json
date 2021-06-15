@@ -1,0 +1,25 @@
+{
+    "id": 3742,
+    "question": "Wir die Super League noch beendet?",
+    "created_at": "2020-04-03T15:30:20+00:00",
+    "updated_at": "2021-06-14T09:36:04+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 437,
+    "answers": [
+        {
+            "id": 9031,
+            "answer": "Ja",
+            "votes": 163,
+            "order": 0
+        },
+        {
+            "id": 9032,
+            "answer": "Nein",
+            "votes": 274,
+            "order": 1
+        }
+    ]
+}

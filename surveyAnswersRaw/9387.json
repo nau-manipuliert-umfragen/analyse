@@ -1,0 +1,25 @@
+{
+    "id": 3913,
+    "question": "Wie gefällt's?",
+    "created_at": "2020-04-17T16:43:16+00:00",
+    "updated_at": "2021-06-14T09:36:11+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 1642,
+    "answers": [
+        {
+            "id": 9387,
+            "answer": "Gut",
+            "votes": 900,
+            "order": 0
+        },
+        {
+            "id": 9388,
+            "answer": "Schlecht",
+            "votes": 742,
+            "order": 1
+        }
+    ]
+}

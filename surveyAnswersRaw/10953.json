@@ -1,0 +1,25 @@
+{
+    "id": 4632,
+    "question": "Wer gewinnt die Coppa Italia?",
+    "created_at": "2020-06-16T13:08:41+00:00",
+    "updated_at": "2021-06-14T09:36:41+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 83,
+    "answers": [
+        {
+            "id": 10952,
+            "answer": "Juventus und CR7 werden jubeln.",
+            "votes": 59,
+            "order": 0
+        },
+        {
+            "id": 10953,
+            "answer": "Napoli gewinnt wie schon 2012 gegen Juve",
+            "votes": 24,
+            "order": 1
+        }
+    ]
+}

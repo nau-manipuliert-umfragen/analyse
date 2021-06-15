@@ -1,0 +1,25 @@
+{
+    "id": 5448,
+    "question": "Glauben Sie, dass Laura Müllers Lippen natürlich sind?",
+    "created_at": "2020-09-15T07:48:32+00:00",
+    "updated_at": "2021-06-14T09:37:14+00:00",
+    "end_at": null,
+    "comment_group_id": 1800712,
+    "published_at": "2020-09-15T09:12:55+00:00",
+    "display_name": "",
+    "total": 464,
+    "answers": [
+        {
+            "id": 12756,
+            "answer": "Nein, diese Schlauchboote können nur fake sein.",
+            "votes": 395,
+            "order": 0
+        },
+        {
+            "id": 12755,
+            "answer": "Ja, wenn sie es so sagt.",
+            "votes": 69,
+            "order": 1
+        }
+    ]
+}

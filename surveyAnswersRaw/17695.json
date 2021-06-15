@@ -1,0 +1,25 @@
+{
+    "id": 7683,
+    "question": "Finden Sie den Entscheid in Basel korrekt?",
+    "created_at": "2021-03-01T11:19:58+00:00",
+    "updated_at": "2021-06-14T09:38:57+00:00",
+    "end_at": null,
+    "comment_group_id": 2043011,
+    "published_at": "2021-03-02T06:00:17+00:00",
+    "display_name": "",
+    "total": 3300,
+    "answers": [
+        {
+            "id": 17696,
+            "answer": "Ja, es wurde Zeit!",
+            "votes": 1352,
+            "order": 0
+        },
+        {
+            "id": 17695,
+            "answer": "Nein, das macht keinen Sinn.",
+            "votes": 1948,
+            "order": 1
+        }
+    ]
+}

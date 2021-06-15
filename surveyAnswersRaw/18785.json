@@ -1,0 +1,31 @@
+{
+    "id": 8196,
+    "question": "Finden Sie das Preisgeld angemessen?",
+    "created_at": "2021-03-22T09:43:26+00:00",
+    "updated_at": "2021-06-14T10:25:54+00:00",
+    "end_at": null,
+    "comment_group_id": 2073665,
+    "published_at": "2021-03-22T14:26:05+00:00",
+    "display_name": "",
+    "total": 267,
+    "answers": [
+        {
+            "id": 18785,
+            "answer": "Ja, Lara Gut-Behrami hat sich das verdient.",
+            "votes": 138,
+            "order": 0
+        },
+        {
+            "id": 18784,
+            "answer": "Das Preisgeld ist zu niedrig.",
+            "votes": 42,
+            "order": 1
+        },
+        {
+            "id": 18786,
+            "answer": "Der Betrag ist zu hoch.",
+            "votes": 87,
+            "order": 2
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "id": 2098,
+    "question": "Wie lange hält sich Murat Yakin bei Sion im Amt?",
+    "created_at": "2018-09-18T05:50:10+00:00",
+    "updated_at": "2021-06-14T10:21:01+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 134,
+    "answers": [
+        {
+            "id": 5389,
+            "answer": "Bis Ende Saison",
+            "votes": 31,
+            "order": 100
+        },
+        {
+            "id": 5392,
+            "answer": "Bis zur Winterpause",
+            "votes": 40,
+            "order": 100
+        },
+        {
+            "id": 5395,
+            "answer": "5 Spiele",
+            "votes": 29,
+            "order": 100
+        },
+        {
+            "id": 5398,
+            "answer": "Er bleibt für immer im Wallis :-)",
+            "votes": 34,
+            "order": 100
+        }
+    ]
+}

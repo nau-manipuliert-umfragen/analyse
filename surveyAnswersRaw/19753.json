@@ -1,0 +1,25 @@
+{
+    "id": 8658,
+    "question": "Kann Roger Federer bei Olympia und Wimbledon um den Titel mitspielen?",
+    "created_at": "2021-04-11T09:02:12+00:00",
+    "updated_at": "2021-06-14T09:39:50+00:00",
+    "end_at": null,
+    "comment_group_id": 2102226,
+    "published_at": "2021-04-11T09:39:19+00:00",
+    "display_name": "",
+    "total": 912,
+    "answers": [
+        {
+            "id": 19753,
+            "answer": "Ja, er überrascht alle!",
+            "votes": 416,
+            "order": 0
+        },
+        {
+            "id": 19754,
+            "answer": "Nein, das wird nichts.",
+            "votes": 496,
+            "order": 1
+        }
+    ]
+}

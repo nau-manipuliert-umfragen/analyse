@@ -1,0 +1,25 @@
+{
+    "id": 9341,
+    "question": "Finden Sie die Outfits von Schülerin Mia zu aufreizend?",
+    "created_at": "2021-05-10T09:54:47+00:00",
+    "updated_at": "2021-06-14T09:40:28+00:00",
+    "end_at": null,
+    "comment_group_id": 2150097,
+    "published_at": null,
+    "display_name": "",
+    "total": 3243,
+    "answers": [
+        {
+            "id": 21216,
+            "answer": "Ja",
+            "votes": 1775,
+            "order": 0
+        },
+        {
+            "id": 21217,
+            "answer": "Nein",
+            "votes": 1468,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 5820,
+    "question": "Ist Gianni Infantino der richtige Präsident für die Fifa?",
+    "created_at": "2020-10-22T06:57:35+00:00",
+    "updated_at": "2021-06-14T09:37:29+00:00",
+    "end_at": null,
+    "comment_group_id": 1862403,
+    "published_at": "2020-10-22T07:07:55+00:00",
+    "display_name": "",
+    "total": 209,
+    "answers": [
+        {
+            "id": 13565,
+            "answer": "Ja",
+            "votes": 67,
+            "order": 0
+        },
+        {
+            "id": 13564,
+            "answer": "Nein",
+            "votes": 142,
+            "order": 1
+        }
+    ]
+}

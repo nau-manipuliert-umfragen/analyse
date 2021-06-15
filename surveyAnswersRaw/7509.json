@@ -1,0 +1,25 @@
+{
+    "id": 3048,
+    "question": "Schafft es Leonie Küng ins Hauptfeld von Wimbledon?",
+    "created_at": "2020-02-17T10:31:16+00:00",
+    "updated_at": "2021-06-14T09:35:34+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 75,
+    "answers": [
+        {
+            "id": 7509,
+            "answer": "Natürlich, bis im Sommer ist ja noch viel Zeit.",
+            "votes": 51,
+            "order": 0
+        },
+        {
+            "id": 7510,
+            "answer": "Nein, das schafft sie nicht.",
+            "votes": 24,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 5648,
+    "question": "Was halten Sie vom Platzverweis wegen des Masken-Jubels?",
+    "created_at": "2020-10-06T11:18:33+00:00",
+    "updated_at": "2021-06-14T09:37:22+00:00",
+    "end_at": null,
+    "comment_group_id": 1836353,
+    "published_at": "2020-10-06T18:37:55+00:00",
+    "display_name": "",
+    "total": 528,
+    "answers": [
+        {
+            "id": 13183,
+            "answer": "Absolut gerechtfertigt.",
+            "votes": 136,
+            "order": 0
+        },
+        {
+            "id": 13184,
+            "answer": "Das finde ich übertrieben.",
+            "votes": 392,
+            "order": 1
+        }
+    ]
+}

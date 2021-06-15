@@ -1,0 +1,25 @@
+{
+    "id": 7124,
+    "question": "Hat Ciriaco Sforza mit seiner Kritik an die Spieler recht?",
+    "created_at": "2021-02-08T18:43:01+00:00",
+    "updated_at": "2021-06-14T09:38:30+00:00",
+    "end_at": null,
+    "comment_group_id": 2013143,
+    "published_at": "2021-02-09T07:49:53+00:00",
+    "display_name": "",
+    "total": 287,
+    "answers": [
+        {
+            "id": 16453,
+            "answer": "Ja, sie müssen es auf dem Platz richten.",
+            "votes": 201,
+            "order": 0
+        },
+        {
+            "id": 16454,
+            "answer": "Nein, der Trainer sollte die Verantwortung übernehmen.",
+            "votes": 86,
+            "order": 1
+        }
+    ]
+}

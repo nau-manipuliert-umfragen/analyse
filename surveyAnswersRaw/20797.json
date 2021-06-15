@@ -1,0 +1,25 @@
+{
+    "id": 9143,
+    "question": "Wer gewinnt den DFB-Pokal?",
+    "created_at": "2021-05-01T20:47:20+00:00",
+    "updated_at": "2021-06-14T09:40:19+00:00",
+    "end_at": null,
+    "comment_group_id": 2135422,
+    "published_at": "2021-05-11T12:50:35+00:00",
+    "display_name": "",
+    "total": 172,
+    "answers": [
+        {
+            "id": 20797,
+            "answer": "BVB",
+            "votes": 112,
+            "order": 0
+        },
+        {
+            "id": 20796,
+            "answer": "RB Leipzig",
+            "votes": 60,
+            "order": 1
+        }
+    ]
+}

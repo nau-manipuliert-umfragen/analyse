@@ -1,0 +1,25 @@
+{
+    "id": 3384,
+    "question": "Mögen Sie die Musik von Mani Matter?",
+    "created_at": "2020-03-10T06:27:10+00:00",
+    "updated_at": "2021-06-14T09:35:49+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 289,
+    "answers": [
+        {
+            "id": 8262,
+            "answer": "Ja, die ist auch heute noch top.",
+            "votes": 260,
+            "order": 0
+        },
+        {
+            "id": 8263,
+            "answer": "Wer ist Mani Matter?",
+            "votes": 29,
+            "order": 1
+        }
+    ]
+}

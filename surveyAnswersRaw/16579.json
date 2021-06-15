@@ -1,0 +1,31 @@
+{
+    "id": 7181,
+    "question": "Wie stehen sie zum Krawatten-Eklat in Neuseeland?",
+    "created_at": "2021-02-10T15:18:34+00:00",
+    "updated_at": "2021-06-14T09:38:35+00:00",
+    "end_at": null,
+    "comment_group_id": 2016091,
+    "published_at": "2021-02-11T08:48:07+00:00",
+    "display_name": "",
+    "total": 986,
+    "answers": [
+        {
+            "id": 16578,
+            "answer": "Diesen Dresscode muss man halt unbedingt einhalten!",
+            "votes": 140,
+            "order": 0
+        },
+        {
+            "id": 16579,
+            "answer": "Soll das ein Witz sein?",
+            "votes": 674,
+            "order": 1
+        },
+        {
+            "id": 16580,
+            "answer": "Es wäre sinnvoller, im Parlament das Tragen eines Cowboyhuts vorzuschreiben.",
+            "votes": 172,
+            "order": 2
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 7473,
+    "question": "Würden Sie sich für eine Studie mit dem Coronavirus anstecken lassen?",
+    "created_at": "2021-02-21T22:45:43+00:00",
+    "updated_at": "2021-06-14T09:38:48+00:00",
+    "end_at": null,
+    "comment_group_id": 2032259,
+    "published_at": "2021-02-22T01:46:39+00:00",
+    "display_name": "",
+    "total": 738,
+    "answers": [
+        {
+            "id": 17233,
+            "answer": "Ja, wenn es der Forschung hilft, sicher!",
+            "votes": 266,
+            "order": 0
+        },
+        {
+            "id": 17234,
+            "answer": "Nein, das Risiko ist mir zu gross.",
+            "votes": 472,
+            "order": 1
+        }
+    ]
+}

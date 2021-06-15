@@ -1,0 +1,25 @@
+{
+    "id": 1081,
+    "question": "Ist Guggenmusik zu laut?",
+    "created_at": "2018-06-04T11:32:25+00:00",
+    "updated_at": "2021-06-14T09:34:15+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 90,
+    "answers": [
+        {
+            "id": 2923,
+            "answer": "Ja",
+            "votes": 35,
+            "order": 100
+        },
+        {
+            "id": 2926,
+            "answer": "Nein",
+            "votes": 55,
+            "order": 100
+        }
+    ]
+}

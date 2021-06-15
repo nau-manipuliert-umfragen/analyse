@@ -1,0 +1,25 @@
+{
+    "id": 3322,
+    "question": "Wie gefällt Ihnen die Typenveränderung von Olly Murs?",
+    "created_at": "2020-03-05T14:21:55+00:00",
+    "updated_at": "2021-06-14T09:35:47+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 162,
+    "answers": [
+        {
+            "id": 8124,
+            "answer": "Sehr, er ist ein echter Hingucker!",
+            "votes": 91,
+            "order": 0
+        },
+        {
+            "id": 8125,
+            "answer": "Na ja, vorher hat er mir besser gefallen.",
+            "votes": 71,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 8452,
+    "question": "Passt Joachim Löw zu Real Madrid?",
+    "created_at": "2021-03-31T17:21:16+00:00",
+    "updated_at": "2021-06-14T09:39:39+00:00",
+    "end_at": null,
+    "comment_group_id": 2088190,
+    "published_at": "2021-03-31T18:02:50+00:00",
+    "display_name": "",
+    "total": 139,
+    "answers": [
+        {
+            "id": 19329,
+            "answer": "Ja",
+            "votes": 54,
+            "order": 0
+        },
+        {
+            "id": 19328,
+            "answer": "Nein",
+            "votes": 85,
+            "order": 1
+        }
+    ]
+}

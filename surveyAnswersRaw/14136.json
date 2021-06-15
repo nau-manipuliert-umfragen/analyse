@@ -1,0 +1,25 @@
+{
+    "id": 6079,
+    "question": "Soll Granit Xhaka zu Inter Mailand wechseln?",
+    "created_at": "2020-11-17T17:58:52+00:00",
+    "updated_at": "2021-06-14T09:37:43+00:00",
+    "end_at": null,
+    "comment_group_id": 1901728,
+    "published_at": "2020-11-18T10:28:36+00:00",
+    "display_name": "",
+    "total": 204,
+    "answers": [
+        {
+            "id": 14136,
+            "answer": "Ja, bei Arsenal wird der Schweizer in Zukunft keine Rolle mehr spielen.",
+            "votes": 139,
+            "order": 0
+        },
+        {
+            "id": 14135,
+            "answer": "Nein, er wird sich unter Trainer Mikel Arteta durchsetzen.",
+            "votes": 65,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 6982,
+    "question": "Gehört Jerome Boateng in die deutsche Nationalmannschaft?",
+    "created_at": "2021-02-02T15:07:59+00:00",
+    "updated_at": "2021-06-14T09:38:23+00:00",
+    "end_at": null,
+    "comment_group_id": 2004366,
+    "published_at": "2021-02-02T18:40:06+00:00",
+    "display_name": "",
+    "total": 354,
+    "answers": [
+        {
+            "id": 16124,
+            "answer": "Ja",
+            "votes": 133,
+            "order": 0
+        },
+        {
+            "id": 16125,
+            "answer": "Nein",
+            "votes": 221,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "id": 6666,
+    "question": "Sind Christen selbst schuld, wenn sie verfolgt werden?",
+    "created_at": "2021-01-14T22:13:37+00:00",
+    "updated_at": "2021-03-18T17:02:51+00:00",
+    "end_at": "2021-03-18T22:12:00+00:00",
+    "comment_group_id": 1978010,
+    "published_at": "2021-01-15T12:04:34+00:00",
+    "display_name": "",
+    "total": 788,
+    "answers": [
+        {
+            "id": 15441,
+            "answer": "Was für eine schreckliche Frage!",
+            "votes": 616,
+            "order": 0
+        },
+        {
+            "id": 15442,
+            "answer": "Ja, sie könnten ja ihren Glauben wechseln.",
+            "votes": 41,
+            "order": 1
+        },
+        {
+            "id": 15439,
+            "answer": "Ich weiss es nicht.",
+            "votes": 31,
+            "order": 2
+        },
+        {
+            "id": 15440,
+            "answer": "Ich will nur das Voting-Resultat sehen.",
+            "votes": 100,
+            "order": 3
+        }
+    ]
+}

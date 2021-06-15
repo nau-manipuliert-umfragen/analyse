@@ -1,0 +1,37 @@
+{
+    "id": 533,
+    "question": "Würden sie aufgrund des Preises einen befristeten Mietvertrag eingehen?",
+    "created_at": "2018-03-12T09:08:27+00:00",
+    "updated_at": "2021-06-14T10:20:04+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 87,
+    "answers": [
+        {
+            "id": 1565,
+            "answer": "Ja, klar.",
+            "votes": 22,
+            "order": 100
+        },
+        {
+            "id": 1568,
+            "answer": "Nein, umziehen ist mir zu stressig.",
+            "votes": 22,
+            "order": 100
+        },
+        {
+            "id": 1571,
+            "answer": "Jein, nur wenn die Miete wirklich billig wär.",
+            "votes": 22,
+            "order": 100
+        },
+        {
+            "id": 1574,
+            "answer": "In Zürich bleibt einem ja nichts anderes übrig.",
+            "votes": 21,
+            "order": 100
+        }
+    ]
+}

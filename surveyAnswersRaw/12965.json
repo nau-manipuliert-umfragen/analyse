@@ -1,0 +1,25 @@
+{
+    "id": 5544,
+    "question": "Denken Sie, die beiden kommen trotzdem zusammen?",
+    "created_at": "2020-09-24T13:39:08+00:00",
+    "updated_at": "2021-06-14T09:37:18+00:00",
+    "end_at": null,
+    "comment_group_id": 1817276,
+    "published_at": "2020-09-25T08:45:32+00:00",
+    "display_name": "",
+    "total": 1192,
+    "answers": [
+        {
+            "id": 12965,
+            "answer": "Ja, sie finden einen Weg.",
+            "votes": 333,
+            "order": 0
+        },
+        {
+            "id": 12964,
+            "answer": "Nein, das Thema Kinder ist zu gross.",
+            "votes": 859,
+            "order": 1
+        }
+    ]
+}

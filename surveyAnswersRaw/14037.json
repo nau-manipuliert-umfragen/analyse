@@ -1,0 +1,31 @@
+{
+    "id": 6036,
+    "question": "Kann die Schweiz gegen Spanien gewinnen?",
+    "created_at": "2020-11-13T10:27:56+00:00",
+    "updated_at": "2021-06-14T09:37:41+00:00",
+    "end_at": null,
+    "comment_group_id": 1896978,
+    "published_at": "2020-11-13T10:50:21+00:00",
+    "display_name": "",
+    "total": 245,
+    "answers": [
+        {
+            "id": 14038,
+            "answer": "Ja, sie hat die Qualität",
+            "votes": 92,
+            "order": 0
+        },
+        {
+            "id": 14037,
+            "answer": "Nein, sie werden verlieren",
+            "votes": 106,
+            "order": 1
+        },
+        {
+            "id": 14041,
+            "answer": "Es reicht zu einem Unentschieden",
+            "votes": 47,
+            "order": 2
+        }
+    ]
+}

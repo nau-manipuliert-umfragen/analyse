@@ -1,0 +1,25 @@
+{
+    "id": 2980,
+    "question": "Gewinnt der FC Luzern auch gegen den FC St.Gallen?",
+    "created_at": "2020-02-12T14:51:54+00:00",
+    "updated_at": "2021-06-14T09:35:32+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 363,
+    "answers": [
+        {
+            "id": 7362,
+            "answer": "Ja, die Luzerner sind in einer starken Form.",
+            "votes": 206,
+            "order": 0
+        },
+        {
+            "id": 7363,
+            "answer": "Nein, da wird Bernhard Alpstaeg eine negative Überraschung erleben.",
+            "votes": 157,
+            "order": 1
+        }
+    ]
+}

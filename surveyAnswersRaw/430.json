@@ -1,0 +1,37 @@
+{
+    "id": 177,
+    "question": "Wie finden Sie die O-Bikes in Zürich",
+    "created_at": "2017-11-14T07:28:20+00:00",
+    "updated_at": "2021-06-14T09:33:43+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 84,
+    "answers": [
+        {
+            "id": 430,
+            "answer": "Gut, ich benutze sie auch",
+            "votes": 21,
+            "order": 100
+        },
+        {
+            "id": 435,
+            "answer": "Schön für alle, die sie benutzen",
+            "votes": 21,
+            "order": 100
+        },
+        {
+            "id": 436,
+            "answer": "Stören mich nicht",
+            "votes": 21,
+            "order": 100
+        },
+        {
+            "id": 438,
+            "answer": "O-Bikes sollten aus Zürich verschwinden",
+            "votes": 21,
+            "order": 100
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "id": 6733,
+    "question": "Wer wird Meister in Italien?",
+    "created_at": "2021-01-19T14:35:31+00:00",
+    "updated_at": "2021-06-14T09:38:13+00:00",
+    "end_at": null,
+    "comment_group_id": 1984179,
+    "published_at": null,
+    "display_name": "",
+    "total": 178,
+    "answers": [
+        {
+            "id": 15580,
+            "answer": "Milan",
+            "votes": 54,
+            "order": 0
+        },
+        {
+            "id": 15582,
+            "answer": "Inter",
+            "votes": 44,
+            "order": 1
+        },
+        {
+            "id": 15579,
+            "answer": "Napoli",
+            "votes": 22,
+            "order": 2
+        },
+        {
+            "id": 15583,
+            "answer": "Juve",
+            "votes": 35,
+            "order": 3
+        },
+        {
+            "id": 15581,
+            "answer": "ein anderes Team",
+            "votes": 23,
+            "order": 4
+        }
+    ]
+}

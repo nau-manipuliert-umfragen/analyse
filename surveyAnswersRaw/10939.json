@@ -1,0 +1,31 @@
+{
+    "id": 4627,
+    "question": "Sind Sie jetzt auch FCB-Fan?",
+    "created_at": "2020-06-16T09:25:51+00:00",
+    "updated_at": "2021-06-14T09:36:41+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 625,
+    "answers": [
+        {
+            "id": 10939,
+            "answer": "Ja, das ist wichtig für die Schweiz",
+            "votes": 191,
+            "order": 0
+        },
+        {
+            "id": 10941,
+            "answer": "Nein, nie im Leben",
+            "votes": 176,
+            "order": 1
+        },
+        {
+            "id": 10940,
+            "answer": "Bin ich sowieso schon",
+            "votes": 258,
+            "order": 2
+        }
+    ]
+}

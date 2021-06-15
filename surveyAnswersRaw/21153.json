@@ -1,0 +1,25 @@
+{
+    "id": 9312,
+    "question": "Was halten Sie von Meghans Forderungen?",
+    "created_at": "2021-05-09T08:11:34+00:00",
+    "updated_at": "2021-06-14T09:40:27+00:00",
+    "end_at": null,
+    "comment_group_id": 2148571,
+    "published_at": "2021-05-09T11:11:13+00:00",
+    "display_name": "",
+    "total": 1153,
+    "answers": [
+        {
+            "id": 21152,
+            "answer": "Super setzt sie sich für eine gerechtere Welt ein.",
+            "votes": 223,
+            "order": 0
+        },
+        {
+            "id": 21153,
+            "answer": "Ich kann es nicht mehr hören.",
+            "votes": 930,
+            "order": 1
+        }
+    ]
+}

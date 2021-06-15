@@ -1,0 +1,25 @@
+{
+    "id": 8991,
+    "question": "Würden Sie nach der Heirat Ihren Nachnamen ändern?",
+    "created_at": "2021-04-25T14:12:34+00:00",
+    "updated_at": "2021-06-14T09:40:09+00:00",
+    "end_at": null,
+    "comment_group_id": 2123998,
+    "published_at": "2021-04-25T17:00:57+00:00",
+    "display_name": "",
+    "total": 448,
+    "answers": [
+        {
+            "id": 20460,
+            "answer": "Ja, das macht man so.",
+            "votes": 319,
+            "order": 0
+        },
+        {
+            "id": 20461,
+            "answer": "Nein, ein No-Go!",
+            "votes": 129,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "id": 4666,
+    "question": "Schenken Sie den Vorwürfen gegen Huawei glauben?",
+    "created_at": "2020-06-19T10:08:01+00:00",
+    "updated_at": "2021-06-14T09:36:43+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": "2021-02-04T08:34:02+00:00",
+    "display_name": "",
+    "total": 823,
+    "answers": [
+        {
+            "id": 11025,
+            "answer": "Nein, ich glaube, das sind haltlose Vorwürfe.",
+            "votes": 196,
+            "order": 0
+        },
+        {
+            "id": 11027,
+            "answer": "Ja und ich denke, die USA machen das mit den Handelsbeschränkungen genau richtig.",
+            "votes": 164,
+            "order": 1
+        },
+        {
+            "id": 11026,
+            "answer": "Aus meiner Sicht spionieren US-Firmen für die USA und chinesische Firmen für China.",
+            "votes": 463,
+            "order": 2
+        }
+    ]
+}

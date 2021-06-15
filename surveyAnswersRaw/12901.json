@@ -1,0 +1,25 @@
+{
+    "id": 5514,
+    "question": "Was sagen Sie zu den Ausrastern von Novak Djokovic?",
+    "created_at": "2020-09-21T10:40:26+00:00",
+    "updated_at": "2021-06-14T09:37:16+00:00",
+    "end_at": null,
+    "comment_group_id": 1811298,
+    "published_at": "2020-09-21T12:26:20+00:00",
+    "display_name": "",
+    "total": 514,
+    "answers": [
+        {
+            "id": 12901,
+            "answer": "Der Serbe gehört für längere Zeit gesperrt, sonst lernt er es nie!",
+            "votes": 287,
+            "order": 0
+        },
+        {
+            "id": 12900,
+            "answer": "Das sind doch nur Emotionen, lasst ihn in Ruhe!",
+            "votes": 227,
+            "order": 1
+        }
+    ]
+}

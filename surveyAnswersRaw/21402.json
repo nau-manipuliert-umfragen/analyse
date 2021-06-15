@@ -1,0 +1,25 @@
+{
+    "id": 9428,
+    "question": "Was halten Sie von der Kritik an Lucien Favre?",
+    "created_at": "2021-05-14T08:06:56+00:00",
+    "updated_at": "2021-06-14T09:40:33+00:00",
+    "end_at": null,
+    "comment_group_id": 2156459,
+    "published_at": "2021-05-14T08:07:53+00:00",
+    "display_name": "",
+    "total": 550,
+    "answers": [
+        {
+            "id": 21401,
+            "answer": "Völlig daneben!",
+            "votes": 428,
+            "order": 0
+        },
+        {
+            "id": 21402,
+            "answer": "Die ist berechtigt.",
+            "votes": 122,
+            "order": 1
+        }
+    ]
+}

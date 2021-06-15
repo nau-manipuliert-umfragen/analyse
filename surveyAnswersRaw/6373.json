@@ -1,0 +1,25 @@
+{
+    "id": 2534,
+    "question": "Gefällt Ihnen die neue «1 gegen 100»-Moderatorin?",
+    "created_at": "2020-01-07T09:02:29+00:00",
+    "updated_at": "2020-01-08T09:00:06+00:00",
+    "end_at": "2020-01-08T09:02:21+00:00",
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 1260,
+    "answers": [
+        {
+            "id": 6372,
+            "answer": "Ja, Beldner ist souverän.",
+            "votes": 993,
+            "order": 0
+        },
+        {
+            "id": 6373,
+            "answer": "Nein, ich will Susanne Kunz zurück!",
+            "votes": 267,
+            "order": 1
+        }
+    ]
+}

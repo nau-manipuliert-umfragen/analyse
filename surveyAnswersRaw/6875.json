@@ -1,0 +1,25 @@
+{
+    "id": 2762,
+    "question": "Gewinnt Novak Djokovic jetzt die Australian Open?",
+    "created_at": "2020-01-30T11:07:22+00:00",
+    "updated_at": "2021-06-14T09:35:18+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 284,
+    "answers": [
+        {
+            "id": 6876,
+            "answer": "Ja, ohne Zweifel.",
+            "votes": 162,
+            "order": 0
+        },
+        {
+            "id": 6875,
+            "answer": "Nein, unterschätzt die jungen Wilden nicht!",
+            "votes": 122,
+            "order": 1
+        }
+    ]
+}

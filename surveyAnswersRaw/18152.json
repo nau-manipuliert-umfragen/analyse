@@ -1,0 +1,25 @@
+{
+    "id": 7888,
+    "question": "Sollen 7-Jährige im Haushalt mithelfen müssen?",
+    "created_at": "2021-03-10T11:14:07+00:00",
+    "updated_at": "2021-06-14T09:39:10+00:00",
+    "end_at": null,
+    "comment_group_id": 2056385,
+    "published_at": null,
+    "display_name": "",
+    "total": 565,
+    "answers": [
+        {
+            "id": 18151,
+            "answer": "Nein, dass bereits 7-Jährige im Haushalt mithelfen hat keinen pädagogischen Wert.",
+            "votes": 184,
+            "order": 0
+        },
+        {
+            "id": 18152,
+            "answer": "Ja klar, auch ich musste bereits als Kind im Haushalt mithelfen.",
+            "votes": 381,
+            "order": 1
+        }
+    ]
+}

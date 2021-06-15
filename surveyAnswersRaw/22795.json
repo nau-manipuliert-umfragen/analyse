@@ -1,0 +1,31 @@
+{
+    "id": 10071,
+    "question": "Wer ist der beste Tennisspieler aller Zeiten?",
+    "created_at": "2021-06-13T23:27:01+00:00",
+    "updated_at": "2021-06-14T10:26:35+00:00",
+    "end_at": null,
+    "comment_group_id": 2205724,
+    "published_at": "2021-06-13T23:27:32+00:00",
+    "display_name": "",
+    "total": 992,
+    "answers": [
+        {
+            "id": 22796,
+            "answer": "Roger Federer",
+            "votes": 567,
+            "order": 0
+        },
+        {
+            "id": 22797,
+            "answer": "Novak Djokovic",
+            "votes": 328,
+            "order": 1
+        },
+        {
+            "id": 22795,
+            "answer": "Rafael Nadal",
+            "votes": 97,
+            "order": 2
+        }
+    ]
+}

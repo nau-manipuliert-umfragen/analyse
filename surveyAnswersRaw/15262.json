@@ -1,0 +1,25 @@
+{
+    "id": 6585,
+    "question": "Hätten Sie die Antwort gewusst?",
+    "created_at": "2021-01-09T20:34:01+00:00",
+    "updated_at": "2021-06-14T09:38:07+00:00",
+    "end_at": null,
+    "comment_group_id": 1970327,
+    "published_at": "2021-01-10T10:02:37+00:00",
+    "display_name": "",
+    "total": 2582,
+    "answers": [
+        {
+            "id": 15262,
+            "answer": "Klar, denn ich bezahle meine Steuern immer pünktlich!",
+            "votes": 2276,
+            "order": 0
+        },
+        {
+            "id": 15261,
+            "answer": "Nein, auch ich schiebe die Steuererklärung bis zum letzten möglichen Zeitpunkt raus!",
+            "votes": 306,
+            "order": 1
+        }
+    ]
+}

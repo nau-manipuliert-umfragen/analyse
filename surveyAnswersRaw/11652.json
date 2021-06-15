@@ -1,0 +1,25 @@
+{
+    "id": 4952,
+    "question": "Was halten Sie von der Entscheidung von Martin Rubin?",
+    "created_at": "2020-07-21T05:35:42+00:00",
+    "updated_at": "2021-06-14T09:36:54+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 102,
+    "answers": [
+        {
+            "id": 11652,
+            "answer": "Kann ich verstehen. Jeder braucht im Leben ab und zu eine neue Herausforderung",
+            "votes": 62,
+            "order": 0
+        },
+        {
+            "id": 11651,
+            "answer": "Geht gar nicht! Martin Rubin gehört einfach zu Wacker Thun",
+            "votes": 40,
+            "order": 1
+        }
+    ]
+}

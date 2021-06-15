@@ -1,0 +1,25 @@
+{
+    "id": 3020,
+    "question": "Ist die Strafe gegen Manchester City gerechtfertigt?",
+    "created_at": "2020-02-14T20:06:20+00:00",
+    "updated_at": "2021-06-14T09:35:33+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 718,
+    "answers": [
+        {
+            "id": 7446,
+            "answer": "Ja",
+            "votes": 563,
+            "order": 0
+        },
+        {
+            "id": 7447,
+            "answer": "Nein",
+            "votes": 155,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 6104,
+    "question": "Gewinnt Mike Tyson den Showkampf gegen Roy Jones junior?",
+    "created_at": "2020-11-19T13:22:21+00:00",
+    "updated_at": "2021-06-14T10:24:11+00:00",
+    "end_at": null,
+    "comment_group_id": 1904285,
+    "published_at": "2020-11-22T07:02:09+00:00",
+    "display_name": "",
+    "total": 363,
+    "answers": [
+        {
+            "id": 14195,
+            "answer": "Ja",
+            "votes": 259,
+            "order": 0
+        },
+        {
+            "id": 14196,
+            "answer": "Nein",
+            "votes": 104,
+            "order": 1
+        }
+    ]
+}

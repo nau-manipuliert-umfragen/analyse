@@ -1,0 +1,25 @@
+{
+    "id": 9999,
+    "question": "Leidet Ihr Kind seit dem Lockdown auch unter ADHS?",
+    "created_at": "2021-06-10T06:36:53+00:00",
+    "updated_at": "2021-06-14T10:26:25+00:00",
+    "end_at": "2021-06-30T06:34:34+00:00",
+    "comment_group_id": 2198916,
+    "published_at": "2021-06-14T07:15:13+00:00",
+    "display_name": "",
+    "total": 121,
+    "answers": [
+        {
+            "id": 22640,
+            "answer": "Ja.",
+            "votes": 46,
+            "order": 0
+        },
+        {
+            "id": 22639,
+            "answer": "Nein.",
+            "votes": 75,
+            "order": 1
+        }
+    ]
+}

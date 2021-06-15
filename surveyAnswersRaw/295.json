@@ -1,0 +1,25 @@
+{
+    "id": 124,
+    "question": "Befürworten Sie diese Resolution von Pro Velo?",
+    "created_at": "2017-11-04T11:47:36+00:00",
+    "updated_at": "2021-06-14T09:33:41+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 62,
+    "answers": [
+        {
+            "id": 295,
+            "answer": "Ja, endlich geht etwas!",
+            "votes": 34,
+            "order": 100
+        },
+        {
+            "id": 296,
+            "answer": "Nein, das verbessert die Situation nicht.",
+            "votes": 28,
+            "order": 100
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 9872,
+    "question": "Glauben Sie an ein «Bennifer»-Comeback?",
+    "created_at": "2021-06-04T08:24:16+00:00",
+    "updated_at": "2021-06-14T09:41:00+00:00",
+    "end_at": null,
+    "comment_group_id": 2190338,
+    "published_at": "2021-06-05T18:55:20+00:00",
+    "display_name": "",
+    "total": 206,
+    "answers": [
+        {
+            "id": 22366,
+            "answer": "Ja, die wirken mega verliebt!",
+            "votes": 151,
+            "order": 0
+        },
+        {
+            "id": 22367,
+            "answer": "Nö, ich glaube, die sind nur gut befreundet.",
+            "votes": 55,
+            "order": 1
+        }
+    ]
+}

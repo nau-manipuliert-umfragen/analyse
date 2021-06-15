@@ -1,0 +1,25 @@
+{
+    "id": 8083,
+    "question": "Soll der Bundesrat am Freitag weitere Lockerungen beschliessen?",
+    "created_at": "2021-03-17T15:21:09+00:00",
+    "updated_at": "2021-06-14T09:39:21+00:00",
+    "end_at": null,
+    "comment_group_id": 2067272,
+    "published_at": "2021-03-18T20:00:02+00:00",
+    "display_name": "",
+    "total": 4370,
+    "answers": [
+        {
+            "id": 18554,
+            "answer": "Ja! Eine Null-Risiko-Strategie gibt es nicht.",
+            "votes": 3210,
+            "order": 0
+        },
+        {
+            "id": 18553,
+            "answer": "Nein! Restaurants sollen weiterhin geschlossen bleiben.",
+            "votes": 1160,
+            "order": 1
+        }
+    ]
+}

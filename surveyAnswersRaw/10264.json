@@ -1,0 +1,31 @@
+{
+    "id": 4312,
+    "question": "Was halten Sie von Xiaomi?",
+    "created_at": "2020-05-21T13:12:41+00:00",
+    "updated_at": "2021-06-14T09:36:29+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 236,
+    "answers": [
+        {
+            "id": 10264,
+            "answer": "Xiaomi? Nie gehört.",
+            "votes": 46,
+            "order": 0
+        },
+        {
+            "id": 10263,
+            "answer": "Ich bin ein grosser Fan!",
+            "votes": 152,
+            "order": 1
+        },
+        {
+            "id": 10262,
+            "answer": "Die Firma ist mir unsympathisch.",
+            "votes": 38,
+            "order": 2
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 5571,
+    "question": "Finden Sie eine Initiative gegen Kampfjets eine gute Idee?",
+    "created_at": "2020-09-28T08:56:00+00:00",
+    "updated_at": "2021-06-14T09:37:19+00:00",
+    "end_at": null,
+    "comment_group_id": 1823125,
+    "published_at": "2020-09-28T15:30:46+00:00",
+    "display_name": "",
+    "total": 584,
+    "answers": [
+        {
+            "id": 13019,
+            "answer": "Ja, bei so einem knappen Entscheid macht das Sinn.",
+            "votes": 183,
+            "order": 0
+        },
+        {
+            "id": 13020,
+            "answer": "Nein, die GSoA soll gefälligst den Volkswillen respektieren.",
+            "votes": 401,
+            "order": 1
+        }
+    ]
+}

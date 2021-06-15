@@ -1,0 +1,25 @@
+{
+    "id": 6245,
+    "question": "Was sagen Sie zum Luxus-Adventskalender von Michael Wendler?",
+    "created_at": "2020-12-05T07:31:13+00:00",
+    "updated_at": "2021-06-14T09:37:53+00:00",
+    "end_at": null,
+    "comment_group_id": 1927956,
+    "published_at": "2020-12-05T10:03:00+00:00",
+    "display_name": "",
+    "total": 475,
+    "answers": [
+        {
+            "id": 14513,
+            "answer": "Geil, lass es krachen!",
+            "votes": 126,
+            "order": 0
+        },
+        {
+            "id": 14512,
+            "answer": "Geiz ist auch geil - schon mal was von gehört?",
+            "votes": 349,
+            "order": 1
+        }
+    ]
+}

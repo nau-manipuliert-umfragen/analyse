@@ -1,0 +1,25 @@
+{
+    "id": 7704,
+    "question": "Überraschen Sie die Doppelerfassungen?",
+    "created_at": "2021-03-02T07:28:23+00:00",
+    "updated_at": "2021-03-02T16:12:48+00:00",
+    "end_at": "2021-03-02T07:28:22+00:00",
+    "comment_group_id": 2044131,
+    "published_at": "2021-03-02T16:12:47+00:00",
+    "display_name": "",
+    "total": 40,
+    "answers": [
+        {
+            "id": 17743,
+            "answer": "Ich habe nichts anderes erwartet.",
+            "votes": 20,
+            "order": 0
+        },
+        {
+            "id": 17744,
+            "answer": "Mich erstaunt eher, dass einigen Kantone keine solchen Fälle bekannt sind.",
+            "votes": 20,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 8998,
+    "question": "Sind Sie in den ersten Tagen bereits auf einer Beizen-Terrasse gesessen?",
+    "created_at": "2021-04-26T07:09:40+00:00",
+    "updated_at": "2021-04-30T18:20:35+00:00",
+    "end_at": "2021-05-02T12:36:56+00:00",
+    "comment_group_id": 2124844,
+    "published_at": "2021-04-28T17:10:43+00:00",
+    "display_name": "",
+    "total": 1264,
+    "answers": [
+        {
+            "id": 20477,
+            "answer": "Ja, habe es richtig genossen!",
+            "votes": 811,
+            "order": 0
+        },
+        {
+            "id": 20478,
+            "answer": "Nein, mir ist unwohl dabei.",
+            "votes": 453,
+            "order": 1
+        }
+    ]
+}

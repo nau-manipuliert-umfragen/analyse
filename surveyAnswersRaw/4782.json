@@ -1,0 +1,25 @@
+{
+    "id": 1836,
+    "question": "Soll die ATP On-Court-Coaching einführen?",
+    "created_at": "2018-08-22T04:30:30+00:00",
+    "updated_at": "2021-06-14T09:34:39+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 102,
+    "answers": [
+        {
+            "id": 4782,
+            "answer": "Ja, das wäre eine super Idee!",
+            "votes": 26,
+            "order": 100
+        },
+        {
+            "id": 4785,
+            "answer": "Nein, danke, auf keinen Fall!",
+            "votes": 76,
+            "order": 100
+        }
+    ]
+}

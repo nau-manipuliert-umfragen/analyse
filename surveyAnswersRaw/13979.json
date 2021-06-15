@@ -1,0 +1,19 @@
+{
+    "id": 6009,
+    "question": "Hätten Sie den Ball auch so versenkt?",
+    "created_at": "2020-11-11T07:36:57+00:00",
+    "updated_at": "2021-06-14T09:37:39+00:00",
+    "end_at": null,
+    "comment_group_id": 1893788,
+    "published_at": null,
+    "display_name": "",
+    "total": 21,
+    "answers": [
+        {
+            "id": 13979,
+            "answer": "Klar, ist doch nicht so schwierig.",
+            "votes": 21,
+            "order": 0
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "id": 5560,
+    "question": "Wer hat Ihrer Meinung nach das Blüttel-Battle gewonnen?",
+    "created_at": "2020-09-27T06:45:36+00:00",
+    "updated_at": "2021-06-14T10:23:44+00:00",
+    "end_at": null,
+    "comment_group_id": 1820753,
+    "published_at": "2020-09-27T09:00:10+00:00",
+    "display_name": "",
+    "total": 380,
+    "answers": [
+        {
+            "id": 12995,
+            "answer": "Ganz klar Heidi, sie hats auch nach 28 Jahren Model-Karriere noch drauf.",
+            "votes": 73,
+            "order": 0
+        },
+        {
+            "id": 12996,
+            "answer": "Tom Kaulitz! Bei diesem Anblick bin ich hin und weg.",
+            "votes": 48,
+            "order": 1
+        },
+        {
+            "id": 12997,
+            "answer": "Keiner der beiden!",
+            "votes": 259,
+            "order": 2
+        }
+    ]
+}

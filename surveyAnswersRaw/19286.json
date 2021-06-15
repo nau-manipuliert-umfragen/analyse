@@ -1,0 +1,25 @@
+{
+    "id": 8432,
+    "question": "«DSDS» ohne Dieter Bohlen - kann das funktionieren?",
+    "created_at": "2021-03-31T07:05:46+00:00",
+    "updated_at": "2021-06-14T09:39:38+00:00",
+    "end_at": null,
+    "comment_group_id": 2086903,
+    "published_at": "2021-03-31T08:09:43+00:00",
+    "display_name": "",
+    "total": 1896,
+    "answers": [
+        {
+            "id": 19286,
+            "answer": "Nein, er war für den Erfolg der Sendung verantwortlich.",
+            "votes": 1153,
+            "order": 0
+        },
+        {
+            "id": 19285,
+            "answer": "Ja, sein Aus ist schon lange überfällig.",
+            "votes": 743,
+            "order": 1
+        }
+    ]
+}

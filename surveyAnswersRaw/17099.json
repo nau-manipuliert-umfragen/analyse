@@ -1,0 +1,25 @@
+{
+    "id": 7410,
+    "question": "Verfolgen Sie News rund um die britischen Royals?",
+    "created_at": "2021-02-18T14:56:29+00:00",
+    "updated_at": "2021-06-14T09:38:45+00:00",
+    "end_at": null,
+    "comment_group_id": 2028395,
+    "published_at": "2021-02-19T20:41:11+00:00",
+    "display_name": "",
+    "total": 418,
+    "answers": [
+        {
+            "id": 17100,
+            "answer": "Ja, es ist wie eine gute TV-Show!",
+            "votes": 200,
+            "order": 0
+        },
+        {
+            "id": 17099,
+            "answer": "Nein, interessiert mich nicht!",
+            "votes": 218,
+            "order": 1
+        }
+    ]
+}

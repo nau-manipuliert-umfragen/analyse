@@ -1,0 +1,25 @@
+{
+    "id": 5264,
+    "question": "Wird aus «Bauer ledig sucht»-Andreas und seiner Rebekka ein Paar?",
+    "created_at": "2020-08-26T09:13:22+00:00",
+    "updated_at": "2021-06-14T09:37:06+00:00",
+    "end_at": null,
+    "comment_group_id": 1767604,
+    "published_at": "2020-08-28T07:18:43+00:00",
+    "display_name": "",
+    "total": 311,
+    "answers": [
+        {
+            "id": 12336,
+            "answer": "Auf jeden Fall. Wenn nicht bei den beiden, bei welchem Paar dann?",
+            "votes": 193,
+            "order": 0
+        },
+        {
+            "id": 12337,
+            "answer": "So ein Liebeskäse bringt die zwei auch nicht unbedingt weiter nach vorne.",
+            "votes": 118,
+            "order": 1
+        }
+    ]
+}

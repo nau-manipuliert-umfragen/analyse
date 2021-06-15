@@ -1,0 +1,31 @@
+{
+    "id": 2236,
+    "question": "Wie geht das YB-Spiel heute Dienstagabend aus?",
+    "created_at": "2018-10-23T11:44:45+00:00",
+    "updated_at": "2021-06-14T09:34:53+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 76,
+    "answers": [
+        {
+            "id": 5655,
+            "answer": "Der FC Valencia gewinnt.",
+            "votes": 30,
+            "order": 100
+        },
+        {
+            "id": 5656,
+            "answer": "Die Partie endet unentschieden.",
+            "votes": 22,
+            "order": 100
+        },
+        {
+            "id": 5657,
+            "answer": "Die Young Boys gewinnen.",
+            "votes": 24,
+            "order": 100
+        }
+    ]
+}

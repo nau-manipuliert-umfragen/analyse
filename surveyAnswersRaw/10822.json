@@ -1,0 +1,31 @@
+{
+    "id": 4570,
+    "question": "Sollten Schweizer Statuen und Denkmäler, die mit Rassismus und Sklaverei zu tun haben, entfernt werden?",
+    "created_at": "2020-06-11T12:48:47+00:00",
+    "updated_at": "2020-06-29T09:11:26+00:00",
+    "end_at": "2020-06-30T12:48:25+00:00",
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 331,
+    "answers": [
+        {
+            "id": 10820,
+            "answer": "Ja, solche Statuen und Denkmäler gehören nicht in die Öffentlichkeit.",
+            "votes": 64,
+            "order": 0
+        },
+        {
+            "id": 10822,
+            "answer": "Ja, sie sollten aber in Museen gelangen.",
+            "votes": 75,
+            "order": 1
+        },
+        {
+            "id": 10821,
+            "answer": "Nein, diese Personen haben viel für die Schweiz geleistet.",
+            "votes": 192,
+            "order": 2
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "id": 6722,
+    "question": "Wie würde Ihr Strafmass ausfallen?",
+    "created_at": "2021-01-19T08:13:31+00:00",
+    "updated_at": "2021-06-14T10:24:40+00:00",
+    "end_at": null,
+    "comment_group_id": 1983407,
+    "published_at": "2021-01-19T09:05:48+00:00",
+    "display_name": "",
+    "total": 782,
+    "answers": [
+        {
+            "id": 15555,
+            "answer": "1-2 Spiele",
+            "votes": 263,
+            "order": 0
+        },
+        {
+            "id": 15554,
+            "answer": "3-4 Spiele",
+            "votes": 259,
+            "order": 1
+        },
+        {
+            "id": 15556,
+            "answer": "Messi gehört so lange wie möglich gesperrt!",
+            "votes": 260,
+            "order": 2
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 2858,
+    "question": "Knackt Erling Haaland bis im Juli Sanchos Rekord?",
+    "created_at": "2020-02-05T16:25:29+00:00",
+    "updated_at": "2021-06-14T09:35:24+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 137,
+    "answers": [
+        {
+            "id": 7090,
+            "answer": "Ja, der Junge ist nicht zu stoppen.",
+            "votes": 83,
+            "order": 0
+        },
+        {
+            "id": 7091,
+            "answer": "Nein, ein knappes halbes Jahr ist dann doch zu wenig.",
+            "votes": 54,
+            "order": 1
+        }
+    ]
+}

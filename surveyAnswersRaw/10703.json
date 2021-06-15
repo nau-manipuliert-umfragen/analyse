@@ -1,0 +1,25 @@
+{
+    "id": 4514,
+    "question": "Verzeihen Sie Sascha Ruefer den Versprecher?",
+    "created_at": "2020-06-08T10:46:47+00:00",
+    "updated_at": "2021-06-14T09:36:37+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 558,
+    "answers": [
+        {
+            "id": 10702,
+            "answer": "Ja, natürlich. Diese machen ihn sympathisch",
+            "votes": 394,
+            "order": 0
+        },
+        {
+            "id": 10703,
+            "answer": "Na ja. Jetzt ist dann wirklich einmal genug",
+            "votes": 164,
+            "order": 1
+        }
+    ]
+}

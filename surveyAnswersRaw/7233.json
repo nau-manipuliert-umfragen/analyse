@@ -1,0 +1,25 @@
+{
+    "id": 2920,
+    "question": "Steigt Thun ab?",
+    "created_at": "2020-02-10T07:55:32+00:00",
+    "updated_at": "2021-06-14T09:35:29+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 61,
+    "answers": [
+        {
+            "id": 7233,
+            "answer": "Ja",
+            "votes": 23,
+            "order": 0
+        },
+        {
+            "id": 7234,
+            "answer": "Nein",
+            "votes": 38,
+            "order": 1
+        }
+    ]
+}

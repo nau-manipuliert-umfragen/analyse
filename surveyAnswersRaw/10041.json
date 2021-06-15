@@ -1,0 +1,25 @@
+{
+    "id": 4208,
+    "question": "Was halten Sie davon, dass Meghan Markle ihr Enthüllungsbuch frühzeitig veröffentlichen will?",
+    "created_at": "2020-05-13T06:39:18+00:00",
+    "updated_at": "2021-06-14T09:36:24+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 436,
+    "answers": [
+        {
+            "id": 10040,
+            "answer": "Verständlich, so wie sie in der Vergangenheit behandelt wurde.",
+            "votes": 64,
+            "order": 0
+        },
+        {
+            "id": 10041,
+            "answer": "Ich geh mir jetzt mal lieber einen Beruhigungstee machen.",
+            "votes": 372,
+            "order": 1
+        }
+    ]
+}

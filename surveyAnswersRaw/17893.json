@@ -1,0 +1,25 @@
+{
+    "id": 7769,
+    "question": "Sind Sie auch gerne im Fitness-Studio wie Lindsey Vonn?",
+    "created_at": "2021-03-04T14:21:42+00:00",
+    "updated_at": "2021-06-14T09:39:02+00:00",
+    "end_at": null,
+    "comment_group_id": 2048429,
+    "published_at": "2021-03-04T16:57:47+00:00",
+    "display_name": "",
+    "total": 380,
+    "answers": [
+        {
+            "id": 17894,
+            "answer": "Ja",
+            "votes": 119,
+            "order": 0
+        },
+        {
+            "id": 17893,
+            "answer": "Nein, das ist nicht mein Ding.",
+            "votes": 261,
+            "order": 1
+        }
+    ]
+}

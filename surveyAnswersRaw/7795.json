@@ -1,0 +1,31 @@
+{
+    "id": 3176,
+    "question": "Begrüssen Sie den Entscheid, das Spiel vor leeren Rängen durchzuführen?",
+    "created_at": "2020-02-25T10:05:16+00:00",
+    "updated_at": "2021-06-14T09:35:40+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 140,
+    "answers": [
+        {
+            "id": 7794,
+            "answer": "Ja, keine Zuschauer ins Stadion zu lassen bietet genügend Schutz.",
+            "votes": 54,
+            "order": 0
+        },
+        {
+            "id": 7793,
+            "answer": "Nein, das Spiel hätte ganz abgesagt werden müssen.",
+            "votes": 49,
+            "order": 1
+        },
+        {
+            "id": 7795,
+            "answer": "Nein, ich hätte mir ein ganz normales Spiel gewünscht.",
+            "votes": 37,
+            "order": 2
+        }
+    ]
+}

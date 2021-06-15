@@ -1,0 +1,25 @@
+{
+    "id": 8210,
+    "question": "Reisen Sie an Ostern ins Tessin?",
+    "created_at": "2021-03-22T14:12:29+00:00",
+    "updated_at": "2021-06-14T09:39:27+00:00",
+    "end_at": null,
+    "comment_group_id": 2074214,
+    "published_at": "2021-03-23T05:30:57+00:00",
+    "display_name": "",
+    "total": 703,
+    "answers": [
+        {
+            "id": 18816,
+            "answer": "Klar, ich will ein bisschen in den Süden.",
+            "votes": 173,
+            "order": 0
+        },
+        {
+            "id": 18815,
+            "answer": "Nein.",
+            "votes": 530,
+            "order": 1
+        }
+    ]
+}

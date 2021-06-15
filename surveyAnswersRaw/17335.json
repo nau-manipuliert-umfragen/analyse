@@ -1,0 +1,31 @@
+{
+    "id": 7517,
+    "question": "Ist das Internet aus dem All wie das von SpaceX die Zukunft?",
+    "created_at": "2021-02-23T09:06:22+00:00",
+    "updated_at": "2021-06-14T09:38:50+00:00",
+    "end_at": null,
+    "comment_group_id": 2034297,
+    "published_at": "2021-03-31T16:02:34+00:00",
+    "display_name": "",
+    "total": 319,
+    "answers": [
+        {
+            "id": 17336,
+            "answer": "Ja, vor allem abgelegene Orte können so viel besser erreicht werden.",
+            "votes": 117,
+            "order": 0
+        },
+        {
+            "id": 17335,
+            "answer": "Nein, eine Verbindung per Kabel wird immer besser sein.",
+            "votes": 135,
+            "order": 1
+        },
+        {
+            "id": 17337,
+            "answer": "Falls ja, dann hoffentlich nicht mit dem Netz von Elon Musk.",
+            "votes": 67,
+            "order": 2
+        }
+    ]
+}

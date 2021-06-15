@@ -1,0 +1,25 @@
+{
+    "id": 9870,
+    "question": "Würden Sie sich den Mustang Mach-E kaufen?",
+    "created_at": "2021-06-04T07:49:34+00:00",
+    "updated_at": "2021-06-05T07:48:05+00:00",
+    "end_at": "2021-06-05T07:49:29+00:00",
+    "comment_group_id": 2190261,
+    "published_at": "2021-06-04T18:58:20+00:00",
+    "display_name": "",
+    "total": 564,
+    "answers": [
+        {
+            "id": 22363,
+            "answer": "Ja.",
+            "votes": 354,
+            "order": 0
+        },
+        {
+            "id": 22362,
+            "answer": "Nein.",
+            "votes": 210,
+            "order": 1
+        }
+    ]
+}

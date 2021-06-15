@@ -1,0 +1,25 @@
+{
+    "id": 5177,
+    "question": "Gelingt Newcastle United der Ronaldo-Coup?",
+    "created_at": "2020-08-18T09:02:46+00:00",
+    "updated_at": "2021-06-14T09:37:03+00:00",
+    "end_at": null,
+    "comment_group_id": 1753981,
+    "published_at": "2020-08-18T14:30:32+00:00",
+    "display_name": "",
+    "total": 122,
+    "answers": [
+        {
+            "id": 12155,
+            "answer": "Ja, die Investoren wirken überzeugend.",
+            "votes": 46,
+            "order": 0
+        },
+        {
+            "id": 12156,
+            "answer": "Nein, der 35-Jährige bleibt Juve treu.",
+            "votes": 76,
+            "order": 1
+        }
+    ]
+}

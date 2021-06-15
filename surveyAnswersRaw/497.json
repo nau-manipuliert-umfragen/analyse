@@ -1,0 +1,31 @@
+{
+    "id": 206,
+    "question": "Wird die Schweiz Digital-Weltmeister?",
+    "created_at": "2017-11-21T09:54:46+00:00",
+    "updated_at": "2021-06-14T09:33:44+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 76,
+    "answers": [
+        {
+            "id": 497,
+            "answer": "Ja, wir haben die beste Ausgangslage dazu!",
+            "votes": 26,
+            "order": 100
+        },
+        {
+            "id": 500,
+            "answer": "Nein, das Silicon Valley hat alle unaufholbar abgehängt.",
+            "votes": 25,
+            "order": 100
+        },
+        {
+            "id": 503,
+            "answer": "Nein, die Asiatischen Länder werden uns um Längen abhängen.",
+            "votes": 25,
+            "order": 100
+        }
+    ]
+}

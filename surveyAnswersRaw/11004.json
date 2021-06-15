@@ -1,0 +1,25 @@
+{
+    "id": 4655,
+    "question": "Würden Sie ihren Geburi auch im Tipi-Zelt feiern?",
+    "created_at": "2020-06-18T08:32:51+00:00",
+    "updated_at": "2021-06-14T09:36:42+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 65,
+    "answers": [
+        {
+            "id": 11003,
+            "answer": "Absolut",
+            "votes": 37,
+            "order": 0
+        },
+        {
+            "id": 11004,
+            "answer": "Auf keinen Fall",
+            "votes": 28,
+            "order": 1
+        }
+    ]
+}

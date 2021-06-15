@@ -1,0 +1,25 @@
+{
+    "id": 6529,
+    "question": "Zurück zum Ex – kann das gut gehen?",
+    "created_at": "2021-01-05T09:40:35+00:00",
+    "updated_at": "2021-06-14T09:38:05+00:00",
+    "end_at": null,
+    "comment_group_id": 1964188,
+    "published_at": "2021-01-05T13:36:25+00:00",
+    "display_name": "",
+    "total": 560,
+    "answers": [
+        {
+            "id": 15147,
+            "answer": "Nein, ich gebe den beiden ein paar Monate.",
+            "votes": 412,
+            "order": 0
+        },
+        {
+            "id": 15146,
+            "answer": "Ja, sie wirken wie frisch verliebt.",
+            "votes": 148,
+            "order": 1
+        }
+    ]
+}

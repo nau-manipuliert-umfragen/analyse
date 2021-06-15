@@ -1,0 +1,25 @@
+{
+    "id": 2694,
+    "question": "Kann Ferrari in diesem Jahr um den WM-Titel kämpfen?",
+    "created_at": "2020-01-25T13:37:23+00:00",
+    "updated_at": "2021-06-14T09:35:15+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 428,
+    "answers": [
+        {
+            "id": 6735,
+            "answer": "Ja",
+            "votes": 175,
+            "order": 0
+        },
+        {
+            "id": 6734,
+            "answer": "Nein",
+            "votes": 253,
+            "order": 1
+        }
+    ]
+}

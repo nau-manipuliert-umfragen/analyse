@@ -1,0 +1,25 @@
+{
+    "id": 7306,
+    "question": "Holt Michelle Gisin noch mehr WM-Medaillen für die Schweiz?",
+    "created_at": "2021-02-15T14:02:06+00:00",
+    "updated_at": "2021-06-14T09:38:41+00:00",
+    "end_at": null,
+    "comment_group_id": 2023119,
+    "published_at": null,
+    "display_name": "",
+    "total": 147,
+    "answers": [
+        {
+            "id": 16862,
+            "answer": "Ja, sie ist in Form!",
+            "votes": 106,
+            "order": 0
+        },
+        {
+            "id": 16861,
+            "answer": "Nein, Pulver verschossen.",
+            "votes": 41,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "id": 9648,
+    "question": "Sollte Prinz Charles die Versöhnung mit Prinz Harry suchen?",
+    "created_at": "2021-05-24T06:31:32+00:00",
+    "updated_at": "2021-06-14T09:40:47+00:00",
+    "end_at": null,
+    "comment_group_id": 2172953,
+    "published_at": "2021-05-24T09:05:44+00:00",
+    "display_name": "",
+    "total": 4468,
+    "answers": [
+        {
+            "id": 21873,
+            "answer": "Ja, schlussendlich ist er immer noch sein Sohn.",
+            "votes": 1476,
+            "order": 0
+        },
+        {
+            "id": 21871,
+            "answer": "Ja, aber nur, wenn Harry die Queen nicht mehr angreift.",
+            "votes": 818,
+            "order": 1
+        },
+        {
+            "id": 21872,
+            "answer": "Nein, Harry hat zu viel Schaden angerichtet.",
+            "votes": 2174,
+            "order": 2
+        }
+    ]
+}

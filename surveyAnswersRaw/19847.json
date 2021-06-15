@@ -1,0 +1,25 @@
+{
+    "id": 8705,
+    "question": "Freuen Sie sich auf das Comeback von Roger Federer?",
+    "created_at": "2021-04-13T05:12:21+00:00",
+    "updated_at": "2021-06-14T09:39:53+00:00",
+    "end_at": null,
+    "comment_group_id": 2104724,
+    "published_at": null,
+    "display_name": "",
+    "total": 240,
+    "answers": [
+        {
+            "id": 19846,
+            "answer": "Ja",
+            "votes": 150,
+            "order": 0
+        },
+        {
+            "id": 19847,
+            "answer": "Nein",
+            "votes": 90,
+            "order": 1
+        }
+    ]
+}

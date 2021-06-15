@@ -1,0 +1,25 @@
+{
+    "id": 6555,
+    "question": "Möchten Sie auch Influencer sein?",
+    "created_at": "2021-01-07T10:23:18+00:00",
+    "updated_at": "2021-06-14T09:38:06+00:00",
+    "end_at": null,
+    "comment_group_id": 1967348,
+    "published_at": "2021-01-07T16:00:59+00:00",
+    "display_name": "",
+    "total": 756,
+    "answers": [
+        {
+            "id": 15200,
+            "answer": "Ja, dann bekomm ich alles gratis.",
+            "votes": 102,
+            "order": 0
+        },
+        {
+            "id": 15201,
+            "answer": "Nein, ich mag kein Instagram.",
+            "votes": 654,
+            "order": 1
+        }
+    ]
+}

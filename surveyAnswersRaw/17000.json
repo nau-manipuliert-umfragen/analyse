@@ -1,0 +1,25 @@
+{
+    "id": 7365,
+    "question": "Was halten Sie vom Homeoffice?",
+    "created_at": "2021-02-17T12:30:45+00:00",
+    "updated_at": "2021-06-14T09:38:43+00:00",
+    "end_at": null,
+    "comment_group_id": 2026207,
+    "published_at": "2021-02-20T20:33:01+00:00",
+    "display_name": "",
+    "total": 506,
+    "answers": [
+        {
+            "id": 17001,
+            "answer": "Tolle Sache, ich arbeite viel lieber in meinen eigenen vier Wänden!",
+            "votes": 280,
+            "order": 0
+        },
+        {
+            "id": 17000,
+            "answer": "Mag ich überhaupt nicht, würde gerne wieder im Büro arbeiten.",
+            "votes": 226,
+            "order": 1
+        }
+    ]
+}

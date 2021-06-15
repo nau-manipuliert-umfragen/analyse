@@ -1,0 +1,25 @@
+{
+    "id": 5699,
+    "question": "Bearbeiten Sie Ihre Instagram-Fotos?",
+    "created_at": "2020-10-12T07:44:41+00:00",
+    "updated_at": "2021-06-14T09:37:24+00:00",
+    "end_at": null,
+    "comment_group_id": 1844940,
+    "published_at": "2020-10-12T10:55:14+00:00",
+    "display_name": "",
+    "total": 271,
+    "answers": [
+        {
+            "id": 13298,
+            "answer": "Ja, ist doch normal.",
+            "votes": 64,
+            "order": 0
+        },
+        {
+            "id": 13297,
+            "answer": "Nein, ich mag Natürlichkeit.",
+            "votes": 207,
+            "order": 1
+        }
+    ]
+}

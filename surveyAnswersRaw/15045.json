@@ -1,0 +1,25 @@
+{
+    "id": 6485,
+    "question": "Ronaldo und Mesut Özil bei Juve – passt das?",
+    "created_at": "2020-12-29T10:37:07+00:00",
+    "updated_at": "2021-06-14T09:38:03+00:00",
+    "end_at": null,
+    "comment_group_id": 1957537,
+    "published_at": "2020-12-30T09:26:15+00:00",
+    "display_name": "",
+    "total": 195,
+    "answers": [
+        {
+            "id": 15045,
+            "answer": "Ja, was bei Real funktioniert hat, geht auch in Italien!",
+            "votes": 116,
+            "order": 0
+        },
+        {
+            "id": 15044,
+            "answer": "Nein, das war einmal...",
+            "votes": 79,
+            "order": 1
+        }
+    ]
+}

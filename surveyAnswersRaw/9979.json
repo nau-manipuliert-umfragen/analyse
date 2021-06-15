@@ -1,0 +1,25 @@
+{
+    "id": 4181,
+    "question": "Verstehen Sie die Kritik an Dennis Rodman?",
+    "created_at": "2020-05-10T08:49:13+00:00",
+    "updated_at": "2021-06-14T09:36:23+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 200,
+    "answers": [
+        {
+            "id": 9980,
+            "answer": "Ja, er unterstützt einen Diktator!",
+            "votes": 68,
+            "order": 0
+        },
+        {
+            "id": 9979,
+            "answer": "Nein, Rodman hat mit Politik nichts am Hut.",
+            "votes": 132,
+            "order": 1
+        }
+    ]
+}

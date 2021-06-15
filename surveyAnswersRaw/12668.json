@@ -1,0 +1,25 @@
+{
+    "id": 5411,
+    "question": "Posten Sie Fotos Ihrer Kinder auf Social Media?",
+    "created_at": "2020-09-10T10:05:04+00:00",
+    "updated_at": "2021-06-14T09:37:12+00:00",
+    "end_at": null,
+    "comment_group_id": 1792970,
+    "published_at": "2020-09-10T12:22:03+00:00",
+    "display_name": "",
+    "total": 289,
+    "answers": [
+        {
+            "id": 12668,
+            "answer": "Ja, alles andere ist doch altmodisch.",
+            "votes": 32,
+            "order": 0
+        },
+        {
+            "id": 12669,
+            "answer": "Nein, mir ist ihre Privatsphäre wichtig.",
+            "votes": 257,
+            "order": 1
+        }
+    ]
+}

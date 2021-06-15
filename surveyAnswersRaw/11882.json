@@ -1,0 +1,25 @@
+{
+    "id": 5053,
+    "question": "Was halten Sie vom Fan-Geschenk?",
+    "created_at": "2020-08-03T14:29:29+00:00",
+    "updated_at": "2021-06-14T09:36:58+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 318,
+    "answers": [
+        {
+            "id": 11883,
+            "answer": "Wie cool! Mal was ganz anderes.",
+            "votes": 192,
+            "order": 0
+        },
+        {
+            "id": 11882,
+            "answer": "Hö? Was sollen denn die beiden mit einem Mond-Grundstück anfangen?",
+            "votes": 126,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "id": 1066,
+    "question": "Wo soll die WM 2026 stattfinden?",
+    "created_at": "2018-06-02T00:05:40+00:00",
+    "updated_at": "2021-06-14T09:34:15+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 110,
+    "answers": [
+        {
+            "id": 2890,
+            "answer": "In den USA, Kanada und Mexiko",
+            "votes": 31,
+            "order": 100
+        },
+        {
+            "id": 2893,
+            "answer": "In Marokko",
+            "votes": 28,
+            "order": 100
+        },
+        {
+            "id": 2896,
+            "answer": "Ganz woanders!",
+            "votes": 25,
+            "order": 100
+        },
+        {
+            "id": 2899,
+            "answer": "Konzentrieren wir uns doch erstmal auf die WM 2018.",
+            "votes": 26,
+            "order": 100
+        }
+    ]
+}

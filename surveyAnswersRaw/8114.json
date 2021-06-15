@@ -1,0 +1,25 @@
+{
+    "id": 3317,
+    "question": "Schafft Köln die Qualifikation zur Europa League?",
+    "created_at": "2020-03-05T12:53:22+00:00",
+    "updated_at": "2021-06-14T09:35:46+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 43,
+    "answers": [
+        {
+            "id": 8114,
+            "answer": "Ja.",
+            "votes": 21,
+            "order": 0
+        },
+        {
+            "id": 8115,
+            "answer": "Nein.",
+            "votes": 22,
+            "order": 1
+        }
+    ]
+}

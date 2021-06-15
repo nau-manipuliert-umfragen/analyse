@@ -1,0 +1,25 @@
+{
+    "id": 2505,
+    "question": "Sind Briatore und Bernadetta ein schönes Paar?",
+    "created_at": "2019-11-12T13:26:03+00:00",
+    "updated_at": "2021-06-14T09:35:05+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 512,
+    "answers": [
+        {
+            "id": 6291,
+            "answer": "Ja, die verstehen sich doch prima.",
+            "votes": 148,
+            "order": 0
+        },
+        {
+            "id": 6292,
+            "answer": "Nein, er ist viel zu alt für sie.",
+            "votes": 364,
+            "order": 1
+        }
+    ]
+}

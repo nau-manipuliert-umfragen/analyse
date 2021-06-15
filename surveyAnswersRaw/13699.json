@@ -1,0 +1,25 @@
+{
+    "id": 5883,
+    "question": "Kann sich Gladbach in dieser Hammer-Gruppe für den Achtelfinal qualifizieren?",
+    "created_at": "2020-10-28T07:16:43+00:00",
+    "updated_at": "2021-06-14T09:37:34+00:00",
+    "end_at": null,
+    "comment_group_id": 1872123,
+    "published_at": "2020-10-28T09:38:11+00:00",
+    "display_name": "",
+    "total": 80,
+    "answers": [
+        {
+            "id": 13699,
+            "answer": "Ja, es wird die Sensation schaffen!",
+            "votes": 39,
+            "order": 0
+        },
+        {
+            "id": 13700,
+            "answer": "Nein, die Konkurrenz ist zu stark.",
+            "votes": 41,
+            "order": 1
+        }
+    ]
+}

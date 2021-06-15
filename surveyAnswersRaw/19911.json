@@ -1,0 +1,25 @@
+{
+    "id": 8735,
+    "question": "Holt der FC Luzern jetzt gar den Cupsieg?",
+    "created_at": "2021-04-13T17:25:53+00:00",
+    "updated_at": "2021-06-14T09:39:54+00:00",
+    "end_at": null,
+    "comment_group_id": 2106041,
+    "published_at": "2021-04-13T17:31:33+00:00",
+    "display_name": "",
+    "total": 213,
+    "answers": [
+        {
+            "id": 19911,
+            "answer": "Ja, warum nicht?",
+            "votes": 133,
+            "order": 0
+        },
+        {
+            "id": 19910,
+            "answer": "Nein, der FCL scheidet im Halbfinal aus",
+            "votes": 80,
+            "order": 1
+        }
+    ]
+}

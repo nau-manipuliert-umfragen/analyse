@@ -1,0 +1,25 @@
+{
+    "id": 8233,
+    "question": "Verstehen Sie die Protestbewegungen gegen die WM?",
+    "created_at": "2021-03-23T08:17:57+00:00",
+    "updated_at": "2021-06-14T09:39:28+00:00",
+    "end_at": null,
+    "comment_group_id": 2075016,
+    "published_at": "2021-03-23T18:13:53+00:00",
+    "display_name": "",
+    "total": 66,
+    "answers": [
+        {
+            "id": 18866,
+            "answer": "Ja",
+            "votes": 41,
+            "order": 0
+        },
+        {
+            "id": 18867,
+            "answer": "Nein",
+            "votes": 25,
+            "order": 1
+        }
+    ]
+}

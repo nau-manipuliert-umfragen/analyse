@@ -1,0 +1,25 @@
+{
+    "id": 3977,
+    "question": "Wäre die Formel 1 ohne Ferrari denkbar?",
+    "created_at": "2020-04-23T07:48:38+00:00",
+    "updated_at": "2021-06-14T09:36:13+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 317,
+    "answers": [
+        {
+            "id": 9525,
+            "answer": "Ja, wenn sie nicht mitziehen wollen, sollen sie gehen.",
+            "votes": 203,
+            "order": 0
+        },
+        {
+            "id": 9526,
+            "answer": "Nein, Ferrari muss der Rennserie unbedingt erhalten bleiben.",
+            "votes": 114,
+            "order": 1
+        }
+    ]
+}

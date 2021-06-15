@@ -1,0 +1,25 @@
+{
+    "id": 8584,
+    "question": "Wer qualifiziert sich für den CL-Halbfinal?",
+    "created_at": "2021-04-07T21:08:07+00:00",
+    "updated_at": "2021-06-14T09:39:47+00:00",
+    "end_at": null,
+    "comment_group_id": 2097239,
+    "published_at": "2021-04-07T21:11:47+00:00",
+    "display_name": "",
+    "total": 63,
+    "answers": [
+        {
+            "id": 19598,
+            "answer": "Chelsea",
+            "votes": 41,
+            "order": 0
+        },
+        {
+            "id": 19599,
+            "answer": "Porto",
+            "votes": 22,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 7539,
+    "question": "Haben Sie Dubai schon einmal besucht?",
+    "created_at": "2021-02-23T15:24:36+00:00",
+    "updated_at": "2021-06-14T09:38:51+00:00",
+    "end_at": null,
+    "comment_group_id": 2035004,
+    "published_at": "2021-02-24T07:14:26+00:00",
+    "display_name": "",
+    "total": 2239,
+    "answers": [
+        {
+            "id": 17382,
+            "answer": "Nein, ich meide solche Orte.",
+            "votes": 1883,
+            "order": 0
+        },
+        {
+            "id": 17381,
+            "answer": "Ja, ich war dort schon in den Ferien.",
+            "votes": 356,
+            "order": 1
+        }
+    ]
+}

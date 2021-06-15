@@ -1,0 +1,25 @@
+{
+    "id": 7373,
+    "question": "Werden Sie das Enthüllungsinterview von Meghan und Harry gucken?",
+    "created_at": "2021-02-17T15:20:18+00:00",
+    "updated_at": "2021-06-14T09:38:44+00:00",
+    "end_at": null,
+    "comment_group_id": 2026592,
+    "published_at": "2021-02-17T19:28:52+00:00",
+    "display_name": "",
+    "total": 631,
+    "answers": [
+        {
+            "id": 17019,
+            "answer": "Nein, ich habe Besseres zu tun.",
+            "votes": 510,
+            "order": 0
+        },
+        {
+            "id": 17020,
+            "answer": "Ja, wo ist das Popcorn?",
+            "votes": 121,
+            "order": 1
+        }
+    ]
+}

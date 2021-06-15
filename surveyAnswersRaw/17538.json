@@ -1,0 +1,25 @@
+{
+    "id": 7607,
+    "question": "Was halten Sie von Entlassungen während der Corona-Krise?",
+    "created_at": "2021-02-26T10:04:29+00:00",
+    "updated_at": "2021-06-14T09:38:54+00:00",
+    "end_at": null,
+    "comment_group_id": 2039215,
+    "published_at": "2021-02-26T14:59:23+00:00",
+    "display_name": "",
+    "total": 1075,
+    "answers": [
+        {
+            "id": 17538,
+            "answer": "In Ordnung, schliesslich leiden auch Firmen wie Globus unter den Folgen der Pandemie.",
+            "votes": 392,
+            "order": 0
+        },
+        {
+            "id": 17539,
+            "answer": "Verantwortungslos, gerade jetzt sollten Firmen an ihren Angestellten festhalten.",
+            "votes": 683,
+            "order": 1
+        }
+    ]
+}

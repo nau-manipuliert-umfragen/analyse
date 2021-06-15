@@ -1,0 +1,31 @@
+{
+    "id": 7094,
+    "question": "Kaufen Sie Fleisch aus dem Ausland?",
+    "created_at": "2021-02-08T09:36:27+00:00",
+    "updated_at": "2021-02-09T09:31:41+00:00",
+    "end_at": "2021-02-09T09:36:24+00:00",
+    "comment_group_id": 2012207,
+    "published_at": "2021-02-08T10:28:27+00:00",
+    "display_name": "",
+    "total": 819,
+    "answers": [
+        {
+            "id": 16378,
+            "answer": "Ja, aber nur Spezialitäten.",
+            "votes": 223,
+            "order": 0
+        },
+        {
+            "id": 16379,
+            "answer": "Ja, ich kann (oder will) mir das teurere Schweizer Fleisch nicht leisten.",
+            "votes": 240,
+            "order": 1
+        },
+        {
+            "id": 16380,
+            "answer": "Nein, ich kaufe nur einheimisches Fleisch.",
+            "votes": 356,
+            "order": 2
+        }
+    ]
+}

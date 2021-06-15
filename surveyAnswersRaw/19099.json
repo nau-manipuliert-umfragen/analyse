@@ -1,0 +1,25 @@
+{
+    "id": 8341,
+    "question": "Ist der Punkte-Quotient eine faire Lösung?",
+    "created_at": "2021-03-27T13:48:48+00:00",
+    "updated_at": "2021-06-14T09:39:34+00:00",
+    "end_at": null,
+    "comment_group_id": 2081680,
+    "published_at": "2021-03-27T14:01:51+00:00",
+    "display_name": "",
+    "total": 157,
+    "answers": [
+        {
+            "id": 19099,
+            "answer": "Ja.",
+            "votes": 93,
+            "order": 0
+        },
+        {
+            "id": 19098,
+            "answer": "Nein.",
+            "votes": 64,
+            "order": 1
+        }
+    ]
+}

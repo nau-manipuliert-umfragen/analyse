@@ -1,0 +1,31 @@
+{
+    "id": 6521,
+    "question": "Was halten Sie davon, dass Verstappen die Ex eines Rivalen datet?",
+    "created_at": "2021-01-04T13:32:05+00:00",
+    "updated_at": "2021-06-14T09:38:05+00:00",
+    "end_at": null,
+    "comment_group_id": 1963313,
+    "published_at": "2021-01-05T13:39:17+00:00",
+    "display_name": "",
+    "total": 321,
+    "answers": [
+        {
+            "id": 15130,
+            "answer": "Wo die Liebe nun mal hinfällt ...",
+            "votes": 96,
+            "order": 0
+        },
+        {
+            "id": 15131,
+            "answer": "Finde die Aktion sehr fragwürdig.",
+            "votes": 114,
+            "order": 1
+        },
+        {
+            "id": 15129,
+            "answer": "Ist mir egal.",
+            "votes": 111,
+            "order": 2
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "id": 6774,
+    "question": "Finden Sie, dass Männer immer recht haben wollen?",
+    "created_at": "2021-01-21T21:29:54+00:00",
+    "updated_at": "2021-03-02T15:17:55+00:00",
+    "end_at": "2021-04-09T20:29:00+00:00",
+    "comment_group_id": 1988025,
+    "published_at": "2021-01-23T13:36:19+00:00",
+    "display_name": "",
+    "total": 280,
+    "answers": [
+        {
+            "id": 15671,
+            "answer": "Ja, es nervt.",
+            "votes": 78,
+            "order": 0
+        },
+        {
+            "id": 15672,
+            "answer": "Nein, geht's noch?",
+            "votes": 77,
+            "order": 1
+        },
+        {
+            "id": 15670,
+            "answer": "Ich weiss es nicht.",
+            "votes": 29,
+            "order": 2
+        },
+        {
+            "id": 15669,
+            "answer": "Ich will nur das Voting-Resultat sehen.",
+            "votes": 96,
+            "order": 3
+        }
+    ]
+}

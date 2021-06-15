@@ -1,0 +1,25 @@
+{
+    "id": 6194,
+    "question": "Kann der FC Basel noch ins Meisterrennen eingreifen?",
+    "created_at": "2020-12-01T07:46:35+00:00",
+    "updated_at": "2021-06-14T09:37:49+00:00",
+    "end_at": null,
+    "comment_group_id": 1922112,
+    "published_at": "2020-12-01T15:00:49+00:00",
+    "display_name": "",
+    "total": 395,
+    "answers": [
+        {
+            "id": 14402,
+            "answer": "Ja klar, es geht noch lange!",
+            "votes": 89,
+            "order": 0
+        },
+        {
+            "id": 14403,
+            "answer": "Nein, das reicht einfach nicht.",
+            "votes": 306,
+            "order": 1
+        }
+    ]
+}

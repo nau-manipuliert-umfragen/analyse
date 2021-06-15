@@ -1,0 +1,25 @@
+{
+    "id": 9683,
+    "question": "Wie finden Sie Gjon's Tears' Song «Tout l'Univers»?",
+    "created_at": "2021-05-25T12:33:00+00:00",
+    "updated_at": "2021-06-14T09:40:49+00:00",
+    "end_at": null,
+    "comment_group_id": 2174903,
+    "published_at": "2021-05-26T14:36:44+00:00",
+    "display_name": "",
+    "total": 1126,
+    "answers": [
+        {
+            "id": 21947,
+            "answer": "Super.",
+            "votes": 597,
+            "order": 0
+        },
+        {
+            "id": 21946,
+            "answer": "Nicht so mein Geschmack.",
+            "votes": 529,
+            "order": 1
+        }
+    ]
+}

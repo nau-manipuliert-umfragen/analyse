@@ -1,0 +1,25 @@
+{
+    "id": 9455,
+    "question": "Soll die Queen Harry und Meghan die Titel entziehen?",
+    "created_at": "2021-05-16T07:43:52+00:00",
+    "updated_at": "2021-06-14T09:40:34+00:00",
+    "end_at": null,
+    "comment_group_id": 2159440,
+    "published_at": "2021-05-16T10:51:03+00:00",
+    "display_name": "",
+    "total": 2624,
+    "answers": [
+        {
+            "id": 21458,
+            "answer": "Ja, dieser Entscheid ist längst überfällig.",
+            "votes": 2326,
+            "order": 0
+        },
+        {
+            "id": 21457,
+            "answer": "Nein, das finde ich unangemessen.",
+            "votes": 298,
+            "order": 1
+        }
+    ]
+}

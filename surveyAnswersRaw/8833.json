@@ -1,0 +1,25 @@
+{
+    "id": 3650,
+    "question": "Wie gefällt Ihnen der Motivations-Trick?",
+    "created_at": "2020-03-28T15:47:50+00:00",
+    "updated_at": "2021-06-14T09:36:00+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 201,
+    "answers": [
+        {
+            "id": 8832,
+            "answer": "Tolle Sache, kein Wunder hats der FCB gepackt!",
+            "votes": 140,
+            "order": 0
+        },
+        {
+            "id": 8833,
+            "answer": "Na ja, ein Brief ist ja eher so 1961.",
+            "votes": 61,
+            "order": 1
+        }
+    ]
+}

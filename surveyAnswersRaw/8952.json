@@ -1,0 +1,25 @@
+{
+    "id": 3706,
+    "question": "Wie finden Sie den Uni-Trend unter den Fussball-Profis?",
+    "created_at": "2020-04-02T05:21:21+00:00",
+    "updated_at": "2021-06-14T09:36:02+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 52,
+    "answers": [
+        {
+            "id": 8952,
+            "answer": "Gut, so können sie sich ein zweites Standbein aufbauen",
+            "votes": 30,
+            "order": 0
+        },
+        {
+            "id": 8953,
+            "answer": "Braucht es nicht, sie können ja Trainer und TV-Experten werden",
+            "votes": 22,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 967,
+    "question": "Lucien Favre und Borussia Dortmund: Funktioniert das?",
+    "created_at": "2018-05-23T07:49:13+00:00",
+    "updated_at": "2021-06-14T09:34:12+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 65,
+    "answers": [
+        {
+            "id": 2698,
+            "answer": "Natürlich! Favre ist ein absoluter Fachmann und wird den BVB wieder zum Bayern-Konkurrenten machen.",
+            "votes": 41,
+            "order": 100
+        },
+        {
+            "id": 2701,
+            "answer": "Nein, Dortmund ist für den sensiblen Romand eine Nummer zu gross.",
+            "votes": 24,
+            "order": 100
+        }
+    ]
+}

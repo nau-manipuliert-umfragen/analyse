@@ -1,0 +1,31 @@
+{
+    "id": 8021,
+    "question": "Holen sich Lara Gut-Behrami und Marco Odermatt den Sieg im Gesamtweltcup?",
+    "created_at": "2021-03-15T13:53:18+00:00",
+    "updated_at": "2021-06-14T09:39:16+00:00",
+    "end_at": null,
+    "comment_group_id": 2063769,
+    "published_at": "2021-03-17T06:33:04+00:00",
+    "display_name": "",
+    "total": 1150,
+    "answers": [
+        {
+            "id": 18423,
+            "answer": "Ja, die Schweiz räumt auf ganzer Linie ab!",
+            "votes": 333,
+            "order": 0
+        },
+        {
+            "id": 18420,
+            "answer": "Es gibt eine Kugel – Lara oder Odermatt werden triumphieren.",
+            "votes": 424,
+            "order": 1
+        },
+        {
+            "id": 18421,
+            "answer": "Nein",
+            "votes": 393,
+            "order": 2
+        }
+    ]
+}

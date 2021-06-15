@@ -1,0 +1,25 @@
+{
+    "id": 6559,
+    "question": "Gewinnt Paris Saint-Germain unter Mauricio Pochettino endlich die Champions League?",
+    "created_at": "2021-01-07T13:06:45+00:00",
+    "updated_at": "2021-06-14T09:38:06+00:00",
+    "end_at": null,
+    "comment_group_id": 1967657,
+    "published_at": "2021-01-08T08:50:57+00:00",
+    "display_name": "",
+    "total": 281,
+    "answers": [
+        {
+            "id": 15209,
+            "answer": "Ja, mit ihm am Steuer klappt das!",
+            "votes": 68,
+            "order": 0
+        },
+        {
+            "id": 15208,
+            "answer": "Nein, es liegt nicht nur am Trainer...",
+            "votes": 213,
+            "order": 1
+        }
+    ]
+}

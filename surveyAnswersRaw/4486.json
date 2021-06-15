@@ -1,0 +1,31 @@
+{
+    "id": 1699,
+    "question": "Glauben Sie beim Feuer am Rheinhafen war ein Brandstifter am Werk?",
+    "created_at": "2018-07-30T11:54:39+00:00",
+    "updated_at": "2021-06-14T10:20:45+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 64,
+    "answers": [
+        {
+            "id": 4480,
+            "answer": "Auf gar keinen Fall! Das Feuer hat sich aufgrund der Trockenheit selber entwickelt.",
+            "votes": 22,
+            "order": 100
+        },
+        {
+            "id": 4486,
+            "answer": "Wahrscheinlich mussten die Bahnschwellen günstig entsorgt werden...",
+            "votes": 21,
+            "order": 100
+        },
+        {
+            "id": 4489,
+            "answer": "Ich glaube das Feuer wurde absichtlich gelegt.",
+            "votes": 21,
+            "order": 100
+        }
+    ]
+}

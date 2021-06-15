@@ -1,0 +1,25 @@
+{
+    "id": 3590,
+    "question": "Sollte sich Yvon Mvogo im Sommer einen neuen Club suchen?",
+    "created_at": "2020-03-23T15:12:55+00:00",
+    "updated_at": "2021-06-14T09:35:57+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 326,
+    "answers": [
+        {
+            "id": 8700,
+            "answer": "Ja, bei RB Leipzig wird er sich nicht durchsetzen können.",
+            "votes": 289,
+            "order": 0
+        },
+        {
+            "id": 8699,
+            "answer": "Nein, er sollte bleiben und um den Platz als Stammtorhüter kämpfen.",
+            "votes": 37,
+            "order": 1
+        }
+    ]
+}

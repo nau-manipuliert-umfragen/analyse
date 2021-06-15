@@ -1,0 +1,31 @@
+{
+    "id": 2630,
+    "question": "Wer war für Sie der beste RSL-Spieler 2019?",
+    "created_at": "2020-01-20T19:01:34+00:00",
+    "updated_at": "2021-06-14T10:21:29+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 142,
+    "answers": [
+        {
+            "id": 6590,
+            "answer": "Jean-Pierre Nsame",
+            "votes": 75,
+            "order": 0
+        },
+        {
+            "id": 6592,
+            "answer": "Raphaël Nuzzolo",
+            "votes": 32,
+            "order": 1
+        },
+        {
+            "id": 6591,
+            "answer": "Jonas Omlin",
+            "votes": 35,
+            "order": 2
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 7470,
+    "question": "Freuen Sie sich über das warme Februar-Wetter?",
+    "created_at": "2021-02-21T13:56:01+00:00",
+    "updated_at": "2021-06-14T09:38:48+00:00",
+    "end_at": null,
+    "comment_group_id": 2031868,
+    "published_at": "2021-02-21T14:09:30+00:00",
+    "display_name": "",
+    "total": 201,
+    "answers": [
+        {
+            "id": 17228,
+            "answer": "Ja, nach den kalten Monaten freue ich mich über den frühen Frühling.",
+            "votes": 161,
+            "order": 0
+        },
+        {
+            "id": 17227,
+            "answer": "Nein, ich würde lieber noch Ski fahren statt Glacé essen.",
+            "votes": 40,
+            "order": 1
+        }
+    ]
+}

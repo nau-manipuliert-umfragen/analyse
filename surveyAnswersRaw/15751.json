@@ -1,0 +1,25 @@
+{
+    "id": 6809,
+    "question": "Maske im Schulunterricht. Eine sinnvolle Idee?",
+    "created_at": "2021-01-25T08:54:41+00:00",
+    "updated_at": "2021-06-14T09:38:16+00:00",
+    "end_at": null,
+    "comment_group_id": 1991762,
+    "published_at": "2021-01-25T13:03:03+00:00",
+    "display_name": "",
+    "total": 869,
+    "answers": [
+        {
+            "id": 15751,
+            "answer": "Ja",
+            "votes": 409,
+            "order": 0
+        },
+        {
+            "id": 15752,
+            "answer": "Nein",
+            "votes": 460,
+            "order": 1
+        }
+    ]
+}

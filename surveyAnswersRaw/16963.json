@@ -1,0 +1,25 @@
+{
+    "id": 7351,
+    "question": "Was beurteilen Sie das Parallel-Rennen an der WM?",
+    "created_at": "2021-02-17T06:55:18+00:00",
+    "updated_at": "2021-06-14T09:38:43+00:00",
+    "end_at": null,
+    "comment_group_id": 2025501,
+    "published_at": "2021-02-17T07:24:44+00:00",
+    "display_name": "",
+    "total": 1526,
+    "answers": [
+        {
+            "id": 16964,
+            "answer": "Das ist ein Skandal, die FIS hat versagt!",
+            "votes": 1444,
+            "order": 0
+        },
+        {
+            "id": 16963,
+            "answer": "Es ist schwer, es allen Fahrern recht zu machen.",
+            "votes": 82,
+            "order": 1
+        }
+    ]
+}

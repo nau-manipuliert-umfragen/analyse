@@ -1,0 +1,25 @@
+{
+    "id": 5735,
+    "question": "Können Sie den Frust von Kimmich und Kroos verstehen?",
+    "created_at": "2020-10-14T07:31:21+00:00",
+    "updated_at": "2021-06-14T09:37:25+00:00",
+    "end_at": null,
+    "comment_group_id": 1848933,
+    "published_at": null,
+    "display_name": "",
+    "total": 42,
+    "answers": [
+        {
+            "id": 13372,
+            "answer": "Ja",
+            "votes": 21,
+            "order": 0
+        },
+        {
+            "id": 13373,
+            "answer": "Nein",
+            "votes": 21,
+            "order": 1
+        }
+    ]
+}

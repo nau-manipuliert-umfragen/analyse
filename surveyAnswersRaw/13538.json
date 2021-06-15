@@ -1,0 +1,25 @@
+{
+    "id": 5807,
+    "question": "War die Rote Karte gegen Gerard Piqué gerechtfertigt?",
+    "created_at": "2020-10-21T06:26:34+00:00",
+    "updated_at": "2021-06-14T09:37:28+00:00",
+    "end_at": null,
+    "comment_group_id": 1860263,
+    "published_at": "2020-10-21T06:50:49+00:00",
+    "display_name": "",
+    "total": 253,
+    "answers": [
+        {
+            "id": 13538,
+            "answer": "Ja, das ist ein klarer Fall.",
+            "votes": 196,
+            "order": 0
+        },
+        {
+            "id": 13537,
+            "answer": "Nein, Schärer hätte es bei Gelb belassen sollen.",
+            "votes": 57,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "id": 6933,
+    "question": "Ist das 2:2 zwischen Basel und Lugano gerechtfertigt?",
+    "created_at": "2021-01-31T18:39:59+00:00",
+    "updated_at": "2021-06-14T09:38:21+00:00",
+    "end_at": null,
+    "comment_group_id": 2001499,
+    "published_at": "2021-01-31T18:59:12+00:00",
+    "display_name": "",
+    "total": 396,
+    "answers": [
+        {
+            "id": 16014,
+            "answer": "Ja, es war ein ausgeglichenes Spiel.",
+            "votes": 101,
+            "order": 0
+        },
+        {
+            "id": 16016,
+            "answer": "Basel hätte den Sieg verdient.",
+            "votes": 64,
+            "order": 1
+        },
+        {
+            "id": 16015,
+            "answer": "Lugano müsste die Partie gewinnen.",
+            "votes": 231,
+            "order": 2
+        }
+    ]
+}

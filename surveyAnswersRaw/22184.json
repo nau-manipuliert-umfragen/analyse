@@ -1,0 +1,25 @@
+{
+    "id": 9787,
+    "question": "Verstehen Sie den Entscheid von Naomi Osaka?",
+    "created_at": "2021-06-01T06:49:13+00:00",
+    "updated_at": "2021-06-14T09:40:55+00:00",
+    "end_at": null,
+    "comment_group_id": 2184739,
+    "published_at": "2021-06-02T07:29:05+00:00",
+    "display_name": "",
+    "total": 766,
+    "answers": [
+        {
+            "id": 22183,
+            "answer": "Ja",
+            "votes": 701,
+            "order": 0
+        },
+        {
+            "id": 22184,
+            "answer": "Nein",
+            "votes": 65,
+            "order": 1
+        }
+    ]
+}

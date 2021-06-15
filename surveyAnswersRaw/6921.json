@@ -1,0 +1,25 @@
+{
+    "id": 2783,
+    "question": "Wer gewinnt die Australian Open 2020?",
+    "created_at": "2020-01-31T13:47:45+00:00",
+    "updated_at": "2021-06-14T09:35:20+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 1336,
+    "answers": [
+        {
+            "id": 6921,
+            "answer": "Novak Djokovic",
+            "votes": 446,
+            "order": 0
+        },
+        {
+            "id": 6920,
+            "answer": "Dominic Thiem",
+            "votes": 890,
+            "order": 1
+        }
+    ]
+}

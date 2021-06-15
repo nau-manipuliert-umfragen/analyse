@@ -1,0 +1,25 @@
+{
+    "id": 4350,
+    "question": "Sollte die Super-League-Saison fortgesetzt werden?",
+    "created_at": "2020-05-25T11:53:37+00:00",
+    "updated_at": "2021-06-14T09:36:31+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 333,
+    "answers": [
+        {
+            "id": 10346,
+            "answer": "Ja",
+            "votes": 203,
+            "order": 0
+        },
+        {
+            "id": 10347,
+            "answer": "Nein",
+            "votes": 130,
+            "order": 1
+        }
+    ]
+}

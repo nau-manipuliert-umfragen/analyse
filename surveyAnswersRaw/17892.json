@@ -1,0 +1,25 @@
+{
+    "id": 7768,
+    "question": "Fanden sie die Frage zu schwer?",
+    "created_at": "2021-03-04T13:55:13+00:00",
+    "updated_at": "2021-06-14T09:39:02+00:00",
+    "end_at": null,
+    "comment_group_id": 2048331,
+    "published_at": "2021-03-04T14:43:51+00:00",
+    "display_name": "",
+    "total": 50,
+    "answers": [
+        {
+            "id": 17892,
+            "answer": "Ja, auf jeden Fall.",
+            "votes": 25,
+            "order": 0
+        },
+        {
+            "id": 17891,
+            "answer": "Nein, so schwer war sie auch nicht.",
+            "votes": 25,
+            "order": 1
+        }
+    ]
+}

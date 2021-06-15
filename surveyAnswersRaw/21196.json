@@ -1,0 +1,25 @@
+{
+    "id": 9332,
+    "question": "Was halten Sie von diesen Tipps für ein gesundes Selbstvertrauen?",
+    "created_at": "2021-05-10T07:24:19+00:00",
+    "updated_at": "2021-06-14T09:40:28+00:00",
+    "end_at": null,
+    "comment_group_id": 2149744,
+    "published_at": "2021-05-10T18:30:01+00:00",
+    "display_name": "",
+    "total": 291,
+    "answers": [
+        {
+            "id": 21197,
+            "answer": "Sehr gut!",
+            "votes": 144,
+            "order": 0
+        },
+        {
+            "id": 21196,
+            "answer": "Na ja...",
+            "votes": 147,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 5108,
+    "question": "Wurden Sie am Arbeitsplatz auch schon sexuell belästigt?",
+    "created_at": "2020-08-10T11:45:29+00:00",
+    "updated_at": "2021-06-14T09:37:00+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 118,
+    "answers": [
+        {
+            "id": 12005,
+            "answer": "Ja.",
+            "votes": 47,
+            "order": 0
+        },
+        {
+            "id": 12006,
+            "answer": "Nein.",
+            "votes": 71,
+            "order": 1
+        }
+    ]
+}

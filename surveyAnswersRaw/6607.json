@@ -1,0 +1,25 @@
+{
+    "id": 2637,
+    "question": "Wie wichtig ist es, dass Greta Thunberg am WEF in Davos teilnimmt?",
+    "created_at": "2020-01-21T09:39:57+00:00",
+    "updated_at": "2021-06-14T09:35:13+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 303,
+    "answers": [
+        {
+            "id": 6606,
+            "answer": "Sehr wichtig, sie kann mit ihren Botschaften viel erreichen.",
+            "votes": 114,
+            "order": 0
+        },
+        {
+            "id": 6607,
+            "answer": "Total unnötig, sie wäre lieber Zuhause geblieben.",
+            "votes": 189,
+            "order": 1
+        }
+    ]
+}

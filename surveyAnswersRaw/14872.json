@@ -1,0 +1,25 @@
+{
+    "id": 6406,
+    "question": "Finden Sie es schade, dass Marcel Hirscher kein Comeback gibt?",
+    "created_at": "2020-12-22T10:41:54+00:00",
+    "updated_at": "2021-06-14T09:38:00+00:00",
+    "end_at": null,
+    "comment_group_id": 1950634,
+    "published_at": null,
+    "display_name": "",
+    "total": 236,
+    "answers": [
+        {
+            "id": 14871,
+            "answer": "Ja, er wäre eine Bereicherung.",
+            "votes": 72,
+            "order": 0
+        },
+        {
+            "id": 14872,
+            "answer": "Nein!",
+            "votes": 164,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 3127,
+    "question": "Ist die Vorsichtsmassnahme von Roger Federer gerechtfertigt?",
+    "created_at": "2020-02-21T10:49:03+00:00",
+    "updated_at": "2021-06-14T09:35:38+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 100,
+    "answers": [
+        {
+            "id": 7684,
+            "answer": "Ja, die Sandsaison kann er getrost auslassen.",
+            "votes": 78,
+            "order": 0
+        },
+        {
+            "id": 7685,
+            "answer": "Nein, das ist doch nicht nötig.",
+            "votes": 22,
+            "order": 1
+        }
+    ]
+}

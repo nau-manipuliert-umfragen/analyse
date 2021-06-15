@@ -1,0 +1,25 @@
+{
+    "id": 4675,
+    "question": "Bleibt Marcel Koller auch über diese Saison hinaus FCB-Trainer?",
+    "created_at": "2020-06-19T14:48:21+00:00",
+    "updated_at": "2021-06-14T09:36:43+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 198,
+    "answers": [
+        {
+            "id": 11047,
+            "answer": "Ja",
+            "votes": 77,
+            "order": 0
+        },
+        {
+            "id": 11048,
+            "answer": "Nein",
+            "votes": 121,
+            "order": 1
+        }
+    ]
+}

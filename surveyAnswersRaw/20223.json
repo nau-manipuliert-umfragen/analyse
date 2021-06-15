@@ -1,0 +1,25 @@
+{
+    "id": 8881,
+    "question": "Wie gehen Sie mit Konflikten um?",
+    "created_at": "2021-04-20T12:03:00+00:00",
+    "updated_at": "2021-06-14T09:40:02+00:00",
+    "end_at": null,
+    "comment_group_id": 2115780,
+    "published_at": "2021-04-20T17:00:01+00:00",
+    "display_name": "",
+    "total": 1017,
+    "answers": [
+        {
+            "id": 20222,
+            "answer": "Ich spreche immer alles sofort an.",
+            "votes": 624,
+            "order": 0
+        },
+        {
+            "id": 20223,
+            "answer": "Ich weiche aus.",
+            "votes": 393,
+            "order": 1
+        }
+    ]
+}

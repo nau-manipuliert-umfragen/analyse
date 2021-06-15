@@ -1,0 +1,25 @@
+{
+    "id": 9717,
+    "question": "Würden Sie das neue Album von Gjon's Tears kaufen?",
+    "created_at": "2021-05-27T07:04:16+00:00",
+    "updated_at": "2021-06-14T09:40:51+00:00",
+    "end_at": null,
+    "comment_group_id": 2177929,
+    "published_at": "2021-05-27T07:37:49+00:00",
+    "display_name": "",
+    "total": 1171,
+    "answers": [
+        {
+            "id": 22021,
+            "answer": "Natürlich, seine Musik ist super!",
+            "votes": 580,
+            "order": 0
+        },
+        {
+            "id": 22022,
+            "answer": "Es ist nicht so mein Geschmack.",
+            "votes": 591,
+            "order": 1
+        }
+    ]
+}

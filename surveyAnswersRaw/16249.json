@@ -1,0 +1,25 @@
+{
+    "id": 7037,
+    "question": "Halten Sie die Corona-Massnahmen in der Schweiz für zu streng?",
+    "created_at": "2021-02-04T15:52:06+00:00",
+    "updated_at": "2021-02-28T12:53:19+00:00",
+    "end_at": "2021-02-28T15:51:00+00:00",
+    "comment_group_id": 2007920,
+    "published_at": "2021-02-05T10:40:19+00:00",
+    "display_name": "",
+    "total": 4022,
+    "answers": [
+        {
+            "id": 16250,
+            "answer": "Ja, die Einschränkungen gehen mir zu weit.",
+            "votes": 3060,
+            "order": 0
+        },
+        {
+            "id": 16249,
+            "answer": "Nein, die sind völlig angemessen.",
+            "votes": 962,
+            "order": 1
+        }
+    ]
+}

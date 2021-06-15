@@ -1,0 +1,25 @@
+{
+    "id": 6203,
+    "question": "Braucht es weitere Einschränkungen für Skiegebiete?",
+    "created_at": "2020-12-01T14:37:50+00:00",
+    "updated_at": "2021-06-14T09:37:50+00:00",
+    "end_at": null,
+    "comment_group_id": 1922976,
+    "published_at": null,
+    "display_name": "",
+    "total": 42,
+    "answers": [
+        {
+            "id": 14421,
+            "answer": "Ja, dort treffen sich sonst viel zu viele Leute.",
+            "votes": 21,
+            "order": 0
+        },
+        {
+            "id": 14420,
+            "answer": "Nein, auf der Piste ist das  Risiko minim und es gibt Schutzkonzepte.",
+            "votes": 21,
+            "order": 1
+        }
+    ]
+}

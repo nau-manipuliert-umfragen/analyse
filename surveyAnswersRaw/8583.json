@@ -1,0 +1,25 @@
+{
+    "id": 3533,
+    "question": "Was halten Sie davon, dass Spieler in solchen Situationen auf ihre Löhne verzichten?",
+    "created_at": "2020-03-19T12:42:48+00:00",
+    "updated_at": "2021-06-14T09:35:55+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 150,
+    "answers": [
+        {
+            "id": 8583,
+            "answer": "Das ist doch selbstverständlich, schliesslich sind sie ja nicht im Einsatz.",
+            "votes": 52,
+            "order": 0
+        },
+        {
+            "id": 8584,
+            "answer": "Das ist ihnen hoch anzurechnen. Eine wunderbare Hingabe für ihren Verein.",
+            "votes": 98,
+            "order": 1
+        }
+    ]
+}

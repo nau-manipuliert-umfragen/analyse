@@ -1,0 +1,25 @@
+{
+    "id": 1060,
+    "question": "Finden Sie das Gerichtsurteil angemessen?",
+    "created_at": "2018-06-01T04:22:43+00:00",
+    "updated_at": "2021-06-14T09:34:15+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 64,
+    "answers": [
+        {
+            "id": 2869,
+            "answer": "Ja",
+            "votes": 42,
+            "order": 100
+        },
+        {
+            "id": 2872,
+            "answer": "Nein",
+            "votes": 22,
+            "order": 100
+        }
+    ]
+}

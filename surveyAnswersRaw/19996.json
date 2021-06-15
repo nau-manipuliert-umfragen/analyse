@@ -1,0 +1,25 @@
+{
+    "id": 8774,
+    "question": "Werden Sie die Böögg-Verbrennung heute im TV verfolgen?",
+    "created_at": "2021-04-15T13:21:37+00:00",
+    "updated_at": "2021-06-14T09:39:56+00:00",
+    "end_at": null,
+    "comment_group_id": 2108919,
+    "published_at": "2021-04-19T09:25:57+00:00",
+    "display_name": "",
+    "total": 416,
+    "answers": [
+        {
+            "id": 19996,
+            "answer": "Aber sicher doch!",
+            "votes": 241,
+            "order": 0
+        },
+        {
+            "id": 19995,
+            "answer": "Nein, absolut kein Interesse.",
+            "votes": 175,
+            "order": 1
+        }
+    ]
+}

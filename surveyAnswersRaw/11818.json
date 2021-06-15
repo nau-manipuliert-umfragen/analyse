@@ -1,0 +1,25 @@
+{
+    "id": 5027,
+    "question": "Wird Gianni Infantino von der FIFA-Ethikkommission gesperrt?",
+    "created_at": "2020-07-31T07:15:20+00:00",
+    "updated_at": "2020-07-31T07:15:20+00:00",
+    "end_at": "2020-07-31T07:15:22+00:00",
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 40,
+    "answers": [
+        {
+            "id": 11817,
+            "answer": "Ja",
+            "votes": 20,
+            "order": 0
+        },
+        {
+            "id": 11818,
+            "answer": "Nein",
+            "votes": 20,
+            "order": 1
+        }
+    ]
+}

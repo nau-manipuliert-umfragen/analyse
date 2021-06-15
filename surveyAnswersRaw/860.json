@@ -1,0 +1,25 @@
+{
+    "id": 323,
+    "question": "Ist die Promi-Busen-Frage sexistisch?",
+    "created_at": "2017-12-29T05:24:39+00:00",
+    "updated_at": "2021-06-14T09:33:49+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 213,
+    "answers": [
+        {
+            "id": 857,
+            "answer": "Ja, Frauen werden auf ihre Brüste reduziert.",
+            "votes": 128,
+            "order": 100
+        },
+        {
+            "id": 860,
+            "answer": "Nein, Models leben von ihrem Körper.",
+            "votes": 85,
+            "order": 100
+        }
+    ]
+}

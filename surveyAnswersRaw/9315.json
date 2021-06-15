@@ -1,0 +1,25 @@
+{
+    "id": 3878,
+    "question": "Ist die Corona-Pause ein Vorteil für Routiniers wie Federer, Nadal oder Djokovic?",
+    "created_at": "2020-04-15T12:16:54+00:00",
+    "updated_at": "2021-06-14T09:36:09+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 129,
+    "answers": [
+        {
+            "id": 9315,
+            "answer": "Ja, mit ihrer Erfahrung können sie deutlich besser mit der Situation umgehen.",
+            "votes": 71,
+            "order": 0
+        },
+        {
+            "id": 9316,
+            "answer": "Nein, auch die Altstars haben noch keine vergleichbare Situation erlebt.",
+            "votes": 58,
+            "order": 1
+        }
+    ]
+}

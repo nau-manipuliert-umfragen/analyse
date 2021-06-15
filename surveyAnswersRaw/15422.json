@@ -1,0 +1,25 @@
+{
+    "id": 6658,
+    "question": "Stören Sie sich ab den «10vor10»-Moderatoren?",
+    "created_at": "2021-01-14T14:46:40+00:00",
+    "updated_at": "2021-06-14T10:24:37+00:00",
+    "end_at": null,
+    "comment_group_id": 1977560,
+    "published_at": "2021-01-14T16:18:19+00:00",
+    "display_name": "",
+    "total": 4874,
+    "answers": [
+        {
+            "id": 15421,
+            "answer": "Nein, die machen ihre Sache super.",
+            "votes": 2964,
+            "order": 0
+        },
+        {
+            "id": 15422,
+            "answer": "Ja, ein bisschen.",
+            "votes": 1910,
+            "order": 1
+        }
+    ]
+}

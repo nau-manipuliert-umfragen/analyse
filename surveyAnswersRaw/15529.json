@@ -1,0 +1,25 @@
+{
+    "id": 6710,
+    "question": "Wie gefällt Ihnen der Gastbeitrag von Clarita Kunz?",
+    "created_at": "2021-01-18T11:57:56+00:00",
+    "updated_at": "2021-06-14T09:38:12+00:00",
+    "end_at": null,
+    "comment_group_id": 1982313,
+    "published_at": "2021-01-18T20:16:33+00:00",
+    "display_name": "",
+    "total": 234,
+    "answers": [
+        {
+            "id": 15530,
+            "answer": "Gut.",
+            "votes": 140,
+            "order": 0
+        },
+        {
+            "id": 15529,
+            "answer": "Na ja.",
+            "votes": 94,
+            "order": 1
+        }
+    ]
+}

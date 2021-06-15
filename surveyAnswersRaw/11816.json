@@ -1,0 +1,25 @@
+{
+    "id": 5026,
+    "question": "Ist der Titel für YB verdient?",
+    "created_at": "2020-07-31T06:25:49+00:00",
+    "updated_at": "2021-06-14T09:36:57+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 686,
+    "answers": [
+        {
+            "id": 11816,
+            "answer": "Ja, das beste Team steht am Ende ganz oben!",
+            "votes": 553,
+            "order": 0
+        },
+        {
+            "id": 11815,
+            "answer": "Nein, dem FCSG hätte ich es mehr gegönnt.",
+            "votes": 133,
+            "order": 1
+        }
+    ]
+}

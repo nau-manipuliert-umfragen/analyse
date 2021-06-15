@@ -1,0 +1,25 @@
+{
+    "id": 3477,
+    "question": "Was halten Sie von der Entscheidung der Organisatoren?",
+    "created_at": "2020-03-16T07:52:59+00:00",
+    "updated_at": "2021-06-14T09:35:52+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 393,
+    "answers": [
+        {
+            "id": 8463,
+            "answer": "Schwachsinn, in solchen Zeiten sollte man auf Grossveranstaltungen verzichten!",
+            "votes": 334,
+            "order": 0
+        },
+        {
+            "id": 8462,
+            "answer": "Grossartig, die Veranstalter haben richtig gehandelt!",
+            "votes": 59,
+            "order": 1
+        }
+    ]
+}

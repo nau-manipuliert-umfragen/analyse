@@ -1,0 +1,31 @@
+{
+    "id": 7616,
+    "question": "Sollten Varianten des Coronavirus weiterhin nach Ländern benannt werden?",
+    "created_at": "2021-02-26T12:36:57+00:00",
+    "updated_at": "2021-03-05T12:34:45+00:00",
+    "end_at": "2021-03-05T12:36:52+00:00",
+    "comment_group_id": 2039551,
+    "published_at": "2021-03-04T06:03:59+00:00",
+    "display_name": "",
+    "total": 3789,
+    "answers": [
+        {
+            "id": 17557,
+            "answer": "Ja, so weiss jeder sofort, wovon man redet.",
+            "votes": 922,
+            "order": 0
+        },
+        {
+            "id": 17558,
+            "answer": "Nein, das wäre ja wie der damalige US-Präsident Trump, der von einem «China-Virus» sprach.",
+            "votes": 1319,
+            "order": 1
+        },
+        {
+            "id": 17556,
+            "answer": "Ja, aber nur wenn in der Schweiz auch jeder Kanton sein eigenes Coronavirus erhält.",
+            "votes": 1548,
+            "order": 2
+        }
+    ]
+}

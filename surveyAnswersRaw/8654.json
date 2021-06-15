@@ -1,0 +1,31 @@
+{
+    "id": 3567,
+    "question": "Soll Neymar zum FC Barcelona zurückkehren?",
+    "created_at": "2020-03-21T21:32:57+00:00",
+    "updated_at": "2021-06-14T09:35:56+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 626,
+    "answers": [
+        {
+            "id": 8655,
+            "answer": "Ja",
+            "votes": 288,
+            "order": 0
+        },
+        {
+            "id": 8654,
+            "answer": "Nein",
+            "votes": 127,
+            "order": 1
+        },
+        {
+            "id": 8653,
+            "answer": "Mir egal. Bitte einfach kein Wechsel-Theater wie im letzten Sommer",
+            "votes": 211,
+            "order": 2
+        }
+    ]
+}

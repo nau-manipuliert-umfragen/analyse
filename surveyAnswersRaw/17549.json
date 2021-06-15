@@ -1,0 +1,25 @@
+{
+    "id": 7612,
+    "question": "Gewinnt Lara Gut-Behrami den Gesamtweltcup?",
+    "created_at": "2021-02-26T11:20:11+00:00",
+    "updated_at": "2021-06-14T09:38:54+00:00",
+    "end_at": null,
+    "comment_group_id": 2039383,
+    "published_at": "2021-02-26T11:44:56+00:00",
+    "display_name": "",
+    "total": 582,
+    "answers": [
+        {
+            "id": 17548,
+            "answer": "Ja",
+            "votes": 484,
+            "order": 0
+        },
+        {
+            "id": 17549,
+            "answer": "Nein",
+            "votes": 98,
+            "order": 1
+        }
+    ]
+}

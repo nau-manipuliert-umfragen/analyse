@@ -1,0 +1,43 @@
+{
+    "id": 2595,
+    "question": "Welchen Messenger nutzen Sie am meisten?",
+    "created_at": "2020-01-17T09:42:01+00:00",
+    "updated_at": "2021-06-14T09:35:10+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": "2021-05-15T14:45:33+00:00",
+    "display_name": "",
+    "total": 4434,
+    "answers": [
+        {
+            "id": 6509,
+            "answer": "Facebook Messenger",
+            "votes": 156,
+            "order": 0
+        },
+        {
+            "id": 6512,
+            "answer": "WhatsApp",
+            "votes": 2538,
+            "order": 1
+        },
+        {
+            "id": 6513,
+            "answer": "Threema",
+            "votes": 751,
+            "order": 2
+        },
+        {
+            "id": 6511,
+            "answer": "Telegram",
+            "votes": 330,
+            "order": 3
+        },
+        {
+            "id": 6510,
+            "answer": "Signal",
+            "votes": 659,
+            "order": 4
+        }
+    ]
+}

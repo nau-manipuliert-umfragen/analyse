@@ -1,0 +1,25 @@
+{
+    "id": 9934,
+    "question": "Würden Sie immer noch eine Katze als Haustier halten?",
+    "created_at": "2021-06-07T10:24:21+00:00",
+    "updated_at": "2021-06-07T10:53:40+00:00",
+    "end_at": "2021-06-07T10:24:21+00:00",
+    "comment_group_id": 2194182,
+    "published_at": "2021-06-07T10:53:39+00:00",
+    "display_name": "",
+    "total": 40,
+    "answers": [
+        {
+            "id": 22499,
+            "answer": "Nein, nach diesem Vorfall sicher nicht!",
+            "votes": 20,
+            "order": 0
+        },
+        {
+            "id": 22498,
+            "answer": "Ja natürlich!",
+            "votes": 20,
+            "order": 1
+        }
+    ]
+}

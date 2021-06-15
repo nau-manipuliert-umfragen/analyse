@@ -1,0 +1,25 @@
+{
+    "id": 9262,
+    "question": "Sollte die Impfung als Arbeitszeit zählen?",
+    "created_at": "2021-05-06T04:49:53+00:00",
+    "updated_at": "2021-06-14T09:40:24+00:00",
+    "end_at": null,
+    "comment_group_id": 2143819,
+    "published_at": "2021-05-06T05:18:14+00:00",
+    "display_name": "",
+    "total": 1218,
+    "answers": [
+        {
+            "id": 21044,
+            "answer": "Ja, schliesslich profitiert auch der Arbeitgeber davon.",
+            "votes": 853,
+            "order": 0
+        },
+        {
+            "id": 21043,
+            "answer": "Nein, das ist Privatsache und muss in der Freizeit geschehen.",
+            "votes": 365,
+            "order": 1
+        }
+    ]
+}

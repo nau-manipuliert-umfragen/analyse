@@ -1,0 +1,31 @@
+{
+    "id": 4950,
+    "question": "Welcher Royal ist die grösste Belastung für das Königshaus?",
+    "created_at": "2020-07-20T13:51:27+00:00",
+    "updated_at": "2021-06-14T09:36:54+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 1387,
+    "answers": [
+        {
+            "id": 11647,
+            "answer": "Ganz klar: Prinz Harry und Meghan Markle mit ihrem Abgang!",
+            "votes": 407,
+            "order": 0
+        },
+        {
+            "id": 11648,
+            "answer": "Prinz Andrew! Er schadet mit seinen Skandalen dem guten Ruf der Monarchie.",
+            "votes": 521,
+            "order": 1
+        },
+        {
+            "id": 11646,
+            "answer": "Die sind doch alle gleich schlimm!",
+            "votes": 459,
+            "order": 2
+        }
+    ]
+}

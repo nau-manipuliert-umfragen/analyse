@@ -1,0 +1,25 @@
+{
+    "id": 6728,
+    "question": "Vermissen Sie Restaurants?",
+    "created_at": "2021-01-19T10:59:42+00:00",
+    "updated_at": "2021-06-14T09:38:12+00:00",
+    "end_at": null,
+    "comment_group_id": 1983738,
+    "published_at": null,
+    "display_name": "",
+    "total": 2250,
+    "answers": [
+        {
+            "id": 15569,
+            "answer": "Ja, auswärts Essen ist feiner als daheim.",
+            "votes": 1213,
+            "order": 0
+        },
+        {
+            "id": 15568,
+            "answer": "Nein, ich kann selbst gut kochen.",
+            "votes": 1037,
+            "order": 1
+        }
+    ]
+}

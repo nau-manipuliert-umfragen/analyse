@@ -1,0 +1,31 @@
+{
+    "id": 8800,
+    "question": "Wer schafft den direkten Aufstieg in die Super League?",
+    "created_at": "2021-04-16T19:00:16+00:00",
+    "updated_at": "2021-06-14T09:39:57+00:00",
+    "end_at": null,
+    "comment_group_id": 2110910,
+    "published_at": "2021-04-16T19:52:29+00:00",
+    "display_name": "",
+    "total": 361,
+    "answers": [
+        {
+            "id": 20051,
+            "answer": "GC",
+            "votes": 238,
+            "order": 0
+        },
+        {
+            "id": 20050,
+            "answer": "FC Thun",
+            "votes": 76,
+            "order": 1
+        },
+        {
+            "id": 20049,
+            "answer": "Ein anderes Team",
+            "votes": 47,
+            "order": 2
+        }
+    ]
+}

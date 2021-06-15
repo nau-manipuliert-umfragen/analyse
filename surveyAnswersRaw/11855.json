@@ -1,0 +1,25 @@
+{
+    "id": 5041,
+    "question": "Was halten Sie von Robbie Williams' Schweiz-Ferien?",
+    "created_at": "2020-08-03T07:37:39+00:00",
+    "updated_at": "2021-06-14T09:36:57+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 351,
+    "answers": [
+        {
+            "id": 11855,
+            "answer": "Viel zu riskant! Er soll Ferien im eigenen Land machen.",
+            "votes": 60,
+            "order": 0
+        },
+        {
+            "id": 11854,
+            "answer": "Schön, geniesst er mit seiner Familie die Schweiz.",
+            "votes": 291,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 491,
+    "question": "Finden Sie eine Sperre gegen Sékou Sanogo gerechtfertigt?",
+    "created_at": "2018-03-06T08:29:14+00:00",
+    "updated_at": "2021-06-14T09:33:56+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 103,
+    "answers": [
+        {
+            "id": 1433,
+            "answer": "Ja, es handelt sich um eine Tätlichkeit.",
+            "votes": 38,
+            "order": 100
+        },
+        {
+            "id": 1436,
+            "answer": "Nein, da war keine Absicht im Spiel.",
+            "votes": 65,
+            "order": 100
+        }
+    ]
+}

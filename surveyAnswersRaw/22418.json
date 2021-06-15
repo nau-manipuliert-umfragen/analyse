@@ -1,0 +1,31 @@
+{
+    "id": 9895,
+    "question": "Hätten Luca und Christina den Sieg holen sollen bei der «Let's Dance»-Profi-Challenge?",
+    "created_at": "2021-06-05T11:10:09+00:00",
+    "updated_at": "2021-06-14T10:00:19+00:00",
+    "end_at": null,
+    "comment_group_id": 2192057,
+    "published_at": "2021-06-05T13:14:53+00:00",
+    "display_name": "",
+    "total": 618,
+    "answers": [
+        {
+            "id": 22419,
+            "answer": "Ja, sie waren klar die Besten.",
+            "votes": 152,
+            "order": 0
+        },
+        {
+            "id": 22418,
+            "answer": "Nein, Renata und Valentin Lusin haben mich mehr überzeugt.",
+            "votes": 339,
+            "order": 1
+        },
+        {
+            "id": 22420,
+            "answer": "Keine Ahnung, ich gebe mir die Show nicht.",
+            "votes": 127,
+            "order": 2
+        }
+    ]
+}

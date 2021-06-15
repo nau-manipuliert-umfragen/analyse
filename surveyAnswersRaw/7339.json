@@ -1,0 +1,25 @@
+{
+    "id": 2969,
+    "question": "Gefällt Ihnen der RB16?",
+    "created_at": "2020-02-12T09:09:29+00:00",
+    "updated_at": "2021-06-14T09:35:31+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 127,
+    "answers": [
+        {
+            "id": 7339,
+            "answer": "Ja, ein wunderschönes Auto.",
+            "votes": 91,
+            "order": 0
+        },
+        {
+            "id": 7340,
+            "answer": "Nein, der ist hässlich!",
+            "votes": 36,
+            "order": 1
+        }
+    ]
+}

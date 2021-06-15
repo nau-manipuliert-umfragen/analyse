@@ -1,0 +1,25 @@
+{
+    "id": 3276,
+    "question": "Tritt Albert Tjaaland in die Fussstapfen seines Cousins Erling Haaland?",
+    "created_at": "2020-03-03T15:21:37+00:00",
+    "updated_at": "2021-06-14T09:35:44+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 69,
+    "answers": [
+        {
+            "id": 8025,
+            "answer": "Ja, das Talent in dieser Familie ist unendlich gross.",
+            "votes": 33,
+            "order": 0
+        },
+        {
+            "id": 8026,
+            "answer": "Nein, ein solcher Aufstieg kommt so schnell nicht wieder vor.",
+            "votes": 36,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 8654,
+    "question": "Sind Sie mit den Noten von Mischi Wettstein einverstanden?",
+    "created_at": "2021-04-11T07:39:01+00:00",
+    "updated_at": "2021-06-14T09:39:50+00:00",
+    "end_at": null,
+    "comment_group_id": 2102113,
+    "published_at": "2021-04-11T08:30:39+00:00",
+    "display_name": "",
+    "total": 180,
+    "answers": [
+        {
+            "id": 19745,
+            "answer": "Ja, so hätte ich auch bewertet.",
+            "votes": 117,
+            "order": 0
+        },
+        {
+            "id": 19746,
+            "answer": "Nein, das habe ich anders gesehen.",
+            "votes": 63,
+            "order": 1
+        }
+    ]
+}

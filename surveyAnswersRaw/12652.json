@@ -1,0 +1,37 @@
+{
+    "id": 5405,
+    "question": "Wer gewinnt die US Open?",
+    "created_at": "2020-09-10T05:11:01+00:00",
+    "updated_at": "2021-06-14T09:37:12+00:00",
+    "end_at": null,
+    "comment_group_id": 1792377,
+    "published_at": "2020-09-10T05:14:42+00:00",
+    "display_name": "",
+    "total": 150,
+    "answers": [
+        {
+            "id": 12654,
+            "answer": "Dominic Thiem",
+            "votes": 57,
+            "order": 0
+        },
+        {
+            "id": 12652,
+            "answer": "Daniil Medwedew",
+            "votes": 38,
+            "order": 1
+        },
+        {
+            "id": 12655,
+            "answer": "Alexander Zverev",
+            "votes": 31,
+            "order": 2
+        },
+        {
+            "id": 12653,
+            "answer": "Pablo Carreño-Busta",
+            "votes": 24,
+            "order": 3
+        }
+    ]
+}

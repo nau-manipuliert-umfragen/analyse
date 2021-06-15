@@ -1,0 +1,25 @@
+{
+    "id": 8229,
+    "question": "Schauen sie sich die zweite Staffel von «The Witcher» an?",
+    "created_at": "2021-03-22T20:00:09+00:00",
+    "updated_at": "2021-06-14T09:39:28+00:00",
+    "end_at": null,
+    "comment_group_id": 2074639,
+    "published_at": "2021-03-22T20:15:36+00:00",
+    "display_name": "",
+    "total": 46,
+    "answers": [
+        {
+            "id": 18859,
+            "answer": "Ja",
+            "votes": 25,
+            "order": 0
+        },
+        {
+            "id": 18858,
+            "answer": "Nein",
+            "votes": 21,
+            "order": 1
+        }
+    ]
+}

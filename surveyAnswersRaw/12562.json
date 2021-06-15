@@ -1,0 +1,25 @@
+{
+    "id": 5363,
+    "question": "Soll Guillaume Hoarau zum FC Thun wechseln?",
+    "created_at": "2020-09-04T15:43:29+00:00",
+    "updated_at": "2021-06-14T09:37:10+00:00",
+    "end_at": null,
+    "comment_group_id": 1783747,
+    "published_at": "2020-09-04T18:00:52+00:00",
+    "display_name": "",
+    "total": 745,
+    "answers": [
+        {
+            "id": 12562,
+            "answer": "Ja, das passt perfekt.",
+            "votes": 582,
+            "order": 0
+        },
+        {
+            "id": 12561,
+            "answer": "Nein, Challenge League ist nichts für die YB-Legende.",
+            "votes": 163,
+            "order": 1
+        }
+    ]
+}

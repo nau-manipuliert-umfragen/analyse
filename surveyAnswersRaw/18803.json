@@ -1,0 +1,25 @@
+{
+    "id": 8204,
+    "question": "Sollten Corona-Massnahmen-Demos weiterhin stattfinden können?",
+    "created_at": "2021-03-22T11:19:52+00:00",
+    "updated_at": "2021-06-14T09:39:26+00:00",
+    "end_at": null,
+    "comment_group_id": 2073902,
+    "published_at": "2021-03-22T13:17:04+00:00",
+    "display_name": "",
+    "total": 5377,
+    "answers": [
+        {
+            "id": 18802,
+            "answer": "Ja klar, das ist ein Grundrecht.",
+            "votes": 4109,
+            "order": 0
+        },
+        {
+            "id": 18803,
+            "answer": "Nein, wer sich nicht an die Regeln hält, darf nicht mehr demonstrieren.",
+            "votes": 1268,
+            "order": 1
+        }
+    ]
+}

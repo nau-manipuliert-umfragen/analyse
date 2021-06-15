@@ -1,0 +1,25 @@
+{
+    "id": 5747,
+    "question": "Was halten Sie von der Rückreise von Ronaldo?",
+    "created_at": "2020-10-14T16:36:49+00:00",
+    "updated_at": "2021-06-14T09:37:26+00:00",
+    "end_at": null,
+    "comment_group_id": 1850076,
+    "published_at": "2020-10-15T06:40:02+00:00",
+    "display_name": "",
+    "total": 231,
+    "answers": [
+        {
+            "id": 13404,
+            "answer": "Super, dann kann er bald wieder spielen.",
+            "votes": 86,
+            "order": 0
+        },
+        {
+            "id": 13405,
+            "answer": "Finde ich nicht gut, er hätte im Hotel bleiben sollen.",
+            "votes": 145,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 6158,
+    "question": "Wie gefällt Ihnen der Gastbeitrag von Evelyne Schmid?",
+    "created_at": "2020-11-25T13:26:37+00:00",
+    "updated_at": "2021-06-14T09:37:47+00:00",
+    "end_at": null,
+    "comment_group_id": 1911750,
+    "published_at": "2020-11-25T19:31:45+00:00",
+    "display_name": "",
+    "total": 257,
+    "answers": [
+        {
+            "id": 14317,
+            "answer": "Gut.",
+            "votes": 141,
+            "order": 0
+        },
+        {
+            "id": 14316,
+            "answer": "Na ja.",
+            "votes": 116,
+            "order": 1
+        }
+    ]
+}

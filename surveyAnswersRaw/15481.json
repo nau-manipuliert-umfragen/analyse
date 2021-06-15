@@ -1,0 +1,25 @@
+{
+    "id": 6687,
+    "question": "Hätten die Australien Open unter diesen Umständen überhaupt stattfinden sollen?",
+    "created_at": "2021-01-17T08:04:36+00:00",
+    "updated_at": "2021-06-14T09:38:11+00:00",
+    "end_at": null,
+    "comment_group_id": 1980705,
+    "published_at": "2021-01-17T08:25:46+00:00",
+    "display_name": "",
+    "total": 387,
+    "answers": [
+        {
+            "id": 15482,
+            "answer": "Ja, ich freue mich auf Belinda Bencic!",
+            "votes": 99,
+            "order": 0
+        },
+        {
+            "id": 15481,
+            "answer": "Nein, das ist unfair.",
+            "votes": 288,
+            "order": 1
+        }
+    ]
+}

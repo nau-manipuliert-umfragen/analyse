@@ -1,0 +1,37 @@
+{
+    "id": 7527,
+    "question": "Was ist für den FC Basel gegen St.Gallen und YB drin?",
+    "created_at": "2021-02-23T12:34:56+00:00",
+    "updated_at": "2021-06-14T09:38:51+00:00",
+    "end_at": null,
+    "comment_group_id": 2034680,
+    "published_at": "2021-02-23T19:12:38+00:00",
+    "display_name": "",
+    "total": 755,
+    "answers": [
+        {
+            "id": 17355,
+            "answer": "Der FCB holt sechs Punkte!",
+            "votes": 89,
+            "order": 0
+        },
+        {
+            "id": 17356,
+            "answer": "Ein Sieg und eine Niederlage",
+            "votes": 91,
+            "order": 1
+        },
+        {
+            "id": 17358,
+            "answer": "Mindestens ein Punkt",
+            "votes": 125,
+            "order": 2
+        },
+        {
+            "id": 17357,
+            "answer": "Der FCB verliert beide Spiele!",
+            "votes": 450,
+            "order": 3
+        }
+    ]
+}

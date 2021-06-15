@@ -1,0 +1,25 @@
+{
+    "id": 4617,
+    "question": "Wo werden Sie sich die Super-League-Spiele anschauen?",
+    "created_at": "2020-06-15T14:39:13+00:00",
+    "updated_at": "2021-06-14T09:36:41+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 204,
+    "answers": [
+        {
+            "id": 10919,
+            "answer": "In einem Public Viewing mit Freunden.",
+            "votes": 45,
+            "order": 0
+        },
+        {
+            "id": 10920,
+            "answer": "Zuhause auf dem Sofa.",
+            "votes": 159,
+            "order": 1
+        }
+    ]
+}

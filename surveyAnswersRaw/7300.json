@@ -1,0 +1,25 @@
+{
+    "id": 2951,
+    "question": "Würden Sie kontrolliertes Pyro-Zünden in Schweizer Stadien begrüssen?",
+    "created_at": "2020-02-11T10:54:56+00:00",
+    "updated_at": "2021-06-14T09:35:30+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 482,
+    "answers": [
+        {
+            "id": 7300,
+            "answer": "Ja, das würde zu einer Versachlichung der Debatte führen.",
+            "votes": 311,
+            "order": 0
+        },
+        {
+            "id": 7301,
+            "answer": "Nein, es ist schlichtweg zu gefährlich.",
+            "votes": 171,
+            "order": 1
+        }
+    ]
+}

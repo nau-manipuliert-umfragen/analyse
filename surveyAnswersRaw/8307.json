@@ -1,0 +1,31 @@
+{
+    "id": 3403,
+    "question": "Was halten Sie von der neuen Adidas-Schuhsohle?",
+    "created_at": "2020-03-10T14:19:45+00:00",
+    "updated_at": "2021-06-14T09:35:50+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 84,
+    "answers": [
+        {
+            "id": 8309,
+            "answer": "Ich finde es ein tolles Konzept und würde gerne beim Fussballspielen Gaming-Punkte sammeln.",
+            "votes": 25,
+            "order": 0
+        },
+        {
+            "id": 8308,
+            "answer": "Ich finde das Konzept spannend, würde mir aber Anwendungen ausserhalb des Gamings wünschen.",
+            "votes": 31,
+            "order": 1
+        },
+        {
+            "id": 8307,
+            "answer": "Ich finde es unnötig – die Welt ist noch nicht bereit für smarte Schuhsohlen.",
+            "votes": 28,
+            "order": 2
+        }
+    ]
+}

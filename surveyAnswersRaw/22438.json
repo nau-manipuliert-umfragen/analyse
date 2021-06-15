@@ -1,0 +1,31 @@
+{
+    "id": 9903,
+    "question": "Wie sollte Meghan Ihrer Meinung nach heissen?",
+    "created_at": "2021-06-06T06:01:30+00:00",
+    "updated_at": "2021-06-14T09:41:01+00:00",
+    "end_at": null,
+    "comment_group_id": 2192639,
+    "published_at": "2021-06-06T08:37:10+00:00",
+    "display_name": "",
+    "total": 2863,
+    "answers": [
+        {
+            "id": 22437,
+            "answer": "Rachel Meghan Markle.",
+            "votes": 2351,
+            "order": 0
+        },
+        {
+            "id": 22438,
+            "answer": "Meghan, Herzogin von Sussex.",
+            "votes": 242,
+            "order": 1
+        },
+        {
+            "id": 22436,
+            "answer": "Prinzessin Meghan.",
+            "votes": 270,
+            "order": 2
+        }
+    ]
+}

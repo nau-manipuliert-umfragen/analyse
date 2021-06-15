@@ -1,0 +1,25 @@
+{
+    "id": 9545,
+    "question": "Die richtige Entscheidung von Jogi Löw?",
+    "created_at": "2021-05-19T12:53:58+00:00",
+    "updated_at": "2021-06-14T09:40:42+00:00",
+    "end_at": null,
+    "comment_group_id": 2165459,
+    "published_at": "2021-05-19T13:31:26+00:00",
+    "display_name": "",
+    "total": 69,
+    "answers": [
+        {
+            "id": 21655,
+            "answer": "Ja, Müller gehört ins Nationalteam!",
+            "votes": 42,
+            "order": 0
+        },
+        {
+            "id": 21656,
+            "answer": "Nein, Löw hätte auf jüngere setzen sollen.",
+            "votes": 27,
+            "order": 1
+        }
+    ]
+}

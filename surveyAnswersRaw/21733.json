@@ -1,0 +1,25 @@
+{
+    "id": 9581,
+    "question": "Hat Ihnen Gjons Auftritt gefallen?",
+    "created_at": "2021-05-20T14:25:45+00:00",
+    "updated_at": "2021-06-14T09:40:44+00:00",
+    "end_at": null,
+    "comment_group_id": 2167464,
+    "published_at": "2021-05-20T21:01:09+00:00",
+    "display_name": "",
+    "total": 1144,
+    "answers": [
+        {
+            "id": 21733,
+            "answer": "Nein, null!",
+            "votes": 286,
+            "order": 0
+        },
+        {
+            "id": 21734,
+            "answer": "Ja, was für eine Stimme!",
+            "votes": 858,
+            "order": 1
+        }
+    ]
+}

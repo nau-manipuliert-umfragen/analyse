@@ -1,0 +1,25 @@
+{
+    "id": 7319,
+    "question": "Was halten Sie von Brenda Pateas Anschuldigungen gegen Alexander Zverev?",
+    "created_at": "2021-02-16T06:58:39+00:00",
+    "updated_at": "2021-06-14T09:38:41+00:00",
+    "end_at": null,
+    "comment_group_id": 2023816,
+    "published_at": "2021-02-16T07:50:57+00:00",
+    "display_name": "",
+    "total": 717,
+    "answers": [
+        {
+            "id": 16891,
+            "answer": "Das gehört nicht an die Öffentlichkeit!",
+            "votes": 495,
+            "order": 0
+        },
+        {
+            "id": 16890,
+            "answer": "Zverev sollte sich wieder mehr der Familie widmen.",
+            "votes": 222,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 6166,
+    "question": "Wird die Beziehung der beiden noch lange halten?",
+    "created_at": "2020-11-26T14:09:25+00:00",
+    "updated_at": "2020-11-28T06:51:01+00:00",
+    "end_at": "2020-12-03T14:09:20+00:00",
+    "comment_group_id": 1913453,
+    "published_at": "2020-11-26T17:11:50+00:00",
+    "display_name": "",
+    "total": 42,
+    "answers": [
+        {
+            "id": 14334,
+            "answer": "Ja",
+            "votes": 20,
+            "order": 0
+        },
+        {
+            "id": 14333,
+            "answer": "Nein",
+            "votes": 22,
+            "order": 1
+        }
+    ]
+}

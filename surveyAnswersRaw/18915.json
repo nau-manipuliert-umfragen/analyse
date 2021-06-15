@@ -1,0 +1,25 @@
+{
+    "id": 8256,
+    "question": "Kann sich Gareth Bale in Madrid nochmals durchsetzen?",
+    "created_at": "2021-03-23T16:04:36+00:00",
+    "updated_at": "2021-06-14T09:39:29+00:00",
+    "end_at": null,
+    "comment_group_id": 2075944,
+    "published_at": "2021-03-23T19:41:24+00:00",
+    "display_name": "",
+    "total": 209,
+    "answers": [
+        {
+            "id": 18916,
+            "answer": "Ja, er packt das.",
+            "votes": 71,
+            "order": 0
+        },
+        {
+            "id": 18915,
+            "answer": "Nein, er wird erneut auf die Tribüne versetzt.",
+            "votes": 138,
+            "order": 1
+        }
+    ]
+}

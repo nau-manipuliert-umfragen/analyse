@@ -1,0 +1,25 @@
+{
+    "id": 4685,
+    "question": "Sollte Basel Cabral verpflichten?",
+    "created_at": "2020-06-22T08:53:28+00:00",
+    "updated_at": "2021-06-14T09:36:43+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 419,
+    "answers": [
+        {
+            "id": 11070,
+            "answer": "Ja.",
+            "votes": 359,
+            "order": 0
+        },
+        {
+            "id": 11071,
+            "answer": "Nein.",
+            "votes": 60,
+            "order": 1
+        }
+    ]
+}

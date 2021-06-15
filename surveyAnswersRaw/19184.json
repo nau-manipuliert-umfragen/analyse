@@ -1,0 +1,25 @@
+{
+    "id": 8383,
+    "question": "Haben Sie Verständnis für die Kritik von Ueli Maurer?",
+    "created_at": "2021-03-29T11:06:13+00:00",
+    "updated_at": "2021-06-14T09:39:36+00:00",
+    "end_at": null,
+    "comment_group_id": 2084263,
+    "published_at": "2021-03-31T04:57:24+00:00",
+    "display_name": "",
+    "total": 16281,
+    "answers": [
+        {
+            "id": 19184,
+            "answer": "Ja, wer die Massnahmen kritisiert wird sofort als Leugner hingestellt.",
+            "votes": 12061,
+            "order": 0
+        },
+        {
+            "id": 19183,
+            "answer": "Nein, er sollte schweigen und die Gesundheitspolitik Alain Berset überlassen.",
+            "votes": 4220,
+            "order": 1
+        }
+    ]
+}

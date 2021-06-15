@@ -1,0 +1,31 @@
+{
+    "id": 6976,
+    "question": "Ist David von Ballmoos auch für Sie der beste Keeper der Liga?",
+    "created_at": "2021-02-02T12:40:23+00:00",
+    "updated_at": "2021-06-14T10:24:52+00:00",
+    "end_at": null,
+    "comment_group_id": 2004002,
+    "published_at": "2021-02-02T12:41:07+00:00",
+    "display_name": "",
+    "total": 476,
+    "answers": [
+        {
+            "id": 16109,
+            "answer": "Ja",
+            "votes": 276,
+            "order": 0
+        },
+        {
+            "id": 16110,
+            "answer": "Nein, St. Gallens Zigi ist besser!",
+            "votes": 99,
+            "order": 1
+        },
+        {
+            "id": 16111,
+            "answer": "Ein anderer Goalie ist besser.",
+            "votes": 101,
+            "order": 2
+        }
+    ]
+}

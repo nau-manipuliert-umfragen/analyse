@@ -1,0 +1,25 @@
+{
+    "id": 3520,
+    "question": "Soll der FC Barcelona Ousmane Dembélé verkaufen?",
+    "created_at": "2020-03-18T14:55:41+00:00",
+    "updated_at": "2021-06-14T09:35:54+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": "2020-10-01T11:50:49+00:00",
+    "display_name": "",
+    "total": 159,
+    "answers": [
+        {
+            "id": 8554,
+            "answer": "Ja",
+            "votes": 119,
+            "order": 0
+        },
+        {
+            "id": 8555,
+            "answer": "Nein",
+            "votes": 40,
+            "order": 1
+        }
+    ]
+}

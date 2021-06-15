@@ -1,0 +1,25 @@
+{
+    "id": 3476,
+    "question": "Wie finden Sie es, dass Apple einen zinsfreien Zahlungsaufschub gewährt?",
+    "created_at": "2020-03-16T07:05:34+00:00",
+    "updated_at": "2021-06-14T09:35:52+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 118,
+    "answers": [
+        {
+            "id": 8460,
+            "answer": "Toll! Das zeugt von echter Solidarität.",
+            "votes": 80,
+            "order": 0
+        },
+        {
+            "id": 8461,
+            "answer": "Schlecht! Jetzt nutzt auch Apple die Krise zu Marketing-Zwecken.",
+            "votes": 38,
+            "order": 1
+        }
+    ]
+}

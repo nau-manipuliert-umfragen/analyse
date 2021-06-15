@@ -1,0 +1,25 @@
+{
+    "id": 6713,
+    "question": "Möchten Sie auch mit Federer drei Wochen in Dubai trainieren?",
+    "created_at": "2021-01-18T12:54:26+00:00",
+    "updated_at": "2021-06-14T09:38:12+00:00",
+    "end_at": null,
+    "comment_group_id": 1982444,
+    "published_at": null,
+    "display_name": "",
+    "total": 238,
+    "answers": [
+        {
+            "id": 15536,
+            "answer": "Ja, ich mache mich schon mal fit!",
+            "votes": 175,
+            "order": 0
+        },
+        {
+            "id": 15537,
+            "answer": "Nein, viel zu heiss.",
+            "votes": 63,
+            "order": 1
+        }
+    ]
+}

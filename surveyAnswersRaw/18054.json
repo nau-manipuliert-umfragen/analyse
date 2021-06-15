@@ -1,0 +1,25 @@
+{
+    "id": 7843,
+    "question": "Soll Nati-Coach Petkovic Cedric Itten für die EM aufbieten?",
+    "created_at": "2021-03-08T17:16:47+00:00",
+    "updated_at": "2021-06-14T09:39:06+00:00",
+    "end_at": null,
+    "comment_group_id": 2053875,
+    "published_at": "2021-03-08T18:44:18+00:00",
+    "display_name": "",
+    "total": 237,
+    "answers": [
+        {
+            "id": 18054,
+            "answer": "Ja, unbedingt!",
+            "votes": 185,
+            "order": 0
+        },
+        {
+            "id": 18055,
+            "answer": "Nein, da gibt es bessere Stürmer.",
+            "votes": 52,
+            "order": 1
+        }
+    ]
+}

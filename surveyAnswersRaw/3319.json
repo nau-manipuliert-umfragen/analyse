@@ -1,0 +1,25 @@
+{
+    "id": 1213,
+    "question": "Welchen Text bevorzugen Sie als Nationalhymne?",
+    "created_at": "2018-06-20T05:15:21+00:00",
+    "updated_at": "2021-06-14T09:34:20+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 483,
+    "answers": [
+        {
+            "id": 3319,
+            "answer": "«Trittst im Morgenrot daher..» – den Schweizerpsalm natürlich!",
+            "votes": 357,
+            "order": 100
+        },
+        {
+            "id": 3325,
+            "answer": "«Weisses Kreuz auf rotem Grund..» – der neue Text ist besser!",
+            "votes": 126,
+            "order": 100
+        }
+    ]
+}

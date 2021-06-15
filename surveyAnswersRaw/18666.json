@@ -1,0 +1,31 @@
+{
+    "id": 8140,
+    "question": "Was halten sie von der Idee «Instagram-Kids»?",
+    "created_at": "2021-03-19T12:43:03+00:00",
+    "updated_at": "2021-06-14T09:39:23+00:00",
+    "end_at": null,
+    "comment_group_id": 2070273,
+    "published_at": "2021-03-19T13:31:21+00:00",
+    "display_name": "",
+    "total": 148,
+    "answers": [
+        {
+            "id": 18667,
+            "answer": "Super, die Kinder werden besser geschützt.",
+            "votes": 24,
+            "order": 0
+        },
+        {
+            "id": 18666,
+            "answer": "Ich bin noch etwas skeptisch.",
+            "votes": 29,
+            "order": 1
+        },
+        {
+            "id": 18668,
+            "answer": "Das ist Käse!",
+            "votes": 95,
+            "order": 2
+        }
+    ]
+}

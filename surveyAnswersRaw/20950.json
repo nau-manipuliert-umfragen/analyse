@@ -1,0 +1,25 @@
+{
+    "id": 9215,
+    "question": "Werden sich Williams und Harrys Kinder verstehen später?",
+    "created_at": "2021-05-04T12:09:07+00:00",
+    "updated_at": "2021-06-14T09:40:22+00:00",
+    "end_at": null,
+    "comment_group_id": 2139704,
+    "published_at": "2021-05-04T15:04:51+00:00",
+    "display_name": "",
+    "total": 343,
+    "answers": [
+        {
+            "id": 20949,
+            "answer": "Natürlich, die werden bestimmt gut befreundet sein.",
+            "votes": 122,
+            "order": 0
+        },
+        {
+            "id": 20950,
+            "answer": "Nein, allein die Distanz verhindert das.",
+            "votes": 221,
+            "order": 1
+        }
+    ]
+}

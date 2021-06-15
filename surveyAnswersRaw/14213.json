@@ -1,0 +1,25 @@
+{
+    "id": 6111,
+    "question": "Wie finden Sie Lucas Reaktion nach dem Diebstahl?",
+    "created_at": "2020-11-20T07:44:04+00:00",
+    "updated_at": "2021-06-14T09:37:45+00:00",
+    "end_at": null,
+    "comment_group_id": 1905198,
+    "published_at": "2020-11-20T10:31:38+00:00",
+    "display_name": "",
+    "total": 281,
+    "answers": [
+        {
+            "id": 14213,
+            "answer": "Hat er verstanden, dass sein Handy geklaut wurde?",
+            "votes": 122,
+            "order": 0
+        },
+        {
+            "id": 14214,
+            "answer": "Geile Reaktion in so einer Situation.",
+            "votes": 159,
+            "order": 1
+        }
+    ]
+}

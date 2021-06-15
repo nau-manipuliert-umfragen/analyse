@@ -1,0 +1,25 @@
+{
+    "id": 6237,
+    "question": "Passen Remo und Lea gut zusammen?",
+    "created_at": "2020-12-04T11:09:54+00:00",
+    "updated_at": "2021-06-14T09:37:52+00:00",
+    "end_at": null,
+    "comment_group_id": 1926998,
+    "published_at": "2020-12-06T17:07:53+00:00",
+    "display_name": "",
+    "total": 688,
+    "answers": [
+        {
+            "id": 14491,
+            "answer": "Nein, er braucht jemanden, der anpackt.",
+            "votes": 345,
+            "order": 0
+        },
+        {
+            "id": 14492,
+            "answer": "Ja, die zwei sind zuckersüss.",
+            "votes": 343,
+            "order": 1
+        }
+    ]
+}

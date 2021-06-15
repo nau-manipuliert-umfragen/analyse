@@ -1,0 +1,25 @@
+{
+    "id": 5654,
+    "question": "Wer wird neuer US-Präsident?",
+    "created_at": "2020-10-06T13:51:54+00:00",
+    "updated_at": "2021-06-14T09:37:22+00:00",
+    "end_at": null,
+    "comment_group_id": 1836814,
+    "published_at": "2020-10-06T17:59:12+00:00",
+    "display_name": "",
+    "total": 574,
+    "answers": [
+        {
+            "id": 13196,
+            "answer": "Joe Biden.",
+            "votes": 398,
+            "order": 0
+        },
+        {
+            "id": 13197,
+            "answer": "Donald Trump wird natürlich wiedergewählt.",
+            "votes": 176,
+            "order": 1
+        }
+    ]
+}

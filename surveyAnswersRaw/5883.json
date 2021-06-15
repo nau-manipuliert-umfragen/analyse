@@ -1,0 +1,25 @@
+{
+    "id": 2330,
+    "question": "Schafft Xamax noch den Klassenerhalt?",
+    "created_at": "2019-02-04T18:14:36+00:00",
+    "updated_at": "2021-06-14T09:34:57+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 90,
+    "answers": [
+        {
+            "id": 5883,
+            "answer": "Ja, die Zuzüge Serey Dié und Pululu helfen dem Team.",
+            "votes": 54,
+            "order": 100
+        },
+        {
+            "id": 5884,
+            "answer": "Nein, Xamax ist zu schwach.",
+            "votes": 36,
+            "order": 100
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 6413,
+    "question": "Was denken Sie: Beruhigt sich die Corona-Situation im Laufe des neuen Jahres?",
+    "created_at": "2020-12-22T13:51:09+00:00",
+    "updated_at": "2021-06-14T09:38:00+00:00",
+    "end_at": null,
+    "comment_group_id": 1950990,
+    "published_at": "2020-12-27T06:00:02+00:00",
+    "display_name": "",
+    "total": 1521,
+    "answers": [
+        {
+            "id": 14885,
+            "answer": "Ja, dank Impfung und gutem Wetter ist Corona im Sommer 2021 vorbei.",
+            "votes": 434,
+            "order": 0
+        },
+        {
+            "id": 14886,
+            "answer": "Nein, dieses Virus wird uns mindestens bis ins Jahr 2022 beschäftigen.",
+            "votes": 1087,
+            "order": 1
+        }
+    ]
+}

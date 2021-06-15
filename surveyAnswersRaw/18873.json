@@ -1,0 +1,25 @@
+{
+    "id": 8236,
+    "question": "Kaufen Sie regelmässig bei Ikea ein?",
+    "created_at": "2021-03-23T08:58:34+00:00",
+    "updated_at": "2021-03-24T06:47:03+00:00",
+    "end_at": "2021-03-24T08:58:32+00:00",
+    "comment_group_id": 2075094,
+    "published_at": "2021-03-23T09:45:41+00:00",
+    "display_name": "",
+    "total": 144,
+    "answers": [
+        {
+            "id": 18872,
+            "answer": "Ja, hier stimmt das Preis-Leistungs-Verhältnis.",
+            "votes": 63,
+            "order": 0
+        },
+        {
+            "id": 18873,
+            "answer": "Nein, ich kaufe lieber beim Schreiner direkt ein.",
+            "votes": 81,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 2839,
+    "question": "Ist Streit der beste Schweizer Eishockey-Spieler aller Zeiten?",
+    "created_at": "2020-02-04T15:31:50+00:00",
+    "updated_at": "2021-06-14T09:35:23+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 133,
+    "answers": [
+        {
+            "id": 7047,
+            "answer": "Daran besteht kein Zweifel.",
+            "votes": 64,
+            "order": 0
+        },
+        {
+            "id": 7046,
+            "answer": "Nein, da gibt es definitiv bessere.",
+            "votes": 69,
+            "order": 1
+        }
+    ]
+}

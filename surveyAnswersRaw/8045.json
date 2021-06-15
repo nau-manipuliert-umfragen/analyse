@@ -1,0 +1,25 @@
+{
+    "id": 3285,
+    "question": "Leidet Liverpool tatsächlich unter dem «Fluch von Daragh»?",
+    "created_at": "2020-03-04T09:29:40+00:00",
+    "updated_at": "2021-06-14T09:35:45+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 232,
+    "answers": [
+        {
+            "id": 8046,
+            "answer": "Ja, die Dunklen Mächte wollen keinen Meistertitel für die Reds",
+            "votes": 82,
+            "order": 0
+        },
+        {
+            "id": 8045,
+            "answer": "Nein, bei Klopps Mannen läuft es derzeit auch ohne Magie nicht",
+            "votes": 150,
+            "order": 1
+        }
+    ]
+}

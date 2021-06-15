@@ -1,0 +1,25 @@
+{
+    "id": 8871,
+    "question": "Stört es Sie, wenn Künstler nicht live singen?",
+    "created_at": "2021-04-20T09:07:28+00:00",
+    "updated_at": "2021-06-14T09:40:01+00:00",
+    "end_at": null,
+    "comment_group_id": 2115405,
+    "published_at": "2021-04-22T16:46:48+00:00",
+    "display_name": "",
+    "total": 1132,
+    "answers": [
+        {
+            "id": 20202,
+            "answer": "Nein, das ist heute normal.",
+            "votes": 269,
+            "order": 0
+        },
+        {
+            "id": 20203,
+            "answer": "Ja, wofür dann der Auftritt?",
+            "votes": 863,
+            "order": 1
+        }
+    ]
+}

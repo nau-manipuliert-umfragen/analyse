@@ -1,0 +1,25 @@
+{
+    "id": 9896,
+    "question": "Wer wird Weltmeister?",
+    "created_at": "2021-06-05T11:35:08+00:00",
+    "updated_at": "2021-06-14T09:41:01+00:00",
+    "end_at": null,
+    "comment_group_id": 2192078,
+    "published_at": "2021-06-05T17:25:23+00:00",
+    "display_name": "",
+    "total": 291,
+    "answers": [
+        {
+            "id": 22421,
+            "answer": "Kanada",
+            "votes": 192,
+            "order": 0
+        },
+        {
+            "id": 22422,
+            "answer": "Finnland",
+            "votes": 99,
+            "order": 1
+        }
+    ]
+}

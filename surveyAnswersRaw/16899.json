@@ -1,0 +1,25 @@
+{
+    "id": 7323,
+    "question": "Sollten Prinz Harry und Meghan ihre Schirmherrschaften abgeben?",
+    "created_at": "2021-02-16T08:27:52+00:00",
+    "updated_at": "2021-06-14T09:38:42+00:00",
+    "end_at": null,
+    "comment_group_id": 2023961,
+    "published_at": "2021-02-16T09:08:01+00:00",
+    "display_name": "",
+    "total": 432,
+    "answers": [
+        {
+            "id": 16899,
+            "answer": "Nein, die Mitarbeiter zählen auf sie.",
+            "votes": 77,
+            "order": 0
+        },
+        {
+            "id": 16898,
+            "answer": "Ja, und die Herzogen-Titel gleich mit!",
+            "votes": 355,
+            "order": 1
+        }
+    ]
+}

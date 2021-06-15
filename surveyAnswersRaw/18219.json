@@ -1,0 +1,25 @@
+{
+    "id": 7924,
+    "question": "Hätte die Schweiz mit 100 Millionen Franken eine staatliche Impfstoff-Produktion aufziehen sollen?",
+    "created_at": "2021-03-11T10:58:53+00:00",
+    "updated_at": "2021-03-12T10:52:11+00:00",
+    "end_at": "2021-03-12T10:54:38+00:00",
+    "comment_group_id": 2057978,
+    "published_at": "2021-03-11T14:51:18+00:00",
+    "display_name": "",
+    "total": 1819,
+    "answers": [
+        {
+            "id": 18220,
+            "answer": "Ja, das Geld hätte man locker wieder eingespart, wenn es dafür weniger Ansteckungen gibt.",
+            "votes": 1598,
+            "order": 0
+        },
+        {
+            "id": 18219,
+            "answer": "Nein, der Staat soll nicht in die Privatwirtschaft eingreifen und selektiv Produkte bevorzugen.",
+            "votes": 221,
+            "order": 1
+        }
+    ]
+}

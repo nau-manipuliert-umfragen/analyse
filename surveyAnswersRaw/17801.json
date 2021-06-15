@@ -1,0 +1,25 @@
+{
+    "id": 7729,
+    "question": "Schafft der FC Aarau den Aufstieg?",
+    "created_at": "2021-03-02T19:51:05+00:00",
+    "updated_at": "2021-06-14T09:39:00+00:00",
+    "end_at": null,
+    "comment_group_id": 2045380,
+    "published_at": "2021-03-02T19:51:17+00:00",
+    "display_name": "",
+    "total": 303,
+    "answers": [
+        {
+            "id": 17801,
+            "answer": "Ja",
+            "votes": 136,
+            "order": 0
+        },
+        {
+            "id": 17800,
+            "answer": "Nein",
+            "votes": 167,
+            "order": 1
+        }
+    ]
+}

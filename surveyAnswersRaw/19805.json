@@ -1,0 +1,25 @@
+{
+    "id": 8684,
+    "question": "Bekommt Siegenthaler bei den New Jersey Devils wieder mehr Einsatzzeit?",
+    "created_at": "2021-04-12T09:39:11+00:00",
+    "updated_at": "2021-06-14T09:39:52+00:00",
+    "end_at": null,
+    "comment_group_id": 2103589,
+    "published_at": "2021-04-12T11:01:34+00:00",
+    "display_name": "",
+    "total": 109,
+    "answers": [
+        {
+            "id": 19805,
+            "answer": "Ja",
+            "votes": 78,
+            "order": 0
+        },
+        {
+            "id": 19806,
+            "answer": "Nein",
+            "votes": 31,
+            "order": 1
+        }
+    ]
+}

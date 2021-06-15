@@ -1,0 +1,31 @@
+{
+    "id": 1860,
+    "question": "Wie schlägt sich GC am Samstag gegen Sion?",
+    "created_at": "2018-08-24T09:43:02+00:00",
+    "updated_at": "2021-06-14T09:34:40+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 87,
+    "answers": [
+        {
+            "id": 4836,
+            "answer": "Sion entführt drei Punkte aus Zürich.",
+            "votes": 27,
+            "order": 100
+        },
+        {
+            "id": 4839,
+            "answer": "Die Hoppers gewinnen.",
+            "votes": 35,
+            "order": 100
+        },
+        {
+            "id": 4842,
+            "answer": "Die Teams trennen sich unentschieden.",
+            "votes": 25,
+            "order": 100
+        }
+    ]
+}

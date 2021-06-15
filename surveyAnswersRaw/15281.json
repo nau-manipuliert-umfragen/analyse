@@ -1,0 +1,25 @@
+{
+    "id": 6594,
+    "question": "Glauben Sie, dass sich die Skeptiker-Bewegung noch weiter verbreitet?",
+    "created_at": "2021-01-11T08:38:38+00:00",
+    "updated_at": "2021-06-14T09:38:07+00:00",
+    "end_at": null,
+    "comment_group_id": 1971608,
+    "published_at": "2021-01-11T18:00:30+00:00",
+    "display_name": "",
+    "total": 1183,
+    "answers": [
+        {
+            "id": 15281,
+            "answer": "Nein, das Coronavirus ist dank der Impfung sowieso bald Geschichte.",
+            "votes": 186,
+            "order": 0
+        },
+        {
+            "id": 15280,
+            "answer": "Ja, der Frust in der Bevölkerung wächst sicher noch weiter.",
+            "votes": 997,
+            "order": 1
+        }
+    ]
+}

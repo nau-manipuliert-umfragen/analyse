@@ -1,0 +1,25 @@
+{
+    "id": 4234,
+    "question": "Was halten Sie von Harry Kanes Trikot-Sponsoring?",
+    "created_at": "2020-05-14T19:01:33+00:00",
+    "updated_at": "2021-06-14T09:36:25+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 88,
+    "answers": [
+        {
+            "id": 10092,
+            "answer": "Eine schöne Geste des Engländers.",
+            "votes": 67,
+            "order": 0
+        },
+        {
+            "id": 10093,
+            "answer": "Das Geld hätte Kane besser investieren können.",
+            "votes": 21,
+            "order": 1
+        }
+    ]
+}

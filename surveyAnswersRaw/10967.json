@@ -1,0 +1,25 @@
+{
+    "id": 4639,
+    "question": "Wird Leroy Sané am Mittwoch tatsächlich in der Startelf stehen?",
+    "created_at": "2020-06-16T19:59:45+00:00",
+    "updated_at": "2020-06-16T19:59:45+00:00",
+    "end_at": "2020-06-16T19:59:42+00:00",
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 40,
+    "answers": [
+        {
+            "id": 10967,
+            "answer": "Ja klar!",
+            "votes": 20,
+            "order": 0
+        },
+        {
+            "id": 10968,
+            "answer": "Nein, ich denke nicht.",
+            "votes": 20,
+            "order": 1
+        }
+    ]
+}

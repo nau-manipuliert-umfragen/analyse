@@ -1,0 +1,25 @@
+{
+    "id": 3484,
+    "question": "War der Wechsel zu Inter Mailand für Christian Eriksen eine gute Entschiedung?",
+    "created_at": "2020-03-16T14:21:03+00:00",
+    "updated_at": "2021-06-14T09:35:53+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 72,
+    "answers": [
+        {
+            "id": 8476,
+            "answer": "Ja, der Anfang in einer neuen Liga ist immer schwer, doch er wird seine Leisung schon noch bringen.",
+            "votes": 31,
+            "order": 0
+        },
+        {
+            "id": 8477,
+            "answer": "Nein, er hätte besser bei Tottenham bleiben sollen.",
+            "votes": 41,
+            "order": 1
+        }
+    ]
+}

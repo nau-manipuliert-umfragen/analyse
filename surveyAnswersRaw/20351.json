@@ -1,0 +1,25 @@
+{
+    "id": 8941,
+    "question": "Was denken Sie über die Autoposer?",
+    "created_at": "2021-04-22T11:57:51+00:00",
+    "updated_at": "2021-06-14T09:40:05+00:00",
+    "end_at": null,
+    "comment_group_id": 2119380,
+    "published_at": "2021-04-24T09:08:44+00:00",
+    "display_name": "",
+    "total": 916,
+    "answers": [
+        {
+            "id": 20351,
+            "answer": "Ich kann den Frust der Jungen verstehen. Das Nachtleben muss zurückkommen!",
+            "votes": 170,
+            "order": 0
+        },
+        {
+            "id": 20352,
+            "answer": "Für Tuning habe ich kein Verständnis.",
+            "votes": 746,
+            "order": 1
+        }
+    ]
+}

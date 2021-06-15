@@ -1,0 +1,31 @@
+{
+    "id": 3903,
+    "question": "Sind Sie bereits in eine Abo-Falle getappt?",
+    "created_at": "2020-04-17T08:37:28+00:00",
+    "updated_at": "2021-06-14T09:36:10+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 166,
+    "answers": [
+        {
+            "id": 9367,
+            "answer": "Nein, da bin  ich zu vorsichtig.",
+            "votes": 98,
+            "order": 0
+        },
+        {
+            "id": 9365,
+            "answer": "Ja leider, aber nur einmal.",
+            "votes": 42,
+            "order": 1
+        },
+        {
+            "id": 9366,
+            "answer": "Ja, sogar mehrmals.",
+            "votes": 26,
+            "order": 2
+        }
+    ]
+}

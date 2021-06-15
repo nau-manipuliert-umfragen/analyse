@@ -1,0 +1,25 @@
+{
+    "id": 6132,
+    "question": "Holt sich Erling Haaland dieses Jahr die Bundesliga-Torjägerkrone?",
+    "created_at": "2020-11-23T08:34:07+00:00",
+    "updated_at": "2021-06-14T10:24:12+00:00",
+    "end_at": null,
+    "comment_group_id": 1908313,
+    "published_at": "2020-11-23T14:00:39+00:00",
+    "display_name": "",
+    "total": 296,
+    "answers": [
+        {
+            "id": 14259,
+            "answer": "Ja, der Junge ist heuer der beste!",
+            "votes": 223,
+            "order": 0
+        },
+        {
+            "id": 14258,
+            "answer": "Nein, da ist immer noch Robert Lewandowski ...",
+            "votes": 73,
+            "order": 1
+        }
+    ]
+}

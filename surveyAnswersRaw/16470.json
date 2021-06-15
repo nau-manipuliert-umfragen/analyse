@@ -1,0 +1,25 @@
+{
+    "id": 7132,
+    "question": "Werden sich die beiden Streithähne wieder vertragen?",
+    "created_at": "2021-02-09T10:02:17+00:00",
+    "updated_at": "2021-06-14T09:38:31+00:00",
+    "end_at": null,
+    "comment_group_id": 2013780,
+    "published_at": "2021-02-09T13:40:58+00:00",
+    "display_name": "",
+    "total": 187,
+    "answers": [
+        {
+            "id": 16470,
+            "answer": "Ja, alles hat ein Ende.",
+            "votes": 42,
+            "order": 0
+        },
+        {
+            "id": 16471,
+            "answer": "Nein, beides Sturköpfe.",
+            "votes": 145,
+            "order": 1
+        }
+    ]
+}

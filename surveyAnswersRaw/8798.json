@@ -1,0 +1,25 @@
+{
+    "id": 3636,
+    "question": "Sollten die Bayern Mickaël Cuisance schon wieder verkaufen?",
+    "created_at": "2020-03-27T09:48:39+00:00",
+    "updated_at": "2021-06-14T09:35:59+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 76,
+    "answers": [
+        {
+            "id": 8798,
+            "answer": "Ja, der Transfer des Franzosen im vergangenen Sommer war ein riesiges Missverständnis.",
+            "votes": 41,
+            "order": 0
+        },
+        {
+            "id": 8797,
+            "answer": "Nein, Cuisance hat riesiges Potenzial und muss unbedingt bleiben.",
+            "votes": 35,
+            "order": 1
+        }
+    ]
+}

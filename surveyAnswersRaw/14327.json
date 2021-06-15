@@ -1,0 +1,25 @@
+{
+    "id": 6163,
+    "question": "Bricht YB heute den Auswärtsfluch?",
+    "created_at": "2020-11-26T10:49:29+00:00",
+    "updated_at": "2021-06-14T09:37:47+00:00",
+    "end_at": null,
+    "comment_group_id": 1913003,
+    "published_at": "2020-11-26T12:59:36+00:00",
+    "display_name": "",
+    "total": 122,
+    "answers": [
+        {
+            "id": 14327,
+            "answer": "Ja, in Sofia gibt es einen Sieg.",
+            "votes": 84,
+            "order": 0
+        },
+        {
+            "id": 14326,
+            "answer": "Nein, das wird nicht reichen.",
+            "votes": 38,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 5425,
+    "question": "Werden Sie sich die Produktionen von Harry und Meghan ansehen?",
+    "created_at": "2020-09-11T13:47:32+00:00",
+    "updated_at": "2021-06-14T09:37:13+00:00",
+    "end_at": null,
+    "comment_group_id": 1795359,
+    "published_at": "2020-09-11T14:55:02+00:00",
+    "display_name": "",
+    "total": 2513,
+    "answers": [
+        {
+            "id": 12698,
+            "answer": "Ja, wenn sie gut sind.",
+            "votes": 250,
+            "order": 0
+        },
+        {
+            "id": 12699,
+            "answer": "Nein, was für eine Zeitverschwendung!",
+            "votes": 2263,
+            "order": 1
+        }
+    ]
+}

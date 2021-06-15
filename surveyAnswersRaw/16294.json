@@ -1,0 +1,25 @@
+{
+    "id": 7055,
+    "question": "Sollte mehr über Sex gesprochen werden?",
+    "created_at": "2021-02-05T12:04:49+00:00",
+    "updated_at": "2021-06-14T09:38:27+00:00",
+    "end_at": null,
+    "comment_group_id": 2009035,
+    "published_at": "2021-02-13T06:27:09+00:00",
+    "display_name": "",
+    "total": 216,
+    "answers": [
+        {
+            "id": 16295,
+            "answer": "Unbedingt!",
+            "votes": 118,
+            "order": 0
+        },
+        {
+            "id": 16294,
+            "answer": "Was im Schlafzimmer passiert, bleibt im Schlafzimmer.",
+            "votes": 98,
+            "order": 1
+        }
+    ]
+}

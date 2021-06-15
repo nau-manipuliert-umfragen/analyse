@@ -1,0 +1,25 @@
+{
+    "id": 9131,
+    "question": "Telefonieren Sie gerne?",
+    "created_at": "2021-04-30T15:06:56+00:00",
+    "updated_at": "2021-06-14T09:40:18+00:00",
+    "end_at": null,
+    "comment_group_id": 2134113,
+    "published_at": "2021-05-02T18:14:47+00:00",
+    "display_name": "",
+    "total": 1120,
+    "answers": [
+        {
+            "id": 20764,
+            "answer": "Nein, ich hasse es.",
+            "votes": 930,
+            "order": 0
+        },
+        {
+            "id": 20765,
+            "answer": "Ja, am liebsten stundenlang.",
+            "votes": 190,
+            "order": 1
+        }
+    ]
+}

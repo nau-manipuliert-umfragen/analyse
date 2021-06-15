@@ -1,0 +1,25 @@
+{
+    "id": 4821,
+    "question": "Was halten Sie von den Nachwuchsplänen von Bernie Ecclestone (89)?",
+    "created_at": "2020-07-05T12:06:25+00:00",
+    "updated_at": "2021-06-14T09:36:49+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 273,
+    "answers": [
+        {
+            "id": 11360,
+            "answer": "Hut ab! Bemerkenswert in diesem Alter.",
+            "votes": 52,
+            "order": 0
+        },
+        {
+            "id": 11359,
+            "answer": "Schrecklich, die Kinder haben nichts von ihrem Vater.",
+            "votes": 221,
+            "order": 1
+        }
+    ]
+}

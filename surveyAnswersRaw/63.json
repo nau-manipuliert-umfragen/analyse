@@ -1,0 +1,25 @@
+{
+    "id": 21,
+    "question": "Sollen Bauern entschädigt werden, wenn sie ihre Kühe nicht enthornen?",
+    "created_at": "2017-09-21T15:26:37+00:00",
+    "updated_at": "2021-06-14T10:16:44+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 47,
+    "answers": [
+        {
+            "id": 62,
+            "answer": "Ja, denn zu einer Kuh gehören die Hörner wie ein Rüssel zum Elefant.",
+            "votes": 24,
+            "order": 100
+        },
+        {
+            "id": 63,
+            "answer": "Nein, denn Hörner stellen eine Gefahr für Mensch und Tier dar.",
+            "votes": 23,
+            "order": 100
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 5920,
+    "question": "Wie macht sich Beatrice Egli Ihrer Meinung nach als Mode-Bloggerin?",
+    "created_at": "2020-11-01T13:34:02+00:00",
+    "updated_at": "2021-06-14T09:37:35+00:00",
+    "end_at": null,
+    "comment_group_id": 1879034,
+    "published_at": "2020-11-01T16:11:18+00:00",
+    "display_name": "",
+    "total": 234,
+    "answers": [
+        {
+            "id": 13789,
+            "answer": "Super, was sie trägt, kaufe ich gleich nach!",
+            "votes": 80,
+            "order": 0
+        },
+        {
+            "id": 13790,
+            "answer": "Ihre Musik gefällt mir deutlich besser als ihre Klamotten.",
+            "votes": 154,
+            "order": 1
+        }
+    ]
+}

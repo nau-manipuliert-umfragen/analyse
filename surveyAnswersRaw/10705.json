@@ -1,0 +1,31 @@
+{
+    "id": 4515,
+    "question": "Haben auch Sie in den letzten Wochen ein Museum oder einen Zoo besucht?",
+    "created_at": "2020-06-08T11:13:24+00:00",
+    "updated_at": "2021-06-14T09:36:37+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": "2021-03-27T16:01:46+00:00",
+    "display_name": "",
+    "total": 956,
+    "answers": [
+        {
+            "id": 10704,
+            "answer": "Ja, und es hat richtig viel Spass gemacht.",
+            "votes": 250,
+            "order": 0
+        },
+        {
+            "id": 10705,
+            "answer": "Nein, aber ich habe es in den nächsten Tagen vor.",
+            "votes": 468,
+            "order": 1
+        },
+        {
+            "id": 10706,
+            "answer": "Nein, noch ist für mich die Gefahr einer Ansteckung zu gross.",
+            "votes": 238,
+            "order": 2
+        }
+    ]
+}

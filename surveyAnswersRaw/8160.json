@@ -1,0 +1,25 @@
+{
+    "id": 3338,
+    "question": "Gehen die Anfeindungen gegen Jesse Lingard zu weit?",
+    "created_at": "2020-03-06T10:24:23+00:00",
+    "updated_at": "2021-06-14T09:35:47+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 76,
+    "answers": [
+        {
+            "id": 8161,
+            "answer": "Natürlich, das wünscht man niemandem.",
+            "votes": 50,
+            "order": 0
+        },
+        {
+            "id": 8160,
+            "answer": "Bis zu einem gewissen Grad kann ich den Unmut verstehen.",
+            "votes": 26,
+            "order": 1
+        }
+    ]
+}

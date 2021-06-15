@@ -1,0 +1,25 @@
+{
+    "id": 6374,
+    "question": "Erkämpft sich Shaqiri im neuen Jahr einen Stammplatz bei Liverpool?",
+    "created_at": "2020-12-19T13:43:15+00:00",
+    "updated_at": "2021-06-14T09:37:59+00:00",
+    "end_at": null,
+    "comment_group_id": 1947195,
+    "published_at": "2020-12-19T14:18:43+00:00",
+    "display_name": "",
+    "total": 282,
+    "answers": [
+        {
+            "id": 14800,
+            "answer": "Ja, der Nati-Star setzt sich durch.",
+            "votes": 53,
+            "order": 0
+        },
+        {
+            "id": 14799,
+            "answer": "Nein, er sollte den Verein wechseln.",
+            "votes": 229,
+            "order": 1
+        }
+    ]
+}

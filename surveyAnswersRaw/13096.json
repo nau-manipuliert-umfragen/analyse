@@ -1,0 +1,25 @@
+{
+    "id": 5605,
+    "question": "Was halten Sie von den Bildern des Beckham-Sprosses?",
+    "created_at": "2020-10-01T08:37:47+00:00",
+    "updated_at": "2021-06-14T09:37:20+00:00",
+    "end_at": null,
+    "comment_group_id": 1828221,
+    "published_at": "2020-10-01T17:54:12+00:00",
+    "display_name": "",
+    "total": 562,
+    "answers": [
+        {
+            "id": 13095,
+            "answer": "Geht gar nicht. Erstmal nachdenken, bevor man so etwas postet.",
+            "votes": 64,
+            "order": 0
+        },
+        {
+            "id": 13096,
+            "answer": "Leute, es gibt wirklich wichtigere Dinge, über die man sprechen sollte.",
+            "votes": 498,
+            "order": 1
+        }
+    ]
+}

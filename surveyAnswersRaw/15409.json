@@ -1,0 +1,25 @@
+{
+    "id": 6653,
+    "question": "Sollte die Polizei Ordnungsbussen für Corona-Sünder ausstellen können?",
+    "created_at": "2021-01-14T10:31:26+00:00",
+    "updated_at": "2021-06-14T09:38:10+00:00",
+    "end_at": null,
+    "comment_group_id": 1976948,
+    "published_at": "2021-01-14T12:10:03+00:00",
+    "display_name": "",
+    "total": 1676,
+    "answers": [
+        {
+            "id": 15410,
+            "answer": "Natürlich! Wer rücksichtslos handelt, soll bestraft werden.",
+            "votes": 739,
+            "order": 0
+        },
+        {
+            "id": 15409,
+            "answer": "Nein, das finde ich übertrieben",
+            "votes": 937,
+            "order": 1
+        }
+    ]
+}

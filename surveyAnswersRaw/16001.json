@@ -1,0 +1,25 @@
+{
+    "id": 6927,
+    "question": "Was halten Sie von Meghans «Urkundenfälschung»?",
+    "created_at": "2021-01-31T13:01:01+00:00",
+    "updated_at": "2021-06-14T09:38:21+00:00",
+    "end_at": null,
+    "comment_group_id": 2001114,
+    "published_at": "2021-02-01T05:43:01+00:00",
+    "display_name": "",
+    "total": 869,
+    "answers": [
+        {
+            "id": 16002,
+            "answer": "Halb so wild!",
+            "votes": 212,
+            "order": 0
+        },
+        {
+            "id": 16001,
+            "answer": "Geht's noch?!",
+            "votes": 657,
+            "order": 1
+        }
+    ]
+}

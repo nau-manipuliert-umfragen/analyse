@@ -1,0 +1,25 @@
+{
+    "id": 7909,
+    "question": "Schlägt Federer heute auch Basilashvili?",
+    "created_at": "2021-03-11T07:42:38+00:00",
+    "updated_at": "2021-06-14T09:39:11+00:00",
+    "end_at": null,
+    "comment_group_id": 2057540,
+    "published_at": "2021-03-11T11:47:26+00:00",
+    "display_name": "",
+    "total": 545,
+    "answers": [
+        {
+            "id": 18198,
+            "answer": "Ja, go Roger!",
+            "votes": 385,
+            "order": 0
+        },
+        {
+            "id": 18197,
+            "answer": "Nein, er ist zu müde.",
+            "votes": 160,
+            "order": 1
+        }
+    ]
+}

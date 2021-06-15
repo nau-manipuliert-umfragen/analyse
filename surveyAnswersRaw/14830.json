@@ -1,0 +1,25 @@
+{
+    "id": 6386,
+    "question": "Waren oder sind Sie abhängig von Nasenspray?",
+    "created_at": "2020-12-21T08:37:29+00:00",
+    "updated_at": "2021-06-14T09:37:59+00:00",
+    "end_at": null,
+    "comment_group_id": 1948951,
+    "published_at": "2021-01-03T09:00:10+00:00",
+    "display_name": "",
+    "total": 1077,
+    "answers": [
+        {
+            "id": 14831,
+            "answer": "Oh, ja. Kann gut mitfühlen, versuche schon lange, davon loszukommen!",
+            "votes": 411,
+            "order": 0
+        },
+        {
+            "id": 14830,
+            "answer": "Nein, dieses Zeug brauche ich eh nicht!",
+            "votes": 666,
+            "order": 1
+        }
+    ]
+}

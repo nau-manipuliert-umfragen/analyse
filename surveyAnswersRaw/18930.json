@@ -1,0 +1,25 @@
+{
+    "id": 8262,
+    "question": "Finden Sie es richtig, dass die Formel 1 den Fahrer-Kniefall abschafft?",
+    "created_at": "2021-03-24T07:33:51+00:00",
+    "updated_at": "2021-06-14T09:39:29+00:00",
+    "end_at": null,
+    "comment_group_id": 2076462,
+    "published_at": "2021-03-24T09:12:18+00:00",
+    "display_name": "",
+    "total": 840,
+    "answers": [
+        {
+            "id": 18930,
+            "answer": "Ja, das hat doch ohnehin nichts gebracht.",
+            "votes": 663,
+            "order": 0
+        },
+        {
+            "id": 18929,
+            "answer": "Nein, das war eine wichtige Botschaft!",
+            "votes": 177,
+            "order": 1
+        }
+    ]
+}

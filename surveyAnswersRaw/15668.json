@@ -1,0 +1,25 @@
+{
+    "id": 6773,
+    "question": "Hat Beni Thurnheer recht?",
+    "created_at": "2021-01-21T17:32:12+00:00",
+    "updated_at": "2021-06-14T09:38:14+00:00",
+    "end_at": null,
+    "comment_group_id": 1987858,
+    "published_at": "2021-01-22T06:26:26+00:00",
+    "display_name": "",
+    "total": 330,
+    "answers": [
+        {
+            "id": 15668,
+            "answer": "Ja, Fasel hat wirklich Pech gehabt.",
+            "votes": 122,
+            "order": 0
+        },
+        {
+            "id": 15667,
+            "answer": "Nein, die ganze Situation war eine Frechheit.",
+            "votes": 208,
+            "order": 1
+        }
+    ]
+}

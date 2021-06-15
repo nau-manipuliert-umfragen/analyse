@@ -1,0 +1,25 @@
+{
+    "id": 7752,
+    "question": "Schafft Vaduz den Klassenerhalt in der Super League?",
+    "created_at": "2021-03-03T20:45:11+00:00",
+    "updated_at": "2021-06-14T10:25:31+00:00",
+    "end_at": null,
+    "comment_group_id": 2047131,
+    "published_at": "2021-03-03T21:29:50+00:00",
+    "display_name": "",
+    "total": 95,
+    "answers": [
+        {
+            "id": 17854,
+            "answer": "Ja",
+            "votes": 36,
+            "order": 0
+        },
+        {
+            "id": 17853,
+            "answer": "Nein",
+            "votes": 59,
+            "order": 1
+        }
+    ]
+}

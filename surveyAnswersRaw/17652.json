@@ -1,0 +1,31 @@
+{
+    "id": 7662,
+    "question": "Wer steigt aus der Super League ab?",
+    "created_at": "2021-02-28T15:50:46+00:00",
+    "updated_at": "2021-06-14T09:38:57+00:00",
+    "end_at": null,
+    "comment_group_id": 2041925,
+    "published_at": "2021-03-14T16:58:29+00:00",
+    "display_name": "",
+    "total": 192,
+    "answers": [
+        {
+            "id": 17650,
+            "answer": "FC Vaduz",
+            "votes": 57,
+            "order": 0
+        },
+        {
+            "id": 17651,
+            "answer": "FC Sion",
+            "votes": 97,
+            "order": 1
+        },
+        {
+            "id": 17652,
+            "answer": "Ein anderer Verein",
+            "votes": 38,
+            "order": 2
+        }
+    ]
+}

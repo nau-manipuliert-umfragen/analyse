@@ -1,0 +1,31 @@
+{
+    "id": 2556,
+    "question": "Wer holt sich den Meistertitel?",
+    "created_at": "2020-01-14T14:32:25+00:00",
+    "updated_at": "2021-06-14T09:35:07+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 908,
+    "answers": [
+        {
+            "id": 6422,
+            "answer": "Ganz klar: Der FCB wird Meister.",
+            "votes": 461,
+            "order": 0
+        },
+        {
+            "id": 6421,
+            "answer": "YB sichert sich den Hattrick.",
+            "votes": 363,
+            "order": 1
+        },
+        {
+            "id": 6420,
+            "answer": "St.Gallen holt sich den Kübel als lachender Dritter.",
+            "votes": 84,
+            "order": 2
+        }
+    ]
+}

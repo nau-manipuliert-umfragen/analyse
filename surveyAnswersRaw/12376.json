@@ -1,0 +1,25 @@
+{
+    "id": 5283,
+    "question": "Spielt Hoarau nach seiner YB-Zeit noch für einen anderen Verein?",
+    "created_at": "2020-08-28T05:57:37+00:00",
+    "updated_at": "2021-06-14T09:37:07+00:00",
+    "end_at": null,
+    "comment_group_id": 1770959,
+    "published_at": "2020-08-28T08:20:41+00:00",
+    "display_name": "",
+    "total": 388,
+    "answers": [
+        {
+            "id": 12375,
+            "answer": "Ja, der Franzose macht weiter!",
+            "votes": 250,
+            "order": 0
+        },
+        {
+            "id": 12376,
+            "answer": "Nein, nach dem Cupfinal ist Schluss.",
+            "votes": 138,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 2408,
+    "question": "Schlagen die Berner am Eidgenössischen zurück?",
+    "created_at": "2019-07-29T11:10:13+00:00",
+    "updated_at": "2021-06-14T10:21:15+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 207,
+    "answers": [
+        {
+            "id": 6064,
+            "answer": "Nein",
+            "votes": 100,
+            "order": 100
+        },
+        {
+            "id": 6065,
+            "answer": "Ja",
+            "votes": 107,
+            "order": 100
+        }
+    ]
+}

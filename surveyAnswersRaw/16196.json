@@ -1,0 +1,25 @@
+{
+    "id": 7013,
+    "question": "Was halten Sie von der Reproduktionszahl?",
+    "created_at": "2021-02-03T16:49:57+00:00",
+    "updated_at": "2021-06-14T09:38:25+00:00",
+    "end_at": null,
+    "comment_group_id": 2006331,
+    "published_at": "2021-02-13T15:13:10+00:00",
+    "display_name": "",
+    "total": 18974,
+    "answers": [
+        {
+            "id": 16196,
+            "answer": "Sie ist korrekt berechnet und sollte als entscheidender Wert für Massnahmen gelten.",
+            "votes": 3070,
+            "order": 0
+        },
+        {
+            "id": 16197,
+            "answer": "Sie ist viel zu ungenau, um die ganze Schweiz über Monate lahm zu legen.",
+            "votes": 15904,
+            "order": 1
+        }
+    ]
+}

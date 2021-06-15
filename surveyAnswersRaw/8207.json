@@ -1,0 +1,25 @@
+{
+    "id": 3360,
+    "question": "Bleibt Denis Zakaria nach der laufenden Spielzeit bei Borussia Mönchengladbach?",
+    "created_at": "2020-03-08T15:22:23+00:00",
+    "updated_at": "2021-06-14T09:35:48+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 158,
+    "answers": [
+        {
+            "id": 8206,
+            "answer": "Ja, bei den Fohlen weiss er was er hat.",
+            "votes": 103,
+            "order": 0
+        },
+        {
+            "id": 8207,
+            "answer": "Nein, im Sommer wagt er den Schritt zu einem grösseren Verein.",
+            "votes": 55,
+            "order": 1
+        }
+    ]
+}

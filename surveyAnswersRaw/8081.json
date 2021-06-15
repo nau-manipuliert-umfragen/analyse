@@ -1,0 +1,37 @@
+{
+    "id": 3301,
+    "question": "Wer gewinnt den DFB-Pokal?",
+    "created_at": "2020-03-04T21:10:07+00:00",
+    "updated_at": "2021-06-14T09:35:45+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 112,
+    "answers": [
+        {
+            "id": 8079,
+            "answer": "Bayern München",
+            "votes": 32,
+            "order": 0
+        },
+        {
+            "id": 8081,
+            "answer": "Bayer Leverkusen",
+            "votes": 21,
+            "order": 1
+        },
+        {
+            "id": 8080,
+            "answer": "1. FC Saarbrücken",
+            "votes": 24,
+            "order": 2
+        },
+        {
+            "id": 8082,
+            "answer": "Eintracht Frankfurt",
+            "votes": 35,
+            "order": 3
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 7256,
+    "question": "Nvidia oder AMD?",
+    "created_at": "2021-02-12T16:39:54+00:00",
+    "updated_at": "2021-06-14T09:38:38+00:00",
+    "end_at": null,
+    "comment_group_id": 2019693,
+    "published_at": "2021-06-04T07:16:39+00:00",
+    "display_name": "",
+    "total": 962,
+    "answers": [
+        {
+            "id": 16749,
+            "answer": "Ganz klar AMD!",
+            "votes": 229,
+            "order": 0
+        },
+        {
+            "id": 16750,
+            "answer": "Ich bin Team Nvidia.",
+            "votes": 733,
+            "order": 1
+        }
+    ]
+}

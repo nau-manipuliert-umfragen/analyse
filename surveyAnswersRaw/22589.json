@@ -1,0 +1,25 @@
+{
+    "id": 9976,
+    "question": "Nehmen Sie das CO2-Gesetz an?",
+    "created_at": "2021-06-09T08:14:25+00:00",
+    "updated_at": "2021-06-10T08:12:13+00:00",
+    "end_at": "2021-06-10T08:14:22+00:00",
+    "comment_group_id": 2197540,
+    "published_at": "2021-06-09T12:00:20+00:00",
+    "display_name": "",
+    "total": 1996,
+    "answers": [
+        {
+            "id": 22588,
+            "answer": "Ja.",
+            "votes": 418,
+            "order": 0
+        },
+        {
+            "id": 22589,
+            "answer": "Nein.",
+            "votes": 1578,
+            "order": 1
+        }
+    ]
+}

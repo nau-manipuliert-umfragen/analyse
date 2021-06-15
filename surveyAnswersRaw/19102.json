@@ -1,0 +1,25 @@
+{
+    "id": 8343,
+    "question": "Gefällt Ihnen dieser Hunde-Haarschnitt?",
+    "created_at": "2021-03-27T15:07:53+00:00",
+    "updated_at": "2021-06-14T09:39:34+00:00",
+    "end_at": null,
+    "comment_group_id": 2081769,
+    "published_at": "2021-03-27T15:39:39+00:00",
+    "display_name": "",
+    "total": 872,
+    "answers": [
+        {
+            "id": 19102,
+            "answer": "Ja, sieht doch cool aus.",
+            "votes": 119,
+            "order": 0
+        },
+        {
+            "id": 19103,
+            "answer": "Nein, der arme Hund.",
+            "votes": 753,
+            "order": 1
+        }
+    ]
+}

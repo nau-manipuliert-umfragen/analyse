@@ -1,0 +1,25 @@
+{
+    "id": 9664,
+    "question": "Trauen Sie Werder Bremen den Wiederaufstieg zu?",
+    "created_at": "2021-05-25T06:54:17+00:00",
+    "updated_at": "2021-06-14T09:40:48+00:00",
+    "end_at": null,
+    "comment_group_id": 2174202,
+    "published_at": "2021-05-25T11:23:27+00:00",
+    "display_name": "",
+    "total": 367,
+    "answers": [
+        {
+            "id": 21905,
+            "answer": "Ja",
+            "votes": 183,
+            "order": 0
+        },
+        {
+            "id": 21906,
+            "answer": "Nein",
+            "votes": 184,
+            "order": 1
+        }
+    ]
+}

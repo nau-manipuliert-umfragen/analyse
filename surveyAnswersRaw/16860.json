@@ -1,0 +1,25 @@
+{
+    "id": 7305,
+    "question": "Öffentliche Liebesbekundungen am Valentinstag?",
+    "created_at": "2021-02-15T13:56:00+00:00",
+    "updated_at": "2021-06-14T09:38:41+00:00",
+    "end_at": null,
+    "comment_group_id": 2023108,
+    "published_at": "2021-02-15T15:09:36+00:00",
+    "display_name": "",
+    "total": 180,
+    "answers": [
+        {
+            "id": 16860,
+            "answer": "Warum nicht? Ist doch nicht schlimm!",
+            "votes": 88,
+            "order": 0
+        },
+        {
+            "id": 16859,
+            "answer": "Geht gar nicht!",
+            "votes": 92,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 3703,
+    "question": "Soll Roger Federer noch weiterspielen?",
+    "created_at": "2020-04-01T16:28:29+00:00",
+    "updated_at": "2021-06-14T09:36:02+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 377,
+    "answers": [
+        {
+            "id": 8947,
+            "answer": "Unbedingt, er gehört immer noch zu den Besten!",
+            "votes": 288,
+            "order": 0
+        },
+        {
+            "id": 8946,
+            "answer": "Nein, seine Zeit ist abgelaufen.",
+            "votes": 89,
+            "order": 1
+        }
+    ]
+}

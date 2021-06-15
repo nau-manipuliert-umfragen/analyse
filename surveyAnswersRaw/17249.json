@@ -1,0 +1,25 @@
+{
+    "id": 7480,
+    "question": "Verbringen Sie Ostern trotz Corona im Tessin?",
+    "created_at": "2021-02-22T08:26:49+00:00",
+    "updated_at": "2021-06-14T09:38:48+00:00",
+    "end_at": null,
+    "comment_group_id": 2032617,
+    "published_at": "2021-02-22T17:01:02+00:00",
+    "display_name": "",
+    "total": 597,
+    "answers": [
+        {
+            "id": 17248,
+            "answer": "Ja, ich muss endlich mal wieder weg von zu Hause.",
+            "votes": 213,
+            "order": 0
+        },
+        {
+            "id": 17249,
+            "answer": "Nein, ohne Restaurants und Bars ist es doch langweilig.",
+            "votes": 384,
+            "order": 1
+        }
+    ]
+}

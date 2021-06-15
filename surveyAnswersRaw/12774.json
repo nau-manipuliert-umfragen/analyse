@@ -1,0 +1,25 @@
+{
+    "id": 5457,
+    "question": "Würden sie sich für ein Erdgas-Auto entscheiden?",
+    "created_at": "2020-09-15T13:08:35+00:00",
+    "updated_at": "2021-06-14T10:23:39+00:00",
+    "end_at": null,
+    "comment_group_id": 1801493,
+    "published_at": "2020-09-15T13:10:14+00:00",
+    "display_name": "",
+    "total": 87,
+    "answers": [
+        {
+            "id": 12773,
+            "answer": "Ja, die umweltfreundliche Technik ist interessant.",
+            "votes": 41,
+            "order": 0
+        },
+        {
+            "id": 12774,
+            "answer": "Nein, das Tankstellennetz ist zu dünn und die Vorteile zu gering.",
+            "votes": 46,
+            "order": 1
+        }
+    ]
+}

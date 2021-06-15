@@ -1,0 +1,25 @@
+{
+    "id": 8742,
+    "question": "Was halten Sie vom Schritt der Muttenzerkurve, die Saison-Abis abzugeben?",
+    "created_at": "2021-04-14T07:33:27+00:00",
+    "updated_at": "2021-06-14T09:39:55+00:00",
+    "end_at": null,
+    "comment_group_id": 2106560,
+    "published_at": "2021-04-16T15:05:10+00:00",
+    "display_name": "",
+    "total": 2357,
+    "answers": [
+        {
+            "id": 19926,
+            "answer": "Nur so kann Burgener umgestimmt werden!",
+            "votes": 1704,
+            "order": 0
+        },
+        {
+            "id": 19927,
+            "answer": "Das ist der falsche Ansatz.",
+            "votes": 653,
+            "order": 1
+        }
+    ]
+}

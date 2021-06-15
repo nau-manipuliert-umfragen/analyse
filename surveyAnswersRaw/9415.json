@@ -1,0 +1,25 @@
+{
+    "id": 3926,
+    "question": "Was halten Sie von der Kreativität der Bachelorette-Kandidaten?",
+    "created_at": "2020-04-19T09:00:38+00:00",
+    "updated_at": "2021-06-14T09:36:11+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 106,
+    "answers": [
+        {
+            "id": 9415,
+            "answer": "WOW!",
+            "votes": 29,
+            "order": 0
+        },
+        {
+            "id": 9416,
+            "answer": "Witzig, die haben sich wenigstens mal was einfallen lassen.",
+            "votes": 77,
+            "order": 1
+        }
+    ]
+}

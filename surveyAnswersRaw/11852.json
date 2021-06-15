@@ -1,0 +1,25 @@
+{
+    "id": 5040,
+    "question": "Kann der BVB Bayern nächste Saison als Meister ablösen?",
+    "created_at": "2020-08-03T07:32:46+00:00",
+    "updated_at": "2021-06-14T09:36:57+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 197,
+    "answers": [
+        {
+            "id": 11853,
+            "answer": "Ja",
+            "votes": 95,
+            "order": 0
+        },
+        {
+            "id": 11852,
+            "answer": "Nein",
+            "votes": 102,
+            "order": 1
+        }
+    ]
+}

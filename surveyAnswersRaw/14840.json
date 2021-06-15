@@ -1,0 +1,25 @@
+{
+    "id": 6391,
+    "question": "Haben Sie schon alle Weihnachtsgeschenke?",
+    "created_at": "2020-12-21T10:46:43+00:00",
+    "updated_at": "2021-06-14T09:37:59+00:00",
+    "end_at": null,
+    "comment_group_id": 1949217,
+    "published_at": "2020-12-21T18:08:26+00:00",
+    "display_name": "",
+    "total": 159,
+    "answers": [
+        {
+            "id": 14841,
+            "answer": "Ja.",
+            "votes": 107,
+            "order": 0
+        },
+        {
+            "id": 14840,
+            "answer": "Nein.",
+            "votes": 52,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 9368,
+    "question": "Was halten Sie vom kleinen Surfmissgeschick von Ivanka Trump?",
+    "created_at": "2021-05-11T12:19:45+00:00",
+    "updated_at": "2021-06-14T10:26:47+00:00",
+    "end_at": null,
+    "comment_group_id": 2151958,
+    "published_at": "2021-05-11T14:29:31+00:00",
+    "display_name": "",
+    "total": 766,
+    "answers": [
+        {
+            "id": 21275,
+            "answer": "Armer Theo, aber etwas witzig sieht es schon aus!",
+            "votes": 406,
+            "order": 0
+        },
+        {
+            "id": 21276,
+            "answer": "Sie hätte besser aufpassen sollen.",
+            "votes": 360,
+            "order": 1
+        }
+    ]
+}

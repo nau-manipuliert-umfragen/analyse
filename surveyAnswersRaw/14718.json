@@ -1,0 +1,25 @@
+{
+    "id": 6337,
+    "question": "Finden Sie sich auf Fotos schöner als in echt?",
+    "created_at": "2020-12-16T08:07:08+00:00",
+    "updated_at": "2021-06-14T09:37:57+00:00",
+    "end_at": null,
+    "comment_group_id": 1942228,
+    "published_at": "2020-12-16T09:07:41+00:00",
+    "display_name": "",
+    "total": 237,
+    "answers": [
+        {
+            "id": 14718,
+            "answer": "Nein, ich bin nicht fotogen.",
+            "votes": 169,
+            "order": 0
+        },
+        {
+            "id": 14719,
+            "answer": "Ja, dann kann ich den richtigen Winkel selber wählen.",
+            "votes": 68,
+            "order": 1
+        }
+    ]
+}

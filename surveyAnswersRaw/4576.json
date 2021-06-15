@@ -1,0 +1,25 @@
+{
+    "id": 1753,
+    "question": "Freuen Sie sich auf das Ende der Hitzewelle?",
+    "created_at": "2018-08-06T01:08:47+00:00",
+    "updated_at": "2021-06-14T09:34:36+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 734,
+    "answers": [
+        {
+            "id": 4576,
+            "answer": "Endlich! Ich kann kaum noch schlafen bei dieser Hitze.",
+            "votes": 608,
+            "order": 100
+        },
+        {
+            "id": 4582,
+            "answer": "Nein! Meiner Meinung nach dürfte es immer so warm sein.",
+            "votes": 126,
+            "order": 100
+        }
+    ]
+}

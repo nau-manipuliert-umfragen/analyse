@@ -1,0 +1,43 @@
+{
+    "id": 3388,
+    "question": "Welches Betriebssystem nutzen Sie?",
+    "created_at": "2020-03-10T10:01:14+00:00",
+    "updated_at": "2021-06-14T10:22:05+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": "2021-02-22T15:10:41+00:00",
+    "display_name": "",
+    "total": 828,
+    "answers": [
+        {
+            "id": 8273,
+            "answer": "Windows",
+            "votes": 321,
+            "order": 0
+        },
+        {
+            "id": 8272,
+            "answer": "Eine Linux-Distribution",
+            "votes": 106,
+            "order": 1
+        },
+        {
+            "id": 8271,
+            "answer": "MacOS",
+            "votes": 317,
+            "order": 2
+        },
+        {
+            "id": 8270,
+            "answer": "Andere",
+            "votes": 31,
+            "order": 3
+        },
+        {
+            "id": 17310,
+            "answer": "Chrome OS",
+            "votes": 53,
+            "order": 4
+        }
+    ]
+}

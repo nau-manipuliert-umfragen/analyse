@@ -1,0 +1,25 @@
+{
+    "id": 7887,
+    "question": "Ist Ronaldo Schuld am Juve-Ausscheiden?",
+    "created_at": "2021-03-10T11:07:33+00:00",
+    "updated_at": "2021-06-14T09:39:10+00:00",
+    "end_at": null,
+    "comment_group_id": 2056361,
+    "published_at": "2021-03-10T11:32:17+00:00",
+    "display_name": "",
+    "total": 308,
+    "answers": [
+        {
+            "id": 18149,
+            "answer": "Ja, das war keine Mauer!",
+            "votes": 209,
+            "order": 0
+        },
+        {
+            "id": 18150,
+            "answer": "Nein, da waren ja noch andere Spieler...",
+            "votes": 99,
+            "order": 1
+        }
+    ]
+}

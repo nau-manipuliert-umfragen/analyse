@@ -1,0 +1,37 @@
+{
+    "id": 1795,
+    "question": "Die Juso-Präsidentin Tamara Funiciello findet den Sommerhit «079» sexistisch. Was denken Sie?",
+    "created_at": "2018-08-13T20:37:14+00:00",
+    "updated_at": "2021-06-14T10:20:48+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 759,
+    "answers": [
+        {
+            "id": 4693,
+            "answer": "Ist mir eigentlich egal, der Song nervt mich eh!",
+            "votes": 95,
+            "order": 100
+        },
+        {
+            "id": 4699,
+            "answer": "Sie liegt absolut richtig. Gut, dass dies Mal jemand anspricht!",
+            "votes": 81,
+            "order": 100
+        },
+        {
+            "id": 4702,
+            "answer": "Lasst Musik, doch einfach Musik sein!",
+            "votes": 270,
+            "order": 100
+        },
+        {
+            "id": 4708,
+            "answer": "Ich habe keine Ahnung, was die junge Frau meint!",
+            "votes": 313,
+            "order": 100
+        }
+    ]
+}

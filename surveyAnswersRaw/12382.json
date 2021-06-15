@@ -1,0 +1,25 @@
+{
+    "id": 5286,
+    "question": "Was halten Sie von Shaqiris Nicht-Nomination für die Nations-League-Spiele?",
+    "created_at": "2020-08-28T11:14:54+00:00",
+    "updated_at": "2021-06-14T09:37:07+00:00",
+    "end_at": null,
+    "comment_group_id": 1771735,
+    "published_at": "2020-08-28T11:45:31+00:00",
+    "display_name": "",
+    "total": 687,
+    "answers": [
+        {
+            "id": 12381,
+            "answer": "Finde ich richtig, ihm fehlt die Spielpraxis.",
+            "votes": 516,
+            "order": 0
+        },
+        {
+            "id": 12382,
+            "answer": "Er hätte ein Aufgebot verdient gehabt.",
+            "votes": 171,
+            "order": 1
+        }
+    ]
+}

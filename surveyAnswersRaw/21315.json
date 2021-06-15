@@ -1,0 +1,25 @@
+{
+    "id": 9387,
+    "question": "Wer steigt direkt auf?",
+    "created_at": "2021-05-12T08:41:53+00:00",
+    "updated_at": "2021-06-14T09:40:31+00:00",
+    "end_at": null,
+    "comment_group_id": 2153233,
+    "published_at": "2021-05-15T05:22:33+00:00",
+    "display_name": "",
+    "total": 1875,
+    "answers": [
+        {
+            "id": 21316,
+            "answer": "GC",
+            "votes": 1204,
+            "order": 0
+        },
+        {
+            "id": 21315,
+            "answer": "Thun",
+            "votes": 671,
+            "order": 1
+        }
+    ]
+}

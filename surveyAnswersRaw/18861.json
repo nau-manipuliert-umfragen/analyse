@@ -1,0 +1,25 @@
+{
+    "id": 8230,
+    "question": "Schlägt sich die Schweiz gut in der Coronavirus-Krise?",
+    "created_at": "2021-03-23T06:09:23+00:00",
+    "updated_at": "2021-06-14T09:39:28+00:00",
+    "end_at": null,
+    "comment_group_id": 2074829,
+    "published_at": "2021-03-23T08:15:56+00:00",
+    "display_name": "",
+    "total": 1649,
+    "answers": [
+        {
+            "id": 18861,
+            "answer": "Nein, wir kriegen das besser hin.",
+            "votes": 1137,
+            "order": 0
+        },
+        {
+            "id": 18860,
+            "answer": "Ja, die Schweiz kommt gut durch die Krise.",
+            "votes": 512,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 9238,
+    "question": "Halten Sie Ihre Kontogebühren für angemessen?",
+    "created_at": "2021-05-05T08:24:46+00:00",
+    "updated_at": "2021-05-06T08:20:59+00:00",
+    "end_at": "2021-05-06T08:24:43+00:00",
+    "comment_group_id": 2142098,
+    "published_at": "2021-05-05T14:05:00+00:00",
+    "display_name": "",
+    "total": 590,
+    "answers": [
+        {
+            "id": 20996,
+            "answer": "Ja.",
+            "votes": 109,
+            "order": 0
+        },
+        {
+            "id": 20995,
+            "answer": "Nein.",
+            "votes": 481,
+            "order": 1
+        }
+    ]
+}

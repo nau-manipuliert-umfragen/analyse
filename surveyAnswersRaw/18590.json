@@ -1,0 +1,25 @@
+{
+    "id": 8102,
+    "question": "Ein Bauer ohne Bauernhof?",
+    "created_at": "2021-03-18T10:46:56+00:00",
+    "updated_at": "2021-06-14T09:39:21+00:00",
+    "end_at": null,
+    "comment_group_id": 2068380,
+    "published_at": "2021-03-18T14:05:16+00:00",
+    "display_name": "",
+    "total": 2707,
+    "answers": [
+        {
+            "id": 18589,
+            "answer": "Geht nicht!",
+            "votes": 2118,
+            "order": 0
+        },
+        {
+            "id": 18590,
+            "answer": "Ja, wieso nicht?",
+            "votes": 589,
+            "order": 1
+        }
+    ]
+}

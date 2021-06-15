@@ -1,0 +1,25 @@
+{
+    "id": 5999,
+    "question": "Und? Wer hats jetzt erfunden?",
+    "created_at": "2020-11-10T08:12:14+00:00",
+    "updated_at": "2021-06-14T09:37:39+00:00",
+    "end_at": null,
+    "comment_group_id": 1892429,
+    "published_at": null,
+    "display_name": "",
+    "total": 123,
+    "answers": [
+        {
+            "id": 13955,
+            "answer": "Die Deutschen!",
+            "votes": 56,
+            "order": 0
+        },
+        {
+            "id": 13956,
+            "answer": "Nein, die Russen.",
+            "votes": 67,
+            "order": 1
+        }
+    ]
+}

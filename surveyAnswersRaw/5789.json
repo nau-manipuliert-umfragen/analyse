@@ -1,0 +1,31 @@
+{
+    "id": 2289,
+    "question": "Wer gewinnt die heutige Partie?",
+    "created_at": "2018-11-29T14:50:33+00:00",
+    "updated_at": "2021-06-14T09:34:55+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 71,
+    "answers": [
+        {
+            "id": 5788,
+            "answer": "Larnaca gewinnt.",
+            "votes": 23,
+            "order": 100
+        },
+        {
+            "id": 5789,
+            "answer": "Der FCZ setzt sich durch.",
+            "votes": 27,
+            "order": 100
+        },
+        {
+            "id": 5790,
+            "answer": "Die Teams trennen sich unentschieden.",
+            "votes": 21,
+            "order": 100
+        }
+    ]
+}

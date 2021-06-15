@@ -1,0 +1,25 @@
+{
+    "id": 3711,
+    "question": "Was halten Sie von der Schutzausrüstung des Paares beim Einkaufen?",
+    "created_at": "2020-04-02T08:10:44+00:00",
+    "updated_at": "2021-06-14T10:22:20+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 211,
+    "answers": [
+        {
+            "id": 8963,
+            "answer": "Völlig übertrieben. Die beiden sollen sich mal entspannen.",
+            "votes": 144,
+            "order": 0
+        },
+        {
+            "id": 8964,
+            "answer": "Sich und andere schützen - vorbildlich!",
+            "votes": 67,
+            "order": 1
+        }
+    ]
+}

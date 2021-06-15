@@ -1,0 +1,25 @@
+{
+    "id": 6706,
+    "question": "Startet Xherdan Shaqiri jetzt voll durch?",
+    "created_at": "2021-01-18T10:08:50+00:00",
+    "updated_at": "2021-06-14T09:38:12+00:00",
+    "end_at": null,
+    "comment_group_id": 1982129,
+    "published_at": "2021-01-18T10:56:37+00:00",
+    "display_name": "",
+    "total": 270,
+    "answers": [
+        {
+            "id": 15522,
+            "answer": "Ja, der Nati-Star gehört in die Stammelf!",
+            "votes": 152,
+            "order": 0
+        },
+        {
+            "id": 15521,
+            "answer": "Nein, in den nächsten Spielen ruft die Bank.",
+            "votes": 118,
+            "order": 1
+        }
+    ]
+}

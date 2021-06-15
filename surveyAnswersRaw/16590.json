@@ -1,0 +1,25 @@
+{
+    "id": 7186,
+    "question": "Wie gefällt Ihnen Honegger in Grau?",
+    "created_at": "2021-02-11T07:42:45+00:00",
+    "updated_at": "2021-06-14T09:38:35+00:00",
+    "end_at": null,
+    "comment_group_id": 2016827,
+    "published_at": null,
+    "display_name": "",
+    "total": 1009,
+    "answers": [
+        {
+            "id": 16590,
+            "answer": "Steht ihm super.",
+            "votes": 909,
+            "order": 0
+        },
+        {
+            "id": 16589,
+            "answer": "Bitte Haare färben!",
+            "votes": 100,
+            "order": 1
+        }
+    ]
+}

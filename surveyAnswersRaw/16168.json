@@ -1,0 +1,31 @@
+{
+    "id": 7000,
+    "question": "Wird Ihr nächstes Auto ein Stromer sein?",
+    "created_at": "2021-02-03T10:56:15+00:00",
+    "updated_at": "2021-06-14T09:38:24+00:00",
+    "end_at": null,
+    "comment_group_id": 2005659,
+    "published_at": "2021-02-06T13:04:06+00:00",
+    "display_name": "",
+    "total": 1054,
+    "answers": [
+        {
+            "id": 16168,
+            "answer": "Ja, ich werde mir ein E-Auto kaufen.",
+            "votes": 399,
+            "order": 0
+        },
+        {
+            "id": 16170,
+            "answer": "Ja, mein nächstes Auto ist ein Plug-in-Hybrid.",
+            "votes": 141,
+            "order": 1
+        },
+        {
+            "id": 16169,
+            "answer": "Nein, ich bleibe dem Verbrennungsmotor treu.",
+            "votes": 514,
+            "order": 2
+        }
+    ]
+}

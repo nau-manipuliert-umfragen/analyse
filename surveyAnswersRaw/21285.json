@@ -1,0 +1,31 @@
+{
+    "id": 9373,
+    "question": "Ernähren Sie sich hauptsächlich pflanzlich?",
+    "created_at": "2021-05-11T13:05:02+00:00",
+    "updated_at": "2021-05-11T18:30:44+00:00",
+    "end_at": "2021-05-11T13:03:53+00:00",
+    "comment_group_id": 2152044,
+    "published_at": "2021-05-11T18:30:43+00:00",
+    "display_name": "",
+    "total": 60,
+    "answers": [
+        {
+            "id": 21287,
+            "answer": "Ja, mir ist nachhaltige Ernährung besonders wichtig.",
+            "votes": 20,
+            "order": 0
+        },
+        {
+            "id": 21285,
+            "answer": "Nein, auf Tierprodukte will ich nicht verzichten.",
+            "votes": 20,
+            "order": 1
+        },
+        {
+            "id": 21286,
+            "answer": "Ich bevorzuge einen Mittelweg.",
+            "votes": 20,
+            "order": 2
+        }
+    ]
+}

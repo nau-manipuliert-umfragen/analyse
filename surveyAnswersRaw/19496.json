@@ -1,0 +1,25 @@
+{
+    "id": 8535,
+    "question": "Freuen Sie sich auf den Schnee?",
+    "created_at": "2021-04-05T17:00:57+00:00",
+    "updated_at": "2021-06-14T09:39:44+00:00",
+    "end_at": null,
+    "comment_group_id": 2093477,
+    "published_at": "2021-04-05T17:01:20+00:00",
+    "display_name": "",
+    "total": 1119,
+    "answers": [
+        {
+            "id": 19496,
+            "answer": "Nein, ich will endlich Sommer!",
+            "votes": 892,
+            "order": 0
+        },
+        {
+            "id": 19497,
+            "answer": "Ja, ich liebe den Winter.",
+            "votes": 227,
+            "order": 1
+        }
+    ]
+}

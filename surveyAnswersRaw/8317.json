@@ -1,0 +1,25 @@
+{
+    "id": 3407,
+    "question": "Kommt Basel in der Europa League gegen Frankfurt weiter?",
+    "created_at": "2020-03-11T06:03:11+00:00",
+    "updated_at": "2021-06-14T09:35:50+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 84,
+    "answers": [
+        {
+            "id": 8317,
+            "answer": "Ja, in der leichten Aussenseiterrolle können die Bebbi befreit aufspielen.",
+            "votes": 46,
+            "order": 0
+        },
+        {
+            "id": 8316,
+            "answer": "Nein, die Eintracht ist für den FCB eine Nummer zu gross.",
+            "votes": 38,
+            "order": 1
+        }
+    ]
+}

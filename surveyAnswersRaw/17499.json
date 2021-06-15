@@ -1,0 +1,25 @@
+{
+    "id": 7590,
+    "question": "Verstehen Sie Wirte, die den Bundesräten Hausverbot erteilen?",
+    "created_at": "2021-02-25T13:27:43+00:00",
+    "updated_at": "2021-06-14T09:38:53+00:00",
+    "end_at": null,
+    "comment_group_id": 2037905,
+    "published_at": "2021-02-26T16:00:09+00:00",
+    "display_name": "",
+    "total": 2853,
+    "answers": [
+        {
+            "id": 17498,
+            "answer": "Ja, das haben sie verdient.",
+            "votes": 2224,
+            "order": 0
+        },
+        {
+            "id": 17499,
+            "answer": "Nein, das ist ein schlechter «Gag».",
+            "votes": 629,
+            "order": 1
+        }
+    ]
+}

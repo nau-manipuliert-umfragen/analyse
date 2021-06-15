@@ -1,0 +1,25 @@
+{
+    "id": 7604,
+    "question": "War Arthur Honegger zu kritisch mit der SVP?",
+    "created_at": "2021-02-26T08:44:37+00:00",
+    "updated_at": "2021-06-14T09:38:54+00:00",
+    "end_at": null,
+    "comment_group_id": 2039047,
+    "published_at": "2021-02-26T09:03:17+00:00",
+    "display_name": "",
+    "total": 12066,
+    "answers": [
+        {
+            "id": 17531,
+            "answer": "Ja, er sollte neutral bleiben.",
+            "votes": 3316,
+            "order": 0
+        },
+        {
+            "id": 17530,
+            "answer": "Nein, seine Reaktion war berechtigt.",
+            "votes": 8750,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 5398,
+    "question": "Kann Messi den FC Barcelona zu alter Stärke zurückführen?",
+    "created_at": "2020-09-09T11:45:52+00:00",
+    "updated_at": "2021-06-14T09:37:11+00:00",
+    "end_at": null,
+    "comment_group_id": 1791491,
+    "published_at": "2020-09-15T05:23:25+00:00",
+    "display_name": "",
+    "total": 420,
+    "answers": [
+        {
+            "id": 12635,
+            "answer": "Ja",
+            "votes": 166,
+            "order": 0
+        },
+        {
+            "id": 12634,
+            "answer": "Nein",
+            "votes": 254,
+            "order": 1
+        }
+    ]
+}

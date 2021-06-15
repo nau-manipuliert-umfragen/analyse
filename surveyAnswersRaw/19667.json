@@ -1,0 +1,25 @@
+{
+    "id": 8616,
+    "question": "Schafft Ajax Amsterdam in Rom noch die Wende?",
+    "created_at": "2021-04-09T07:36:04+00:00",
+    "updated_at": "2021-06-14T09:39:48+00:00",
+    "end_at": null,
+    "comment_group_id": 2099742,
+    "published_at": "2021-04-09T12:07:59+00:00",
+    "display_name": "",
+    "total": 72,
+    "answers": [
+        {
+            "id": 19667,
+            "answer": "Ja.",
+            "votes": 33,
+            "order": 0
+        },
+        {
+            "id": 19668,
+            "answer": "Nein.",
+            "votes": 39,
+            "order": 1
+        }
+    ]
+}

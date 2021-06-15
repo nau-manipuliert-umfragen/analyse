@@ -1,0 +1,25 @@
+{
+    "id": 2484,
+    "question": "Ist Ludovic Magnin der richtige Trainer für den FCZ?",
+    "created_at": "2019-09-26T11:23:14+00:00",
+    "updated_at": "2021-06-14T09:35:04+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 412,
+    "answers": [
+        {
+            "id": 6248,
+            "answer": "Ja, er hat aber nicht die richtigen Spieler.",
+            "votes": 100,
+            "order": 0
+        },
+        {
+            "id": 6249,
+            "answer": "Nein, er ist fehl am Platz.",
+            "votes": 312,
+            "order": 1
+        }
+    ]
+}

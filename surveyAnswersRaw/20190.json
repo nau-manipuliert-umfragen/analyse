@@ -1,0 +1,31 @@
+{
+    "id": 8865,
+    "question": "Haben Sie durch die Krise finanzielle Einbussen?",
+    "created_at": "2021-04-20T08:04:23+00:00",
+    "updated_at": "2021-04-20T15:29:12+00:00",
+    "end_at": "2021-04-21T08:04:19+00:00",
+    "comment_group_id": 2115261,
+    "published_at": "2021-04-20T08:23:34+00:00",
+    "display_name": "",
+    "total": 153,
+    "answers": [
+        {
+            "id": 20191,
+            "answer": "Ja, ich habe meinen Job verloren.",
+            "votes": 38,
+            "order": 0
+        },
+        {
+            "id": 20189,
+            "answer": "Ja, ich war (oder bin) auf Kurzarbeit.",
+            "votes": 42,
+            "order": 1
+        },
+        {
+            "id": 20190,
+            "answer": "Nein, die Krise tangiert mich finanziell nicht.",
+            "votes": 73,
+            "order": 2
+        }
+    ]
+}

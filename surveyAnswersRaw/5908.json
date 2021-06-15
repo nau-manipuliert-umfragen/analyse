@@ -1,0 +1,31 @@
+{
+    "id": 2341,
+    "question": "Wer wird deutscher Meister 2019?",
+    "created_at": "2019-02-19T10:30:11+00:00",
+    "updated_at": "2021-06-14T09:34:57+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 92,
+    "answers": [
+        {
+            "id": 5906,
+            "answer": "Ein lachender Dritter",
+            "votes": 22,
+            "order": 100
+        },
+        {
+            "id": 5907,
+            "answer": "Bayern München, wie immer",
+            "votes": 36,
+            "order": 100
+        },
+        {
+            "id": 5908,
+            "answer": "Borussia Dortmund schafft es diesmal",
+            "votes": 34,
+            "order": 100
+        }
+    ]
+}

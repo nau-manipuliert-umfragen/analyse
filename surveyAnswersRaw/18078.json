@@ -1,0 +1,25 @@
+{
+    "id": 7855,
+    "question": "Ist das Oprah-Interview der Anfang des Endes für die Royals?",
+    "created_at": "2021-03-09T08:53:29+00:00",
+    "updated_at": "2021-06-14T09:39:07+00:00",
+    "end_at": null,
+    "comment_group_id": 2054512,
+    "published_at": "2021-03-09T11:48:43+00:00",
+    "display_name": "",
+    "total": 686,
+    "answers": [
+        {
+            "id": 18079,
+            "answer": "Nein, in einer Woche interessiert das niemanden mehr.",
+            "votes": 582,
+            "order": 0
+        },
+        {
+            "id": 18078,
+            "answer": "Ja, Meghan hat eine Bombe platzen lassen.",
+            "votes": 104,
+            "order": 1
+        }
+    ]
+}

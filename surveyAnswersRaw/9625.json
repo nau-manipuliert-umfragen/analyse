@@ -1,0 +1,25 @@
+{
+    "id": 4021,
+    "question": "Wird Lara Gut-Behrami auch in der nächsten Saison wieder Siege einfahren?",
+    "created_at": "2020-04-27T07:30:00+00:00",
+    "updated_at": "2021-06-14T09:36:15+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 459,
+    "answers": [
+        {
+            "id": 9626,
+            "answer": "Ja – wenn es ihr läuft, gehört sie zu den besten Fahrerinnen.",
+            "votes": 327,
+            "order": 0
+        },
+        {
+            "id": 9625,
+            "answer": "Nein, sie hat ihren Zenit schon überschritten.",
+            "votes": 132,
+            "order": 1
+        }
+    ]
+}

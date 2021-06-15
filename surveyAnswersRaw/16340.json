@@ -1,0 +1,25 @@
+{
+    "id": 7076,
+    "question": "Sind Sie Fans der britischen Royals?",
+    "created_at": "2021-02-07T08:01:45+00:00",
+    "updated_at": "2021-06-14T09:38:28+00:00",
+    "end_at": null,
+    "comment_group_id": 2010862,
+    "published_at": "2021-05-10T12:00:05+00:00",
+    "display_name": "",
+    "total": 2045,
+    "answers": [
+        {
+            "id": 16339,
+            "answer": "Ja, sehr sogar.",
+            "votes": 1021,
+            "order": 0
+        },
+        {
+            "id": 16340,
+            "answer": "Geht so.",
+            "votes": 1024,
+            "order": 1
+        }
+    ]
+}

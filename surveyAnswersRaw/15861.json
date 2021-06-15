@@ -1,0 +1,25 @@
+{
+    "id": 6863,
+    "question": "Glauben Sie an die heilende Wirkung von Edelsteinen?",
+    "created_at": "2021-01-28T08:00:08+00:00",
+    "updated_at": "2021-06-14T09:38:18+00:00",
+    "end_at": null,
+    "comment_group_id": 1996618,
+    "published_at": "2021-01-28T16:00:08+00:00",
+    "display_name": "",
+    "total": 588,
+    "answers": [
+        {
+            "id": 15861,
+            "answer": "Klar, ich trag auch ein solches Armband!",
+            "votes": 239,
+            "order": 0
+        },
+        {
+            "id": 15860,
+            "answer": "Quatsch, da kann ich mir ja gleich Tarot-Karten legen lassen.",
+            "votes": 349,
+            "order": 1
+        }
+    ]
+}

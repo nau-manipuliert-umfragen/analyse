@@ -1,0 +1,25 @@
+{
+    "id": 8815,
+    "question": "Welches Team setzt sich in der Serie durch?",
+    "created_at": "2021-04-17T19:49:22+00:00",
+    "updated_at": "2021-06-14T09:39:58+00:00",
+    "end_at": null,
+    "comment_group_id": 2112073,
+    "published_at": "2021-04-18T07:46:48+00:00",
+    "display_name": "",
+    "total": 315,
+    "answers": [
+        {
+            "id": 20084,
+            "answer": "SCB",
+            "votes": 97,
+            "order": 0
+        },
+        {
+            "id": 20085,
+            "answer": "EVZ",
+            "votes": 218,
+            "order": 1
+        }
+    ]
+}

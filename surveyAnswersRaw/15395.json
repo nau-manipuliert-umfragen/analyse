@@ -1,0 +1,25 @@
+{
+    "id": 6646,
+    "question": "War das Pokal-Aus der Bayern gegen Kiel verdient?",
+    "created_at": "2021-01-14T06:30:23+00:00",
+    "updated_at": "2021-06-14T10:24:37+00:00",
+    "end_at": null,
+    "comment_group_id": 1976457,
+    "published_at": "2021-01-14T06:41:44+00:00",
+    "display_name": "",
+    "total": 623,
+    "answers": [
+        {
+            "id": 15394,
+            "answer": "Ja, Holstein Kiel war mehr als ebenbürtig!",
+            "votes": 514,
+            "order": 0
+        },
+        {
+            "id": 15395,
+            "answer": "Nein, aber manchmal hat man eben Pech.",
+            "votes": 109,
+            "order": 1
+        }
+    ]
+}

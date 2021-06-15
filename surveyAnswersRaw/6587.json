@@ -1,0 +1,31 @@
+{
+    "id": 2629,
+    "question": "Wer gewinnt den Spitzenkampf zum Rückrunden-Auftakt?",
+    "created_at": "2020-01-20T18:06:12+00:00",
+    "updated_at": "2021-06-14T09:35:12+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 476,
+    "answers": [
+        {
+            "id": 6587,
+            "answer": "YB wird sich den Sieg im eigenen Stadion holen.",
+            "votes": 280,
+            "order": 0
+        },
+        {
+            "id": 6588,
+            "answer": "Der FCB kann auch ohne Stocker und Co. gewinnen.",
+            "votes": 116,
+            "order": 1
+        },
+        {
+            "id": 6589,
+            "answer": "Das Spiel endet mit einem Unentschieden.",
+            "votes": 80,
+            "order": 2
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 8283,
+    "question": "Würden Sie das Angebot annehmen?",
+    "created_at": "2021-03-24T15:36:12+00:00",
+    "updated_at": "2021-06-14T09:39:31+00:00",
+    "end_at": null,
+    "comment_group_id": 2077547,
+    "published_at": "2021-03-24T15:42:03+00:00",
+    "display_name": "",
+    "total": 102,
+    "answers": [
+        {
+            "id": 18973,
+            "answer": "Ja",
+            "votes": 57,
+            "order": 0
+        },
+        {
+            "id": 18974,
+            "answer": "Nein",
+            "votes": 45,
+            "order": 1
+        }
+    ]
+}

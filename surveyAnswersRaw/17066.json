@@ -1,0 +1,25 @@
+{
+    "id": 7394,
+    "question": "Musstest du schon mal jemanden blockieren?",
+    "created_at": "2021-02-18T10:52:23+00:00",
+    "updated_at": "2021-06-14T09:38:45+00:00",
+    "end_at": null,
+    "comment_group_id": 2027769,
+    "published_at": "2021-03-14T18:34:03+00:00",
+    "display_name": "",
+    "total": 245,
+    "answers": [
+        {
+            "id": 17066,
+            "answer": "Ja! Von Stalking kann ich ein Lied singen.",
+            "votes": 138,
+            "order": 0
+        },
+        {
+            "id": 17065,
+            "answer": "Zum Glück nicht!",
+            "votes": 107,
+            "order": 1
+        }
+    ]
+}

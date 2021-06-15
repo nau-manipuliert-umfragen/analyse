@@ -1,0 +1,25 @@
+{
+    "id": 8278,
+    "question": "Freuen Sie sich auf die Wüsten-WM in Katar?",
+    "created_at": "2021-03-24T12:55:10+00:00",
+    "updated_at": "2021-06-14T09:39:30+00:00",
+    "end_at": null,
+    "comment_group_id": 2077168,
+    "published_at": "2021-03-27T17:46:57+00:00",
+    "display_name": "",
+    "total": 1447,
+    "answers": [
+        {
+            "id": 18963,
+            "answer": "Ja.",
+            "votes": 157,
+            "order": 0
+        },
+        {
+            "id": 18964,
+            "answer": "Nein.",
+            "votes": 1290,
+            "order": 1
+        }
+    ]
+}

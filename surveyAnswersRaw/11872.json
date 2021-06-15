@@ -1,0 +1,25 @@
+{
+    "id": 5048,
+    "question": "Was halten Sie von Fernbeziehungen?",
+    "created_at": "2020-08-03T09:49:20+00:00",
+    "updated_at": "2021-06-14T09:36:58+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 336,
+    "answers": [
+        {
+            "id": 11873,
+            "answer": "Das geht auf Dauer nie gut.",
+            "votes": 119,
+            "order": 0
+        },
+        {
+            "id": 11872,
+            "answer": "Schön, wenn man sich nicht ständig gegenseitig auf den Füssen steht.",
+            "votes": 217,
+            "order": 1
+        }
+    ]
+}

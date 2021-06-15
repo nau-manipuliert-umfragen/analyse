@@ -1,0 +1,25 @@
+{
+    "id": 5732,
+    "question": "Denken Sie Phil und Orianne kommen wieder zusammen?",
+    "created_at": "2020-10-13T15:04:06+00:00",
+    "updated_at": "2021-06-14T09:37:25+00:00",
+    "end_at": null,
+    "comment_group_id": 1848280,
+    "published_at": "2020-10-13T17:27:54+00:00",
+    "display_name": "",
+    "total": 466,
+    "answers": [
+        {
+            "id": 13367,
+            "answer": "Nein, zu viel ist passiert.",
+            "votes": 434,
+            "order": 0
+        },
+        {
+            "id": 13366,
+            "answer": "Ja, da sind doch noch Gefühle im Spiel!",
+            "votes": 32,
+            "order": 1
+        }
+    ]
+}

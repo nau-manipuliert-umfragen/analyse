@@ -1,0 +1,25 @@
+{
+    "id": 9220,
+    "question": "Werden Sie die Fortsetzung von «Finding Freedom» lesen?",
+    "created_at": "2021-05-04T13:26:43+00:00",
+    "updated_at": "2021-06-14T09:40:22+00:00",
+    "end_at": null,
+    "comment_group_id": 2139847,
+    "published_at": "2021-05-08T11:08:11+00:00",
+    "display_name": "",
+    "total": 1557,
+    "answers": [
+        {
+            "id": 20960,
+            "answer": "Mehr Drama, immer her damit!",
+            "votes": 117,
+            "order": 0
+        },
+        {
+            "id": 20959,
+            "answer": "Noch mehr Meghan? Sicher nicht.",
+            "votes": 1440,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 3082,
+    "question": "Stimmen Sie Srdjan Djokovic zu?",
+    "created_at": "2020-02-19T07:07:49+00:00",
+    "updated_at": "2021-06-14T09:35:36+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 419,
+    "answers": [
+        {
+            "id": 7589,
+            "answer": "Ja",
+            "votes": 87,
+            "order": 0
+        },
+        {
+            "id": 7588,
+            "answer": "Nein",
+            "votes": 332,
+            "order": 1
+        }
+    ]
+}

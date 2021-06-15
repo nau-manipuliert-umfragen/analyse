@@ -1,0 +1,25 @@
+{
+    "id": 4545,
+    "question": "Was halten Sie von der Warnung für Daniela Katzenberger?",
+    "created_at": "2020-06-10T06:36:19+00:00",
+    "updated_at": "2021-06-14T09:36:38+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 311,
+    "answers": [
+        {
+            "id": 10770,
+            "answer": "Man kann sich auch jeglichen Spass nehmen!",
+            "votes": 237,
+            "order": 0
+        },
+        {
+            "id": 10771,
+            "answer": "Richtig, Eltern sollten viel häufiger auf sowas achten.",
+            "votes": 74,
+            "order": 1
+        }
+    ]
+}

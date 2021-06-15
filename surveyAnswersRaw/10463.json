@@ -1,0 +1,25 @@
+{
+    "id": 4405,
+    "question": "Was halten Sie von den Homeschooling-Problemen der englischen Royals?",
+    "created_at": "2020-05-30T05:52:46+00:00",
+    "updated_at": "2021-06-14T10:22:51+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 378,
+    "answers": [
+        {
+            "id": 10463,
+            "answer": "Herrlich normal. So geht es gerade wohl allen Eltern.",
+            "votes": 319,
+            "order": 0
+        },
+        {
+            "id": 10462,
+            "answer": "Und ich dachte, Royals seien automatisch ziemlich schlau?",
+            "votes": 59,
+            "order": 1
+        }
+    ]
+}

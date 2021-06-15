@@ -1,0 +1,25 @@
+{
+    "id": 2405,
+    "question": "Hätten Sie Beatrice Egli auf dem Bild erkannt?",
+    "created_at": "2019-07-25T09:56:04+00:00",
+    "updated_at": "2021-06-14T09:35:00+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 292,
+    "answers": [
+        {
+            "id": 6057,
+            "answer": "Aber klar! Das Foto ist einfach nur «cheibe guet».",
+            "votes": 203,
+            "order": 100
+        },
+        {
+            "id": 6058,
+            "answer": "Nein, das kann doch gar nicht sie sein.",
+            "votes": 89,
+            "order": 100
+        }
+    ]
+}

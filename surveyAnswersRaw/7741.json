@@ -1,0 +1,31 @@
+{
+    "id": 3153,
+    "question": "Wer gewinnt den Spitzenkampf?",
+    "created_at": "2020-02-23T15:52:04+00:00",
+    "updated_at": "2021-06-14T09:35:39+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 100,
+    "answers": [
+        {
+            "id": 7740,
+            "answer": "St.Gallen",
+            "votes": 28,
+            "order": 0
+        },
+        {
+            "id": 7739,
+            "answer": "YB",
+            "votes": 43,
+            "order": 1
+        },
+        {
+            "id": 7741,
+            "answer": "Unentschieden",
+            "votes": 29,
+            "order": 2
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 5231,
+    "question": "Verstehen Sie den Entscheid von Alex Frei?",
+    "created_at": "2020-08-24T05:24:38+00:00",
+    "updated_at": "2021-06-14T09:37:05+00:00",
+    "end_at": null,
+    "comment_group_id": 1762520,
+    "published_at": "2020-08-25T05:42:30+00:00",
+    "display_name": "",
+    "total": 4358,
+    "answers": [
+        {
+            "id": 12268,
+            "answer": "Ja, ich wäre auch enttäuscht.",
+            "votes": 3598,
+            "order": 0
+        },
+        {
+            "id": 12269,
+            "answer": "Nein, die Reaktion ist übertrieben!",
+            "votes": 760,
+            "order": 1
+        }
+    ]
+}

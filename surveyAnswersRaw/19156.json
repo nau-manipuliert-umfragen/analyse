@@ -1,0 +1,25 @@
+{
+    "id": 8369,
+    "question": "Hätte sich Piers Morgan bei Meghan Markle entschuldigen sollen?",
+    "created_at": "2021-03-29T07:13:47+00:00",
+    "updated_at": "2021-06-14T09:39:35+00:00",
+    "end_at": null,
+    "comment_group_id": 2083724,
+    "published_at": "2021-03-29T13:37:30+00:00",
+    "display_name": "",
+    "total": 1223,
+    "answers": [
+        {
+            "id": 19156,
+            "answer": "Ja, dann wäre das Thema gegessen gewesen.",
+            "votes": 112,
+            "order": 0
+        },
+        {
+            "id": 19155,
+            "answer": "Sicher nicht, er hat nur seine Meinung gesagt.",
+            "votes": 1111,
+            "order": 1
+        }
+    ]
+}

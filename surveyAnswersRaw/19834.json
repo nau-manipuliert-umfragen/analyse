@@ -1,0 +1,25 @@
+{
+    "id": 8699,
+    "question": "Mussten Sie sich auch schon einmal beim RAV melden?",
+    "created_at": "2021-04-12T13:20:40+00:00",
+    "updated_at": "2021-06-14T09:39:52+00:00",
+    "end_at": null,
+    "comment_group_id": 2104055,
+    "published_at": "2021-04-17T19:06:06+00:00",
+    "display_name": "",
+    "total": 641,
+    "answers": [
+        {
+            "id": 19834,
+            "answer": "Nein, ich hatte immer einen Job.",
+            "votes": 353,
+            "order": 0
+        },
+        {
+            "id": 19833,
+            "answer": "Ja, ich hatte schon mal Pech.",
+            "votes": 288,
+            "order": 1
+        }
+    ]
+}

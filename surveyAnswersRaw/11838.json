@@ -1,0 +1,25 @@
+{
+    "id": 5035,
+    "question": "Ist YB der verdiente Schweizer Meister?",
+    "created_at": "2020-07-31T20:34:43+00:00",
+    "updated_at": "2021-06-14T09:36:57+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 330,
+    "answers": [
+        {
+            "id": 11838,
+            "answer": "Ja, YB ist die beste Mannschaft der Super League!",
+            "votes": 259,
+            "order": 0
+        },
+        {
+            "id": 11839,
+            "answer": "Nein, St.Gallen hätte es mehr verdient",
+            "votes": 71,
+            "order": 1
+        }
+    ]
+}

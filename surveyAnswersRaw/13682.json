@@ -1,0 +1,25 @@
+{
+    "id": 5874,
+    "question": "Die echte Melania oder ein Double?",
+    "created_at": "2020-10-27T10:45:33+00:00",
+    "updated_at": "2021-06-14T09:37:33+00:00",
+    "end_at": null,
+    "comment_group_id": 1870819,
+    "published_at": "2020-10-27T17:34:45+00:00",
+    "display_name": "",
+    "total": 803,
+    "answers": [
+        {
+            "id": 13682,
+            "answer": "Die Echte! Das Internet spinnt wieder.",
+            "votes": 189,
+            "order": 0
+        },
+        {
+            "id": 13681,
+            "answer": "Ganz klar eine Doppelgängerin!",
+            "votes": 614,
+            "order": 1
+        }
+    ]
+}

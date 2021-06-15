@@ -1,0 +1,25 @@
+{
+    "id": 7881,
+    "question": "Ging Piers Morgan mit seiner Tirade gegen Meghan zu weit?",
+    "created_at": "2021-03-10T07:41:18+00:00",
+    "updated_at": "2021-06-14T09:39:10+00:00",
+    "end_at": null,
+    "comment_group_id": 2055927,
+    "published_at": "2021-03-10T07:56:46+00:00",
+    "display_name": "",
+    "total": 570,
+    "answers": [
+        {
+            "id": 18138,
+            "answer": "Nein, die Briten-Medien sind nun halt knallhart.",
+            "votes": 324,
+            "order": 0
+        },
+        {
+            "id": 18137,
+            "answer": "Ja, was hat er sich dabei gedacht?",
+            "votes": 246,
+            "order": 1
+        }
+    ]
+}

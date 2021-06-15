@@ -1,0 +1,25 @@
+{
+    "id": 5511,
+    "question": "Begrüssen Sie es, dass sich Daniel Koch weiterhin zur Corona-Politik äussert?",
+    "created_at": "2020-09-21T07:53:36+00:00",
+    "updated_at": "2021-06-14T09:37:16+00:00",
+    "end_at": null,
+    "comment_group_id": 1810884,
+    "published_at": "2020-09-21T08:33:16+00:00",
+    "display_name": "",
+    "total": 5144,
+    "answers": [
+        {
+            "id": 12894,
+            "answer": "Ja, natürlich. Er ist und bleibt Mister Corona, seine Einschätzung hat Gewicht.",
+            "votes": 2634,
+            "order": 0
+        },
+        {
+            "id": 12895,
+            "answer": "Nein, es reicht. Seine Auftritte nerven, er solle sich nun heraushalten.",
+            "votes": 2510,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 3069,
+    "question": "Wer kommt im Achtelfinal zwischen Liverpool-Atletico weiter?",
+    "created_at": "2020-02-18T14:00:13+00:00",
+    "updated_at": "2021-06-14T09:35:36+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 57,
+    "answers": [
+        {
+            "id": 7558,
+            "answer": "Klar, Liverpool mit Trainer Klopp schaffts",
+            "votes": 34,
+            "order": 0
+        },
+        {
+            "id": 7557,
+            "answer": "Aussenseiter Atletico ist ein eingespieltes Team und kommt weiter.",
+            "votes": 23,
+            "order": 1
+        }
+    ]
+}

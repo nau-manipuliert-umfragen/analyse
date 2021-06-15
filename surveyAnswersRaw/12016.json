@@ -1,0 +1,25 @@
+{
+    "id": 5113,
+    "question": "Kommt es zum EL-Halbfinal zwischen Inter Mailand und Basel?",
+    "created_at": "2020-08-10T20:17:34+00:00",
+    "updated_at": "2021-06-14T09:37:00+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 123,
+    "answers": [
+        {
+            "id": 12016,
+            "answer": "Ja! Auch der FCB setzt sich morgen durch.",
+            "votes": 63,
+            "order": 0
+        },
+        {
+            "id": 12015,
+            "answer": "Nein, die Italiener müssen gegen Shaktar ran.",
+            "votes": 60,
+            "order": 1
+        }
+    ]
+}

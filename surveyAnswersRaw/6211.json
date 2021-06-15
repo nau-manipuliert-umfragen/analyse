@@ -1,0 +1,31 @@
+{
+    "id": 2469,
+    "question": "Wer gewinnt den Spitzenkampf?",
+    "created_at": "2019-09-16T05:23:10+00:00",
+    "updated_at": "2021-06-14T09:35:03+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 255,
+    "answers": [
+        {
+            "id": 6211,
+            "answer": "YB",
+            "votes": 157,
+            "order": 0
+        },
+        {
+            "id": 6213,
+            "answer": "Basel",
+            "votes": 55,
+            "order": 1
+        },
+        {
+            "id": 6212,
+            "answer": "Remis",
+            "votes": 43,
+            "order": 2
+        }
+    ]
+}

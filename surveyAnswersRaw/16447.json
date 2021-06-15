@@ -1,0 +1,31 @@
+{
+    "id": 7121,
+    "question": "Sollte der Bundesrat die Massnahmen bei weiter sinkenden Fallzahlen auf Anfang März lockern?",
+    "created_at": "2021-02-08T17:35:47+00:00",
+    "updated_at": "2021-02-14T08:27:45+00:00",
+    "end_at": "2021-02-14T09:24:23+00:00",
+    "comment_group_id": 2013091,
+    "published_at": "2021-02-11T16:00:51+00:00",
+    "display_name": "",
+    "total": 4164,
+    "answers": [
+        {
+            "id": 16446,
+            "answer": "Ja, alles andere wäre nicht gerechtfertigt.",
+            "votes": 1606,
+            "order": 0
+        },
+        {
+            "id": 16447,
+            "answer": "Nein, die neuen Corona-Varianten sind zu ansteckend.",
+            "votes": 1856,
+            "order": 1
+        },
+        {
+            "id": 16445,
+            "answer": "Der Bundesrat sollte unabhängig der Infektionszahlen lockern.",
+            "votes": 702,
+            "order": 2
+        }
+    ]
+}

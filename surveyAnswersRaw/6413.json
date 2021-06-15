@@ -1,0 +1,25 @@
+{
+    "id": 2552,
+    "question": "Sollte Liverpool das Angebot für Shaqiri annehmen?",
+    "created_at": "2020-01-14T10:56:49+00:00",
+    "updated_at": "2021-06-14T09:35:07+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 169,
+    "answers": [
+        {
+            "id": 6412,
+            "answer": "Unbedingt, er braucht hinsichtlich der EM Spielpraxis!",
+            "votes": 100,
+            "order": 0
+        },
+        {
+            "id": 6413,
+            "answer": "Nein, er wird noch genügend Einsätze bekommen.",
+            "votes": 69,
+            "order": 1
+        }
+    ]
+}

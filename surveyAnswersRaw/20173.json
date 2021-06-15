@@ -1,0 +1,25 @@
+{
+    "id": 8857,
+    "question": "Trauen Sie modernen Fahrassistenzsystemen im Auto?",
+    "created_at": "2021-04-19T14:22:10+00:00",
+    "updated_at": "2021-04-20T14:18:24+00:00",
+    "end_at": "2021-04-20T14:22:08+00:00",
+    "comment_group_id": 2114384,
+    "published_at": "2021-04-19T15:09:18+00:00",
+    "display_name": "",
+    "total": 433,
+    "answers": [
+        {
+            "id": 20173,
+            "answer": "Ja, die sind sehr nützlich.",
+            "votes": 173,
+            "order": 0
+        },
+        {
+            "id": 20172,
+            "answer": "Nein, ich fahre besser als jeder Computer.",
+            "votes": 260,
+            "order": 1
+        }
+    ]
+}

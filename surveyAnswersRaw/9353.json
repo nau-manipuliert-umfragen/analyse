@@ -1,0 +1,25 @@
+{
+    "id": 3897,
+    "question": "Sollte sich Giroud Inter Mailand anschliessen?",
+    "created_at": "2020-04-16T11:04:34+00:00",
+    "updated_at": "2021-06-14T09:36:10+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 77,
+    "answers": [
+        {
+            "id": 9352,
+            "answer": "Ja",
+            "votes": 44,
+            "order": 0
+        },
+        {
+            "id": 9353,
+            "answer": "Nein",
+            "votes": 33,
+            "order": 1
+        }
+    ]
+}

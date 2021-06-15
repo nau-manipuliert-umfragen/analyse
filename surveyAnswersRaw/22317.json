@@ -1,0 +1,25 @@
+{
+    "id": 9850,
+    "question": "Soll die A1 vor Bern vergrössert werden?",
+    "created_at": "2021-06-03T09:27:52+00:00",
+    "updated_at": "2021-06-14T09:40:58+00:00",
+    "end_at": null,
+    "comment_group_id": 2188830,
+    "published_at": "2021-06-05T09:55:59+00:00",
+    "display_name": "",
+    "total": 2327,
+    "answers": [
+        {
+            "id": 22316,
+            "answer": "Ja",
+            "votes": 1894,
+            "order": 0
+        },
+        {
+            "id": 22317,
+            "answer": "Nein",
+            "votes": 433,
+            "order": 1
+        }
+    ]
+}

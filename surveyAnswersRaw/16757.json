@@ -1,0 +1,25 @@
+{
+    "id": 7259,
+    "question": "Dayot Upamecano wechselt zu Bayern München – ein guter Transfer für die Münchner?",
+    "created_at": "2021-02-12T20:30:24+00:00",
+    "updated_at": "2021-06-14T09:38:39+00:00",
+    "end_at": null,
+    "comment_group_id": 2019906,
+    "published_at": "2021-02-12T20:32:05+00:00",
+    "display_name": "",
+    "total": 190,
+    "answers": [
+        {
+            "id": 16757,
+            "answer": "Ja, ein toller Spieler!",
+            "votes": 115,
+            "order": 0
+        },
+        {
+            "id": 16756,
+            "answer": "Nein, das geht schief.",
+            "votes": 75,
+            "order": 1
+        }
+    ]
+}

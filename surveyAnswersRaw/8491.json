@@ -1,0 +1,25 @@
+{
+    "id": 3490,
+    "question": "Haben Sie Angst vor dem Coronavirus?",
+    "created_at": "2020-03-17T07:46:00+00:00",
+    "updated_at": "2021-06-14T09:35:53+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": "2020-09-04T09:30:54+00:00",
+    "display_name": "",
+    "total": 440,
+    "answers": [
+        {
+            "id": 8491,
+            "answer": "Ja, schon ziemlich!",
+            "votes": 117,
+            "order": 0
+        },
+        {
+            "id": 8490,
+            "answer": "Nein, aber Respekt muss man haben.",
+            "votes": 323,
+            "order": 1
+        }
+    ]
+}

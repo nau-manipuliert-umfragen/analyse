@@ -1,0 +1,25 @@
+{
+    "id": 7166,
+    "question": "Avanciert Pius Suter in der NHL zum neuen Schweizer Hockey-Star?",
+    "created_at": "2021-02-10T09:40:58+00:00",
+    "updated_at": "2021-06-14T09:38:34+00:00",
+    "end_at": null,
+    "comment_group_id": 2015340,
+    "published_at": "2021-02-10T09:54:35+00:00",
+    "display_name": "",
+    "total": 137,
+    "answers": [
+        {
+            "id": 16544,
+            "answer": "Ja, er bringt alles mit!",
+            "votes": 89,
+            "order": 0
+        },
+        {
+            "id": 16543,
+            "answer": "Ruhig bleiben, das braucht viel Geduld.",
+            "votes": 48,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 9461,
+    "question": "Vermissen Sie Dieter Bohlen?",
+    "created_at": "2021-05-16T11:58:46+00:00",
+    "updated_at": "2021-06-14T09:40:35+00:00",
+    "end_at": null,
+    "comment_group_id": 2159781,
+    "published_at": "2021-05-16T15:34:07+00:00",
+    "display_name": "",
+    "total": 765,
+    "answers": [
+        {
+            "id": 21470,
+            "answer": "Ja, ich brauche unbedingt eine neue Show mit ihm.",
+            "votes": 235,
+            "order": 0
+        },
+        {
+            "id": 21471,
+            "answer": "Nein, er hat den Zenit doch schon längst überschritten.",
+            "votes": 530,
+            "order": 1
+        }
+    ]
+}

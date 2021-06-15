@@ -1,0 +1,25 @@
+{
+    "id": 1204,
+    "question": "Was halten Sie davon, dass die SRF-Kommentatoren teils aus Zürich kommentieren?",
+    "created_at": "2018-06-19T11:39:09+00:00",
+    "updated_at": "2021-06-14T09:34:20+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 191,
+    "answers": [
+        {
+            "id": 3304,
+            "answer": "Ich finde das schlecht, das ist am falschen Ort gespart.",
+            "votes": 59,
+            "order": 100
+        },
+        {
+            "id": 3307,
+            "answer": "Ist mir egal, das hat keinen Einfluss auf die Qualität des Kommentars.",
+            "votes": 132,
+            "order": 100
+        }
+    ]
+}

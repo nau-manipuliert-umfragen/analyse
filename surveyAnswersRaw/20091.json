@@ -1,0 +1,25 @@
+{
+    "id": 8818,
+    "question": "Glauben Sie, die Aussprache zwischen Prinz Charles und Prinz Harry gelingt?",
+    "created_at": "2021-04-18T08:24:51+00:00",
+    "updated_at": "2021-06-14T09:39:58+00:00",
+    "end_at": null,
+    "comment_group_id": 2112368,
+    "published_at": "2021-04-18T10:03:00+00:00",
+    "display_name": "",
+    "total": 1722,
+    "answers": [
+        {
+            "id": 20090,
+            "answer": "Ja, sie sind schliesslich immer noch Vater und Sohn.",
+            "votes": 1138,
+            "order": 0
+        },
+        {
+            "id": 20091,
+            "answer": "Nein, die Verletzungen sind auf beiden Seiten zu gross.",
+            "votes": 584,
+            "order": 1
+        }
+    ]
+}

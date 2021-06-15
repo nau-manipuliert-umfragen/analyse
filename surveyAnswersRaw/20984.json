@@ -1,0 +1,25 @@
+{
+    "id": 9232,
+    "question": "Werden die Bayern bereits dieses Wochenende die Meisterschaft feiern?",
+    "created_at": "2021-05-05T07:13:54+00:00",
+    "updated_at": "2021-06-14T09:40:23+00:00",
+    "end_at": null,
+    "comment_group_id": 2141961,
+    "published_at": "2021-05-07T04:51:12+00:00",
+    "display_name": "",
+    "total": 122,
+    "answers": [
+        {
+            "id": 20983,
+            "answer": "Ja, die Bayern machen in Gladbach alles klar.",
+            "votes": 68,
+            "order": 0
+        },
+        {
+            "id": 20984,
+            "answer": "Nein, Yann Sommer und Gladbach schlagen den Rekordmeister.",
+            "votes": 54,
+            "order": 1
+        }
+    ]
+}

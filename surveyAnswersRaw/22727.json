@@ -1,0 +1,25 @@
+{
+    "id": 10039,
+    "question": "Trauen Sie Dominic Stricker eine grosse Karriere zu?",
+    "created_at": "2021-06-11T09:28:58+00:00",
+    "updated_at": "2021-06-14T10:27:20+00:00",
+    "end_at": null,
+    "comment_group_id": 2202409,
+    "published_at": "2021-06-11T11:05:03+00:00",
+    "display_name": "",
+    "total": 261,
+    "answers": [
+        {
+            "id": 22726,
+            "answer": "Natürlich, er ist ein riesen Talent.",
+            "votes": 225,
+            "order": 0
+        },
+        {
+            "id": 22727,
+            "answer": "Nein...",
+            "votes": 36,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 4441,
+    "question": "Finden Sie es gut, dass sich auch Federer an Protestaktion beteiligt?",
+    "created_at": "2020-06-03T07:56:44+00:00",
+    "updated_at": "2021-06-14T09:36:35+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 426,
+    "answers": [
+        {
+            "id": 10547,
+            "answer": "Ja",
+            "votes": 325,
+            "order": 0
+        },
+        {
+            "id": 10548,
+            "answer": "Nein",
+            "votes": 101,
+            "order": 1
+        }
+    ]
+}

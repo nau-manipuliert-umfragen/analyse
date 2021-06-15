@@ -1,0 +1,25 @@
+{
+    "id": 7086,
+    "question": "Gewinnt die Schweiz in der Kombi bereits die erste Medaille?",
+    "created_at": "2021-02-07T20:58:11+00:00",
+    "updated_at": "2021-06-14T10:24:57+00:00",
+    "end_at": null,
+    "comment_group_id": 2011639,
+    "published_at": "2021-02-08T05:36:30+00:00",
+    "display_name": "",
+    "total": 83,
+    "answers": [
+        {
+            "id": 16359,
+            "answer": "Ja, natürlich!",
+            "votes": 54,
+            "order": 0
+        },
+        {
+            "id": 16360,
+            "answer": "Nein, beim Auftakt reicht es noch nicht für Edelmetall.",
+            "votes": 29,
+            "order": 1
+        }
+    ]
+}

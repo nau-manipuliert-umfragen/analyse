@@ -1,0 +1,25 @@
+{
+    "id": 7483,
+    "question": "Gefällt Ihnen der Name August?",
+    "created_at": "2021-02-22T09:26:20+00:00",
+    "updated_at": "2021-06-14T09:38:49+00:00",
+    "end_at": null,
+    "comment_group_id": 2032763,
+    "published_at": "2021-02-22T16:49:57+00:00",
+    "display_name": "",
+    "total": 275,
+    "answers": [
+        {
+            "id": 17255,
+            "answer": "Ja, mal was anderes!",
+            "votes": 148,
+            "order": 0
+        },
+        {
+            "id": 17254,
+            "answer": "Nein, klingt bünzlig!",
+            "votes": 127,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 5064,
+    "question": "Setzt sich Cedric Itten in Schottland durch?",
+    "created_at": "2020-08-04T17:33:59+00:00",
+    "updated_at": "2021-06-14T09:36:58+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 292,
+    "answers": [
+        {
+            "id": 11909,
+            "answer": "ja, Itten ist ein Super-Knipser.",
+            "votes": 161,
+            "order": 0
+        },
+        {
+            "id": 11910,
+            "answer": "Nein, in der harten schottischen Liga kriegt er auf die Socken.",
+            "votes": 131,
+            "order": 1
+        }
+    ]
+}

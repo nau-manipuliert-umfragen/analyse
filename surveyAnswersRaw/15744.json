@@ -1,0 +1,25 @@
+{
+    "id": 6806,
+    "question": "Freuen Sie sich über Schnee im Flachland?",
+    "created_at": "2021-01-25T05:52:19+00:00",
+    "updated_at": "2021-06-14T09:38:16+00:00",
+    "end_at": null,
+    "comment_group_id": 1991550,
+    "published_at": null,
+    "display_name": "",
+    "total": 712,
+    "answers": [
+        {
+            "id": 15744,
+            "answer": "Ja, so schön!",
+            "votes": 466,
+            "order": 0
+        },
+        {
+            "id": 15745,
+            "answer": "Nein, jetzt stecken wir wieder im Stau fest.",
+            "votes": 246,
+            "order": 1
+        }
+    ]
+}

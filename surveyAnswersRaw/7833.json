@@ -1,0 +1,25 @@
+{
+    "id": 3190,
+    "question": "Schafft Gaëtan Haas mit Edmonton den Sprung in die NHL-Playoffs?",
+    "created_at": "2020-02-26T11:47:56+00:00",
+    "updated_at": "2021-06-14T10:21:56+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 81,
+    "answers": [
+        {
+            "id": 7833,
+            "answer": "Ja, die geballte Offensiv-Power um Draisaitl und McDavid richtet es.",
+            "votes": 49,
+            "order": 0
+        },
+        {
+            "id": 7832,
+            "answer": "Nein, es reicht nicht und wir sehen Haas im Mai an der Eishockey WM.",
+            "votes": 32,
+            "order": 1
+        }
+    ]
+}

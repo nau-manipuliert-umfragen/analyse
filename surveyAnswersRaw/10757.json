@@ -1,0 +1,25 @@
+{
+    "id": 4539,
+    "question": "Würden Sie Balotelli verpflichten?",
+    "created_at": "2020-06-09T14:09:25+00:00",
+    "updated_at": "2021-06-14T09:36:38+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 85,
+    "answers": [
+        {
+            "id": 10757,
+            "answer": "Ja, klar",
+            "votes": 36,
+            "order": 0
+        },
+        {
+            "id": 10756,
+            "answer": "Nein, gibt nur Ärger",
+            "votes": 49,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 6589,
+    "question": "Glauben Sie, Meghan Markle wird zu einem späteren Zeitpunkt doch noch Britin?",
+    "created_at": "2021-01-10T11:37:29+00:00",
+    "updated_at": "2021-06-14T09:38:07+00:00",
+    "end_at": null,
+    "comment_group_id": 1970786,
+    "published_at": "2021-01-11T07:38:44+00:00",
+    "display_name": "",
+    "total": 573,
+    "answers": [
+        {
+            "id": 15270,
+            "answer": "Ja, in diesen Knochen steckt doch eine halbe Britin.",
+            "votes": 69,
+            "order": 0
+        },
+        {
+            "id": 15269,
+            "answer": "Nein, dafür hasst sie die Royals zu sehr.",
+            "votes": 504,
+            "order": 1
+        }
+    ]
+}

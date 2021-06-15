@@ -1,0 +1,25 @@
+{
+    "id": 3101,
+    "question": "Was halten Sie von Novak Djokovic?",
+    "created_at": "2020-02-20T07:13:42+00:00",
+    "updated_at": "2021-06-14T09:35:37+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 325,
+    "answers": [
+        {
+            "id": 7631,
+            "answer": "Ich bevorzuge eindeutig Spieler wie Roger Federer.",
+            "votes": 140,
+            "order": 0
+        },
+        {
+            "id": 7630,
+            "answer": "Djokovic ist ein grosser Sportsmann. Ich habe viel Respekt vor ihm.",
+            "votes": 185,
+            "order": 1
+        }
+    ]
+}

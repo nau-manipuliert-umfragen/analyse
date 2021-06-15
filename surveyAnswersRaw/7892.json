@@ -1,0 +1,25 @@
+{
+    "id": 3219,
+    "question": "Holt Bayer Leverkusen in dieser Saison einen Titel.",
+    "created_at": "2020-02-28T11:41:20+00:00",
+    "updated_at": "2021-06-14T09:35:42+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 47,
+    "answers": [
+        {
+            "id": 7892,
+            "answer": "Ja, Bayer vergoldet die Spielzeit mit einem Titelgewinn.",
+            "votes": 22,
+            "order": 0
+        },
+        {
+            "id": 7891,
+            "answer": "Nein, für einen Titel wird es nicht reichen.",
+            "votes": 25,
+            "order": 1
+        }
+    ]
+}

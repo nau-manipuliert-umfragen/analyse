@@ -1,0 +1,31 @@
+{
+    "id": 7767,
+    "question": "Warum streben die Öffnungsturbos Lockerungen per 22. März an?",
+    "created_at": "2021-03-04T13:54:33+00:00",
+    "updated_at": "2021-03-09T09:39:43+00:00",
+    "end_at": "2021-03-11T13:54:25+00:00",
+    "comment_group_id": 2048327,
+    "published_at": "2021-03-07T06:01:59+00:00",
+    "display_name": "",
+    "total": 7218,
+    "answers": [
+        {
+            "id": 17890,
+            "answer": "Weil viele Betriebe sonst Konkurs anmelden müssten.",
+            "votes": 2311,
+            "order": 0
+        },
+        {
+            "id": 17889,
+            "answer": "Weil die Pandemie sozusagen vorbei und ein grosser Teil der Bevölkerung immun ist.",
+            "votes": 4187,
+            "order": 1
+        },
+        {
+            "id": 17888,
+            "answer": "Weil offene Betriebe kaum mehr Kurzarbeit anmelden und Härtefall-Gelder beziehen können.",
+            "votes": 720,
+            "order": 2
+        }
+    ]
+}

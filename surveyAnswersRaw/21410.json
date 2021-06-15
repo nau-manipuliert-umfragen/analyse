@@ -1,0 +1,25 @@
+{
+    "id": 9432,
+    "question": "Wie finden Sie das Verhalten von Sadio Mané?",
+    "created_at": "2021-05-14T10:37:38+00:00",
+    "updated_at": "2021-06-14T09:40:33+00:00",
+    "end_at": null,
+    "comment_group_id": 2156764,
+    "published_at": "2021-05-14T17:41:14+00:00",
+    "display_name": "",
+    "total": 130,
+    "answers": [
+        {
+            "id": 21411,
+            "answer": "Geht gar nicht, das ist einfach respektlos.",
+            "votes": 89,
+            "order": 0
+        },
+        {
+            "id": 21410,
+            "answer": "Er ist frustriert, dass er nicht spielt. Die Reaktion ist verständlich.",
+            "votes": 41,
+            "order": 1
+        }
+    ]
+}

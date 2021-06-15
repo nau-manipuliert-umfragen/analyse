@@ -1,0 +1,25 @@
+{
+    "id": 7275,
+    "question": "Rennen Sie auch die Treppen hoch und runter?",
+    "created_at": "2021-02-14T10:19:09+00:00",
+    "updated_at": "2021-06-14T09:38:39+00:00",
+    "end_at": null,
+    "comment_group_id": 2021318,
+    "published_at": "2021-02-15T08:00:25+00:00",
+    "display_name": "",
+    "total": 233,
+    "answers": [
+        {
+            "id": 16792,
+            "answer": "Ja, das ist das perfekte Workout, wenn die Fitnessstudios geschlossen haben.",
+            "votes": 158,
+            "order": 0
+        },
+        {
+            "id": 16791,
+            "answer": "Nein, ich nehme lieber den Lift.",
+            "votes": 75,
+            "order": 1
+        }
+    ]
+}

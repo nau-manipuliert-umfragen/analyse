@@ -1,0 +1,25 @@
+{
+    "id": 7949,
+    "question": "Verstehen Sie den Entscheid von Jordi Quintillà?",
+    "created_at": "2021-03-12T13:26:56+00:00",
+    "updated_at": "2021-06-14T09:39:13+00:00",
+    "end_at": null,
+    "comment_group_id": 2059964,
+    "published_at": null,
+    "display_name": "",
+    "total": 256,
+    "answers": [
+        {
+            "id": 18274,
+            "answer": "Ja",
+            "votes": 172,
+            "order": 0
+        },
+        {
+            "id": 18273,
+            "answer": "Nein",
+            "votes": 84,
+            "order": 1
+        }
+    ]
+}

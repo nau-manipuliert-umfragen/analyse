@@ -1,0 +1,31 @@
+{
+    "id": 2904,
+    "question": "Sind Klapp-Handys die Zukunft?",
+    "created_at": "2020-02-09T11:38:07+00:00",
+    "updated_at": "2021-06-14T09:35:27+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 166,
+    "answers": [
+        {
+            "id": 7197,
+            "answer": "Ja, definitiv!",
+            "votes": 54,
+            "order": 0
+        },
+        {
+            "id": 7199,
+            "answer": "Die Technologie ist noch nicht ausgereift, aber das kann sich ändern.",
+            "votes": 62,
+            "order": 1
+        },
+        {
+            "id": 7198,
+            "answer": "Nein, aus meiner Sicht werden sich Klapp-Handys nicht bewähren.",
+            "votes": 50,
+            "order": 2
+        }
+    ]
+}

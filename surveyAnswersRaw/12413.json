@@ -1,0 +1,43 @@
+{
+    "id": 5297,
+    "question": "Wohin soll Lionel Messi wechseln?",
+    "created_at": "2020-08-29T19:00:03+00:00",
+    "updated_at": "2021-06-14T09:37:07+00:00",
+    "end_at": null,
+    "comment_group_id": 1773355,
+    "published_at": "2020-08-31T14:15:40+00:00",
+    "display_name": "",
+    "total": 738,
+    "answers": [
+        {
+            "id": 12411,
+            "answer": "Inter Mailand",
+            "votes": 77,
+            "order": 0
+        },
+        {
+            "id": 12415,
+            "answer": "Manchester City",
+            "votes": 233,
+            "order": 1
+        },
+        {
+            "id": 12414,
+            "answer": "Juventus Turin",
+            "votes": 154,
+            "order": 2
+        },
+        {
+            "id": 12412,
+            "answer": "Gar nicht",
+            "votes": 147,
+            "order": 3
+        },
+        {
+            "id": 12413,
+            "answer": "Zu einem anderen Club",
+            "votes": 127,
+            "order": 4
+        }
+    ]
+}

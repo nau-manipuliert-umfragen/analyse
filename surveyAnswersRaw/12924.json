@@ -1,0 +1,25 @@
+{
+    "id": 5524,
+    "question": "Mögen Sie Alpakas?",
+    "created_at": "2020-09-22T12:43:14+00:00",
+    "updated_at": "2021-06-14T09:37:17+00:00",
+    "end_at": null,
+    "comment_group_id": 1813291,
+    "published_at": "2020-09-22T13:07:53+00:00",
+    "display_name": "",
+    "total": 88,
+    "answers": [
+        {
+            "id": 12924,
+            "answer": "Ja, die sind süss.",
+            "votes": 66,
+            "order": 0
+        },
+        {
+            "id": 12925,
+            "answer": "Nein, die sorgen für Spielunterbrechungen.",
+            "votes": 22,
+            "order": 1
+        }
+    ]
+}

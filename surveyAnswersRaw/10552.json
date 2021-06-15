@@ -1,0 +1,25 @@
+{
+    "id": 4443,
+    "question": "Freuen Sie sich auf den Saisonstart in der Formel 1?",
+    "created_at": "2020-06-03T08:37:28+00:00",
+    "updated_at": "2021-06-14T09:36:35+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 560,
+    "answers": [
+        {
+            "id": 10553,
+            "answer": "Ja",
+            "votes": 372,
+            "order": 0
+        },
+        {
+            "id": 10552,
+            "answer": "Nein",
+            "votes": 188,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 9723,
+    "question": "Werden Sie Andreas Moser am Bildschirm vermissen?",
+    "created_at": "2021-05-27T09:26:55+00:00",
+    "updated_at": "2021-06-14T09:40:51+00:00",
+    "end_at": "2021-08-31T09:26:00+00:00",
+    "comment_group_id": 2178209,
+    "published_at": "2021-05-27T17:56:52+00:00",
+    "display_name": "",
+    "total": 432,
+    "answers": [
+        {
+            "id": 22033,
+            "answer": "Ja, ich habe ihn und seine Sendung immer sehr gerne verfolgt.",
+            "votes": 352,
+            "order": 0
+        },
+        {
+            "id": 22034,
+            "answer": "Nein, ich wünsche ihm alles Gute zur Pension.",
+            "votes": 80,
+            "order": 1
+        }
+    ]
+}

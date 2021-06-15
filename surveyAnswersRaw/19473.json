@@ -1,0 +1,25 @@
+{
+    "id": 8523,
+    "question": "Trinken Sie Alkohol?",
+    "created_at": "2021-04-05T10:00:10+00:00",
+    "updated_at": "2021-06-14T09:39:43+00:00",
+    "end_at": null,
+    "comment_group_id": 2093005,
+    "published_at": "2021-04-05T13:03:43+00:00",
+    "display_name": "",
+    "total": 755,
+    "answers": [
+        {
+            "id": 19474,
+            "answer": "Ja, aber in Massen.",
+            "votes": 540,
+            "order": 0
+        },
+        {
+            "id": 19473,
+            "answer": "Nein, das schmeckt mir nicht.",
+            "votes": 215,
+            "order": 1
+        }
+    ]
+}

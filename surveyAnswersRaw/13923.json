@@ -1,0 +1,25 @@
+{
+    "id": 5983,
+    "question": "Haben Sie schon jemals einen schlechter geschossenen Elfmeter gesehen?",
+    "created_at": "2020-11-08T10:29:25+00:00",
+    "updated_at": "2021-06-14T09:37:38+00:00",
+    "end_at": null,
+    "comment_group_id": 1890079,
+    "published_at": "2020-11-10T07:30:13+00:00",
+    "display_name": "",
+    "total": 241,
+    "answers": [
+        {
+            "id": 13923,
+            "answer": "Ja",
+            "votes": 128,
+            "order": 0
+        },
+        {
+            "id": 13922,
+            "answer": "Nein, so etwas habe ich noch nie erlebt",
+            "votes": 113,
+            "order": 1
+        }
+    ]
+}

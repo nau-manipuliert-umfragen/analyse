@@ -1,0 +1,25 @@
+{
+    "id": 455,
+    "question": "Ist der Cup-Halbfinal entscheidend für die Meisterschaft?",
+    "created_at": "2018-02-26T08:55:04+00:00",
+    "updated_at": "2021-06-14T09:33:55+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 105,
+    "answers": [
+        {
+            "id": 1301,
+            "answer": "Nein, Basel kann die Meisterschaft auch ohne den Cup noch aufholen.",
+            "votes": 31,
+            "order": 100
+        },
+        {
+            "id": 1307,
+            "answer": "Ja, YB nimmt bei einem Sieg den nötigen Schwung zum Titel mit.",
+            "votes": 74,
+            "order": 100
+        }
+    ]
+}

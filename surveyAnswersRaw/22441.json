@@ -1,0 +1,25 @@
+{
+    "id": 9905,
+    "question": "Verstehen Sie den Frust der Helene-Fans?",
+    "created_at": "2021-06-06T06:51:46+00:00",
+    "updated_at": "2021-06-14T09:41:02+00:00",
+    "end_at": null,
+    "comment_group_id": 2192666,
+    "published_at": "2021-06-06T13:00:05+00:00",
+    "display_name": "",
+    "total": 864,
+    "answers": [
+        {
+            "id": 22441,
+            "answer": "Ja, eine Show ohne Live-Auftritte ist eine Frechheit!",
+            "votes": 572,
+            "order": 0
+        },
+        {
+            "id": 22442,
+            "answer": "Nein, wir leben eben immer noch inmitten einer globalen Pandemie.",
+            "votes": 292,
+            "order": 1
+        }
+    ]
+}

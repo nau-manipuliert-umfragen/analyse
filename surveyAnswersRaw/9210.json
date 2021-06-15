@@ -1,0 +1,25 @@
+{
+    "id": 3829,
+    "question": "Schafft GC jetzt die Wiedererstarkung?",
+    "created_at": "2020-04-09T12:19:00+00:00",
+    "updated_at": "2021-06-14T09:36:07+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 2461,
+    "answers": [
+        {
+            "id": 9210,
+            "answer": "Ja",
+            "votes": 1265,
+            "order": 0
+        },
+        {
+            "id": 9211,
+            "answer": "Nein",
+            "votes": 1196,
+            "order": 1
+        }
+    ]
+}

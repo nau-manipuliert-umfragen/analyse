@@ -1,0 +1,25 @@
+{
+    "id": 8621,
+    "question": "Können Sie die «Krawall-Jugendlichen» verstehen?",
+    "created_at": "2021-04-09T07:58:50+00:00",
+    "updated_at": "2021-06-14T09:39:48+00:00",
+    "end_at": null,
+    "comment_group_id": 2099798,
+    "published_at": "2021-04-09T17:07:57+00:00",
+    "display_name": "",
+    "total": 3532,
+    "answers": [
+        {
+            "id": 19677,
+            "answer": "Nein, wir alle müssen da durch und uns an die Regeln halten.",
+            "votes": 1209,
+            "order": 0
+        },
+        {
+            "id": 19676,
+            "answer": "Ja, natürlich. Die Jugend leidet sehr unter den geltenden Massnahmen.",
+            "votes": 2323,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 8738,
+    "question": "Gegen wen spielt Chelsea im Halbfinal der Champions League?",
+    "created_at": "2021-04-14T05:56:44+00:00",
+    "updated_at": "2021-06-14T09:39:54+00:00",
+    "end_at": null,
+    "comment_group_id": 2106388,
+    "published_at": "2021-04-14T06:44:56+00:00",
+    "display_name": "",
+    "total": 119,
+    "answers": [
+        {
+            "id": 19919,
+            "answer": "Real Madrid",
+            "votes": 72,
+            "order": 0
+        },
+        {
+            "id": 19918,
+            "answer": "Liverpool",
+            "votes": 47,
+            "order": 1
+        }
+    ]
+}

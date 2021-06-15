@@ -1,0 +1,25 @@
+{
+    "id": 8685,
+    "question": "Verstehen Sie den Frust der Krawall-Teenies?",
+    "created_at": "2021-04-12T09:43:37+00:00",
+    "updated_at": "2021-06-14T09:39:52+00:00",
+    "end_at": null,
+    "comment_group_id": 2103599,
+    "published_at": "2021-04-18T12:04:17+00:00",
+    "display_name": "",
+    "total": 2785,
+    "answers": [
+        {
+            "id": 19808,
+            "answer": "Nein, Jugendliche in anderen Ländern haben es viel schlimmer.",
+            "votes": 983,
+            "order": 0
+        },
+        {
+            "id": 19807,
+            "answer": "Ja, ich wäre auch sauer, würde mir ein Teil meiner Jugend gestohlen.",
+            "votes": 1802,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 11,
+    "question": "Werden Sie heute Abend am Konzert sein?",
+    "created_at": "2017-09-20T07:39:45+00:00",
+    "updated_at": "2021-06-14T10:16:44+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 51,
+    "answers": [
+        {
+            "id": 33,
+            "answer": "160 Stutz für alte Männer? Nein, danke!",
+            "votes": 27,
+            "order": 100
+        },
+        {
+            "id": 34,
+            "answer": "Natürlich! Die Stones lässt man sich nicht entgehen.",
+            "votes": 24,
+            "order": 100
+        }
+    ]
+}

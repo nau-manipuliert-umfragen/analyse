@@ -1,0 +1,37 @@
+{
+    "id": 839,
+    "question": "Wer steigt ab?",
+    "created_at": "2018-05-06T06:44:04+00:00",
+    "updated_at": "2021-06-14T10:20:16+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 94,
+    "answers": [
+        {
+            "id": 2399,
+            "answer": "Lausanne erwischts.",
+            "votes": 26,
+            "order": 100
+        },
+        {
+            "id": 2402,
+            "answer": "Trotz tollem Kader: Der FC Sion geht runter.",
+            "votes": 24,
+            "order": 100
+        },
+        {
+            "id": 2405,
+            "answer": "Thun geht noch die Luft aus.",
+            "votes": 22,
+            "order": 100
+        },
+        {
+            "id": 2411,
+            "answer": "Im Endspurt versagen Lugano die Nerven.",
+            "votes": 22,
+            "order": 100
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 6854,
+    "question": "Haben Sie auch noch Plüschtiere?",
+    "created_at": "2021-01-27T14:33:03+00:00",
+    "updated_at": "2021-06-14T09:38:18+00:00",
+    "end_at": null,
+    "comment_group_id": 1995657,
+    "published_at": null,
+    "display_name": "",
+    "total": 42,
+    "answers": [
+        {
+            "id": 15843,
+            "answer": "Ja, ist doch nicht schlimm!",
+            "votes": 21,
+            "order": 0
+        },
+        {
+            "id": 15842,
+            "answer": "Nein, das ist für Kids!",
+            "votes": 21,
+            "order": 1
+        }
+    ]
+}

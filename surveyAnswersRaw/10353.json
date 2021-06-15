@@ -1,0 +1,31 @@
+{
+    "id": 4352,
+    "question": "Wer gewinnt das Spitzenduell zwischen Borussia Dortmund und Bayern München?",
+    "created_at": "2020-05-25T14:55:19+00:00",
+    "updated_at": "2021-06-14T10:22:49+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 520,
+    "answers": [
+        {
+            "id": 10352,
+            "answer": "Bayern München",
+            "votes": 166,
+            "order": 0
+        },
+        {
+            "id": 10351,
+            "answer": "Borussia Dortmund",
+            "votes": 300,
+            "order": 1
+        },
+        {
+            "id": 10353,
+            "answer": "Unentschieden",
+            "votes": 54,
+            "order": 2
+        }
+    ]
+}

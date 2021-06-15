@@ -1,0 +1,25 @@
+{
+    "id": 5555,
+    "question": "Was halten Sie von dem neuen Schutzkonzept der Bergbahnen?",
+    "created_at": "2020-09-26T06:12:27+00:00",
+    "updated_at": "2021-06-14T09:37:18+00:00",
+    "end_at": null,
+    "comment_group_id": 1819734,
+    "published_at": "2020-09-26T14:08:45+00:00",
+    "display_name": "",
+    "total": 715,
+    "answers": [
+        {
+            "id": 12987,
+            "answer": "Eine gute Alternative zur Maske.",
+            "votes": 449,
+            "order": 0
+        },
+        {
+            "id": 12986,
+            "answer": "Es braucht viel mehr als Halsschläuche.",
+            "votes": 266,
+            "order": 1
+        }
+    ]
+}

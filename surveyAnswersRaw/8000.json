@@ -1,0 +1,37 @@
+{
+    "id": 3266,
+    "question": "Was ist für Haas F1 in dieser Formel-1-Saison möglich?",
+    "created_at": "2020-03-03T09:51:28+00:00",
+    "updated_at": "2021-06-14T09:35:44+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 168,
+    "answers": [
+        {
+            "id": 8000,
+            "answer": "Das Team wird ans Ende des Feldes rutschen",
+            "votes": 46,
+            "order": 0
+        },
+        {
+            "id": 7999,
+            "answer": "Für mehr als ein paar Top-Ten-Plätze reicht es nicht",
+            "votes": 74,
+            "order": 1
+        },
+        {
+            "id": 8001,
+            "answer": "Das Team wird sich konstant in den Punkten etablieren",
+            "votes": 25,
+            "order": 2
+        },
+        {
+            "id": 8002,
+            "answer": "Mit etwas Glück reicht es sogar für einen Podestplatz",
+            "votes": 23,
+            "order": 3
+        }
+    ]
+}

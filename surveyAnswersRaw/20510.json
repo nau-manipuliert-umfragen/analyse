@@ -1,0 +1,25 @@
+{
+    "id": 9013,
+    "question": "Freuen Sie sich über Bilder von vollen Stadien?",
+    "created_at": "2021-04-26T13:35:27+00:00",
+    "updated_at": "2021-06-14T09:40:11+00:00",
+    "end_at": null,
+    "comment_group_id": 2125610,
+    "published_at": "2021-04-26T13:35:52+00:00",
+    "display_name": "",
+    "total": 289,
+    "answers": [
+        {
+            "id": 20509,
+            "answer": "Ja!",
+            "votes": 207,
+            "order": 0
+        },
+        {
+            "id": 20510,
+            "answer": "Nein, das ist noch zu früh.",
+            "votes": 82,
+            "order": 1
+        }
+    ]
+}

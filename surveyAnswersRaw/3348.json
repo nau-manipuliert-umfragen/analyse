@@ -1,0 +1,25 @@
+{
+    "id": 1224,
+    "question": "Holt sich Roger Federer den Turniersieg in Halle?",
+    "created_at": "2018-06-21T10:39:45+00:00",
+    "updated_at": "2021-06-14T09:34:21+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 52,
+    "answers": [
+        {
+            "id": 3345,
+            "answer": "Ja, der Weg zum Titel ist nicht mehr schwierig.",
+            "votes": 31,
+            "order": 100
+        },
+        {
+            "id": 3348,
+            "answer": "Nein, dieses Mal reicht es nicht.",
+            "votes": 21,
+            "order": 100
+        }
+    ]
+}

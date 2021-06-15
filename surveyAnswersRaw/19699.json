@@ -1,0 +1,25 @@
+{
+    "id": 8631,
+    "question": "Gibt Dimitri Oberlin am Samstag sein Bundesliga-Debüt?",
+    "created_at": "2021-04-09T13:38:06+00:00",
+    "updated_at": "2021-06-14T09:39:49+00:00",
+    "end_at": null,
+    "comment_group_id": 2100432,
+    "published_at": "2021-04-09T13:53:22+00:00",
+    "display_name": "",
+    "total": 362,
+    "answers": [
+        {
+            "id": 19698,
+            "answer": "Ja",
+            "votes": 145,
+            "order": 0
+        },
+        {
+            "id": 19699,
+            "answer": "Nein",
+            "votes": 217,
+            "order": 1
+        }
+    ]
+}

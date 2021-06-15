@@ -1,0 +1,25 @@
+{
+    "id": 5439,
+    "question": "Schlägt Jordan Siebatcheu bei YB ein?",
+    "created_at": "2020-09-14T10:29:07+00:00",
+    "updated_at": "2021-06-14T09:37:13+00:00",
+    "end_at": null,
+    "comment_group_id": 1799285,
+    "published_at": "2020-09-14T16:00:29+00:00",
+    "display_name": "",
+    "total": 394,
+    "answers": [
+        {
+            "id": 12738,
+            "answer": "Ja, er wird in der Super League Tore am Laufmeter erzielen.",
+            "votes": 297,
+            "order": 0
+        },
+        {
+            "id": 12737,
+            "answer": "Nein, nicht jeder gescheiterte Stürmer schafft in der Schweiz den Durchbruch.",
+            "votes": 97,
+            "order": 1
+        }
+    ]
+}

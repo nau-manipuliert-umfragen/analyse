@@ -1,0 +1,25 @@
+{
+    "id": 7716,
+    "question": "Würden Sie Ihrem Kind hohe Schuhe kaufen?",
+    "created_at": "2021-03-02T10:56:29+00:00",
+    "updated_at": "2021-06-14T09:38:59+00:00",
+    "end_at": null,
+    "comment_group_id": 2044571,
+    "published_at": "2021-03-02T12:11:57+00:00",
+    "display_name": "",
+    "total": 336,
+    "answers": [
+        {
+            "id": 17769,
+            "answer": "Nein, wie unnötig!",
+            "votes": 286,
+            "order": 0
+        },
+        {
+            "id": 17768,
+            "answer": "Ja, ist doch süss!",
+            "votes": 50,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 1932,
+    "question": "Finden Sie es sinnvoll, dass die EU die Zeitumstellung abschaffen will?",
+    "created_at": "2018-08-31T05:48:46+00:00",
+    "updated_at": "2021-06-14T09:34:42+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 299,
+    "answers": [
+        {
+            "id": 4968,
+            "answer": "Ja, denn mir macht der Wechsel immer zu schaffen.",
+            "votes": 215,
+            "order": 100
+        },
+        {
+            "id": 4971,
+            "answer": "Nein, ich befürworte den Wechsel zwischen Winter- und Sommerzeit.",
+            "votes": 84,
+            "order": 100
+        }
+    ]
+}

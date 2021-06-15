@@ -1,0 +1,25 @@
+{
+    "id": 4252,
+    "question": "Rechnen Sie mit einer Fortsetzung im Tennis in diesem Jahr?",
+    "created_at": "2020-05-15T15:38:00+00:00",
+    "updated_at": "2021-06-14T09:36:26+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 59,
+    "answers": [
+        {
+            "id": 10130,
+            "answer": "Ja, die Saison wird wieder starten.",
+            "votes": 26,
+            "order": 0
+        },
+        {
+            "id": 10129,
+            "answer": "Nein, für 2020 ist Schluss!",
+            "votes": 33,
+            "order": 1
+        }
+    ]
+}

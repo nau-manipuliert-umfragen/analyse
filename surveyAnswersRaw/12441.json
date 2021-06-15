@@ -1,0 +1,25 @@
+{
+    "id": 5310,
+    "question": "Kommt YB gegen Midtjylland weiter?",
+    "created_at": "2020-08-31T10:47:47+00:00",
+    "updated_at": "2021-06-14T09:37:08+00:00",
+    "end_at": null,
+    "comment_group_id": 1775497,
+    "published_at": "2020-09-16T05:00:12+00:00",
+    "display_name": "",
+    "total": 1240,
+    "answers": [
+        {
+            "id": 12442,
+            "answer": "Ja",
+            "votes": 817,
+            "order": 0
+        },
+        {
+            "id": 12441,
+            "answer": "Nein",
+            "votes": 423,
+            "order": 1
+        }
+    ]
+}

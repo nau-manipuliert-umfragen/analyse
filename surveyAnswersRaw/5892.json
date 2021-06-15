@@ -1,0 +1,25 @@
+{
+    "id": 2334,
+    "question": "Erdbeeren im Winter. Ihre Meinung dazu?",
+    "created_at": "2019-02-06T09:29:11+00:00",
+    "updated_at": "2021-06-14T09:34:57+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 149,
+    "answers": [
+        {
+            "id": 5892,
+            "answer": "Klar, warum nicht?",
+            "votes": 44,
+            "order": 100
+        },
+        {
+            "id": 5893,
+            "answer": "Total unsinnig!",
+            "votes": 105,
+            "order": 100
+        }
+    ]
+}

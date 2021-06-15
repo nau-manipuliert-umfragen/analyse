@@ -1,0 +1,25 @@
+{
+    "id": 2569,
+    "question": "Trauen Sie Fernando Alonso in Zukunft einen Sieg bei der Rallye Dakar zu?",
+    "created_at": "2020-01-15T12:17:52+00:00",
+    "updated_at": "2021-06-14T09:35:08+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 89,
+    "answers": [
+        {
+            "id": 6451,
+            "answer": "Ja",
+            "votes": 51,
+            "order": 0
+        },
+        {
+            "id": 6452,
+            "answer": "Nein",
+            "votes": 38,
+            "order": 1
+        }
+    ]
+}

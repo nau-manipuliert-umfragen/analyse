@@ -1,0 +1,25 @@
+{
+    "id": 9359,
+    "question": "Nutzen Sie Facebook noch?",
+    "created_at": "2021-05-11T08:31:21+00:00",
+    "updated_at": "2021-06-14T09:40:29+00:00",
+    "end_at": null,
+    "comment_group_id": 2151468,
+    "published_at": "2021-05-13T12:16:38+00:00",
+    "display_name": "",
+    "total": 238,
+    "answers": [
+        {
+            "id": 21253,
+            "answer": "Nein, da gibt es doch mittlerweile bessere Alternativen.",
+            "votes": 185,
+            "order": 0
+        },
+        {
+            "id": 21254,
+            "answer": "Ja, ich stupse gerne meine Freunde an.",
+            "votes": 53,
+            "order": 1
+        }
+    ]
+}

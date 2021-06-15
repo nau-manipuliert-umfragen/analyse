@@ -1,0 +1,25 @@
+{
+    "id": 8707,
+    "question": "Bedauern Sie es, dass Bibiana Steinhaus-Webb ihre Schiedsrichter-Karriere beendet?",
+    "created_at": "2021-04-13T06:39:11+00:00",
+    "updated_at": "2021-06-14T09:39:53+00:00",
+    "end_at": null,
+    "comment_group_id": 2104836,
+    "published_at": "2021-04-13T12:03:18+00:00",
+    "display_name": "",
+    "total": 160,
+    "answers": [
+        {
+            "id": 19851,
+            "answer": "Ja",
+            "votes": 110,
+            "order": 0
+        },
+        {
+            "id": 19850,
+            "answer": "Nein",
+            "votes": 50,
+            "order": 1
+        }
+    ]
+}

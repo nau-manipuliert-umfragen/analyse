@@ -1,0 +1,25 @@
+{
+    "id": 7791,
+    "question": "Was plagt Donald Trump wohl mehr?",
+    "created_at": "2021-03-05T13:34:41+00:00",
+    "updated_at": "2021-06-14T09:39:04+00:00",
+    "end_at": null,
+    "comment_group_id": 2049889,
+    "published_at": "2021-03-05T14:27:12+00:00",
+    "display_name": "",
+    "total": 604,
+    "answers": [
+        {
+            "id": 17945,
+            "answer": "Geldsorgen",
+            "votes": 274,
+            "order": 0
+        },
+        {
+            "id": 17946,
+            "answer": "Sorgen wegen Machtverlust",
+            "votes": 330,
+            "order": 1
+        }
+    ]
+}

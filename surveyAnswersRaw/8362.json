@@ -1,0 +1,25 @@
+{
+    "id": 3430,
+    "question": "Was halten Sie von den Mega-Löhnen im US-Baseball?",
+    "created_at": "2020-03-12T07:11:48+00:00",
+    "updated_at": "2021-06-14T10:22:07+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 43,
+    "answers": [
+        {
+            "id": 8363,
+            "answer": "Das ist ein kompletter Schwachsinn",
+            "votes": 22,
+            "order": 0
+        },
+        {
+            "id": 8362,
+            "answer": "Will man einen solchen Spieler, muss man so viel bezahlen, ansonsten tut es ein anderes Team",
+            "votes": 21,
+            "order": 2
+        }
+    ]
+}

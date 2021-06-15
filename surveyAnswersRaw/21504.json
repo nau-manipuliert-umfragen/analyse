@@ -1,0 +1,25 @@
+{
+    "id": 9476,
+    "question": "Wurden Sie schon einmal betrogen?",
+    "created_at": "2021-05-17T07:23:27+00:00",
+    "updated_at": "2021-06-14T10:24:01+00:00",
+    "end_at": null,
+    "comment_group_id": 2160723,
+    "published_at": "2021-06-11T17:00:14+00:00",
+    "display_name": "",
+    "total": 2227,
+    "answers": [
+        {
+            "id": 21504,
+            "answer": "Nein, zum Glück nicht.",
+            "votes": 1007,
+            "order": 0
+        },
+        {
+            "id": 21505,
+            "answer": "Ja, es war furchtbar.",
+            "votes": 1220,
+            "order": 1
+        }
+    ]
+}

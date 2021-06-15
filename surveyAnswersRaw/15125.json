@@ -1,0 +1,25 @@
+{
+    "id": 6519,
+    "question": "Machen Sie sich Sorgen um Boris Becker?",
+    "created_at": "2021-01-04T11:59:17+00:00",
+    "updated_at": "2021-06-14T09:38:05+00:00",
+    "end_at": null,
+    "comment_group_id": 1963180,
+    "published_at": "2021-01-05T10:26:35+00:00",
+    "display_name": "",
+    "total": 336,
+    "answers": [
+        {
+            "id": 15126,
+            "answer": "Ja.",
+            "votes": 117,
+            "order": 0
+        },
+        {
+            "id": 15125,
+            "answer": "Nein. Er kriegt das wieder hin.",
+            "votes": 219,
+            "order": 1
+        }
+    ]
+}

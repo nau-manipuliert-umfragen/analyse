@@ -1,0 +1,25 @@
+{
+    "id": 5421,
+    "question": "Sollen die Fussballteams gemischt werden?",
+    "created_at": "2020-09-10T16:43:53+00:00",
+    "updated_at": "2020-09-13T09:17:54+00:00",
+    "end_at": "2020-09-10T16:43:52+00:00",
+    "comment_group_id": 1794023,
+    "published_at": "2020-09-13T09:17:53+00:00",
+    "display_name": "",
+    "total": 40,
+    "answers": [
+        {
+            "id": 12686,
+            "answer": "Ja",
+            "votes": 20,
+            "order": 0
+        },
+        {
+            "id": 12687,
+            "answer": "Nein",
+            "votes": 20,
+            "order": 1
+        }
+    ]
+}

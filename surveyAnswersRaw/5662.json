@@ -1,0 +1,31 @@
+{
+    "id": 2238,
+    "question": "Sind Sie von Einbrüchen persönlich betroffen?",
+    "created_at": "2018-10-24T14:47:17+00:00",
+    "updated_at": "2021-06-14T09:34:53+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 80,
+    "answers": [
+        {
+            "id": 5660,
+            "answer": "Nein, bei mir wurde noch nie eingebrochen.",
+            "votes": 25,
+            "order": 100
+        },
+        {
+            "id": 5661,
+            "answer": "Ja, bei mir wurde schon einmal eingebrochen.",
+            "votes": 29,
+            "order": 100
+        },
+        {
+            "id": 5662,
+            "answer": "Bei mir persönlich wurde noch nie eingebrochen, aber ich kenne Betroffene.",
+            "votes": 26,
+            "order": 100
+        }
+    ]
+}

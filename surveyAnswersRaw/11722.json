@@ -1,0 +1,25 @@
+{
+    "id": 4983,
+    "question": "Kann Atalanta Bergamo in Italien um den Titel spielen?",
+    "created_at": "2020-07-25T09:26:37+00:00",
+    "updated_at": "2021-06-14T09:36:55+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 90,
+    "answers": [
+        {
+            "id": 11722,
+            "answer": "Ja klar, warum nicht?",
+            "votes": 58,
+            "order": 0
+        },
+        {
+            "id": 11721,
+            "answer": "Nein, die Konkurrenz ist zu stark!",
+            "votes": 32,
+            "order": 1
+        }
+    ]
+}

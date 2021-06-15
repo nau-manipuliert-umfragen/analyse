@@ -1,0 +1,25 @@
+{
+    "id": 8917,
+    "question": "Ist Ihnen dieses Detail aufgefallen?",
+    "created_at": "2021-04-21T14:50:52+00:00",
+    "updated_at": "2021-06-14T09:40:04+00:00",
+    "end_at": null,
+    "comment_group_id": 2117913,
+    "published_at": "2021-04-21T19:31:58+00:00",
+    "display_name": "",
+    "total": 1144,
+    "answers": [
+        {
+            "id": 20299,
+            "answer": "Nein, sehr geschickt gemacht.",
+            "votes": 1015,
+            "order": 0
+        },
+        {
+            "id": 20300,
+            "answer": "Ja, sofort.",
+            "votes": 129,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "id": 3994,
+    "question": "Nutzen Sie Virtual Reality?",
+    "created_at": "2020-04-24T08:36:03+00:00",
+    "updated_at": "2021-06-14T09:36:14+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": "2021-03-19T11:32:26+00:00",
+    "display_name": "",
+    "total": 120,
+    "answers": [
+        {
+            "id": 9566,
+            "answer": "Nein, aber ich habe es vor.",
+            "votes": 46,
+            "order": 0
+        },
+        {
+            "id": 9564,
+            "answer": "Nein, kommt für mich überhaupt nicht in Frage!",
+            "votes": 34,
+            "order": 1
+        },
+        {
+            "id": 9565,
+            "answer": "Ja, mir gefällt es!",
+            "votes": 40,
+            "order": 2
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 8725,
+    "question": "Erstaunt es Sie, dass die Obamas eng mit den Royals befreundet sind?",
+    "created_at": "2021-04-13T13:08:02+00:00",
+    "updated_at": "2021-06-14T09:39:54+00:00",
+    "end_at": null,
+    "comment_group_id": 2105629,
+    "published_at": "2021-04-13T16:33:10+00:00",
+    "display_name": "",
+    "total": 1243,
+    "answers": [
+        {
+            "id": 19888,
+            "answer": "Nein, Philip und die Queen sind gute Gastgeber.",
+            "votes": 1170,
+            "order": 0
+        },
+        {
+            "id": 19889,
+            "answer": "Ja, die Monarchie ist doch verstaubt.",
+            "votes": 73,
+            "order": 1
+        }
+    ]
+}

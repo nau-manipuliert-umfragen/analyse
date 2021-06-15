@@ -1,0 +1,25 @@
+{
+    "id": 6136,
+    "question": "Was halten Sie von Xhakas Umarmung mit Alioski?",
+    "created_at": "2020-11-23T11:10:48+00:00",
+    "updated_at": "2021-06-14T09:37:46+00:00",
+    "end_at": null,
+    "comment_group_id": 1908631,
+    "published_at": "2020-11-23T11:41:07+00:00",
+    "display_name": "",
+    "total": 321,
+    "answers": [
+        {
+            "id": 14266,
+            "answer": "Ist doch völlig in Ordnung.",
+            "votes": 203,
+            "order": 0
+        },
+        {
+            "id": 14267,
+            "answer": "Das geht gar nicht!",
+            "votes": 118,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 6292,
+    "question": "War der Penalty-Pfiff für YB gerechtfertigt?",
+    "created_at": "2020-12-10T20:53:09+00:00",
+    "updated_at": "2021-06-14T09:37:55+00:00",
+    "end_at": null,
+    "comment_group_id": 1935527,
+    "published_at": "2020-12-11T08:39:06+00:00",
+    "display_name": "",
+    "total": 1149,
+    "answers": [
+        {
+            "id": 14612,
+            "answer": "Ja, den kann man geben...",
+            "votes": 427,
+            "order": 0
+        },
+        {
+            "id": 14611,
+            "answer": "Nein, auf keinen Fall!",
+            "votes": 722,
+            "order": 1
+        }
+    ]
+}

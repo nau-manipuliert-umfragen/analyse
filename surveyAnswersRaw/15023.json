@@ -1,0 +1,25 @@
+{
+    "id": 6475,
+    "question": "Beendet Kevin Grosskreutz seine Karriere?",
+    "created_at": "2020-12-28T10:54:47+00:00",
+    "updated_at": "2020-12-28T17:31:06+00:00",
+    "end_at": "2020-12-28T10:54:03+00:00",
+    "comment_group_id": 1956444,
+    "published_at": "2020-12-28T17:31:05+00:00",
+    "display_name": "",
+    "total": 40,
+    "answers": [
+        {
+            "id": 15024,
+            "answer": "Ja",
+            "votes": 20,
+            "order": 0
+        },
+        {
+            "id": 15023,
+            "answer": "Nein",
+            "votes": 20,
+            "order": 1
+        }
+    ]
+}

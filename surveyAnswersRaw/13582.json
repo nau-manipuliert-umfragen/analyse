@@ -1,0 +1,25 @@
+{
+    "id": 5828,
+    "question": "Soll die Eishockey-Meisterschaft fortgesetzt werden?",
+    "created_at": "2020-10-22T15:04:14+00:00",
+    "updated_at": "2021-06-14T09:37:29+00:00",
+    "end_at": null,
+    "comment_group_id": 1863488,
+    "published_at": "2020-10-22T15:13:04+00:00",
+    "display_name": "",
+    "total": 143,
+    "answers": [
+        {
+            "id": 13582,
+            "answer": "Ja, warum nicht?",
+            "votes": 88,
+            "order": 0
+        },
+        {
+            "id": 13581,
+            "answer": "Nein, das ist zu gefährlich.",
+            "votes": 55,
+            "order": 1
+        }
+    ]
+}

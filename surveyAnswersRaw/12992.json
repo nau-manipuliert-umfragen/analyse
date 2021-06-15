@@ -1,0 +1,19 @@
+{
+    "id": 5558,
+    "question": "Sehen Sie Meghan Markle als Präsidentin?",
+    "created_at": "2020-09-27T06:30:09+00:00",
+    "updated_at": "2021-06-14T09:37:18+00:00",
+    "end_at": null,
+    "comment_group_id": 1820734,
+    "published_at": null,
+    "display_name": "",
+    "total": 21,
+    "answers": [
+        {
+            "id": 12992,
+            "answer": "Klar, sie würde das Amt mit Bravour führen!",
+            "votes": 21,
+            "order": 0
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "id": 9980,
+    "question": "Wie gefällt Ihnen Antonias neues Musik-Video?",
+    "created_at": "2021-06-09T09:55:58+00:00",
+    "updated_at": "2021-06-14T09:41:05+00:00",
+    "end_at": null,
+    "comment_group_id": 2197721,
+    "published_at": "2021-06-09T13:17:59+00:00",
+    "display_name": "",
+    "total": 389,
+    "answers": [
+        {
+            "id": 22598,
+            "answer": "Ich finde es gut.",
+            "votes": 118,
+            "order": 0
+        },
+        {
+            "id": 22596,
+            "answer": "Einfach nur gruselig!",
+            "votes": 89,
+            "order": 1
+        },
+        {
+            "id": 22597,
+            "answer": "Nicht meins, aber das Thema ist wichtig.",
+            "votes": 182,
+            "order": 2
+        }
+    ]
+}

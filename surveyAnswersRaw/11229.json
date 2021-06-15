@@ -1,0 +1,25 @@
+{
+    "id": 4761,
+    "question": "Können Sie die Kritik an Zverev verstehen?",
+    "created_at": "2020-06-30T06:28:00+00:00",
+    "updated_at": "2021-06-14T09:36:46+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 338,
+    "answers": [
+        {
+            "id": 11229,
+            "answer": "Ja.",
+            "votes": 286,
+            "order": 0
+        },
+        {
+            "id": 11230,
+            "answer": "Nein.",
+            "votes": 52,
+            "order": 1
+        }
+    ]
+}

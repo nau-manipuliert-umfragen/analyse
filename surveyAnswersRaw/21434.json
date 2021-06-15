@@ -1,0 +1,25 @@
+{
+    "id": 9443,
+    "question": "Wie fanden Sie Heidis Sprüche?",
+    "created_at": "2021-05-14T13:43:42+00:00",
+    "updated_at": "2021-06-14T09:40:34+00:00",
+    "end_at": null,
+    "comment_group_id": 2157108,
+    "published_at": "2021-05-15T19:07:16+00:00",
+    "display_name": "",
+    "total": 1311,
+    "answers": [
+        {
+            "id": 21434,
+            "answer": "Nicht schlimm.",
+            "votes": 312,
+            "order": 0
+        },
+        {
+            "id": 21433,
+            "answer": "Völlig unpassend.",
+            "votes": 999,
+            "order": 1
+        }
+    ]
+}

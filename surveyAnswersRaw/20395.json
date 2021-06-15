@@ -1,0 +1,25 @@
+{
+    "id": 8961,
+    "question": "Trauen Sie Giulia Steingruber am Wochenende eine EM-Medaille zu?",
+    "created_at": "2021-04-23T12:28:08+00:00",
+    "updated_at": "2021-06-14T09:40:06+00:00",
+    "end_at": null,
+    "comment_group_id": 2121289,
+    "published_at": "2021-04-23T17:19:50+00:00",
+    "display_name": "",
+    "total": 222,
+    "answers": [
+        {
+            "id": 20395,
+            "answer": "Ja",
+            "votes": 138,
+            "order": 0
+        },
+        {
+            "id": 20396,
+            "answer": "Nein",
+            "votes": 84,
+            "order": 1
+        }
+    ]
+}

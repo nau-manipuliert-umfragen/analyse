@@ -1,0 +1,25 @@
+{
+    "id": 9076,
+    "question": "Denken Sie, Meghan reist noch dieses Jahr nach Grossbritannien?",
+    "created_at": "2021-04-28T14:42:00+00:00",
+    "updated_at": "2021-06-14T09:40:15+00:00",
+    "end_at": null,
+    "comment_group_id": 2129702,
+    "published_at": "2021-04-29T08:58:02+00:00",
+    "display_name": "",
+    "total": 766,
+    "answers": [
+        {
+            "id": 20644,
+            "answer": "Ja, sie liebt die Aufmerksamkeit.",
+            "votes": 277,
+            "order": 0
+        },
+        {
+            "id": 20645,
+            "answer": "Nein, sie will die Royals nicht mehr sehen.",
+            "votes": 489,
+            "order": 1
+        }
+    ]
+}

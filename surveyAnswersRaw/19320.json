@@ -1,0 +1,31 @@
+{
+    "id": 8448,
+    "question": "Nehmen Sie ihren Hund auf Reisen mit?",
+    "created_at": "2021-03-31T13:27:34+00:00",
+    "updated_at": "2021-06-14T09:39:39+00:00",
+    "end_at": null,
+    "comment_group_id": 2087789,
+    "published_at": "2021-03-31T15:00:33+00:00",
+    "display_name": "",
+    "total": 243,
+    "answers": [
+        {
+            "id": 19321,
+            "answer": "Nein, ich finde jeweils ein anderes Plätzchen für ihn.",
+            "votes": 53,
+            "order": 0
+        },
+        {
+            "id": 19319,
+            "answer": "Ja, wir sind unzertrennlich.",
+            "votes": 79,
+            "order": 1
+        },
+        {
+            "id": 19320,
+            "answer": "Ich habe keinen Hund.",
+            "votes": 111,
+            "order": 2
+        }
+    ]
+}

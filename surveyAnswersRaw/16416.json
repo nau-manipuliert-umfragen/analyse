@@ -1,0 +1,31 @@
+{
+    "id": 7109,
+    "question": "Wollen sie die Tellspiele in Zukunft mal besuchen?",
+    "created_at": "2021-02-08T14:20:10+00:00",
+    "updated_at": "2021-06-14T09:38:29+00:00",
+    "end_at": null,
+    "comment_group_id": 2012779,
+    "published_at": "2021-02-08T14:30:17+00:00",
+    "display_name": "",
+    "total": 90,
+    "answers": [
+        {
+            "id": 16417,
+            "answer": "Ja, die Inszenierung darf ich mir nicht entgehen lassen.",
+            "votes": 33,
+            "order": 0
+        },
+        {
+            "id": 16416,
+            "answer": "Nein, ich schaue eher die Geschichte von Dällebach Kari.",
+            "votes": 26,
+            "order": 1
+        },
+        {
+            "id": 16415,
+            "answer": "Ich habe die Aufführung bereits gesehen.",
+            "votes": 31,
+            "order": 2
+        }
+    ]
+}

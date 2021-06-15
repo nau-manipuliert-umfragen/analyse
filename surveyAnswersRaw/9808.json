@@ -1,0 +1,25 @@
+{
+    "id": 4106,
+    "question": "Was halten Sie von Kim Kardashians maximal Teint?",
+    "created_at": "2020-05-03T08:55:42+00:00",
+    "updated_at": "2021-06-14T09:36:19+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 380,
+    "answers": [
+        {
+            "id": 9808,
+            "answer": "Klebt der ganze Mist nicht in ihren Klamotten?",
+            "votes": 345,
+            "order": 0
+        },
+        {
+            "id": 9809,
+            "answer": "Super, so wollen wir sehen – perfekt!",
+            "votes": 35,
+            "order": 1
+        }
+    ]
+}

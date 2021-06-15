@@ -1,0 +1,31 @@
+{
+    "id": 914,
+    "question": "Hätte Löw Sandro Wagner nominieren sollen?",
+    "created_at": "2018-05-16T19:02:09+00:00",
+    "updated_at": "2021-06-14T09:34:11+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 92,
+    "answers": [
+        {
+            "id": 2564,
+            "answer": "Nein, Jogi Löw hat die richtige Wahl getroffen.",
+            "votes": 26,
+            "order": 100
+        },
+        {
+            "id": 2567,
+            "answer": "Ich finde Sandro Wagner hätte eine Nominierung verdient.",
+            "votes": 38,
+            "order": 100
+        },
+        {
+            "id": 2570,
+            "answer": "Der 30-Jährige übertreibt völlig mit seinem Rücktritt.",
+            "votes": 28,
+            "order": 100
+        }
+    ]
+}

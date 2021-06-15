@@ -1,0 +1,25 @@
+{
+    "id": 9130,
+    "question": "Schafft die Schweizer Frauen-Nati die direkte Qualifikation zur WM 2023?",
+    "created_at": "2021-04-30T14:06:16+00:00",
+    "updated_at": "2021-06-14T09:40:18+00:00",
+    "end_at": null,
+    "comment_group_id": 2134021,
+    "published_at": "2021-04-30T14:12:07+00:00",
+    "display_name": "",
+    "total": 133,
+    "answers": [
+        {
+            "id": 20763,
+            "answer": "Ja, das ist absolut machbar.",
+            "votes": 98,
+            "order": 0
+        },
+        {
+            "id": 20762,
+            "answer": "Nein, vielleicht via Playoffs.",
+            "votes": 35,
+            "order": 1
+        }
+    ]
+}

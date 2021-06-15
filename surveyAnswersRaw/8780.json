@@ -1,0 +1,25 @@
+{
+    "id": 3628,
+    "question": "Sollten auch andere Vereine ihr Personal auf diese Weise unterstützen?",
+    "created_at": "2020-03-26T15:23:44+00:00",
+    "updated_at": "2021-06-14T09:35:59+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 55,
+    "answers": [
+        {
+            "id": 8781,
+            "answer": "Ja, eine super Aktion von Manchester City.",
+            "votes": 34,
+            "order": 0
+        },
+        {
+            "id": 8780,
+            "answer": "Nein, viele Vereine stehen selbst vor finanziellen Problemen.",
+            "votes": 21,
+            "order": 1
+        }
+    ]
+}

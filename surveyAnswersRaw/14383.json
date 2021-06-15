@@ -1,0 +1,25 @@
+{
+    "id": 6187,
+    "question": "Können Sie den Fan-Hass nachvollziehen?",
+    "created_at": "2020-11-30T11:23:48+00:00",
+    "updated_at": "2021-06-14T09:37:49+00:00",
+    "end_at": null,
+    "comment_group_id": 1921129,
+    "published_at": "2020-11-30T13:02:55+00:00",
+    "display_name": "",
+    "total": 441,
+    "answers": [
+        {
+            "id": 14382,
+            "answer": "Ja, Charles und Camilla verdienen es.",
+            "votes": 169,
+            "order": 0
+        },
+        {
+            "id": 14383,
+            "answer": "Nein, die Sache ist lange her und Menschen ändern sich.",
+            "votes": 272,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 4367,
+    "question": "Was halten Sie von Harrys und Meghans Umzugsplänen nach New York?",
+    "created_at": "2020-05-27T07:15:23+00:00",
+    "updated_at": "2021-06-14T10:22:50+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 1207,
+    "answers": [
+        {
+            "id": 10383,
+            "answer": "Ganz ehrlich: Wieso gehen sie nicht einfach wieder nach England zurück?",
+            "votes": 1041,
+            "order": 0
+        },
+        {
+            "id": 10384,
+            "answer": "Super, zu viel Sonne soll ja auch nicht gut sein.",
+            "votes": 166,
+            "order": 1
+        }
+    ]
+}

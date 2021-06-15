@@ -1,0 +1,25 @@
+{
+    "id": 8770,
+    "question": "Was halten Sie von der 50:50 Geschlechterquote bei Experten von SRF?",
+    "created_at": "2021-04-15T12:13:48+00:00",
+    "updated_at": "2021-06-14T09:39:56+00:00",
+    "end_at": null,
+    "comment_group_id": 2108784,
+    "published_at": "2021-04-15T12:14:31+00:00",
+    "display_name": "",
+    "total": 101,
+    "answers": [
+        {
+            "id": 19988,
+            "answer": "Super! Das Geschlecht des Experten ist wichtig für eine ausgewogene Berichterstattung.",
+            "votes": 27,
+            "order": 0
+        },
+        {
+            "id": 19987,
+            "answer": "Unnötig. Es braucht keine Genderquote bei Experten.",
+            "votes": 74,
+            "order": 1
+        }
+    ]
+}

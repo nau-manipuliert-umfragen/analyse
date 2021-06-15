@@ -1,0 +1,25 @@
+{
+    "id": 2396,
+    "question": "Ist es eine gute Idee von Schmidt, mit den Augsburg-Spielern über den Klimawandel zu sprechen?",
+    "created_at": "2019-07-23T07:12:21+00:00",
+    "updated_at": "2021-06-14T09:35:00+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 217,
+    "answers": [
+        {
+            "id": 6039,
+            "answer": "Nein, mit Fussballern bringt das nichts...",
+            "votes": 52,
+            "order": 100
+        },
+        {
+            "id": 6040,
+            "answer": "Ja, das ist vorbildlich!",
+            "votes": 165,
+            "order": 100
+        }
+    ]
+}

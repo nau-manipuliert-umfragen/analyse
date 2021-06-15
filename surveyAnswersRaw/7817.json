@@ -1,0 +1,25 @@
+{
+    "id": 3185,
+    "question": "Was sagen Sie zur Kritik des Ösi-Kickers?",
+    "created_at": "2020-02-26T08:32:48+00:00",
+    "updated_at": "2021-06-14T09:35:40+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 42,
+    "answers": [
+        {
+            "id": 7817,
+            "answer": "Sehr unterhaltsam!",
+            "votes": 21,
+            "order": 0
+        },
+        {
+            "id": 7816,
+            "answer": "Das ist respektlos.",
+            "votes": 21,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 7718,
+    "question": "Schafft Schalke 04 doch noch den Ligaerhalt?",
+    "created_at": "2021-03-02T11:27:58+00:00",
+    "updated_at": "2021-06-14T09:38:59+00:00",
+    "end_at": null,
+    "comment_group_id": 2044642,
+    "published_at": "2021-03-02T11:30:21+00:00",
+    "display_name": "",
+    "total": 43,
+    "answers": [
+        {
+            "id": 17773,
+            "answer": "Nein, nur Christian Gross hätte das schaffen können.",
+            "votes": 22,
+            "order": 0
+        },
+        {
+            "id": 17772,
+            "answer": "Ja, jetzt sind die richtigen Leute im Amt.",
+            "votes": 21,
+            "order": 1
+        }
+    ]
+}

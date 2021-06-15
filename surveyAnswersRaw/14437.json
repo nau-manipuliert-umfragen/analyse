@@ -1,0 +1,25 @@
+{
+    "id": 6211,
+    "question": "Hat der VAR beim aberkannten Ausgleich recht?",
+    "created_at": "2020-12-02T07:30:49+00:00",
+    "updated_at": "2021-06-14T09:37:50+00:00",
+    "end_at": null,
+    "comment_group_id": 1923672,
+    "published_at": "2020-12-02T08:37:40+00:00",
+    "display_name": "",
+    "total": 395,
+    "answers": [
+        {
+            "id": 14436,
+            "answer": "Ja, Embolo steht dem Inter-Goalie im Sichtfeld.",
+            "votes": 138,
+            "order": 0
+        },
+        {
+            "id": 14437,
+            "answer": "Niemals, der Treffer hätte zählen sollen!",
+            "votes": 257,
+            "order": 1
+        }
+    ]
+}

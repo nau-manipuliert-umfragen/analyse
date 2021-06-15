@@ -1,0 +1,25 @@
+{
+    "id": 8443,
+    "question": "Würden Sie sich ein Liebes-Tattoo stechen lassen?",
+    "created_at": "2021-03-31T10:13:16+00:00",
+    "updated_at": "2021-06-14T09:39:39+00:00",
+    "end_at": null,
+    "comment_group_id": 2087347,
+    "published_at": "2021-04-03T07:02:20+00:00",
+    "display_name": "",
+    "total": 857,
+    "answers": [
+        {
+            "id": 19310,
+            "answer": "Natürlich, das ist ein süsser Liebesbeweis.",
+            "votes": 120,
+            "order": 0
+        },
+        {
+            "id": 19309,
+            "answer": "Niemals, so etwas finde ich doof.",
+            "votes": 737,
+            "order": 1
+        }
+    ]
+}

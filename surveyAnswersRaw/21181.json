@@ -1,0 +1,25 @@
+{
+    "id": 9325,
+    "question": "Sind Sie mit den Noten einverstanden?",
+    "created_at": "2021-05-09T19:01:23+00:00",
+    "updated_at": "2021-06-14T09:40:28+00:00",
+    "end_at": null,
+    "comment_group_id": 2149309,
+    "published_at": "2021-05-16T08:54:03+00:00",
+    "display_name": "",
+    "total": 342,
+    "answers": [
+        {
+            "id": 21181,
+            "answer": "Ja",
+            "votes": 263,
+            "order": 0
+        },
+        {
+            "id": 21180,
+            "answer": "Nein",
+            "votes": 79,
+            "order": 1
+        }
+    ]
+}

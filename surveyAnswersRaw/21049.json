@@ -1,0 +1,25 @@
+{
+    "id": 9265,
+    "question": "Trauen Sie Lugano unter McSorley den Titel zu?",
+    "created_at": "2021-05-06T08:18:21+00:00",
+    "updated_at": "2021-06-14T09:40:24+00:00",
+    "end_at": null,
+    "comment_group_id": 2144512,
+    "published_at": "2021-05-06T08:21:01+00:00",
+    "display_name": "",
+    "total": 182,
+    "answers": [
+        {
+            "id": 21049,
+            "answer": "Ja",
+            "votes": 129,
+            "order": 0
+        },
+        {
+            "id": 21050,
+            "answer": "Nein",
+            "votes": 53,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 5531,
+    "question": "Mussten Sie sich auch schön fiese Kommentare über ihren Körper anhören?",
+    "created_at": "2020-09-23T11:03:20+00:00",
+    "updated_at": "2021-06-14T09:37:17+00:00",
+    "end_at": null,
+    "comment_group_id": 1814979,
+    "published_at": "2020-09-23T13:46:15+00:00",
+    "display_name": "",
+    "total": 867,
+    "answers": [
+        {
+            "id": 12937,
+            "answer": "Ja, es war sehr verletzend.",
+            "votes": 490,
+            "order": 0
+        },
+        {
+            "id": 12938,
+            "answer": "Nein, zum Glück nicht.",
+            "votes": 377,
+            "order": 1
+        }
+    ]
+}

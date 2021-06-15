@@ -1,0 +1,25 @@
+{
+    "id": 7317,
+    "question": "Upamecano für Alaba: Ein guter Ersatz?",
+    "created_at": "2021-02-16T06:15:22+00:00",
+    "updated_at": "2021-06-14T09:38:41+00:00",
+    "end_at": null,
+    "comment_group_id": 2023774,
+    "published_at": "2021-02-16T06:33:24+00:00",
+    "display_name": "",
+    "total": 124,
+    "answers": [
+        {
+            "id": 16886,
+            "answer": "Ja, er kann Alaba locker vergessen lassen.",
+            "votes": 81,
+            "order": 0
+        },
+        {
+            "id": 16887,
+            "answer": "Nein, Alaba ist für die Münchner unersetzbar.",
+            "votes": 43,
+            "order": 1
+        }
+    ]
+}

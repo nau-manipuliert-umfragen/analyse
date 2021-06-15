@@ -1,0 +1,25 @@
+{
+    "id": 9806,
+    "question": "Sind Sie zufrieden mit ihrem Körper?",
+    "created_at": "2021-06-01T14:49:30+00:00",
+    "updated_at": "2021-06-14T09:40:56+00:00",
+    "end_at": null,
+    "comment_group_id": 2185730,
+    "published_at": "2021-06-01T19:02:02+00:00",
+    "display_name": "",
+    "total": 504,
+    "answers": [
+        {
+            "id": 22223,
+            "answer": "Naja, gegen weniger Kilos hätte ich nichts einzuwenden.",
+            "votes": 401,
+            "order": 0
+        },
+        {
+            "id": 22222,
+            "answer": "Ich liebe mich so, wie ich bin.",
+            "votes": 103,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 3860,
+    "question": "Wird Sadio Mané von Liverpool zu Real Madrid wechseln?",
+    "created_at": "2020-04-14T08:35:41+00:00",
+    "updated_at": "2020-04-14T08:35:42+00:00",
+    "end_at": "2020-04-14T08:35:39+00:00",
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 40,
+    "answers": [
+        {
+            "id": 9280,
+            "answer": "Ja ganz sicher!",
+            "votes": 20,
+            "order": 0
+        },
+        {
+            "id": 9279,
+            "answer": "Nein niemals.",
+            "votes": 20,
+            "order": 1
+        }
+    ]
+}

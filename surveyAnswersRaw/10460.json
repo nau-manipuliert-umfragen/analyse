@@ -1,0 +1,31 @@
+{
+    "id": 4404,
+    "question": "Wer wird Schweizer Meister?",
+    "created_at": "2020-05-29T14:20:31+00:00",
+    "updated_at": "2021-06-14T09:36:33+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 582,
+    "answers": [
+        {
+            "id": 10460,
+            "answer": "FC St.Gallen",
+            "votes": 158,
+            "order": 0
+        },
+        {
+            "id": 10459,
+            "answer": "BSC YB",
+            "votes": 370,
+            "order": 1
+        },
+        {
+            "id": 10461,
+            "answer": "FC Basel",
+            "votes": 54,
+            "order": 2
+        }
+    ]
+}

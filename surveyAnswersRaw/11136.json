@@ -1,0 +1,25 @@
+{
+    "id": 4717,
+    "question": "Was halten Sie von der Schuld-Zuweisung von Papa Djokovic?",
+    "created_at": "2020-06-25T08:32:50+00:00",
+    "updated_at": "2021-06-14T09:36:45+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 409,
+    "answers": [
+        {
+            "id": 11137,
+            "answer": "Gerechtfertigt",
+            "votes": 46,
+            "order": 0
+        },
+        {
+            "id": 11136,
+            "answer": "Völlig daneben",
+            "votes": 363,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 1438,
+    "question": "Gehören Vegi-Menüs ins Standartangebot?",
+    "created_at": "2018-07-06T03:50:39+00:00",
+    "updated_at": "2021-06-14T09:34:28+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 222,
+    "answers": [
+        {
+            "id": 3925,
+            "answer": "Ja",
+            "votes": 161,
+            "order": 100
+        },
+        {
+            "id": 3928,
+            "answer": "Nein",
+            "votes": 61,
+            "order": 100
+        }
+    ]
+}

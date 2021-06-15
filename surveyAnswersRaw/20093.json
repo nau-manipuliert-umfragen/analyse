@@ -1,0 +1,25 @@
+{
+    "id": 8819,
+    "question": "Machen die Blumen und der Brief Meghans Absage wieder wett?",
+    "created_at": "2021-04-18T09:11:59+00:00",
+    "updated_at": "2021-06-14T09:39:58+00:00",
+    "end_at": null,
+    "comment_group_id": 2112429,
+    "published_at": "2021-04-19T05:00:47+00:00",
+    "display_name": "",
+    "total": 2386,
+    "answers": [
+        {
+            "id": 20092,
+            "answer": "Ja, schliesslich hat sie sich Mühe gegeben.",
+            "votes": 503,
+            "order": 0
+        },
+        {
+            "id": 20093,
+            "answer": "Nein, Meghan hat es sich schon lange mit den Royals verspielt.",
+            "votes": 1883,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 4232,
+    "question": "Was meinen Sie? Lausbubenstreich oder Hausfriedensbruch?",
+    "created_at": "2020-05-14T15:33:59+00:00",
+    "updated_at": "2021-06-14T09:36:25+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 213,
+    "answers": [
+        {
+            "id": 10088,
+            "answer": "Alles nur halb so schlimm.",
+            "votes": 128,
+            "order": 0
+        },
+        {
+            "id": 10087,
+            "answer": "Comedy hin oder her: Das ist eine Straftat.",
+            "votes": 85,
+            "order": 1
+        }
+    ]
+}

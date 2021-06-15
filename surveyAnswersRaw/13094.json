@@ -1,0 +1,25 @@
+{
+    "id": 5604,
+    "question": "Kann der BVB dem FC Bayern München in der Deutschen Meisterschaft dieses Jahr Paroli bieten?",
+    "created_at": "2020-10-01T06:11:26+00:00",
+    "updated_at": "2021-06-14T09:37:20+00:00",
+    "end_at": null,
+    "comment_group_id": 1827895,
+    "published_at": "2020-10-22T18:02:05+00:00",
+    "display_name": "",
+    "total": 370,
+    "answers": [
+        {
+            "id": 13093,
+            "answer": "Ja",
+            "votes": 124,
+            "order": 0
+        },
+        {
+            "id": 13094,
+            "answer": "Nein",
+            "votes": 246,
+            "order": 1
+        }
+    ]
+}

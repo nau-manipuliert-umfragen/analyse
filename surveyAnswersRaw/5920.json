@@ -1,0 +1,25 @@
+{
+    "id": 2346,
+    "question": "Befürworten Sie den Videobeweis in der Champions League?",
+    "created_at": "2019-02-21T08:16:33+00:00",
+    "updated_at": "2021-06-14T09:34:57+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 50,
+    "answers": [
+        {
+            "id": 5919,
+            "answer": "Ja.",
+            "votes": 29,
+            "order": 100
+        },
+        {
+            "id": 5920,
+            "answer": "Nein.",
+            "votes": 21,
+            "order": 100
+        }
+    ]
+}

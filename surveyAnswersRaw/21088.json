@@ -1,0 +1,25 @@
+{
+    "id": 9283,
+    "question": "Würden Sie ohne Termin zum Impfen?",
+    "created_at": "2021-05-07T08:04:49+00:00",
+    "updated_at": "2021-06-14T09:40:25+00:00",
+    "end_at": null,
+    "comment_group_id": 2146133,
+    "published_at": "2021-05-08T06:54:03+00:00",
+    "display_name": "",
+    "total": 929,
+    "answers": [
+        {
+            "id": 21087,
+            "answer": "Ja, so muss ich mich nicht richten.",
+            "votes": 585,
+            "order": 0
+        },
+        {
+            "id": 21088,
+            "answer": "Nein, die Warterei ist mir zu blöd.",
+            "votes": 344,
+            "order": 1
+        }
+    ]
+}

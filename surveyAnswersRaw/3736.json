@@ -1,0 +1,31 @@
+{
+    "id": 1381,
+    "question": "Was halten Sie von diesem Test in Zürich?",
+    "created_at": "2018-07-03T06:53:16+00:00",
+    "updated_at": "2021-06-14T09:34:26+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 83,
+    "answers": [
+        {
+            "id": 3736,
+            "answer": "Eine sinnvolle Lösung",
+            "votes": 31,
+            "order": 100
+        },
+        {
+            "id": 3739,
+            "answer": "Mir egal - ich wohne nicht an der Strasse",
+            "votes": 22,
+            "order": 100
+        },
+        {
+            "id": 3742,
+            "answer": "Wäre nicht nötig",
+            "votes": 30,
+            "order": 100
+        }
+    ]
+}

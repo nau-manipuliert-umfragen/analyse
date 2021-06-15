@@ -1,0 +1,25 @@
+{
+    "id": 6833,
+    "question": "Finden Sie es richtig, dass Topspieler wie Djokovic oder Nadal in Australien eine Sonderbehandlung geniessen?",
+    "created_at": "2021-01-26T14:42:21+00:00",
+    "updated_at": "2021-06-14T09:38:17+00:00",
+    "end_at": null,
+    "comment_group_id": 1994093,
+    "published_at": "2021-01-26T15:30:58+00:00",
+    "display_name": "",
+    "total": 711,
+    "answers": [
+        {
+            "id": 15800,
+            "answer": "Ja.",
+            "votes": 123,
+            "order": 0
+        },
+        {
+            "id": 15799,
+            "answer": "Nein.",
+            "votes": 588,
+            "order": 1
+        }
+    ]
+}

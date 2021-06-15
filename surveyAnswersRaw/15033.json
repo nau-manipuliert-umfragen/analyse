@@ -1,0 +1,25 @@
+{
+    "id": 6479,
+    "question": "Was glauben Sie, werden sich die Stadien im kommenden Jahr wieder mit Zuschauer füllen?",
+    "created_at": "2020-12-28T15:44:29+00:00",
+    "updated_at": "2020-12-29T06:04:28+00:00",
+    "end_at": "2020-12-28T15:44:27+00:00",
+    "comment_group_id": 1956795,
+    "published_at": "2020-12-29T06:04:27+00:00",
+    "display_name": "",
+    "total": 40,
+    "answers": [
+        {
+            "id": 15033,
+            "answer": "Ja, das wird möglich sein.",
+            "votes": 20,
+            "order": 0
+        },
+        {
+            "id": 15032,
+            "answer": "Nein, das wird noch lange dauern.",
+            "votes": 20,
+            "order": 1
+        }
+    ]
+}

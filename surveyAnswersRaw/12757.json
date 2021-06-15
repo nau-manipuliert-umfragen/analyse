@@ -1,0 +1,25 @@
+{
+    "id": 5449,
+    "question": "Wurde Novak Djokovic zurecht disqualifiziert?",
+    "created_at": "2020-09-15T08:29:01+00:00",
+    "updated_at": "2021-06-14T09:37:14+00:00",
+    "end_at": null,
+    "comment_group_id": 1800819,
+    "published_at": "2020-09-15T08:53:26+00:00",
+    "display_name": "",
+    "total": 316,
+    "answers": [
+        {
+            "id": 12757,
+            "answer": "Ja, das war grob fahrlässig.",
+            "votes": 228,
+            "order": 0
+        },
+        {
+            "id": 12758,
+            "answer": "Nein, ich fand das zu hart.",
+            "votes": 88,
+            "order": 1
+        }
+    ]
+}

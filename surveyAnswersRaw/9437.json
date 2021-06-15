@@ -1,0 +1,25 @@
+{
+    "id": 3935,
+    "question": "Wäre Stephan Lichtsteiner eine Verstärkung für GC?",
+    "created_at": "2020-04-20T07:34:33+00:00",
+    "updated_at": "2021-06-14T09:36:12+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 989,
+    "answers": [
+        {
+            "id": 9438,
+            "answer": "Natürlich, seine Erfahrung wäre Gold wert!",
+            "votes": 711,
+            "order": 0
+        },
+        {
+            "id": 9437,
+            "answer": "Nein, Lichtsteiner ist deutlich zu alt.",
+            "votes": 278,
+            "order": 1
+        }
+    ]
+}

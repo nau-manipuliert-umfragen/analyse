@@ -1,0 +1,25 @@
+{
+    "id": 3457,
+    "question": "Wird in der Serie A in dieser Saison nochmals gespielt?",
+    "created_at": "2020-03-14T09:08:32+00:00",
+    "updated_at": "2021-06-14T09:35:52+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 155,
+    "answers": [
+        {
+            "id": 8419,
+            "answer": "Ja, das wird weitergehen.",
+            "votes": 48,
+            "order": 0
+        },
+        {
+            "id": 8420,
+            "answer": "Nein, unmöglich!",
+            "votes": 107,
+            "order": 1
+        }
+    ]
+}

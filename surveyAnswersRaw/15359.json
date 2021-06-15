@@ -1,0 +1,25 @@
+{
+    "id": 6631,
+    "question": "Gewinnt Bayern auch den Pokal?",
+    "created_at": "2021-01-13T09:26:12+00:00",
+    "updated_at": "2021-06-14T09:38:09+00:00",
+    "end_at": null,
+    "comment_group_id": 1975061,
+    "published_at": "2021-01-13T09:27:12+00:00",
+    "display_name": "",
+    "total": 235,
+    "answers": [
+        {
+            "id": 15359,
+            "answer": "Ja, klar!",
+            "votes": 116,
+            "order": 0
+        },
+        {
+            "id": 15360,
+            "answer": "Nein, diesmal nicht.",
+            "votes": 119,
+            "order": 1
+        }
+    ]
+}

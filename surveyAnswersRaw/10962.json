@@ -1,0 +1,25 @@
+{
+    "id": 4637,
+    "question": "Erreicht Gladbach Platz vier und damit die Champions League?",
+    "created_at": "2020-06-16T17:57:03+00:00",
+    "updated_at": "2021-06-14T09:36:41+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 74,
+    "answers": [
+        {
+            "id": 10962,
+            "answer": "Ja, die Fohlen schaffen es in die Königklasse.",
+            "votes": 50,
+            "order": 0
+        },
+        {
+            "id": 10963,
+            "answer": "Nein, Leverkusen hat am Schluss die Nase vorn.",
+            "votes": 24,
+            "order": 1
+        }
+    ]
+}

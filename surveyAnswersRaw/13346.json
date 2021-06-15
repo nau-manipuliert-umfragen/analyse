@@ -1,0 +1,25 @@
+{
+    "id": 5722,
+    "question": "Finden Sie das Millionen-Gehalt von Ronaldo gerechtfertigt?",
+    "created_at": "2020-10-13T09:08:28+00:00",
+    "updated_at": "2021-06-14T09:37:25+00:00",
+    "end_at": null,
+    "comment_group_id": 1847409,
+    "published_at": "2020-10-16T09:13:18+00:00",
+    "display_name": "",
+    "total": 290,
+    "answers": [
+        {
+            "id": 13346,
+            "answer": "Ja, er ist der Beste!",
+            "votes": 66,
+            "order": 0
+        },
+        {
+            "id": 13345,
+            "answer": "Nein, das ist völlig übertrieben.",
+            "votes": 224,
+            "order": 1
+        }
+    ]
+}

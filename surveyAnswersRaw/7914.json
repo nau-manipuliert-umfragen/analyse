@@ -1,0 +1,25 @@
+{
+    "id": 3228,
+    "question": "Gewinnt Novak Djokovic das Dubai Open?",
+    "created_at": "2020-02-29T09:12:56+00:00",
+    "updated_at": "2021-06-14T09:35:42+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 167,
+    "answers": [
+        {
+            "id": 7913,
+            "answer": "Ja, Djokovic geht auch im Final als Sieger vom Platz.",
+            "votes": 130,
+            "order": 0
+        },
+        {
+            "id": 7914,
+            "answer": "Nein, Stefanos Tsitsipas besiegt die Weltnummer eins.",
+            "votes": 37,
+            "order": 1
+        }
+    ]
+}

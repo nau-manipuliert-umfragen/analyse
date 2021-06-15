@@ -1,0 +1,25 @@
+{
+    "id": 8436,
+    "question": "Haben Meghan und Harry im Interview geflunkert?",
+    "created_at": "2021-03-31T08:25:00+00:00",
+    "updated_at": "2021-06-14T09:39:39+00:00",
+    "end_at": null,
+    "comment_group_id": 2087092,
+    "published_at": "2021-04-01T09:00:21+00:00",
+    "display_name": "",
+    "total": 2734,
+    "answers": [
+        {
+            "id": 19294,
+            "answer": "Nein, ihre Worte wurden nur komplett verdreht.",
+            "votes": 355,
+            "order": 0
+        },
+        {
+            "id": 19293,
+            "answer": "Ja, die beiden sind hinterlistig.",
+            "votes": 2379,
+            "order": 1
+        }
+    ]
+}

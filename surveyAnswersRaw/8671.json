@@ -1,0 +1,25 @@
+{
+    "id": 3575,
+    "question": "Was halten Sie von der Terminverschiebung der French Open?",
+    "created_at": "2020-03-22T13:34:34+00:00",
+    "updated_at": "2020-03-22T13:34:34+00:00",
+    "end_at": "2020-03-22T13:34:31+00:00",
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 40,
+    "answers": [
+        {
+            "id": 8670,
+            "answer": "Finde ich eine absolut berechtigte Entscheidung.",
+            "votes": 20,
+            "order": 0
+        },
+        {
+            "id": 8671,
+            "answer": "Dies ist eine respektlose Aktion!",
+            "votes": 20,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 9608,
+    "question": "Trauen Sie Bruno Berner ein Engagement in der Super League zu?",
+    "created_at": "2021-05-21T15:55:56+00:00",
+    "updated_at": "2021-06-14T10:26:59+00:00",
+    "end_at": null,
+    "comment_group_id": 2169823,
+    "published_at": "2021-05-21T16:22:24+00:00",
+    "display_name": "",
+    "total": 655,
+    "answers": [
+        {
+            "id": 21790,
+            "answer": "Ja, klar.",
+            "votes": 574,
+            "order": 0
+        },
+        {
+            "id": 21791,
+            "answer": "Nein.",
+            "votes": 81,
+            "order": 1
+        }
+    ]
+}

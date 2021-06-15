@@ -1,0 +1,25 @@
+{
+    "id": 1809,
+    "question": "Wer sollte bei BVB die Nummer 1 im Tor sein?",
+    "created_at": "2018-08-20T07:29:22+00:00",
+    "updated_at": "2021-06-14T09:34:38+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 161,
+    "answers": [
+        {
+            "id": 4740,
+            "answer": "Roman Bürki",
+            "votes": 89,
+            "order": 100
+        },
+        {
+            "id": 4743,
+            "answer": "Marwin Hitz",
+            "votes": 72,
+            "order": 100
+        }
+    ]
+}

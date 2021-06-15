@@ -1,0 +1,31 @@
+{
+    "id": 7122,
+    "question": "Was halten Sie davon, wenn Leute andere von ihrem Glauben überzeugen wollen?",
+    "created_at": "2021-02-08T18:03:42+00:00",
+    "updated_at": "2021-02-10T18:01:03+00:00",
+    "end_at": "2021-02-10T18:03:38+00:00",
+    "comment_group_id": 2013117,
+    "published_at": "2021-02-09T20:00:36+00:00",
+    "display_name": "",
+    "total": 913,
+    "answers": [
+        {
+            "id": 16449,
+            "answer": "Das ist ihr gutes Recht.",
+            "votes": 369,
+            "order": 0
+        },
+        {
+            "id": 16448,
+            "answer": "Sie sollen es nur probieren. Bei mir haben sie keinen Erfolg.",
+            "votes": 187,
+            "order": 1
+        },
+        {
+            "id": 16450,
+            "answer": "Missionieren sollte verboten werden.",
+            "votes": 357,
+            "order": 2
+        }
+    ]
+}

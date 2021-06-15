@@ -1,0 +1,25 @@
+{
+    "id": 9910,
+    "question": "Haben Sie Kinder?",
+    "created_at": "2021-06-06T09:34:18+00:00",
+    "updated_at": "2021-06-14T09:41:02+00:00",
+    "end_at": null,
+    "comment_group_id": 2192839,
+    "published_at": "2021-06-08T04:51:24+00:00",
+    "display_name": "",
+    "total": 223,
+    "answers": [
+        {
+            "id": 22452,
+            "answer": "Ja.",
+            "votes": 125,
+            "order": 0
+        },
+        {
+            "id": 22451,
+            "answer": "Nein.",
+            "votes": 98,
+            "order": 1
+        }
+    ]
+}

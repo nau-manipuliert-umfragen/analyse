@@ -1,0 +1,25 @@
+{
+    "id": 8266,
+    "question": "Finden Sie es richtig, dass der Bundesrat wohl erst im April wieder über Lockerungen spricht?",
+    "created_at": "2021-03-24T09:15:29+00:00",
+    "updated_at": "2021-06-14T09:39:30+00:00",
+    "end_at": null,
+    "comment_group_id": 2076678,
+    "published_at": "2021-03-25T06:01:52+00:00",
+    "display_name": "",
+    "total": 3673,
+    "answers": [
+        {
+            "id": 18938,
+            "answer": "Ja, aufgrund der steigenden Zahlen ist nun etwas Geduld gefragt.",
+            "votes": 858,
+            "order": 0
+        },
+        {
+            "id": 18937,
+            "answer": "Nein, die Regierung sollte wöchentlich schauen, ob Öffnungen möglich sind.",
+            "votes": 2815,
+            "order": 1
+        }
+    ]
+}

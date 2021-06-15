@@ -1,0 +1,25 @@
+{
+    "id": 6969,
+    "question": "Ist Sami Khedira der richtige Transfer für die Hertha?",
+    "created_at": "2021-02-02T10:08:09+00:00",
+    "updated_at": "2021-06-14T09:38:23+00:00",
+    "end_at": null,
+    "comment_group_id": 2003708,
+    "published_at": null,
+    "display_name": "",
+    "total": 43,
+    "answers": [
+        {
+            "id": 16095,
+            "answer": "Ja, er bringt die alte Dame weiter.",
+            "votes": 22,
+            "order": 0
+        },
+        {
+            "id": 16094,
+            "answer": "Nein, er ist leider zu alt.",
+            "votes": 21,
+            "order": 1
+        }
+    ]
+}

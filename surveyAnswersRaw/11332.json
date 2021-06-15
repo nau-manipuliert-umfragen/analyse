@@ -1,0 +1,25 @@
+{
+    "id": 4808,
+    "question": "Was halten Sie von den Mega-Löhnen im US-Baseball?",
+    "created_at": "2020-07-03T13:07:23+00:00",
+    "updated_at": "2021-06-14T09:36:48+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 88,
+    "answers": [
+        {
+            "id": 11331,
+            "answer": "Völlig übertrieben.",
+            "votes": 51,
+            "order": 0
+        },
+        {
+            "id": 11332,
+            "answer": "Naja, das ist heutzutage nun mal so.",
+            "votes": 37,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 5181,
+    "question": "Soll Hoarau vor dem Wankdorf ein Denkmal erhalten?",
+    "created_at": "2020-08-18T14:08:36+00:00",
+    "updated_at": "2021-06-14T09:37:03+00:00",
+    "end_at": null,
+    "comment_group_id": 1754687,
+    "published_at": null,
+    "display_name": "",
+    "total": 651,
+    "answers": [
+        {
+            "id": 12163,
+            "answer": "Ja, Hoarau hat das Sieger-Gen nach Bern gebracht",
+            "votes": 396,
+            "order": 0
+        },
+        {
+            "id": 12164,
+            "answer": "Nein, das wäre total übertrieben",
+            "votes": 255,
+            "order": 1
+        }
+    ]
+}

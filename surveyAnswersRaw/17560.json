@@ -1,0 +1,25 @@
+{
+    "id": 7617,
+    "question": "Was halten Sie von Tamys Forderung?",
+    "created_at": "2021-02-26T13:18:38+00:00",
+    "updated_at": "2021-06-14T09:38:55+00:00",
+    "end_at": null,
+    "comment_group_id": 2039643,
+    "published_at": null,
+    "display_name": "",
+    "total": 1877,
+    "answers": [
+        {
+            "id": 17560,
+            "answer": "Sie hat recht.",
+            "votes": 460,
+            "order": 0
+        },
+        {
+            "id": 17559,
+            "answer": "Das verwirrt mich.",
+            "votes": 1417,
+            "order": 1
+        }
+    ]
+}

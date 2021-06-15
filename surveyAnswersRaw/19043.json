@@ -1,0 +1,25 @@
+{
+    "id": 8315,
+    "question": "Verfolgen Sie die NFL?",
+    "created_at": "2021-03-25T16:59:16+00:00",
+    "updated_at": "2021-06-14T09:39:32+00:00",
+    "end_at": null,
+    "comment_group_id": 2079314,
+    "published_at": "2021-03-26T17:30:20+00:00",
+    "display_name": "",
+    "total": 433,
+    "answers": [
+        {
+            "id": 19042,
+            "answer": "Ja.",
+            "votes": 150,
+            "order": 0
+        },
+        {
+            "id": 19043,
+            "answer": "Nein.",
+            "votes": 283,
+            "order": 1
+        }
+    ]
+}

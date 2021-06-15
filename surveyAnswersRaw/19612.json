@@ -1,0 +1,25 @@
+{
+    "id": 8590,
+    "question": "Was halten Sie vom Palmöl-Verbot in Sri Lanka?",
+    "created_at": "2021-04-08T09:41:46+00:00",
+    "updated_at": "2021-04-26T09:03:54+00:00",
+    "end_at": "2021-04-30T09:37:59+00:00",
+    "comment_group_id": 2098074,
+    "published_at": "2021-04-08T18:31:12+00:00",
+    "display_name": "",
+    "total": 188,
+    "answers": [
+        {
+            "id": 19612,
+            "answer": "Tolle Sache, die Schweiz sollte da gerade mitziehen.",
+            "votes": 157,
+            "order": 0
+        },
+        {
+            "id": 19613,
+            "answer": "Ein völlig übertriebener Schritt.",
+            "votes": 31,
+            "order": 1
+        }
+    ]
+}

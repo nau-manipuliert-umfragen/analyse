@@ -1,0 +1,25 @@
+{
+    "id": 9484,
+    "question": "Kaufen auch Sie in Deutschland ein?",
+    "created_at": "2021-05-17T09:11:00+00:00",
+    "updated_at": "2021-06-14T09:40:37+00:00",
+    "end_at": null,
+    "comment_group_id": 2160962,
+    "published_at": "2021-05-17T09:49:56+00:00",
+    "display_name": "",
+    "total": 1413,
+    "answers": [
+        {
+            "id": 21521,
+            "answer": "Ja, damit kann ich viel Geld sparen.",
+            "votes": 639,
+            "order": 0
+        },
+        {
+            "id": 21520,
+            "answer": "Nein, ich unterstütze lieber den Schweizer Detailhandel.",
+            "votes": 774,
+            "order": 1
+        }
+    ]
+}

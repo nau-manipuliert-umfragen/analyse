@@ -1,0 +1,25 @@
+{
+    "id": 8356,
+    "question": "Können Sie sich an die historische Nati-Pleite gegen Luxemburg erinnern?",
+    "created_at": "2021-03-28T13:49:04+00:00",
+    "updated_at": "2021-06-14T09:39:35+00:00",
+    "end_at": null,
+    "comment_group_id": 2082726,
+    "published_at": "2021-03-28T14:13:13+00:00",
+    "display_name": "",
+    "total": 96,
+    "answers": [
+        {
+            "id": 19130,
+            "answer": "Ja, auf jeden Fall!",
+            "votes": 71,
+            "order": 0
+        },
+        {
+            "id": 19129,
+            "answer": "Nein.",
+            "votes": 25,
+            "order": 1
+        }
+    ]
+}

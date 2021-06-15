@@ -1,0 +1,25 @@
+{
+    "id": 8716,
+    "question": "Finden Sie es richtig, dass Umweltschützer bei Roger Federers Bauplänen genau hinschauen?",
+    "created_at": "2021-04-13T09:37:37+00:00",
+    "updated_at": "2021-06-14T09:39:53+00:00",
+    "end_at": null,
+    "comment_group_id": 2105238,
+    "published_at": "2021-04-15T06:34:57+00:00",
+    "display_name": "",
+    "total": 7904,
+    "answers": [
+        {
+            "id": 19869,
+            "answer": "Absolut, für den Tennisstar gelten dieselben Regeln wie für alle anderen.",
+            "votes": 5749,
+            "order": 0
+        },
+        {
+            "id": 19870,
+            "answer": "Nein, für die Gemeinde ist es doch ein Privileg, wenn er dorthin zieht.",
+            "votes": 2155,
+            "order": 1
+        }
+    ]
+}

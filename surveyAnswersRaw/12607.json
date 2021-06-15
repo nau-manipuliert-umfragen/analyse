@@ -1,0 +1,25 @@
+{
+    "id": 5384,
+    "question": "Wie beurteilen Sie den Zweikampf zwischen Embolo und Ginter?",
+    "created_at": "2020-09-08T05:50:56+00:00",
+    "updated_at": "2021-06-14T09:37:11+00:00",
+    "end_at": null,
+    "comment_group_id": 1788933,
+    "published_at": "2020-09-08T06:22:08+00:00",
+    "display_name": "",
+    "total": 861,
+    "answers": [
+        {
+            "id": 12607,
+            "answer": "Das ist ein grenzwertiges Einsteigen gegen den Nati-Stürmer.",
+            "votes": 566,
+            "order": 0
+        },
+        {
+            "id": 12606,
+            "answer": "Ginter spielt klar den Ball, ich sehe kein Problem!",
+            "votes": 295,
+            "order": 1
+        }
+    ]
+}

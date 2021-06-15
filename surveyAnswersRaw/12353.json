@@ -1,0 +1,25 @@
+{
+    "id": 5272,
+    "question": "Schafft YB den Einzug in die Champions League?",
+    "created_at": "2020-08-26T21:35:31+00:00",
+    "updated_at": "2021-06-14T09:37:06+00:00",
+    "end_at": null,
+    "comment_group_id": 1768703,
+    "published_at": "2020-08-27T10:49:19+00:00",
+    "display_name": "",
+    "total": 479,
+    "answers": [
+        {
+            "id": 12354,
+            "answer": "Ja",
+            "votes": 295,
+            "order": 0
+        },
+        {
+            "id": 12353,
+            "answer": "Nein, da sind zu viele dicke Brocken dabei.",
+            "votes": 184,
+            "order": 1
+        }
+    ]
+}

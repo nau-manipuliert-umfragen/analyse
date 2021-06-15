@@ -1,0 +1,25 @@
+{
+    "id": 9052,
+    "question": "Trauen Sie Urs Fischer den Job bei Eintracht Frankfurt zu?",
+    "created_at": "2021-04-28T07:44:42+00:00",
+    "updated_at": "2021-06-14T09:40:13+00:00",
+    "end_at": null,
+    "comment_group_id": 2128795,
+    "published_at": "2021-04-28T09:23:53+00:00",
+    "display_name": "",
+    "total": 611,
+    "answers": [
+        {
+            "id": 20596,
+            "answer": "Ja",
+            "votes": 494,
+            "order": 0
+        },
+        {
+            "id": 20595,
+            "answer": "Nein",
+            "votes": 117,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 5708,
+    "question": "Hat Prinz Harry hat in der Beziehung die Hosen an?",
+    "created_at": "2020-10-12T13:26:27+00:00",
+    "updated_at": "2021-06-14T09:37:24+00:00",
+    "end_at": null,
+    "comment_group_id": 1846234,
+    "published_at": "2020-10-13T07:04:04+00:00",
+    "display_name": "",
+    "total": 705,
+    "answers": [
+        {
+            "id": 13316,
+            "answer": "Nein, offensichtlich ist Meghan die dominantere.",
+            "votes": 650,
+            "order": 0
+        },
+        {
+            "id": 13315,
+            "answer": "Ja, der Schein trügt.",
+            "votes": 55,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 2562,
+    "question": "Sind Sie beeindruckt von Shaqiris Schenkeln?",
+    "created_at": "2020-01-15T08:06:41+00:00",
+    "updated_at": "2021-06-14T09:35:08+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 136,
+    "answers": [
+        {
+            "id": 6434,
+            "answer": "Ja, das kann sich sehen lassen",
+            "votes": 76,
+            "order": 0
+        },
+        {
+            "id": 6435,
+            "answer": "Nein, meine sind besser",
+            "votes": 60,
+            "order": 1
+        }
+    ]
+}

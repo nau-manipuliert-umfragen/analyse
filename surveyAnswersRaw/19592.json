@@ -1,0 +1,25 @@
+{
+    "id": 8581,
+    "question": "Was halten Sie von der Blüttel-Aktion von Leni Klum?",
+    "created_at": "2021-04-07T17:50:45+00:00",
+    "updated_at": "2021-06-14T09:39:46+00:00",
+    "end_at": null,
+    "comment_group_id": 2097070,
+    "published_at": "2021-04-07T17:58:04+00:00",
+    "display_name": "",
+    "total": 68,
+    "answers": [
+        {
+            "id": 19593,
+            "answer": "Finde ich gut, sie darf machen was sie will.",
+            "votes": 26,
+            "order": 0
+        },
+        {
+            "id": 19592,
+            "answer": "Sie ist definitiv zu jung dafür.",
+            "votes": 42,
+            "order": 1
+        }
+    ]
+}

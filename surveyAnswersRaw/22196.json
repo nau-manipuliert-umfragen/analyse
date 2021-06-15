@@ -1,0 +1,25 @@
+{
+    "id": 9793,
+    "question": "Gefällt Ihnen die Erotik-Reihe «Fifty Shades of Grey»?",
+    "created_at": "2021-06-01T08:49:14+00:00",
+    "updated_at": "2021-06-14T09:40:55+00:00",
+    "end_at": null,
+    "comment_group_id": 2184950,
+    "published_at": "2021-06-01T10:47:47+00:00",
+    "display_name": "",
+    "total": 229,
+    "answers": [
+        {
+            "id": 22196,
+            "answer": "Ja, ich kann nicht genug davon kriegen!",
+            "votes": 109,
+            "order": 0
+        },
+        {
+            "id": 22195,
+            "answer": "Nein, das ist überhaupt nicht meins.",
+            "votes": 120,
+            "order": 1
+        }
+    ]
+}

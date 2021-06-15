@@ -1,0 +1,31 @@
+{
+    "id": 8024,
+    "question": "Wer könnte Dieter Bohlen ersetzen?",
+    "created_at": "2021-03-15T15:42:29+00:00",
+    "updated_at": "2021-06-14T09:39:16+00:00",
+    "end_at": null,
+    "comment_group_id": 2063994,
+    "published_at": "2021-03-16T13:04:12+00:00",
+    "display_name": "",
+    "total": 3654,
+    "answers": [
+        {
+            "id": 18429,
+            "answer": "Michael Wendler!",
+            "votes": 392,
+            "order": 0
+        },
+        {
+            "id": 18428,
+            "answer": "Florian Silbereisen!",
+            "votes": 509,
+            "order": 1
+        },
+        {
+            "id": 18430,
+            "answer": "Niemand kann ihn ersetzen!",
+            "votes": 2753,
+            "order": 2
+        }
+    ]
+}

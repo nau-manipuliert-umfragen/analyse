@@ -1,0 +1,31 @@
+{
+    "id": 4243,
+    "question": "Haben Sie bereits Erfahrungen mit solchen Gadgets sammeln können?",
+    "created_at": "2020-05-15T08:41:08+00:00",
+    "updated_at": "2021-06-14T09:36:25+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 281,
+    "answers": [
+        {
+            "id": 10108,
+            "answer": "Ja, ich habe bereits mittels UVC desinfiziert.",
+            "votes": 60,
+            "order": 0
+        },
+        {
+            "id": 10110,
+            "answer": "Ja, ich wurde leider abgezockt.",
+            "votes": 26,
+            "order": 1
+        },
+        {
+            "id": 10109,
+            "answer": "Nein, mir sagt das gar nichts.",
+            "votes": 195,
+            "order": 2
+        }
+    ]
+}

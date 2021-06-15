@@ -1,0 +1,25 @@
+{
+    "id": 7838,
+    "question": "Wäre Lothar Matthäus ein guter Nachfolger von Jogi Löw?",
+    "created_at": "2021-03-08T14:42:36+00:00",
+    "updated_at": "2021-06-14T10:25:38+00:00",
+    "end_at": null,
+    "comment_group_id": 2053633,
+    "published_at": "2021-03-08T16:43:09+00:00",
+    "display_name": "",
+    "total": 532,
+    "answers": [
+        {
+            "id": 18043,
+            "answer": "Ja, Lothar kanns richten!",
+            "votes": 164,
+            "order": 0
+        },
+        {
+            "id": 18044,
+            "answer": "Nein, das passt nicht.",
+            "votes": 368,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "id": 338,
+    "question": "Wie viele Medaillen holt Dario Cologna an den Olympischen Spielen?",
+    "created_at": "2018-01-08T07:39:00+00:00",
+    "updated_at": "2021-06-14T10:19:57+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 107,
+    "answers": [
+        {
+            "id": 989,
+            "answer": "Eine",
+            "votes": 22,
+            "order": 100
+        },
+        {
+            "id": 992,
+            "answer": "Keine",
+            "votes": 22,
+            "order": 100
+        },
+        {
+            "id": 995,
+            "answer": "Drei",
+            "votes": 21,
+            "order": 100
+        },
+        {
+            "id": 998,
+            "answer": "Zwei",
+            "votes": 21,
+            "order": 100
+        },
+        {
+            "id": 1001,
+            "answer": "Vier oder mehr",
+            "votes": 21,
+            "order": 100
+        }
+    ]
+}

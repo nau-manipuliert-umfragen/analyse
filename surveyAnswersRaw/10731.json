@@ -1,0 +1,25 @@
+{
+    "id": 4527,
+    "question": "Können Sie den Unmut der Barça-Stars nachvollziehen?",
+    "created_at": "2020-06-09T08:09:59+00:00",
+    "updated_at": "2021-06-14T09:36:38+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 136,
+    "answers": [
+        {
+            "id": 10731,
+            "answer": "Absolut",
+            "votes": 48,
+            "order": 0
+        },
+        {
+            "id": 10732,
+            "answer": "Überhaupt nicht",
+            "votes": 88,
+            "order": 1
+        }
+    ]
+}

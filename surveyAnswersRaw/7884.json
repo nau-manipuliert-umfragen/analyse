@@ -1,0 +1,25 @@
+{
+    "id": 3215,
+    "question": "Was halten Sie von Prinz Harrys Reise in der 1. Klasse mit abgesperrtem Abteil?",
+    "created_at": "2020-02-28T07:44:39+00:00",
+    "updated_at": "2021-06-14T09:35:42+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 1874,
+    "answers": [
+        {
+            "id": 7883,
+            "answer": "Bitte nicht aufregen, er reist doch schon in der Bahn statt im Privatjet.",
+            "votes": 473,
+            "order": 0
+        },
+        {
+            "id": 7884,
+            "answer": "Er ist nun mal mit einem goldenen Löffel auf die Welt gekommen ...",
+            "votes": 1401,
+            "order": 1
+        }
+    ]
+}

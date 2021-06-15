@@ -1,0 +1,25 @@
+{
+    "id": 3327,
+    "question": "Wird Manchester United im FA-Cup-Viertelfinal seiner Favoritenrolle gerecht?",
+    "created_at": "2020-03-05T20:49:29+00:00",
+    "updated_at": "2021-06-14T09:35:47+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 62,
+    "answers": [
+        {
+            "id": 8139,
+            "answer": "Ja, die Red Devils lassen gegen Norwich nichts anbrennen.",
+            "votes": 38,
+            "order": 0
+        },
+        {
+            "id": 8138,
+            "answer": "Nein, Norwich hat gegen Tottenham Schwung geholt und wird auch Man United eliminieren.",
+            "votes": 24,
+            "order": 1
+        }
+    ]
+}

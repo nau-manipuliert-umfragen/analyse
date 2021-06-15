@@ -1,0 +1,25 @@
+{
+    "id": 5309,
+    "question": "Finden Sie es richtig, dass die Bearbeitungsgebühren bei ausländischen Checks so hoch ist?",
+    "created_at": "2020-08-31T09:53:41+00:00",
+    "updated_at": "2021-06-14T09:37:08+00:00",
+    "end_at": null,
+    "comment_group_id": 1775409,
+    "published_at": "2020-09-05T18:29:38+00:00",
+    "display_name": "",
+    "total": 332,
+    "answers": [
+        {
+            "id": 12439,
+            "answer": "Ja, wer verschickt heutzutage noch Checks?",
+            "votes": 107,
+            "order": 0
+        },
+        {
+            "id": 12440,
+            "answer": "Nein, das ist daneben",
+            "votes": 225,
+            "order": 1
+        }
+    ]
+}

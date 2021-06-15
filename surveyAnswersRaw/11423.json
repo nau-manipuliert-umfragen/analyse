@@ -1,0 +1,25 @@
+{
+    "id": 4849,
+    "question": "Schafft GC den Aufstieg in die Super League?",
+    "created_at": "2020-07-07T20:45:00+00:00",
+    "updated_at": "2021-06-14T09:36:50+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 793,
+    "answers": [
+        {
+            "id": 11423,
+            "answer": "Ja",
+            "votes": 624,
+            "order": 0
+        },
+        {
+            "id": 11422,
+            "answer": "Nein",
+            "votes": 169,
+            "order": 1
+        }
+    ]
+}

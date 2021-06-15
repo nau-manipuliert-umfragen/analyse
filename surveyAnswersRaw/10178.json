@@ -1,0 +1,25 @@
+{
+    "id": 4273,
+    "question": "Was halten Sie von Arturo Vidals Alkohol-Eskapaden?",
+    "created_at": "2020-05-18T08:49:06+00:00",
+    "updated_at": "2021-06-14T09:36:27+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 68,
+    "answers": [
+        {
+            "id": 10178,
+            "answer": "Keine grosse Sache",
+            "votes": 37,
+            "order": 0
+        },
+        {
+            "id": 10179,
+            "answer": "Völlig daneben",
+            "votes": 31,
+            "order": 1
+        }
+    ]
+}

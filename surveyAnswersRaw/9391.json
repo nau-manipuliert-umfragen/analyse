@@ -1,0 +1,25 @@
+{
+    "id": 3915,
+    "question": "Wie gefällt Ihnen «Teenie-Federer»?",
+    "created_at": "2020-04-17T19:46:34+00:00",
+    "updated_at": "2021-06-14T09:36:11+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 321,
+    "answers": [
+        {
+            "id": 9392,
+            "answer": "Sieht doch super aus, ist ja schon ein paar Jahre her.",
+            "votes": 218,
+            "order": 0
+        },
+        {
+            "id": 9391,
+            "answer": "Ui, das Foto wäre besser im Album geblieben...",
+            "votes": 103,
+            "order": 1
+        }
+    ]
+}

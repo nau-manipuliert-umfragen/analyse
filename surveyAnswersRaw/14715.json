@@ -1,0 +1,25 @@
+{
+    "id": 6335,
+    "question": "Wie beurteilen Sie das Foul an Neymar?",
+    "created_at": "2020-12-15T14:24:14+00:00",
+    "updated_at": "2021-06-14T09:37:57+00:00",
+    "end_at": null,
+    "comment_group_id": 1941444,
+    "published_at": "2020-12-15T16:36:05+00:00",
+    "display_name": "",
+    "total": 179,
+    "answers": [
+        {
+            "id": 14714,
+            "answer": "Brutal! Der Übeltäter gehört viele Spiele gesperrt...",
+            "votes": 81,
+            "order": 0
+        },
+        {
+            "id": 14715,
+            "answer": "Das war keine Absicht.",
+            "votes": 98,
+            "order": 1
+        }
+    ]
+}

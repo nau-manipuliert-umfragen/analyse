@@ -1,0 +1,25 @@
+{
+    "id": 9560,
+    "question": "Trauen Sie Vettel noch Punkte im Aston Martin zu?",
+    "created_at": "2021-05-20T07:00:08+00:00",
+    "updated_at": "2021-06-14T09:40:43+00:00",
+    "end_at": null,
+    "comment_group_id": 2166505,
+    "published_at": "2021-05-21T05:20:57+00:00",
+    "display_name": "",
+    "total": 852,
+    "answers": [
+        {
+            "id": 21689,
+            "answer": "Ja",
+            "votes": 470,
+            "order": 0
+        },
+        {
+            "id": 21690,
+            "answer": "Nein",
+            "votes": 382,
+            "order": 1
+        }
+    ]
+}

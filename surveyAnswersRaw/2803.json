@@ -1,0 +1,25 @@
+{
+    "id": 1021,
+    "question": "Gefällt Ihnen die Zürcher Nacktkatze Xherdan?",
+    "created_at": "2018-05-28T10:46:10+00:00",
+    "updated_at": "2021-06-14T10:20:22+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 73,
+    "answers": [
+        {
+            "id": 2800,
+            "answer": "Ja, die Falten gefallen mir sehr.",
+            "votes": 35,
+            "order": 100
+        },
+        {
+            "id": 2803,
+            "answer": "Eine Katze ohne Fell? Nein.",
+            "votes": 38,
+            "order": 100
+        }
+    ]
+}

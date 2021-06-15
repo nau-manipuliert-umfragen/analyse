@@ -1,0 +1,25 @@
+{
+    "id": 5960,
+    "question": "Wie gefällt ihnen Annas Halloween-Look?",
+    "created_at": "2020-11-05T10:10:08+00:00",
+    "updated_at": "2021-06-14T09:37:37+00:00",
+    "end_at": null,
+    "comment_group_id": 1886341,
+    "published_at": "2020-11-05T12:35:15+00:00",
+    "display_name": "",
+    "total": 373,
+    "answers": [
+        {
+            "id": 13872,
+            "answer": "Super, sie sieht Melania zum Verwechseln ähnnlich.",
+            "votes": 121,
+            "order": 0
+        },
+        {
+            "id": 13871,
+            "answer": "Mir gefällt ihr natürlicher Look besser.",
+            "votes": 252,
+            "order": 1
+        }
+    ]
+}

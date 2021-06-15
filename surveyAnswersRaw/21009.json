@@ -1,0 +1,25 @@
+{
+    "id": 9245,
+    "question": "Werden Sie sich Meghans Buch kaufen?",
+    "created_at": "2021-05-05T09:29:05+00:00",
+    "updated_at": "2021-06-14T09:40:23+00:00",
+    "end_at": null,
+    "comment_group_id": 2142244,
+    "published_at": "2021-05-05T19:02:30+00:00",
+    "display_name": "",
+    "total": 1137,
+    "answers": [
+        {
+            "id": 21010,
+            "answer": "Ja, sieht schön aus.",
+            "votes": 76,
+            "order": 0
+        },
+        {
+            "id": 21009,
+            "answer": "Nein, da gibt es sicher Besseres.",
+            "votes": 1061,
+            "order": 1
+        }
+    ]
+}

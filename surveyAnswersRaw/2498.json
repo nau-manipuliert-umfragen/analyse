@@ -1,0 +1,25 @@
+{
+    "id": 890,
+    "question": "Packt die Hockey-Nati die Viertelfinal-Quali?",
+    "created_at": "2018-05-15T03:18:11+00:00",
+    "updated_at": "2021-06-14T09:34:10+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 72,
+    "answers": [
+        {
+            "id": 2498,
+            "answer": "Ja, gegen Frankreich reichts zum Sieg!",
+            "votes": 50,
+            "order": 100
+        },
+        {
+            "id": 2501,
+            "answer": "Nein, die Franzosen kennen das Rezept gegen unsere Eisgenossen.",
+            "votes": 22,
+            "order": 100
+        }
+    ]
+}

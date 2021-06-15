@@ -1,0 +1,25 @@
+{
+    "id": 7048,
+    "question": "Gehört Jérôme Boateng zurück in die deutsche Nati?",
+    "created_at": "2021-02-05T08:45:42+00:00",
+    "updated_at": "2021-06-14T09:38:26+00:00",
+    "end_at": null,
+    "comment_group_id": 2008667,
+    "published_at": "2021-02-05T10:26:45+00:00",
+    "display_name": "",
+    "total": 964,
+    "answers": [
+        {
+            "id": 16277,
+            "answer": "Ja, unbedingt!",
+            "votes": 357,
+            "order": 0
+        },
+        {
+            "id": 16278,
+            "answer": "Nein, es gibt bessere Verteidiger.",
+            "votes": 607,
+            "order": 1
+        }
+    ]
+}

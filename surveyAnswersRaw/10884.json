@@ -1,0 +1,25 @@
+{
+    "id": 4599,
+    "question": "Würden Sie mit Ihrem Schwiegermami wohnen wollen?",
+    "created_at": "2020-06-15T06:51:00+00:00",
+    "updated_at": "2020-06-16T06:23:24+00:00",
+    "end_at": "2020-06-16T06:50:53+00:00",
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 315,
+    "answers": [
+        {
+            "id": 10884,
+            "answer": "Ja, sie ist nett.",
+            "votes": 52,
+            "order": 0
+        },
+        {
+            "id": 10883,
+            "answer": "Lieber Gott, bitte nicht!",
+            "votes": 263,
+            "order": 1
+        }
+    ]
+}

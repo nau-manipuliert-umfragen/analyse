@@ -1,0 +1,25 @@
+{
+    "id": 4616,
+    "question": "Wie beurteilen Sie die Situation?",
+    "created_at": "2020-06-15T14:33:32+00:00",
+    "updated_at": "2021-06-14T09:36:41+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 75,
+    "answers": [
+        {
+            "id": 10918,
+            "answer": "Josip Skoblar hat vollkommen übertrieben.",
+            "votes": 39,
+            "order": 0
+        },
+        {
+            "id": 10917,
+            "answer": "Kein Wunder das man da irgendwann die Beherrschung verliert.",
+            "votes": 36,
+            "order": 1
+        }
+    ]
+}

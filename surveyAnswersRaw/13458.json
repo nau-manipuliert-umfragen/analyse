@@ -1,0 +1,25 @@
+{
+    "id": 5769,
+    "question": "Schaffen es die Schweizerinnen in Sölden aufs Podest?",
+    "created_at": "2020-10-16T12:26:52+00:00",
+    "updated_at": "2021-06-14T09:37:27+00:00",
+    "end_at": null,
+    "comment_group_id": 1853245,
+    "published_at": "2020-10-16T19:13:21+00:00",
+    "display_name": "",
+    "total": 78,
+    "answers": [
+        {
+            "id": 13458,
+            "answer": "Ja",
+            "votes": 35,
+            "order": 0
+        },
+        {
+            "id": 13457,
+            "answer": "Nein",
+            "votes": 43,
+            "order": 1
+        }
+    ]
+}

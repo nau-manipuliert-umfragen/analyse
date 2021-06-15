@@ -1,0 +1,25 @@
+{
+    "id": 4364,
+    "question": "Teilen Sie die Meinung von Lothar Matthäus?",
+    "created_at": "2020-05-26T19:00:16+00:00",
+    "updated_at": "2021-06-14T09:36:31+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 452,
+    "answers": [
+        {
+            "id": 10378,
+            "answer": "Ja, den muss Bürki halten.",
+            "votes": 159,
+            "order": 0
+        },
+        {
+            "id": 10377,
+            "answer": "Nein, der Schuss war schlicht zu gut.",
+            "votes": 293,
+            "order": 1
+        }
+    ]
+}

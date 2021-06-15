@@ -1,0 +1,25 @@
+{
+    "id": 7448,
+    "question": "Qualifiziert sich Wolfsburg für die Champions League?",
+    "created_at": "2021-02-19T16:59:31+00:00",
+    "updated_at": "2021-06-14T10:25:16+00:00",
+    "end_at": null,
+    "comment_group_id": 2030218,
+    "published_at": "2021-02-19T21:21:52+00:00",
+    "display_name": "",
+    "total": 94,
+    "answers": [
+        {
+            "id": 17185,
+            "answer": "Ja",
+            "votes": 66,
+            "order": 0
+        },
+        {
+            "id": 17184,
+            "answer": "Nein",
+            "votes": 28,
+            "order": 1
+        }
+    ]
+}

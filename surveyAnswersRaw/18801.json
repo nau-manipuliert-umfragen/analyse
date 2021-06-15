@@ -1,0 +1,25 @@
+{
+    "id": 8203,
+    "question": "Wünschen Sie sich eine Wiedervereinigung von Lionel Messi und Neymar?",
+    "created_at": "2021-03-22T11:10:46+00:00",
+    "updated_at": "2021-06-14T09:39:26+00:00",
+    "end_at": null,
+    "comment_group_id": 2073871,
+    "published_at": "2021-03-22T11:38:02+00:00",
+    "display_name": "",
+    "total": 149,
+    "answers": [
+        {
+            "id": 18800,
+            "answer": "Ja, das wäre spektakulär und würde spezielle Fussballmomente bescheren!",
+            "votes": 96,
+            "order": 0
+        },
+        {
+            "id": 18801,
+            "answer": "Nein, die sollen beide unterschiedliche Teams anführen.",
+            "votes": 53,
+            "order": 1
+        }
+    ]
+}

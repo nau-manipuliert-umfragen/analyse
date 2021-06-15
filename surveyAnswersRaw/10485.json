@@ -1,0 +1,25 @@
+{
+    "id": 4415,
+    "question": "Holen sich Müller und Alaba den Schalen-Rekord?",
+    "created_at": "2020-05-30T19:58:22+00:00",
+    "updated_at": "2021-06-14T09:36:33+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 90,
+    "answers": [
+        {
+            "id": 10485,
+            "answer": "Ja",
+            "votes": 66,
+            "order": 0
+        },
+        {
+            "id": 10486,
+            "answer": "Nein",
+            "votes": 24,
+            "order": 1
+        }
+    ]
+}

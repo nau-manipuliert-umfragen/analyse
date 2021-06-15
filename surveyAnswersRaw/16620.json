@@ -1,0 +1,25 @@
+{
+    "id": 7200,
+    "question": "Was halten Sie von Monarchien?",
+    "created_at": "2021-02-11T12:14:39+00:00",
+    "updated_at": "2021-06-14T09:38:36+00:00",
+    "end_at": null,
+    "comment_group_id": 2017398,
+    "published_at": "2021-02-11T16:59:32+00:00",
+    "display_name": "",
+    "total": 796,
+    "answers": [
+        {
+            "id": 16620,
+            "answer": "Ich wünschte mir, wir hätten auch eine in der Schweiz.",
+            "votes": 164,
+            "order": 0
+        },
+        {
+            "id": 16621,
+            "answer": "Abschaffen!",
+            "votes": 632,
+            "order": 1
+        }
+    ]
+}

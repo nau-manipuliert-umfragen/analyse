@@ -1,0 +1,25 @@
+{
+    "id": 2884,
+    "question": "Würden Sie einen Wechsel von Lionel Messi begrüssen?",
+    "created_at": "2020-02-07T10:37:42+00:00",
+    "updated_at": "2021-06-14T09:35:26+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 291,
+    "answers": [
+        {
+            "id": 7149,
+            "answer": "Nein, Messi soll für immer bei Barcelona bleiben.",
+            "votes": 120,
+            "order": 0
+        },
+        {
+            "id": 7150,
+            "answer": "Ja, Messi einmal in einem anderen Team zu sehen, fände ich spannend.",
+            "votes": 171,
+            "order": 1
+        }
+    ]
+}

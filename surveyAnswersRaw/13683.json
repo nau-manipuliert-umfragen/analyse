@@ -1,0 +1,25 @@
+{
+    "id": 5875,
+    "question": "Was halten Sie von Prinz Harrys Aussage?",
+    "created_at": "2020-10-27T12:17:16+00:00",
+    "updated_at": "2021-06-14T09:37:33+00:00",
+    "end_at": null,
+    "comment_group_id": 1871024,
+    "published_at": "2020-10-28T11:41:30+00:00",
+    "display_name": "",
+    "total": 455,
+    "answers": [
+        {
+            "id": 13684,
+            "answer": "Unfassbar, wo hat der denn die letzten Jahre gelebt?",
+            "votes": 344,
+            "order": 0
+        },
+        {
+            "id": 13683,
+            "answer": "Klarer Fall von: Besser spät, als nie.",
+            "votes": 111,
+            "order": 1
+        }
+    ]
+}

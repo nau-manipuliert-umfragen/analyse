@@ -1,0 +1,25 @@
+{
+    "id": 7413,
+    "question": "Was sich liebt, das neckt sich?",
+    "created_at": "2021-02-18T16:20:02+00:00",
+    "updated_at": "2021-06-14T09:38:45+00:00",
+    "end_at": null,
+    "comment_group_id": 2028559,
+    "published_at": "2021-02-19T13:02:29+00:00",
+    "display_name": "",
+    "total": 746,
+    "answers": [
+        {
+            "id": 17106,
+            "answer": "Ja, so hält man eine Beziehung frisch.",
+            "votes": 613,
+            "order": 0
+        },
+        {
+            "id": 17107,
+            "answer": "Nein, das ist doch kindisch!",
+            "votes": 133,
+            "order": 1
+        }
+    ]
+}

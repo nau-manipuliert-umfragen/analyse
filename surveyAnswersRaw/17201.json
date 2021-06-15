@@ -1,0 +1,25 @@
+{
+    "id": 7456,
+    "question": "Was halten Sie von der Last-Minute-Regeländerung?",
+    "created_at": "2021-02-20T20:20:23+00:00",
+    "updated_at": "2021-06-14T09:38:48+00:00",
+    "end_at": null,
+    "comment_group_id": 2031185,
+    "published_at": "2021-02-20T20:26:19+00:00",
+    "display_name": "",
+    "total": 491,
+    "answers": [
+        {
+            "id": 17200,
+            "answer": "Gute Idee, das schafft faire Bedingungen für die besten Läufer.",
+            "votes": 210,
+            "order": 0
+        },
+        {
+            "id": 17201,
+            "answer": "Ganz schlecht! So nimmt man die Spannung aus dem Bewerb.",
+            "votes": 281,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 2220,
+    "question": "Soll Peter Vogt mit Hilfe von Exit seinem Leben ein Ende bereiten dürfen?",
+    "created_at": "2018-10-11T05:50:16+00:00",
+    "updated_at": "2021-06-14T09:34:52+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 104,
+    "answers": [
+        {
+            "id": 5619,
+            "answer": "Nein",
+            "votes": 58,
+            "order": 100
+        },
+        {
+            "id": 5622,
+            "answer": "Ja",
+            "votes": 46,
+            "order": 100
+        }
+    ]
+}

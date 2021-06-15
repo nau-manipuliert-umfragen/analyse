@@ -1,0 +1,25 @@
+{
+    "id": 3747,
+    "question": "Hätten Sie auch auf Embolo getippt?",
+    "created_at": "2020-04-04T07:40:28+00:00",
+    "updated_at": "2021-06-14T09:36:04+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 150,
+    "answers": [
+        {
+            "id": 9041,
+            "answer": "Ja, das hab ich fast vermutet.",
+            "votes": 55,
+            "order": 0
+        },
+        {
+            "id": 9042,
+            "answer": "Nein, ich bin überrascht!",
+            "votes": 95,
+            "order": 1
+        }
+    ]
+}

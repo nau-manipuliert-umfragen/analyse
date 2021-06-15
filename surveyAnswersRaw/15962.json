@@ -1,0 +1,31 @@
+{
+    "id": 6909,
+    "question": "Finden Sie die Strafen gegen Zlatan Ibrahimovic und Romelu Lukaku gerecht?",
+    "created_at": "2021-01-29T17:17:49+00:00",
+    "updated_at": "2021-06-14T09:38:20+00:00",
+    "end_at": null,
+    "comment_group_id": 1999496,
+    "published_at": "2021-01-29T17:19:44+00:00",
+    "display_name": "",
+    "total": 121,
+    "answers": [
+        {
+            "id": 15963,
+            "answer": "Ja",
+            "votes": 49,
+            "order": 0
+        },
+        {
+            "id": 15964,
+            "answer": "Nein, das muss nicht bestraft werden.",
+            "votes": 39,
+            "order": 1
+        },
+        {
+            "id": 15962,
+            "answer": "Nein, die Strafen sind zu mild.",
+            "votes": 33,
+            "order": 2
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 7089,
+    "question": "Wem haben Sie im Super Bowl die Daumen gedrückt?",
+    "created_at": "2021-02-08T06:41:43+00:00",
+    "updated_at": "2021-06-14T09:38:28+00:00",
+    "end_at": null,
+    "comment_group_id": 2011892,
+    "published_at": "2021-02-08T07:03:46+00:00",
+    "display_name": "",
+    "total": 594,
+    "answers": [
+        {
+            "id": 16365,
+            "answer": "Ganz klar Tom Brady und den Buccaneers!",
+            "votes": 437,
+            "order": 0
+        },
+        {
+            "id": 16366,
+            "answer": "Kansas City Chiefs",
+            "votes": 157,
+            "order": 1
+        }
+    ]
+}

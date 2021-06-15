@@ -1,0 +1,25 @@
+{
+    "id": 3510,
+    "question": "Unterhalten Sie die Challenge-Videos der Sportler?",
+    "created_at": "2020-03-18T08:51:34+00:00",
+    "updated_at": "2021-06-14T09:35:54+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 100,
+    "answers": [
+        {
+            "id": 8533,
+            "answer": "Ja, ich finde es lustig.",
+            "votes": 55,
+            "order": 0
+        },
+        {
+            "id": 8534,
+            "answer": "Nein, das ist völlig überflüssig.",
+            "votes": 45,
+            "order": 1
+        }
+    ]
+}

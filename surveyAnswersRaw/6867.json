@@ -1,0 +1,25 @@
+{
+    "id": 2759,
+    "question": "Was sagen Sie zum Liebesvertrag zwischen dem Wendler und seiner Freundin Laura?",
+    "created_at": "2020-01-30T10:17:24+00:00",
+    "updated_at": "2021-06-14T09:35:18+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 156,
+    "answers": [
+        {
+            "id": 6866,
+            "answer": "Eine Win-win-Situation macht alle froh!",
+            "votes": 54,
+            "order": 0
+        },
+        {
+            "id": 6867,
+            "answer": "Geht gar nicht. Was machen die nur, wenn die sich wieder trennen?",
+            "votes": 102,
+            "order": 1
+        }
+    ]
+}

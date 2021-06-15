@@ -1,0 +1,25 @@
+{
+    "id": 5004,
+    "question": "Wie finden Sie Lena Meyer-Landruts Instagram-Auftritt?",
+    "created_at": "2020-07-28T14:20:23+00:00",
+    "updated_at": "2021-06-14T09:36:56+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 42,
+    "answers": [
+        {
+            "id": 11766,
+            "answer": "Peinlich! Kann ihr mal jemand die Flasche wegnehmen.",
+            "votes": 21,
+            "order": 0
+        },
+        {
+            "id": 11767,
+            "answer": "Schön, ist sie nicht so verklemmt, wie die anderen Stars auf Instagram.",
+            "votes": 21,
+            "order": 1
+        }
+    ]
+}

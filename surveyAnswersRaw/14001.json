@@ -1,0 +1,25 @@
+{
+    "id": 6020,
+    "question": "Was halten Sie von Urs Fischers Instagram-Auftritt?",
+    "created_at": "2020-11-11T17:06:58+00:00",
+    "updated_at": "2021-06-14T09:37:40+00:00",
+    "end_at": null,
+    "comment_group_id": 1894746,
+    "published_at": "2020-11-16T05:54:30+00:00",
+    "display_name": "",
+    "total": 217,
+    "answers": [
+        {
+            "id": 14000,
+            "answer": "Herrlich, sehr sympathisch!",
+            "votes": 185,
+            "order": 0
+        },
+        {
+            "id": 14001,
+            "answer": "Trifft meinen Geschmack nicht wirklich.",
+            "votes": 32,
+            "order": 1
+        }
+    ]
+}

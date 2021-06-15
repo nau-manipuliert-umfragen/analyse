@@ -1,0 +1,25 @@
+{
+    "id": 9651,
+    "question": "Wer gewinnt den Cupfinal?",
+    "created_at": "2021-05-24T08:59:16+00:00",
+    "updated_at": "2021-06-14T09:40:47+00:00",
+    "end_at": null,
+    "comment_group_id": 2173101,
+    "published_at": "2021-05-24T09:18:04+00:00",
+    "display_name": "",
+    "total": 180,
+    "answers": [
+        {
+            "id": 21878,
+            "answer": "FC St.Gallen",
+            "votes": 103,
+            "order": 0
+        },
+        {
+            "id": 21879,
+            "answer": "FC Luzern",
+            "votes": 77,
+            "order": 1
+        }
+    ]
+}

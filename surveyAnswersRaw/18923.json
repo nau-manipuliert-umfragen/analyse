@@ -1,0 +1,25 @@
+{
+    "id": 8259,
+    "question": "Wer setzt sich im Viertelfinal der Champions League durch?",
+    "created_at": "2021-03-23T19:23:10+00:00",
+    "updated_at": "2021-06-14T09:39:29+00:00",
+    "end_at": null,
+    "comment_group_id": 2076147,
+    "published_at": "2021-03-24T19:07:04+00:00",
+    "display_name": "",
+    "total": 104,
+    "answers": [
+        {
+            "id": 18923,
+            "answer": "Manchester City.",
+            "votes": 72,
+            "order": 0
+        },
+        {
+            "id": 18922,
+            "answer": "BVB.",
+            "votes": 32,
+            "order": 1
+        }
+    ]
+}

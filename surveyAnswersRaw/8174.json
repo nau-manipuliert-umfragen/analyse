@@ -1,0 +1,25 @@
+{
+    "id": 3345,
+    "question": "Schafft der SC Paderborn noch den Klassenerhalt?",
+    "created_at": "2020-03-06T20:50:04+00:00",
+    "updated_at": "2021-06-14T09:35:47+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 73,
+    "answers": [
+        {
+            "id": 8175,
+            "answer": "Ja, die Mannschaft wird sich in der obersten Liga halten.",
+            "votes": 22,
+            "order": 0
+        },
+        {
+            "id": 8174,
+            "answer": "Nein, da fehlt die Qualität für die Bundesliga.",
+            "votes": 51,
+            "order": 1
+        }
+    ]
+}

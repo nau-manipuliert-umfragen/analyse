@@ -1,0 +1,25 @@
+{
+    "id": 6316,
+    "question": "Fährt Michelle Gisin heute aufs Podest?",
+    "created_at": "2020-12-14T09:43:36+00:00",
+    "updated_at": "2021-06-14T09:37:56+00:00",
+    "end_at": null,
+    "comment_group_id": 1939462,
+    "published_at": "2020-12-14T09:45:24+00:00",
+    "display_name": "",
+    "total": 98,
+    "answers": [
+        {
+            "id": 14673,
+            "answer": "Ja, das reicht.",
+            "votes": 48,
+            "order": 0
+        },
+        {
+            "id": 14672,
+            "answer": "Nein, keine Chance!",
+            "votes": 50,
+            "order": 1
+        }
+    ]
+}

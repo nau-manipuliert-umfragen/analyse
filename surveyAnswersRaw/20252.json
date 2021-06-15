@@ -1,0 +1,25 @@
+{
+    "id": 8894,
+    "question": "Können Sie den Wechsel von Adi Hütter nachvollziehen?",
+    "created_at": "2021-04-21T06:07:10+00:00",
+    "updated_at": "2021-06-14T09:40:03+00:00",
+    "end_at": null,
+    "comment_group_id": 2116817,
+    "published_at": "2021-04-21T06:34:54+00:00",
+    "display_name": "",
+    "total": 306,
+    "answers": [
+        {
+            "id": 20253,
+            "answer": "Ja, es ist genau der richtige Schritt.",
+            "votes": 154,
+            "order": 0
+        },
+        {
+            "id": 20252,
+            "answer": "Nein, er hätte in Frankfurt bleiben sollen.",
+            "votes": 152,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 8618,
+    "question": "Ist die Kostengrenze der richtige Schritt für die Formel 1?",
+    "created_at": "2021-04-09T07:48:50+00:00",
+    "updated_at": "2021-06-14T09:39:48+00:00",
+    "end_at": null,
+    "comment_group_id": 2099777,
+    "published_at": "2021-04-09T18:05:09+00:00",
+    "display_name": "",
+    "total": 471,
+    "answers": [
+        {
+            "id": 19672,
+            "answer": "Ja, auch die Königsklasse des Motorsports muss sparen.",
+            "votes": 378,
+            "order": 0
+        },
+        {
+            "id": 19671,
+            "answer": "Nein, wer sich das nicht leisten kann, braucht nicht mitzufahren!",
+            "votes": 93,
+            "order": 1
+        }
+    ]
+}

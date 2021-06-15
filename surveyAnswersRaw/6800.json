@@ -1,0 +1,25 @@
+{
+    "id": 2726,
+    "question": "Finden Sie es richtig, dass SRF diesen Beitrag ausstrahle?",
+    "created_at": "2020-01-28T15:46:46+00:00",
+    "updated_at": "2021-06-14T09:35:17+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 43,
+    "answers": [
+        {
+            "id": 6800,
+            "answer": "Absolut, denn s ist gut, dass die Leute über diese Person Bescheid wissen.",
+            "votes": 21,
+            "order": 0
+        },
+        {
+            "id": 6801,
+            "answer": "Nein, das ist eine Sache zwischen dem HCD und Peter Buser.",
+            "votes": 22,
+            "order": 1
+        }
+    ]
+}

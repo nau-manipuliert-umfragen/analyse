@@ -1,0 +1,25 @@
+{
+    "id": 7253,
+    "question": "Erstaunt es Sie, dass nur ein Paar noch zusammen ist?",
+    "created_at": "2021-02-12T15:27:36+00:00",
+    "updated_at": "2021-06-14T09:38:38+00:00",
+    "end_at": null,
+    "comment_group_id": 2019585,
+    "published_at": "2021-02-13T15:59:42+00:00",
+    "display_name": "",
+    "total": 3652,
+    "answers": [
+        {
+            "id": 16741,
+            "answer": "Nein, solche Kuppelshows sind meist oberflächlich.",
+            "votes": 2709,
+            "order": 0
+        },
+        {
+            "id": 16740,
+            "answer": "Ja, ich bin überrascht.",
+            "votes": 943,
+            "order": 1
+        }
+    ]
+}

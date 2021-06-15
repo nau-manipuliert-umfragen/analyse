@@ -1,0 +1,25 @@
+{
+    "id": 2600,
+    "question": "Schaffen die Schweizer einen Podestplatz in der Kombi?",
+    "created_at": "2020-01-17T12:36:47+00:00",
+    "updated_at": "2020-01-17T13:27:44+00:00",
+    "end_at": "2020-01-17T13:30:00+00:00",
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 65,
+    "answers": [
+        {
+            "id": 6524,
+            "answer": "Ja",
+            "votes": 38,
+            "order": 0
+        },
+        {
+            "id": 6525,
+            "answer": "Nein",
+            "votes": 27,
+            "order": 1
+        }
+    ]
+}

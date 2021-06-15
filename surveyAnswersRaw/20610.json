@@ -1,0 +1,25 @@
+{
+    "id": 9059,
+    "question": "Würden Sie in ein anderes Land auswandern?",
+    "created_at": "2021-04-28T09:25:48+00:00",
+    "updated_at": "2021-06-14T09:40:14+00:00",
+    "end_at": null,
+    "comment_group_id": 2129017,
+    "published_at": "2021-04-28T11:41:23+00:00",
+    "display_name": "",
+    "total": 1134,
+    "answers": [
+        {
+            "id": 20611,
+            "answer": "Ja, sofort.",
+            "votes": 523,
+            "order": 0
+        },
+        {
+            "id": 20610,
+            "answer": "Nein, zu umständlich.",
+            "votes": 611,
+            "order": 1
+        }
+    ]
+}

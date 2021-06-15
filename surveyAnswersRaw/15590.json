@@ -1,0 +1,25 @@
+{
+    "id": 6737,
+    "question": "Kann Laura Müller ihre Karriere noch retten?",
+    "created_at": "2021-01-20T08:39:50+00:00",
+    "updated_at": "2021-06-14T09:38:13+00:00",
+    "end_at": null,
+    "comment_group_id": 1985040,
+    "published_at": "2021-01-20T09:08:51+00:00",
+    "display_name": "",
+    "total": 1099,
+    "answers": [
+        {
+            "id": 15590,
+            "answer": "Nein, ihr Ruf ist ruiniert!",
+            "votes": 693,
+            "order": 0
+        },
+        {
+            "id": 15591,
+            "answer": "Ja, aber dann muss sie den Wendler verlassen.",
+            "votes": 406,
+            "order": 1
+        }
+    ]
+}

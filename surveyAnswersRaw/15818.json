@@ -1,0 +1,25 @@
+{
+    "id": 6842,
+    "question": "Ist Christian Gross der richtige Trainer für Schalke?",
+    "created_at": "2021-01-27T07:51:15+00:00",
+    "updated_at": "2021-06-14T09:38:17+00:00",
+    "end_at": null,
+    "comment_group_id": 1994870,
+    "published_at": "2021-01-27T08:54:33+00:00",
+    "display_name": "",
+    "total": 68,
+    "answers": [
+        {
+            "id": 15817,
+            "answer": "Ja",
+            "votes": 32,
+            "order": 0
+        },
+        {
+            "id": 15818,
+            "answer": "Nein",
+            "votes": 36,
+            "order": 1
+        }
+    ]
+}

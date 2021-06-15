@@ -1,0 +1,25 @@
+{
+    "id": 9019,
+    "question": "Wird Harry die Reise schwänzen?",
+    "created_at": "2021-04-26T15:15:11+00:00",
+    "updated_at": "2021-06-14T09:40:11+00:00",
+    "end_at": null,
+    "comment_group_id": 2125852,
+    "published_at": "2021-04-27T06:59:23+00:00",
+    "display_name": "",
+    "total": 921,
+    "answers": [
+        {
+            "id": 20524,
+            "answer": "Nein, das wird er nicht wagen.",
+            "votes": 316,
+            "order": 0
+        },
+        {
+            "id": 20523,
+            "answer": "Ja, ich traue ihm alles zu.",
+            "votes": 605,
+            "order": 1
+        }
+    ]
+}

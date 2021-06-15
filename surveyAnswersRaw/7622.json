@@ -1,0 +1,25 @@
+{
+    "id": 3097,
+    "question": "Bekommt Denis Malgin bei Toronto mehr Spielzeit?",
+    "created_at": "2020-02-19T17:15:09+00:00",
+    "updated_at": "2021-06-14T09:35:37+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 63,
+    "answers": [
+        {
+            "id": 7622,
+            "answer": "Ja, er wird weniger zuschauen müssen.",
+            "votes": 31,
+            "order": 0
+        },
+        {
+            "id": 7623,
+            "answer": "Nein, seine Einsatzzeit wird bei Toronto nicht erhöht.",
+            "votes": 32,
+            "order": 1
+        }
+    ]
+}

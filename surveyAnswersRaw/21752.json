@@ -1,0 +1,25 @@
+{
+    "id": 9590,
+    "question": "Halten Sie Harrys Vorwürfe für berechtigt?",
+    "created_at": "2021-05-21T06:45:54+00:00",
+    "updated_at": "2021-06-14T09:40:44+00:00",
+    "end_at": null,
+    "comment_group_id": 2168491,
+    "published_at": "2021-05-21T07:00:15+00:00",
+    "display_name": "",
+    "total": 1003,
+    "answers": [
+        {
+            "id": 21751,
+            "answer": "Ja, wir wissen nicht, was hinter den Kulissen wirklich abging.",
+            "votes": 407,
+            "order": 0
+        },
+        {
+            "id": 21752,
+            "answer": "Nein, er zieht seine Familie für Geld durch den Dreck.",
+            "votes": 596,
+            "order": 1
+        }
+    ]
+}

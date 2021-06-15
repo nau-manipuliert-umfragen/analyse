@@ -1,0 +1,37 @@
+{
+    "id": 7237,
+    "question": "Schenken Sie ihrem Partner/ihrer Partnerin Blumen zum Valentinstag?",
+    "created_at": "2021-02-12T09:15:23+00:00",
+    "updated_at": "2021-06-14T10:25:04+00:00",
+    "end_at": null,
+    "comment_group_id": 2018782,
+    "published_at": "2021-02-13T17:32:39+00:00",
+    "display_name": "",
+    "total": 229,
+    "answers": [
+        {
+            "id": 16703,
+            "answer": "Ja, das mache ich jedes Jahr.",
+            "votes": 47,
+            "order": 0
+        },
+        {
+            "id": 16702,
+            "answer": "Ja, aber nur weil die Restaurants geschlossen sind.",
+            "votes": 23,
+            "order": 1
+        },
+        {
+            "id": 16704,
+            "answer": "Nein, unsere Liebe kommt auch ohne Blumen aus.",
+            "votes": 94,
+            "order": 2
+        },
+        {
+            "id": 16711,
+            "answer": "Nein, ich bin single.",
+            "votes": 65,
+            "order": 3
+        }
+    ]
+}

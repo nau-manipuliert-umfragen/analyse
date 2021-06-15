@@ -1,0 +1,25 @@
+{
+    "id": 8844,
+    "question": "Wären Ihnen Vorlesungen online oder vor Ort lieber?",
+    "created_at": "2021-04-19T12:12:02+00:00",
+    "updated_at": "2021-06-14T09:40:00+00:00",
+    "end_at": null,
+    "comment_group_id": 2114145,
+    "published_at": "2021-04-20T19:39:56+00:00",
+    "display_name": "",
+    "total": 171,
+    "answers": [
+        {
+            "id": 20144,
+            "answer": "Online, das ist doch viel praktischer.",
+            "votes": 81,
+            "order": 0
+        },
+        {
+            "id": 20145,
+            "answer": "Vor Ort – ich wäre zu wenig diszipliniert fürs Online-Studium.",
+            "votes": 90,
+            "order": 1
+        }
+    ]
+}

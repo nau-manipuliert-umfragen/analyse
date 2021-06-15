@@ -1,0 +1,25 @@
+{
+    "id": 9617,
+    "question": "Ist Massimo Rizzo noch der richtige Trainer für den FC Zürich?",
+    "created_at": "2021-05-22T09:25:34+00:00",
+    "updated_at": "2021-06-14T09:40:46+00:00",
+    "end_at": null,
+    "comment_group_id": 2170726,
+    "published_at": "2021-05-22T11:36:54+00:00",
+    "display_name": "",
+    "total": 589,
+    "answers": [
+        {
+            "id": 21810,
+            "answer": "Ja",
+            "votes": 130,
+            "order": 0
+        },
+        {
+            "id": 21811,
+            "answer": "Nein",
+            "votes": 459,
+            "order": 1
+        }
+    ]
+}

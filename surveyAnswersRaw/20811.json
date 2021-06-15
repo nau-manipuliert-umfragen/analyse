@@ -1,0 +1,25 @@
+{
+    "id": 9150,
+    "question": "Was halten Sie von dem Projekt?",
+    "created_at": "2021-05-02T12:32:23+00:00",
+    "updated_at": "2021-06-14T09:40:19+00:00",
+    "end_at": null,
+    "comment_group_id": 2136023,
+    "published_at": "2021-05-02T12:52:25+00:00",
+    "display_name": "",
+    "total": 349,
+    "answers": [
+        {
+            "id": 20812,
+            "answer": "Eine tolle Idee, der Stau und Lärm auf den Strassen nervt.",
+            "votes": 252,
+            "order": 0
+        },
+        {
+            "id": 20811,
+            "answer": "Ich halte nichts davon, in wenigen Jahren sind wir wieder am selben Punkt.",
+            "votes": 97,
+            "order": 1
+        }
+    ]
+}

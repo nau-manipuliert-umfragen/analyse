@@ -1,0 +1,25 @@
+{
+    "id": 6816,
+    "question": "Ist die Sendung ohne die Wendlers überhaupt sehenswert?",
+    "created_at": "2021-01-25T13:35:56+00:00",
+    "updated_at": "2021-06-14T09:38:16+00:00",
+    "end_at": null,
+    "comment_group_id": 1992387,
+    "published_at": "2021-01-26T07:48:39+00:00",
+    "display_name": "",
+    "total": 1333,
+    "answers": [
+        {
+            "id": 15765,
+            "answer": "Nein, der Unterhaltungs-Faktor ist weg.",
+            "votes": 167,
+            "order": 0
+        },
+        {
+            "id": 15764,
+            "answer": "Ja, endlich Ruhe von den beiden.",
+            "votes": 1166,
+            "order": 1
+        }
+    ]
+}

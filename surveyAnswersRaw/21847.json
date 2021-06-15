@@ -1,0 +1,25 @@
+{
+    "id": 9636,
+    "question": "Finden Sie es okay, dass Harry und Meghan sich trotz Privatsphäre-Wunsch in die Öffentlichkeit drängen?",
+    "created_at": "2021-05-23T09:25:34+00:00",
+    "updated_at": "2021-06-14T09:40:47+00:00",
+    "end_at": null,
+    "comment_group_id": 2171837,
+    "published_at": "2021-05-23T15:41:51+00:00",
+    "display_name": "",
+    "total": 851,
+    "answers": [
+        {
+            "id": 21848,
+            "answer": "Ja, hier werden Äpfel mit Birnen verglichen.",
+            "votes": 115,
+            "order": 0
+        },
+        {
+            "id": 21847,
+            "answer": "Nein, das ist einfach nur heuchlerisch.",
+            "votes": 736,
+            "order": 1
+        }
+    ]
+}

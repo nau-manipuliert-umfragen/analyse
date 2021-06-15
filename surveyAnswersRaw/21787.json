@@ -1,0 +1,25 @@
+{
+    "id": 9606,
+    "question": "Würden Sie Liebesratschläge von Bachelor Alan annehmen?",
+    "created_at": "2021-05-21T14:39:25+00:00",
+    "updated_at": "2021-06-14T09:40:45+00:00",
+    "end_at": null,
+    "comment_group_id": 2169650,
+    "published_at": "2021-05-24T15:38:49+00:00",
+    "display_name": "",
+    "total": 163,
+    "answers": [
+        {
+            "id": 21787,
+            "answer": "Nein, was weiss er schon?",
+            "votes": 120,
+            "order": 0
+        },
+        {
+            "id": 21786,
+            "answer": "Ja, klar, er ist Experte.",
+            "votes": 43,
+            "order": 1
+        }
+    ]
+}

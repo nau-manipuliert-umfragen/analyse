@@ -1,0 +1,25 @@
+{
+    "id": 8295,
+    "question": "Hätte Fabrice Herzog für seinen Check gegen Eric Blum mehr als acht Spielsperren kassieren müssen?",
+    "created_at": "2021-03-25T09:03:05+00:00",
+    "updated_at": "2021-06-14T09:39:31+00:00",
+    "end_at": null,
+    "comment_group_id": 2078387,
+    "published_at": "2021-03-25T10:01:25+00:00",
+    "display_name": "",
+    "total": 405,
+    "answers": [
+        {
+            "id": 19001,
+            "answer": "Ja, absolut!",
+            "votes": 337,
+            "order": 0
+        },
+        {
+            "id": 19000,
+            "answer": "Nein, die Strafe ist gerecht.",
+            "votes": 68,
+            "order": 1
+        }
+    ]
+}

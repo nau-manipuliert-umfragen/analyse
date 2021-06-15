@@ -1,0 +1,25 @@
+{
+    "id": 5602,
+    "question": "Wie finden Sie die Entscheidung von England-Trainer Gareth Southgate?",
+    "created_at": "2020-09-30T16:25:30+00:00",
+    "updated_at": "2021-06-14T09:37:20+00:00",
+    "end_at": null,
+    "comment_group_id": 1827470,
+    "published_at": "2020-10-01T13:12:13+00:00",
+    "display_name": "",
+    "total": 185,
+    "answers": [
+        {
+            "id": 13089,
+            "answer": "Absolut richtig.",
+            "votes": 125,
+            "order": 0
+        },
+        {
+            "id": 13090,
+            "answer": "Falsch! Die beiden haben sich entschuldigt – nun sollte das Thema erledigt sein.",
+            "votes": 60,
+            "order": 1
+        }
+    ]
+}

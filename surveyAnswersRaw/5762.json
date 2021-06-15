@@ -1,0 +1,25 @@
+{
+    "id": 2277,
+    "question": "Ist die Kritik am FC Basel gerechtfertigt?",
+    "created_at": "2018-11-23T07:08:25+00:00",
+    "updated_at": "2021-06-14T10:21:09+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 97,
+    "answers": [
+        {
+            "id": 5761,
+            "answer": "Nein, das ist nicht so schlimm.",
+            "votes": 34,
+            "order": 100
+        },
+        {
+            "id": 5762,
+            "answer": "Ja, das geht doch nicht!",
+            "votes": 63,
+            "order": 100
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "id": 1851,
+    "question": "Schlägt der FC Basel Apollon Limassol heute?",
+    "created_at": "2018-08-23T05:51:25+00:00",
+    "updated_at": "2021-06-14T09:34:39+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 138,
+    "answers": [
+        {
+            "id": 4806,
+            "answer": "Nein, die Zyprer wachsen über sich hinaus.",
+            "votes": 28,
+            "order": 100
+        },
+        {
+            "id": 4809,
+            "answer": "Ja, das wird ein Basler Sieg!",
+            "votes": 87,
+            "order": 100
+        },
+        {
+            "id": 4812,
+            "answer": "Das gibt bestenfalls ein Unentschieden.",
+            "votes": 23,
+            "order": 100
+        }
+    ]
+}

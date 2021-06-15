@@ -1,0 +1,25 @@
+{
+    "id": 3415,
+    "question": "Was halten Sie von Laura Müllers Protzt-Attacke?",
+    "created_at": "2020-03-11T08:38:40+00:00",
+    "updated_at": "2021-06-14T09:35:50+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 327,
+    "answers": [
+        {
+            "id": 8330,
+            "answer": "Muss man auch erstmal schaffen – mit 19 Jahren!",
+            "votes": 160,
+            "order": 0
+        },
+        {
+            "id": 8331,
+            "answer": "Louis, wer? Solange sie nicht mit einer Hermès Birkin ankommt, ist alles in Ordnung.",
+            "votes": 167,
+            "order": 1
+        }
+    ]
+}

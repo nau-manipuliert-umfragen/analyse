@@ -1,0 +1,25 @@
+{
+    "id": 8682,
+    "question": "Hätten Sie das Kunststück auch geschafft?",
+    "created_at": "2021-04-12T08:17:28+00:00",
+    "updated_at": "2021-06-14T09:39:52+00:00",
+    "end_at": null,
+    "comment_group_id": 2103426,
+    "published_at": "2021-04-12T09:18:41+00:00",
+    "display_name": "",
+    "total": 156,
+    "answers": [
+        {
+            "id": 19802,
+            "answer": "Ja, locker",
+            "votes": 63,
+            "order": 0
+        },
+        {
+            "id": 19801,
+            "answer": "Nein",
+            "votes": 93,
+            "order": 1
+        }
+    ]
+}

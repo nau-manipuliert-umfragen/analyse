@@ -1,0 +1,25 @@
+{
+    "id": 9754,
+    "question": "Was halten sie von Meghan Markles Vorfahren-Enthüllung?",
+    "created_at": "2021-05-29T14:15:49+00:00",
+    "updated_at": "2021-06-14T09:40:53+00:00",
+    "end_at": null,
+    "comment_group_id": 2181743,
+    "published_at": "2021-05-29T20:24:02+00:00",
+    "display_name": "",
+    "total": 574,
+    "answers": [
+        {
+            "id": 22109,
+            "answer": "Wow, die Welt ist wirklich klein!",
+            "votes": 215,
+            "order": 0
+        },
+        {
+            "id": 22110,
+            "answer": "Das ist sicher wieder gelogen.",
+            "votes": 359,
+            "order": 1
+        }
+    ]
+}

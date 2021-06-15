@@ -1,0 +1,25 @@
+{
+    "id": 2830,
+    "question": "Sollte Trainer Lucien Favre weiterhin auf Manuel Akanji setzen?",
+    "created_at": "2020-02-04T10:21:47+00:00",
+    "updated_at": "2021-06-14T09:35:23+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 162,
+    "answers": [
+        {
+            "id": 7026,
+            "answer": "Ja, wenn er an die Form der letzten Spiele anknüpft auf jeden Fall.",
+            "votes": 80,
+            "order": 0
+        },
+        {
+            "id": 7025,
+            "answer": "Nein, er macht zu viele Fehler in der Defensive.",
+            "votes": 82,
+            "order": 1
+        }
+    ]
+}

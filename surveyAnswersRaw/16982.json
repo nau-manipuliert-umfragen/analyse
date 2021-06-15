@@ -1,0 +1,31 @@
+{
+    "id": 7359,
+    "question": "Welcher der Namen gefällt Ihnen am besten?",
+    "created_at": "2021-02-17T09:51:31+00:00",
+    "updated_at": "2021-06-14T09:38:43+00:00",
+    "end_at": null,
+    "comment_group_id": 2025855,
+    "published_at": "2021-02-17T13:13:53+00:00",
+    "display_name": "",
+    "total": 221,
+    "answers": [
+        {
+            "id": 16981,
+            "answer": "Alfie.",
+            "votes": 34,
+            "order": 0
+        },
+        {
+            "id": 16982,
+            "answer": "Diana.",
+            "votes": 147,
+            "order": 1
+        },
+        {
+            "id": 16983,
+            "answer": "Charly.",
+            "votes": 40,
+            "order": 2
+        }
+    ]
+}

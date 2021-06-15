@@ -1,0 +1,25 @@
+{
+    "id": 2941,
+    "question": "Was halten Sie von der Geste des Malloca-Fitnesscoaches?",
+    "created_at": "2020-02-10T17:07:06+00:00",
+    "updated_at": "2021-06-14T09:35:30+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 113,
+    "answers": [
+        {
+            "id": 7280,
+            "answer": "Es war nichts Schlimmes und wird total überbewertet.",
+            "votes": 79,
+            "order": 0
+        },
+        {
+            "id": 7279,
+            "answer": "So eine Aktion geht gar nicht und muss auch Konsequenzen haben.",
+            "votes": 34,
+            "order": 1
+        }
+    ]
+}

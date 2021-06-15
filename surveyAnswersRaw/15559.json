@@ -1,0 +1,25 @@
+{
+    "id": 6724,
+    "question": "Aus einem Restaurant wird in der Not ein Drive-In. Wie gefällt Ihnen diese Idee?",
+    "created_at": "2021-01-19T10:02:39+00:00",
+    "updated_at": "2021-06-14T09:38:12+00:00",
+    "end_at": null,
+    "comment_group_id": 1983611,
+    "published_at": "2021-01-19T12:10:17+00:00",
+    "display_name": "",
+    "total": 1475,
+    "answers": [
+        {
+            "id": 15559,
+            "answer": "Super. Das ist doch kreativ.",
+            "votes": 1342,
+            "order": 0
+        },
+        {
+            "id": 15560,
+            "answer": "Na ja.",
+            "votes": 133,
+            "order": 1
+        }
+    ]
+}

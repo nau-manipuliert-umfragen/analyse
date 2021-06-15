@@ -1,0 +1,25 @@
+{
+    "id": 4383,
+    "question": "Sollte der FC Basel Zhegrova verpflichten?",
+    "created_at": "2020-05-28T08:17:10+00:00",
+    "updated_at": "2021-06-14T10:22:51+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 474,
+    "answers": [
+        {
+            "id": 10416,
+            "answer": "Ja, ungedingt!",
+            "votes": 375,
+            "order": 0
+        },
+        {
+            "id": 10415,
+            "answer": "Nein, auf keinen Fall.",
+            "votes": 99,
+            "order": 1
+        }
+    ]
+}

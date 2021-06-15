@@ -1,0 +1,25 @@
+{
+    "id": 833,
+    "question": "Was meinen Sie: Sollte YB die Benutzung des Bundeshaus-Balkon gewährt werden?",
+    "created_at": "2018-05-03T12:41:32+00:00",
+    "updated_at": "2021-06-14T09:34:08+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 244,
+    "answers": [
+        {
+            "id": 2360,
+            "answer": "Ja, schliesslich steht er in der Stadt der Young Boys!",
+            "votes": 169,
+            "order": 100
+        },
+        {
+            "id": 2366,
+            "answer": "Nein, das Bundeshaus und der Balkon gehören der ganzen Schweiz, nicht YB.",
+            "votes": 75,
+            "order": 100
+        }
+    ]
+}

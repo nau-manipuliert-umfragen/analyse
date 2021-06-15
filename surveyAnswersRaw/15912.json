@@ -1,0 +1,25 @@
+{
+    "id": 6886,
+    "question": "Gefällt Ihnen das Dress des VfB Stuttgart?",
+    "created_at": "2021-01-28T19:24:38+00:00",
+    "updated_at": "2021-06-14T09:38:19+00:00",
+    "end_at": null,
+    "comment_group_id": 1997987,
+    "published_at": "2021-01-29T07:03:41+00:00",
+    "display_name": "",
+    "total": 85,
+    "answers": [
+        {
+            "id": 15912,
+            "answer": "Ja, sieht super aus!",
+            "votes": 41,
+            "order": 0
+        },
+        {
+            "id": 15911,
+            "answer": "Nein, nicht mein Fall.",
+            "votes": 44,
+            "order": 1
+        }
+    ]
+}

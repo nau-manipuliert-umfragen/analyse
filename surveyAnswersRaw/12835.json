@@ -1,0 +1,31 @@
+{
+    "id": 5486,
+    "question": "Gefällt Ihnen der Abschieds-Song von Guillaume Hoarau?",
+    "created_at": "2020-09-18T09:37:57+00:00",
+    "updated_at": "2021-06-14T10:23:40+00:00",
+    "end_at": null,
+    "comment_group_id": 1806735,
+    "published_at": "2020-09-18T09:53:37+00:00",
+    "display_name": "",
+    "total": 299,
+    "answers": [
+        {
+            "id": 12834,
+            "answer": "Ja, «Gui» berührt mich sehr.",
+            "votes": 200,
+            "order": 0
+        },
+        {
+            "id": 12836,
+            "answer": "Noch besser hätte mir eine Vertrags-Verlängerung gefallen.",
+            "votes": 53,
+            "order": 1
+        },
+        {
+            "id": 12835,
+            "answer": "Naja.",
+            "votes": 46,
+            "order": 2
+        }
+    ]
+}

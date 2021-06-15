@@ -1,0 +1,31 @@
+{
+    "id": 6359,
+    "question": "Hat Robert Lewandowski die Ehrung verdient?",
+    "created_at": "2020-12-17T17:50:44+00:00",
+    "updated_at": "2021-06-14T09:37:58+00:00",
+    "end_at": null,
+    "comment_group_id": 1944952,
+    "published_at": "2020-12-18T16:00:10+00:00",
+    "display_name": "",
+    "total": 825,
+    "answers": [
+        {
+            "id": 14768,
+            "answer": "Ja, der Pole ist aktuell der beste Fussballer der Welt.",
+            "votes": 603,
+            "order": 0
+        },
+        {
+            "id": 14767,
+            "answer": "Nein, Messi ist besser.",
+            "votes": 98,
+            "order": 1
+        },
+        {
+            "id": 14766,
+            "answer": "Nein, Ronaldo hätte gewinnen sollen.",
+            "votes": 124,
+            "order": 2
+        }
+    ]
+}

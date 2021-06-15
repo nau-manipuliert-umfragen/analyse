@@ -1,0 +1,25 @@
+{
+    "id": 4303,
+    "question": "Kehrt Fernando Alonso mit Renault in die Formel 1 zurück?",
+    "created_at": "2020-05-20T12:12:07+00:00",
+    "updated_at": "2021-06-14T09:36:29+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 77,
+    "answers": [
+        {
+            "id": 10243,
+            "answer": "Ja",
+            "votes": 37,
+            "order": 0
+        },
+        {
+            "id": 10242,
+            "answer": "Nein",
+            "votes": 40,
+            "order": 1
+        }
+    ]
+}

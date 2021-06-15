@@ -1,0 +1,25 @@
+{
+    "id": 8003,
+    "question": "Soll Hansi Flick die Bayern im Sommer verlassen?",
+    "created_at": "2021-03-15T10:14:04+00:00",
+    "updated_at": "2021-06-14T09:39:15+00:00",
+    "end_at": null,
+    "comment_group_id": 2063317,
+    "published_at": "2021-04-07T11:46:56+00:00",
+    "display_name": "",
+    "total": 853,
+    "answers": [
+        {
+            "id": 18384,
+            "answer": "Ja, das passt nicht mehr.",
+            "votes": 442,
+            "order": 0
+        },
+        {
+            "id": 18383,
+            "answer": "Nein, die Chefetage ist das Problem.",
+            "votes": 411,
+            "order": 1
+        }
+    ]
+}

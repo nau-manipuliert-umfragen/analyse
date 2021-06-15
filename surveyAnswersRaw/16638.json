@@ -1,0 +1,25 @@
+{
+    "id": 7208,
+    "question": "Überwindet Dortmund die Krise?",
+    "created_at": "2021-02-11T14:14:17+00:00",
+    "updated_at": "2021-06-14T09:38:36+00:00",
+    "end_at": null,
+    "comment_group_id": 2017666,
+    "published_at": "2021-02-11T14:21:10+00:00",
+    "display_name": "",
+    "total": 42,
+    "answers": [
+        {
+            "id": 16637,
+            "answer": "Ja, der BVB ist noch immer zurückgekommen.",
+            "votes": 21,
+            "order": 0
+        },
+        {
+            "id": 16638,
+            "answer": "Nein, diese Saison reicht es nicht für einen CL-Platz.",
+            "votes": 21,
+            "order": 1
+        }
+    ]
+}

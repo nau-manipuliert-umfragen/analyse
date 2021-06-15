@@ -1,0 +1,25 @@
+{
+    "id": 7991,
+    "question": "Ist der Auftritt von Prinz Harry beim Sender CBS geschmacklos?",
+    "created_at": "2021-03-15T08:01:30+00:00",
+    "updated_at": "2021-06-14T09:39:15+00:00",
+    "end_at": null,
+    "comment_group_id": 2063016,
+    "published_at": "2021-03-16T20:03:25+00:00",
+    "display_name": "",
+    "total": 1117,
+    "answers": [
+        {
+            "id": 18359,
+            "answer": "Ja, das geht gar nicht!",
+            "votes": 932,
+            "order": 0
+        },
+        {
+            "id": 18358,
+            "answer": "Nein, das ist alles halb so wild.",
+            "votes": 185,
+            "order": 1
+        }
+    ]
+}

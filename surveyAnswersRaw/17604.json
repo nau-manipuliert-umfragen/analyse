@@ -1,0 +1,25 @@
+{
+    "id": 7639,
+    "question": "Wer gewinnt den Spitzenkampf der Challenge League?",
+    "created_at": "2021-02-27T10:43:30+00:00",
+    "updated_at": "2021-06-14T09:38:55+00:00",
+    "end_at": null,
+    "comment_group_id": 2040629,
+    "published_at": "2021-02-27T10:49:21+00:00",
+    "display_name": "",
+    "total": 430,
+    "answers": [
+        {
+            "id": 17604,
+            "answer": "GC",
+            "votes": 225,
+            "order": 0
+        },
+        {
+            "id": 17605,
+            "answer": "FC Schaffhausen",
+            "votes": 205,
+            "order": 1
+        }
+    ]
+}

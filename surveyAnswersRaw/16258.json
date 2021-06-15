@@ -1,0 +1,31 @@
+{
+    "id": 7041,
+    "question": "Schauen sie sich «Riverboat» an?",
+    "created_at": "2021-02-05T06:25:21+00:00",
+    "updated_at": "2021-06-14T09:38:26+00:00",
+    "end_at": null,
+    "comment_group_id": 2008452,
+    "published_at": "2021-02-06T07:59:04+00:00",
+    "display_name": "",
+    "total": 71,
+    "answers": [
+        {
+            "id": 16257,
+            "answer": "Ja.",
+            "votes": 22,
+            "order": 0
+        },
+        {
+            "id": 16258,
+            "answer": "Nein.",
+            "votes": 25,
+            "order": 1
+        },
+        {
+            "id": 16259,
+            "answer": "Nein, ich schaue sowieso nur Nik Hartmann zu.",
+            "votes": 24,
+            "order": 2
+        }
+    ]
+}

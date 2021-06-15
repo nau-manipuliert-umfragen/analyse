@@ -1,0 +1,25 @@
+{
+    "id": 3042,
+    "question": "Was sagen Sie zu den vielen Schnappschüssen von Zeidlers Tochter auf Instagram?",
+    "created_at": "2020-02-17T08:26:27+00:00",
+    "updated_at": "2021-06-14T09:35:34+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 230,
+    "answers": [
+        {
+            "id": 7495,
+            "answer": "Wieso die ganze Aufregung? Heute findet doch alles online statt.",
+            "votes": 42,
+            "order": 0
+        },
+        {
+            "id": 7496,
+            "answer": "Geht gar nicht. Das Internet vergisst nämlich nie!",
+            "votes": 188,
+            "order": 1
+        }
+    ]
+}

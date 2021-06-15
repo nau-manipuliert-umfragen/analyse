@@ -1,0 +1,31 @@
+{
+    "id": 9384,
+    "question": "Werden Sie sich impfen lassen?",
+    "created_at": "2021-05-12T07:53:22+00:00",
+    "updated_at": "2021-06-14T09:40:31+00:00",
+    "end_at": null,
+    "comment_group_id": 2153127,
+    "published_at": "2021-05-29T13:12:54+00:00",
+    "display_name": "",
+    "total": 12073,
+    "answers": [
+        {
+            "id": 21308,
+            "answer": "Ja, ich wurde bereits geimpft.",
+            "votes": 3341,
+            "order": 0
+        },
+        {
+            "id": 21310,
+            "answer": "Ja, ich warte noch auf meinen Termin.",
+            "votes": 1331,
+            "order": 1
+        },
+        {
+            "id": 21309,
+            "answer": "Nein, ich werde mich nicht impfen lassen.",
+            "votes": 7401,
+            "order": 2
+        }
+    ]
+}

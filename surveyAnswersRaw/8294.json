@@ -1,0 +1,25 @@
+{
+    "id": 3397,
+    "question": "Was sagen Sie zu Naddels neuer Frisur?",
+    "created_at": "2020-03-10T12:00:20+00:00",
+    "updated_at": "2021-06-14T09:35:50+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 232,
+    "answers": [
+        {
+            "id": 8294,
+            "answer": "Wer ist diese Frau mit diesem Pudel auf dem Kopf?",
+            "votes": 105,
+            "order": 0
+        },
+        {
+            "id": 8295,
+            "answer": "Respekt, so etwas muss man sich erstmal trauen.",
+            "votes": 127,
+            "order": 1
+        }
+    ]
+}

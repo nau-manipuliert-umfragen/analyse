@@ -1,0 +1,25 @@
+{
+    "id": 6524,
+    "question": "Finden Sie, Harry hat sich stark verändert?",
+    "created_at": "2021-01-04T15:09:52+00:00",
+    "updated_at": "2021-06-14T09:38:05+00:00",
+    "end_at": null,
+    "comment_group_id": 1963451,
+    "published_at": "2021-01-05T11:42:46+00:00",
+    "display_name": "",
+    "total": 665,
+    "answers": [
+        {
+            "id": 15136,
+            "answer": "Ja, aber das ist normal.",
+            "votes": 565,
+            "order": 0
+        },
+        {
+            "id": 15137,
+            "answer": "Nein, er ist immer noch der Alte.",
+            "votes": 100,
+            "order": 1
+        }
+    ]
+}

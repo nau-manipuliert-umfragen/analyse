@@ -1,0 +1,25 @@
+{
+    "id": 5599,
+    "question": "Ist Manuel Baum der richtige Trainer für Schalke 04?",
+    "created_at": "2020-09-30T14:01:24+00:00",
+    "updated_at": "2021-06-14T09:37:20+00:00",
+    "end_at": null,
+    "comment_group_id": 1827243,
+    "published_at": null,
+    "display_name": "",
+    "total": 73,
+    "answers": [
+        {
+            "id": 13084,
+            "answer": "Ja",
+            "votes": 28,
+            "order": 0
+        },
+        {
+            "id": 13083,
+            "answer": "Nein",
+            "votes": 45,
+            "order": 1
+        }
+    ]
+}

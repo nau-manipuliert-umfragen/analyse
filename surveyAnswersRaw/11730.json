@@ -1,0 +1,25 @@
+{
+    "id": 4987,
+    "question": "Ist YB der Meistertitel noch zu nehmen?",
+    "created_at": "2020-07-26T16:47:54+00:00",
+    "updated_at": "2021-06-14T09:36:55+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 529,
+    "answers": [
+        {
+            "id": 11730,
+            "answer": "Nein, das Ding ist gelaufen!",
+            "votes": 406,
+            "order": 0
+        },
+        {
+            "id": 11731,
+            "answer": "Ja, es sind immer noch zwei Runden zu spielen.",
+            "votes": 123,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 8595,
+    "question": "Erstaunt es Sie, dass Meghan ihrer Ex-Kollegin die kalte Schulter zeigte?",
+    "created_at": "2021-04-08T12:42:16+00:00",
+    "updated_at": "2021-06-14T09:39:47+00:00",
+    "end_at": null,
+    "comment_group_id": 2098409,
+    "published_at": "2021-04-08T15:01:13+00:00",
+    "display_name": "",
+    "total": 605,
+    "answers": [
+        {
+            "id": 19622,
+            "answer": "Nein, sie wird ihre Gründe gehabt haben.",
+            "votes": 187,
+            "order": 0
+        },
+        {
+            "id": 19623,
+            "answer": "Ja, wer macht so was?",
+            "votes": 418,
+            "order": 1
+        }
+    ]
+}

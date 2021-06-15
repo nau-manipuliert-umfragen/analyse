@@ -1,0 +1,25 @@
+{
+    "id": 3030,
+    "question": "Muss der FCB innert drei Wochen alle Titelträume begraben?",
+    "created_at": "2020-02-16T07:43:45+00:00",
+    "updated_at": "2021-06-14T09:35:33+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 337,
+    "answers": [
+        {
+            "id": 7467,
+            "answer": "Ja, das werden schwierige Wochen für Rotblau.",
+            "votes": 263,
+            "order": 0
+        },
+        {
+            "id": 7468,
+            "answer": "Nein, sie werden gestärkt aus dieser Phase kommen.",
+            "votes": 74,
+            "order": 1
+        }
+    ]
+}

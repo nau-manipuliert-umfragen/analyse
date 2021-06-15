@@ -1,0 +1,31 @@
+{
+    "id": 5579,
+    "question": "Sollte Bayern München mit David Alaba verlängern?",
+    "created_at": "2020-09-29T08:19:53+00:00",
+    "updated_at": "2021-06-14T09:37:19+00:00",
+    "end_at": null,
+    "comment_group_id": 1824813,
+    "published_at": "2020-09-30T15:03:18+00:00",
+    "display_name": "",
+    "total": 937,
+    "answers": [
+        {
+            "id": 13035,
+            "answer": "Ja, Alaba muss um jeden Preis gehalten werden!",
+            "votes": 70,
+            "order": 0
+        },
+        {
+            "id": 13036,
+            "answer": "Nur zu vernünftigen Konditionen.",
+            "votes": 344,
+            "order": 1
+        },
+        {
+            "id": 13037,
+            "answer": "Nein, wenn er gehen will, soll er gehen.",
+            "votes": 523,
+            "order": 2
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 7824,
+    "question": "Haben Sie das Interview von Harry und Meghan gesehen?",
+    "created_at": "2021-03-08T06:29:31+00:00",
+    "updated_at": "2021-06-14T09:59:12+00:00",
+    "end_at": null,
+    "comment_group_id": 2052719,
+    "published_at": "2021-03-10T09:38:13+00:00",
+    "display_name": "",
+    "total": 3754,
+    "answers": [
+        {
+            "id": 18014,
+            "answer": "Ja, endlich haben sie geredet!",
+            "votes": 1154,
+            "order": 0
+        },
+        {
+            "id": 18015,
+            "answer": "Nein, dafür lese ich Zeitung.",
+            "votes": 2600,
+            "order": 1
+        }
+    ]
+}

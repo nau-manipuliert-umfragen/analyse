@@ -1,0 +1,31 @@
+{
+    "id": 964,
+    "question": "Würden Sie sich ein Tesla Model 3 kaufen?",
+    "created_at": "2018-05-22T08:11:51+00:00",
+    "updated_at": "2021-06-14T09:34:12+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 116,
+    "answers": [
+        {
+            "id": 2689,
+            "answer": "Klar, Musk will ja die Bremsen updaten.",
+            "votes": 49,
+            "order": 100
+        },
+        {
+            "id": 2692,
+            "answer": "Ich mag Elektroautos nicht.",
+            "votes": 30,
+            "order": 100
+        },
+        {
+            "id": 2695,
+            "answer": "Nein, dieses Auto ist mir zu unsicher.",
+            "votes": 37,
+            "order": 100
+        }
+    ]
+}

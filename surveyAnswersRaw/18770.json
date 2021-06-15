@@ -1,0 +1,25 @@
+{
+    "id": 8189,
+    "question": "Was halten Sie von der Kritik an Roger Federer?",
+    "created_at": "2021-03-22T07:57:55+00:00",
+    "updated_at": "2021-06-14T09:39:26+00:00",
+    "end_at": null,
+    "comment_group_id": 2073373,
+    "published_at": "2021-03-22T13:00:07+00:00",
+    "display_name": "",
+    "total": 377,
+    "answers": [
+        {
+            "id": 18770,
+            "answer": "Das ist Schwachsinn.",
+            "votes": 265,
+            "order": 0
+        },
+        {
+            "id": 18769,
+            "answer": "Der deutsche Tennis-Boss hat recht.",
+            "votes": 112,
+            "order": 1
+        }
+    ]
+}

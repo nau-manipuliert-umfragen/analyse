@@ -1,0 +1,25 @@
+{
+    "id": 3482,
+    "question": "Sind sie enttäuscht, dass die EM verschoben wurde?",
+    "created_at": "2020-03-16T12:53:23+00:00",
+    "updated_at": "2021-06-14T09:35:53+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 376,
+    "answers": [
+        {
+            "id": 8473,
+            "answer": "Ja, ich habe mich auf die EM im Sommer 2020 gefreut.",
+            "votes": 71,
+            "order": 0
+        },
+        {
+            "id": 8472,
+            "answer": "Nein, die Gesundheit der Menschen geht vor.",
+            "votes": 305,
+            "order": 1
+        }
+    ]
+}

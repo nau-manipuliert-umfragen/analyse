@@ -1,0 +1,25 @@
+{
+    "id": 3682,
+    "question": "Dürfen in einem Chat auch fiktive Fragen gestellt werden?",
+    "created_at": "2020-03-31T12:44:22+00:00",
+    "updated_at": "2021-06-14T09:36:01+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 411,
+    "answers": [
+        {
+            "id": 8900,
+            "answer": "Ja, das machen nämlich alle Medienhäuser so",
+            "votes": 207,
+            "order": 0
+        },
+        {
+            "id": 8899,
+            "answer": "Nein, das hat SRF doch nicht nötig",
+            "votes": 204,
+            "order": 1
+        }
+    ]
+}

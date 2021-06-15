@@ -1,0 +1,25 @@
+{
+    "id": 2429,
+    "question": "Wer kommt weiter?",
+    "created_at": "2019-08-26T09:51:49+00:00",
+    "updated_at": "2021-06-14T09:35:01+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 352,
+    "answers": [
+        {
+            "id": 6114,
+            "answer": "YB",
+            "votes": 195,
+            "order": 0
+        },
+        {
+            "id": 6113,
+            "answer": "Roter Stern",
+            "votes": 157,
+            "order": 1
+        }
+    ]
+}

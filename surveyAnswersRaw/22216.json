@@ -1,0 +1,25 @@
+{
+    "id": 9803,
+    "question": "Würden Sie die Grabowoi-Codes ausprobieren?",
+    "created_at": "2021-06-01T12:57:42+00:00",
+    "updated_at": "2021-06-14T09:40:56+00:00",
+    "end_at": null,
+    "comment_group_id": 2185485,
+    "published_at": "2021-06-05T19:00:27+00:00",
+    "display_name": "",
+    "total": 439,
+    "answers": [
+        {
+            "id": 22216,
+            "answer": "Ja, klar – nützt's nichts, so schadet's nichts.",
+            "votes": 140,
+            "order": 0
+        },
+        {
+            "id": 22215,
+            "answer": "Auf keinen Fall!",
+            "votes": 299,
+            "order": 1
+        }
+    ]
+}

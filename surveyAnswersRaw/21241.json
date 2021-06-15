@@ -1,0 +1,25 @@
+{
+    "id": 9353,
+    "question": "Haben Sie Verständnis für jene, welche sich Impf-Termine für das Kita-Personal schnappen?",
+    "created_at": "2021-05-10T20:17:17+00:00",
+    "updated_at": "2021-06-14T09:40:29+00:00",
+    "end_at": null,
+    "comment_group_id": 2150956,
+    "published_at": "2021-05-11T07:27:45+00:00",
+    "display_name": "",
+    "total": 2286,
+    "answers": [
+        {
+            "id": 21241,
+            "answer": "Ja, diese Gruppe hatte nun tagelang Zeit, zu buchen. Nun ist der Rest an der Reihe.",
+            "votes": 1152,
+            "order": 0
+        },
+        {
+            "id": 21242,
+            "answer": "Nein, das ist egoistisch. Zuerst sollen jene an die Reihe kommen, die mit Kindern arbeiten.",
+            "votes": 1134,
+            "order": 1
+        }
+    ]
+}

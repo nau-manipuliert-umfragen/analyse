@@ -1,0 +1,25 @@
+{
+    "id": 5329,
+    "question": "Finden Sie es in Ordnung, dass in Basel weiterhin ein «Maischter-Express» fährt?",
+    "created_at": "2020-09-01T13:26:47+00:00",
+    "updated_at": "2021-06-14T09:37:09+00:00",
+    "end_at": null,
+    "comment_group_id": 1777476,
+    "published_at": "2020-09-02T05:24:47+00:00",
+    "display_name": "",
+    "total": 637,
+    "answers": [
+        {
+            "id": 12486,
+            "answer": "Natürlich, das ist toll!",
+            "votes": 321,
+            "order": 0
+        },
+        {
+            "id": 12485,
+            "answer": "Nein, der sollte endlich verschwinden.",
+            "votes": 316,
+            "order": 1
+        }
+    ]
+}

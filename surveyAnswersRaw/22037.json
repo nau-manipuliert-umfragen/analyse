@@ -1,0 +1,25 @@
+{
+    "id": 9725,
+    "question": "Marco Wölfli und Kay Voser werden neue SRF-Experten – eine gute Entscheidung?",
+    "created_at": "2021-05-27T10:04:54+00:00",
+    "updated_at": "2021-06-14T09:40:51+00:00",
+    "end_at": null,
+    "comment_group_id": 2178320,
+    "published_at": "2021-05-27T12:39:41+00:00",
+    "display_name": "",
+    "total": 211,
+    "answers": [
+        {
+            "id": 22038,
+            "answer": "Ja",
+            "votes": 131,
+            "order": 0
+        },
+        {
+            "id": 22037,
+            "answer": "Nein",
+            "votes": 80,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 1941,
+    "question": "Wer gewinnt die Partie?",
+    "created_at": "2018-09-01T14:50:34+00:00",
+    "updated_at": "2021-06-14T09:34:42+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 72,
+    "answers": [
+        {
+            "id": 4992,
+            "answer": "Nick Kyrgios",
+            "votes": 22,
+            "order": 100
+        },
+        {
+            "id": 4995,
+            "answer": "Roger Federer",
+            "votes": 50,
+            "order": 100
+        }
+    ]
+}

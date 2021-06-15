@@ -1,0 +1,31 @@
+{
+    "id": 3079,
+    "question": "Waren Sie von den technischen Problemen auf Teleclub betroffen?",
+    "created_at": "2020-02-18T20:25:12+00:00",
+    "updated_at": "2021-06-14T09:35:36+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 165,
+    "answers": [
+        {
+            "id": 7583,
+            "answer": "Ja, ich wollte BVB gegen PSG von Beginn weg schauen.",
+            "votes": 99,
+            "order": 0
+        },
+        {
+            "id": 7581,
+            "answer": "Nein, Atlético - Liverpool ist mir sowieso lieber.",
+            "votes": 31,
+            "order": 1
+        },
+        {
+            "id": 7582,
+            "answer": "Fussball interessiert mich nicht.",
+            "votes": 35,
+            "order": 2
+        }
+    ]
+}

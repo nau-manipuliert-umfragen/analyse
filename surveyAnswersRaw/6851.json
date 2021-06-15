@@ -1,0 +1,25 @@
+{
+    "id": 2751,
+    "question": "Wer zieht in den Australian-Open-Final ein?",
+    "created_at": "2020-01-29T21:39:14+00:00",
+    "updated_at": "2021-06-14T09:35:18+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 305,
+    "answers": [
+        {
+            "id": 6851,
+            "answer": "Novak Djokovic",
+            "votes": 172,
+            "order": 0
+        },
+        {
+            "id": 6850,
+            "answer": "Roger Federer",
+            "votes": 133,
+            "order": 1
+        }
+    ]
+}

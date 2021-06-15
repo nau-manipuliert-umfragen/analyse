@@ -1,0 +1,25 @@
+{
+    "id": 7519,
+    "question": "Würden Sie sich in der Ikea impfen lassen?",
+    "created_at": "2021-02-23T09:33:04+00:00",
+    "updated_at": "2021-02-24T10:16:28+00:00",
+    "end_at": "2021-02-24T11:00:00+00:00",
+    "comment_group_id": 2034343,
+    "published_at": "2021-02-23T11:00:42+00:00",
+    "display_name": "",
+    "total": 292,
+    "answers": [
+        {
+            "id": 17340,
+            "answer": "Klar, ist doch praktisch.",
+            "votes": 166,
+            "order": 0
+        },
+        {
+            "id": 17341,
+            "answer": "Nein, das scheint mir zu unseriös.",
+            "votes": 126,
+            "order": 1
+        }
+    ]
+}

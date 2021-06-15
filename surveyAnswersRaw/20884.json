@@ -1,0 +1,25 @@
+{
+    "id": 9184,
+    "question": "Verstehen Sie den Entscheid der Queen?",
+    "created_at": "2021-05-03T13:48:32+00:00",
+    "updated_at": "2021-06-14T09:40:21+00:00",
+    "end_at": null,
+    "comment_group_id": 2137793,
+    "published_at": null,
+    "display_name": "",
+    "total": 2350,
+    "answers": [
+        {
+            "id": 20885,
+            "answer": "Ja, Meghan ruiniert den Ruf der Royals.",
+            "votes": 1960,
+            "order": 0
+        },
+        {
+            "id": 20884,
+            "answer": "Nein, das ist Diskriminierung!",
+            "votes": 390,
+            "order": 1
+        }
+    ]
+}

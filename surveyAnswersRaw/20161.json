@@ -1,0 +1,25 @@
+{
+    "id": 8852,
+    "question": "Erstaunt es Sie, dass Tom Cruise kaum Kontakt mit seiner Tochter hat?",
+    "created_at": "2021-04-19T12:59:33+00:00",
+    "updated_at": "2021-06-14T09:40:00+00:00",
+    "end_at": null,
+    "comment_group_id": 2114245,
+    "published_at": "2021-04-20T06:35:57+00:00",
+    "display_name": "",
+    "total": 440,
+    "answers": [
+        {
+            "id": 20162,
+            "answer": "Nein.",
+            "votes": 315,
+            "order": 0
+        },
+        {
+            "id": 20161,
+            "answer": "Ja, arme Suri!",
+            "votes": 125,
+            "order": 1
+        }
+    ]
+}

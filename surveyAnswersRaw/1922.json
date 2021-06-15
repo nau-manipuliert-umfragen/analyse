@@ -1,0 +1,25 @@
+{
+    "id": 656,
+    "question": "Wer wird Schweizer Meister?",
+    "created_at": "2018-04-07T18:37:07+00:00",
+    "updated_at": "2021-06-14T09:34:03+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 91,
+    "answers": [
+        {
+            "id": 1922,
+            "answer": "ZSC Lions",
+            "votes": 63,
+            "order": 100
+        },
+        {
+            "id": 1925,
+            "answer": "HC Lugano",
+            "votes": 28,
+            "order": 100
+        }
+    ]
+}

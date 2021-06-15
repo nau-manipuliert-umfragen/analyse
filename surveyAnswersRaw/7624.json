@@ -1,0 +1,25 @@
+{
+    "id": 3098,
+    "question": "Wer kommt in dieser Affiche weiter?",
+    "created_at": "2020-02-19T21:04:24+00:00",
+    "updated_at": "2021-06-14T09:35:37+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 80,
+    "answers": [
+        {
+            "id": 7624,
+            "answer": "Tottenham Hotspur",
+            "votes": 24,
+            "order": 0
+        },
+        {
+            "id": 7625,
+            "answer": "RB Leipzig",
+            "votes": 56,
+            "order": 1
+        }
+    ]
+}

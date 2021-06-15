@@ -1,0 +1,25 @@
+{
+    "id": 6821,
+    "question": "Kann der FCB Leader YB noch abfangen?",
+    "created_at": "2021-01-25T19:59:11+00:00",
+    "updated_at": "2021-06-14T09:38:16+00:00",
+    "end_at": null,
+    "comment_group_id": 1992855,
+    "published_at": "2021-02-07T16:54:21+00:00",
+    "display_name": "",
+    "total": 982,
+    "answers": [
+        {
+            "id": 15774,
+            "answer": "Ja, er hat die Qualität dazu.",
+            "votes": 138,
+            "order": 0
+        },
+        {
+            "id": 15775,
+            "answer": "Niemals!",
+            "votes": 844,
+            "order": 1
+        }
+    ]
+}

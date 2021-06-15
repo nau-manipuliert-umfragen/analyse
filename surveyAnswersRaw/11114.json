@@ -1,0 +1,25 @@
+{
+    "id": 4706,
+    "question": "Sollte Jorge Lorenzo ein Comeback in der MotoGP geben?",
+    "created_at": "2020-06-24T11:22:38+00:00",
+    "updated_at": "2021-06-14T09:36:44+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 154,
+    "answers": [
+        {
+            "id": 11114,
+            "answer": "Ja",
+            "votes": 83,
+            "order": 0
+        },
+        {
+            "id": 11113,
+            "answer": "Nein",
+            "votes": 71,
+            "order": 1
+        }
+    ]
+}

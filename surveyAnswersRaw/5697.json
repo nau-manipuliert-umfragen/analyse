@@ -1,0 +1,25 @@
+{
+    "id": 2251,
+    "question": "Braucht Zürich eine Seilbahn?",
+    "created_at": "2018-11-02T13:55:44+00:00",
+    "updated_at": "2021-06-14T09:34:54+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 244,
+    "answers": [
+        {
+            "id": 5696,
+            "answer": "Ja",
+            "votes": 100,
+            "order": 100
+        },
+        {
+            "id": 5697,
+            "answer": "Nein",
+            "votes": 144,
+            "order": 100
+        }
+    ]
+}

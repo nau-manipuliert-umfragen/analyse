@@ -1,0 +1,25 @@
+{
+    "id": 9662,
+    "question": "Haben Sie das kalte Wetter satt?",
+    "created_at": "2021-05-25T01:49:08+00:00",
+    "updated_at": "2021-06-14T09:40:48+00:00",
+    "end_at": null,
+    "comment_group_id": 2173973,
+    "published_at": "2021-05-25T01:52:48+00:00",
+    "display_name": "",
+    "total": 450,
+    "answers": [
+        {
+            "id": 21901,
+            "answer": "Ja, ich will schon jetzt Sommer!",
+            "votes": 322,
+            "order": 0
+        },
+        {
+            "id": 21902,
+            "answer": "Nein, mir passt dieses Wetter besser als die Hitze!",
+            "votes": 128,
+            "order": 1
+        }
+    ]
+}

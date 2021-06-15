@@ -1,0 +1,25 @@
+{
+    "id": 5492,
+    "question": "Qualifiziert sich der FC Basel für die Europa League?",
+    "created_at": "2020-09-18T12:34:09+00:00",
+    "updated_at": "2021-06-14T09:37:15+00:00",
+    "end_at": null,
+    "comment_group_id": 1807113,
+    "published_at": "2020-09-18T16:03:57+00:00",
+    "display_name": "",
+    "total": 103,
+    "answers": [
+        {
+            "id": 12854,
+            "answer": "Ja, Ciriaco Sforza führt Rot-Blau nach Europa!",
+            "votes": 68,
+            "order": 0
+        },
+        {
+            "id": 12853,
+            "answer": "Nein, leider reicht es nicht.",
+            "votes": 35,
+            "order": 1
+        }
+    ]
+}

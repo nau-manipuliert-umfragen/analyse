@@ -1,0 +1,25 @@
+{
+    "id": 4379,
+    "question": "Finden Sie, dass die Geldbusse berechtigt ist?",
+    "created_at": "2020-05-27T18:23:58+00:00",
+    "updated_at": "2020-05-27T18:24:00+00:00",
+    "end_at": "2020-05-27T18:23:48+00:00",
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 40,
+    "answers": [
+        {
+            "id": 10407,
+            "answer": "Ja",
+            "votes": 20,
+            "order": 0
+        },
+        {
+            "id": 10408,
+            "answer": "Nein",
+            "votes": 20,
+            "order": 1
+        }
+    ]
+}

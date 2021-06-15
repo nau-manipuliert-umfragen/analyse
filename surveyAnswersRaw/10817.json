@@ -1,0 +1,25 @@
+{
+    "id": 4568,
+    "question": "Ist die Strafe gegen Dele Alli gerechtfertigt?",
+    "created_at": "2020-06-11T12:17:45+00:00",
+    "updated_at": "2021-06-14T09:36:39+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 67,
+    "answers": [
+        {
+            "id": 10817,
+            "answer": "Ja",
+            "votes": 35,
+            "order": 0
+        },
+        {
+            "id": 10816,
+            "answer": "Nein",
+            "votes": 32,
+            "order": 1
+        }
+    ]
+}

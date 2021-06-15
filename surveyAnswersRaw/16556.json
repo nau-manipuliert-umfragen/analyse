@@ -1,0 +1,25 @@
+{
+    "id": 7171,
+    "question": "Sind die Forderungen von Alaba gerechtfertigt?",
+    "created_at": "2021-02-10T10:59:40+00:00",
+    "updated_at": "2021-06-14T09:38:35+00:00",
+    "end_at": null,
+    "comment_group_id": 2015544,
+    "published_at": "2021-02-10T12:33:33+00:00",
+    "display_name": "",
+    "total": 1659,
+    "answers": [
+        {
+            "id": 16555,
+            "answer": "Ja, er ist ein Weltklasse-Spieler.",
+            "votes": 111,
+            "order": 0
+        },
+        {
+            "id": 16556,
+            "answer": "Nein, eine halbe Million pro Woche? Viel zu viel.",
+            "votes": 1548,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 7188,
+    "question": "Wird aus Ivankas Polit-Karriere noch etwas?",
+    "created_at": "2021-02-11T08:20:17+00:00",
+    "updated_at": "2021-06-14T09:38:36+00:00",
+    "end_at": null,
+    "comment_group_id": 2016884,
+    "published_at": "2021-02-11T10:06:43+00:00",
+    "display_name": "",
+    "total": 365,
+    "answers": [
+        {
+            "id": 16594,
+            "answer": "Sicher, in ein paar Monaten haben die Amis eh alles wieder vergessen.",
+            "votes": 109,
+            "order": 0
+        },
+        {
+            "id": 16593,
+            "answer": "Nein, sie sollte sich besser ein anderes Hobby suchen.",
+            "votes": 256,
+            "order": 1
+        }
+    ]
+}

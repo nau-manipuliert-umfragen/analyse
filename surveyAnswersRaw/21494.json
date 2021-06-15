@@ -1,0 +1,25 @@
+{
+    "id": 9471,
+    "question": "Gewinnt RB Leipzig auch noch das letzte Meisterschaftsspiel gegen Union Berlin?",
+    "created_at": "2021-05-16T20:17:04+00:00",
+    "updated_at": "2021-06-14T09:40:36+00:00",
+    "end_at": null,
+    "comment_group_id": 2160367,
+    "published_at": "2021-05-16T20:24:49+00:00",
+    "display_name": "",
+    "total": 132,
+    "answers": [
+        {
+            "id": 21494,
+            "answer": "Ja",
+            "votes": 59,
+            "order": 0
+        },
+        {
+            "id": 21495,
+            "answer": "Nein",
+            "votes": 73,
+            "order": 1
+        }
+    ]
+}

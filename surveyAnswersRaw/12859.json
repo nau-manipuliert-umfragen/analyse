@@ -1,0 +1,25 @@
+{
+    "id": 5495,
+    "question": "Gelingt dem FC Basel der Start in die neue Saison?",
+    "created_at": "2020-09-18T15:10:27+00:00",
+    "updated_at": "2021-06-14T09:37:15+00:00",
+    "end_at": null,
+    "comment_group_id": 1807425,
+    "published_at": "2020-09-18T16:03:57+00:00",
+    "display_name": "",
+    "total": 98,
+    "answers": [
+        {
+            "id": 12860,
+            "answer": "Ja, die «Bebbi» holen den Dreier.",
+            "votes": 68,
+            "order": 0
+        },
+        {
+            "id": 12859,
+            "answer": "Nein, von Vaduz gibts eine kalte Dusche.",
+            "votes": 30,
+            "order": 1
+        }
+    ]
+}

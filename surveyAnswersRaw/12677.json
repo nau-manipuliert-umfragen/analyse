@@ -1,0 +1,25 @@
+{
+    "id": 5416,
+    "question": "Sind Sie süchtig nach Markenklamotten?",
+    "created_at": "2020-09-10T11:42:38+00:00",
+    "updated_at": "2021-06-14T09:37:12+00:00",
+    "end_at": null,
+    "comment_group_id": 1793187,
+    "published_at": "2020-09-10T14:05:37+00:00",
+    "display_name": "",
+    "total": 427,
+    "answers": [
+        {
+            "id": 12677,
+            "answer": "Nein, ich gebe mein Geld für wichtigere Dinge aus.",
+            "votes": 379,
+            "order": 0
+        },
+        {
+            "id": 12676,
+            "answer": "Ja, ein bisschen Luxus muss sein.",
+            "votes": 48,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "id": 4538,
+    "question": "Wer wird Schweizer «Geister-Meister» 2020?",
+    "created_at": "2020-06-09T13:27:08+00:00",
+    "updated_at": "2021-06-14T09:36:38+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 702,
+    "answers": [
+        {
+            "id": 10755,
+            "answer": "YB schafft den Titel-Hattrick.",
+            "votes": 459,
+            "order": 0
+        },
+        {
+            "id": 10754,
+            "answer": "Der FCSG schreibt sein Märchen zu Ende.",
+            "votes": 169,
+            "order": 1
+        },
+        {
+            "id": 10753,
+            "answer": "Die Basler finden zu alter Stärke zurück.",
+            "votes": 74,
+            "order": 2
+        }
+    ]
+}

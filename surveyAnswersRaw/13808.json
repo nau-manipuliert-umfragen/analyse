@@ -1,0 +1,25 @@
+{
+    "id": 5929,
+    "question": "Was halten Sie vom Neuzugang?",
+    "created_at": "2020-11-02T12:14:16+00:00",
+    "updated_at": "2021-06-14T09:37:36+00:00",
+    "end_at": null,
+    "comment_group_id": 1880396,
+    "published_at": "2020-11-02T19:34:16+00:00",
+    "display_name": "",
+    "total": 269,
+    "answers": [
+        {
+            "id": 13807,
+            "answer": "Mandy hat Klasse und sieht gut aus.",
+            "votes": 187,
+            "order": 0
+        },
+        {
+            "id": 13808,
+            "answer": "Sie hat keine Chance!",
+            "votes": 82,
+            "order": 1
+        }
+    ]
+}

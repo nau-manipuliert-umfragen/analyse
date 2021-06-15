@@ -1,0 +1,25 @@
+{
+    "id": 7626,
+    "question": "Wer gewinnt das EL-Achtelfinale?",
+    "created_at": "2021-02-26T17:11:51+00:00",
+    "updated_at": "2021-06-14T09:38:55+00:00",
+    "end_at": null,
+    "comment_group_id": 2040059,
+    "published_at": null,
+    "display_name": "",
+    "total": 42,
+    "answers": [
+        {
+            "id": 17578,
+            "answer": "BSC YB",
+            "votes": 21,
+            "order": 0
+        },
+        {
+            "id": 17579,
+            "answer": "Ajax Amsterdam",
+            "votes": 21,
+            "order": 1
+        }
+    ]
+}

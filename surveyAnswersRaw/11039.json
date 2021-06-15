@@ -1,0 +1,37 @@
+{
+    "id": 4671,
+    "question": "Lieben Sie Ihre Feinde?",
+    "created_at": "2020-06-19T13:00:16+00:00",
+    "updated_at": "2020-06-19T13:00:16+00:00",
+    "end_at": "2020-06-19T13:00:08+00:00",
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 80,
+    "answers": [
+        {
+            "id": 11040,
+            "answer": "Ja! Es macht mich frei.",
+            "votes": 20,
+            "order": 0
+        },
+        {
+            "id": 11037,
+            "answer": "Ich wünschte mir, ich könnte sie lieben.",
+            "votes": 20,
+            "order": 1
+        },
+        {
+            "id": 11039,
+            "answer": "Nein! So ein Schwachsinn.",
+            "votes": 20,
+            "order": 2
+        },
+        {
+            "id": 11038,
+            "answer": "Ich will nur das Voting-Resultat sehen.",
+            "votes": 20,
+            "order": 3
+        }
+    ]
+}

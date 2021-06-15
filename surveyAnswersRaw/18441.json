@@ -1,0 +1,25 @@
+{
+    "id": 8030,
+    "question": "Soll Lionel Messi bei Barcelona bleiben?",
+    "created_at": "2021-03-16T07:07:54+00:00",
+    "updated_at": "2021-06-14T09:39:16+00:00",
+    "end_at": null,
+    "comment_group_id": 2064569,
+    "published_at": "2021-03-16T07:47:22+00:00",
+    "display_name": "",
+    "total": 104,
+    "answers": [
+        {
+            "id": 18442,
+            "answer": "Ja",
+            "votes": 76,
+            "order": 0
+        },
+        {
+            "id": 18441,
+            "answer": "Nein",
+            "votes": 28,
+            "order": 1
+        }
+    ]
+}

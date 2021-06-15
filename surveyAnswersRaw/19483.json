@@ -1,0 +1,25 @@
+{
+    "id": 8529,
+    "question": "Soll Neymar Paris Saint-Germain im Sommer verlassen?",
+    "created_at": "2021-04-05T12:56:30+00:00",
+    "updated_at": "2021-06-14T09:39:43+00:00",
+    "end_at": null,
+    "comment_group_id": 2093212,
+    "published_at": "2021-04-05T18:35:03+00:00",
+    "display_name": "",
+    "total": 150,
+    "answers": [
+        {
+            "id": 19484,
+            "answer": "Ja, die Zeit für einen Wechsel ist gekommen.",
+            "votes": 65,
+            "order": 0
+        },
+        {
+            "id": 19483,
+            "answer": "Nein, er sollte seinen Vertrag verlängern.",
+            "votes": 85,
+            "order": 1
+        }
+    ]
+}

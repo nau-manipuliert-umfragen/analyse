@@ -1,0 +1,49 @@
+{
+    "id": 1135,
+    "question": "Wie weit kommt Russland als Gastgeber?",
+    "created_at": "2018-06-14T09:52:45+00:00",
+    "updated_at": "2021-06-14T09:34:18+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 135,
+    "answers": [
+        {
+            "id": 3109,
+            "answer": "Nicht weiter als die Gruppenphase.",
+            "votes": 22,
+            "order": 100
+        },
+        {
+            "id": 3110,
+            "answer": "Achtelfinal",
+            "votes": 25,
+            "order": 100
+        },
+        {
+            "id": 3111,
+            "answer": "Viertelfinal",
+            "votes": 24,
+            "order": 100
+        },
+        {
+            "id": 3112,
+            "answer": "Halbfinal",
+            "votes": 22,
+            "order": 100
+        },
+        {
+            "id": 3113,
+            "answer": "Weltmeister",
+            "votes": 21,
+            "order": 100
+        },
+        {
+            "id": 3114,
+            "answer": "Final",
+            "votes": 21,
+            "order": 100
+        }
+    ]
+}

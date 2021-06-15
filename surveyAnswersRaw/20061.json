@@ -1,0 +1,25 @@
+{
+    "id": 8805,
+    "question": "Sind auch Sie von Long Covid betroffen?",
+    "created_at": "2021-04-17T08:37:23+00:00",
+    "updated_at": "2021-04-18T06:24:09+00:00",
+    "end_at": "2021-04-18T10:00:53+00:00",
+    "comment_group_id": 2111294,
+    "published_at": null,
+    "display_name": "",
+    "total": 116,
+    "answers": [
+        {
+            "id": 20061,
+            "answer": "Ja.",
+            "votes": 32,
+            "order": 0
+        },
+        {
+            "id": 20062,
+            "answer": "Nein.",
+            "votes": 84,
+            "order": 1
+        }
+    ]
+}

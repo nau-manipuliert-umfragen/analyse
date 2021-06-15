@@ -1,0 +1,25 @@
+{
+    "id": 9148,
+    "question": "Glauben Sie, Prinz Harry lässt sich nochmals in London blicken?",
+    "created_at": "2021-05-02T09:35:09+00:00",
+    "updated_at": "2021-06-14T09:40:19+00:00",
+    "end_at": null,
+    "comment_group_id": 2135800,
+    "published_at": "2021-05-02T17:17:33+00:00",
+    "display_name": "",
+    "total": 2321,
+    "answers": [
+        {
+            "id": 20808,
+            "answer": "Ja, Zeit heilt alle Wunden.",
+            "votes": 696,
+            "order": 0
+        },
+        {
+            "id": 20807,
+            "answer": "Nein, höchstens, wenn er sich mit Meghan verkracht.",
+            "votes": 1625,
+            "order": 1
+        }
+    ]
+}

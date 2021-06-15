@@ -1,0 +1,25 @@
+{
+    "id": 3056,
+    "question": "Kann Inter Mailand noch Meister in der Serie A werden?",
+    "created_at": "2020-02-17T14:39:20+00:00",
+    "updated_at": "2021-06-14T09:35:35+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 91,
+    "answers": [
+        {
+            "id": 7527,
+            "answer": "Nein, Juve und Lazio machen den Titel unter sich aus.",
+            "votes": 48,
+            "order": 0
+        },
+        {
+            "id": 7526,
+            "answer": "Ja, Inter wird noch einmal angreifen.",
+            "votes": 43,
+            "order": 1
+        }
+    ]
+}

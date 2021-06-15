@@ -1,0 +1,37 @@
+{
+    "id": 7510,
+    "question": "Sollte der Bundesrat bei den aktuellen Fallzahlen die Gastro-Betriebe früher als geplant wieder öffnen?",
+    "created_at": "2021-02-22T16:57:59+00:00",
+    "updated_at": "2021-06-14T09:38:50+00:00",
+    "end_at": null,
+    "comment_group_id": 2033654,
+    "published_at": "2021-02-22T20:00:04+00:00",
+    "display_name": "",
+    "total": 8160,
+    "answers": [
+        {
+            "id": 17319,
+            "answer": "Ja, die Beizer sollen wieder arbeiten können.",
+            "votes": 5459,
+            "order": 0
+        },
+        {
+            "id": 17320,
+            "answer": "Nein, es ist noch zu früh zum Öffnen.",
+            "votes": 682,
+            "order": 1
+        },
+        {
+            "id": 17318,
+            "answer": "Mir egal.",
+            "votes": 129,
+            "order": 2
+        },
+        {
+            "id": 17317,
+            "answer": "Ich will unabhängig der Fallzahlen mal wieder auswärts was essen/trinken gehen.",
+            "votes": 1890,
+            "order": 3
+        }
+    ]
+}

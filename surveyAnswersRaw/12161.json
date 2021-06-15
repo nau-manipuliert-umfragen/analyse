@@ -1,0 +1,25 @@
+{
+    "id": 5180,
+    "question": "Gefällt Ihnen die Villa von LeBron James?",
+    "created_at": "2020-08-18T13:55:59+00:00",
+    "updated_at": "2021-06-14T09:37:03+00:00",
+    "end_at": null,
+    "comment_group_id": 1754659,
+    "published_at": "2020-08-23T08:30:01+00:00",
+    "display_name": "",
+    "total": 188,
+    "answers": [
+        {
+            "id": 12162,
+            "answer": "Ja, dieser Mann lebt wie ein König!",
+            "votes": 111,
+            "order": 0
+        },
+        {
+            "id": 12161,
+            "answer": "Nein, mir wäre das zu gross.",
+            "votes": 77,
+            "order": 1
+        }
+    ]
+}

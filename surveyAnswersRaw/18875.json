@@ -1,0 +1,25 @@
+{
+    "id": 8237,
+    "question": "Halten Sie sich an die Maskenpflicht im öV und in den Läden?",
+    "created_at": "2021-03-23T09:01:54+00:00",
+    "updated_at": "2021-06-14T10:25:56+00:00",
+    "end_at": null,
+    "comment_group_id": 2075107,
+    "published_at": "2021-03-23T09:37:27+00:00",
+    "display_name": "",
+    "total": 1306,
+    "answers": [
+        {
+            "id": 18875,
+            "answer": "Ja, klar.",
+            "votes": 1027,
+            "order": 0
+        },
+        {
+            "id": 18874,
+            "answer": "Manchmal vergesse ich es.",
+            "votes": 279,
+            "order": 1
+        }
+    ]
+}

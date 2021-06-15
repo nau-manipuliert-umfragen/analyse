@@ -1,0 +1,25 @@
+{
+    "id": 7692,
+    "question": "Haben Sie das Shoppen in der Innenstadt vermisst?",
+    "created_at": "2021-03-01T13:34:52+00:00",
+    "updated_at": "2021-03-02T10:24:25+00:00",
+    "end_at": "2021-03-02T13:34:50+00:00",
+    "comment_group_id": 2043289,
+    "published_at": "2021-03-01T14:51:18+00:00",
+    "display_name": "",
+    "total": 205,
+    "answers": [
+        {
+            "id": 17715,
+            "answer": "Ja, denn Online-Shopping macht nicht so viel Spass.",
+            "votes": 123,
+            "order": 0
+        },
+        {
+            "id": 17716,
+            "answer": "Nein, ich kaufe schon länger lieber im Internet ein.",
+            "votes": 82,
+            "order": 1
+        }
+    ]
+}

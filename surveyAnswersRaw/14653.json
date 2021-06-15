@@ -1,0 +1,25 @@
+{
+    "id": 6307,
+    "question": "Hat Prinz Charles das Bild absichtlich so platziert?",
+    "created_at": "2020-12-13T14:56:55+00:00",
+    "updated_at": "2021-06-14T09:37:56+00:00",
+    "end_at": null,
+    "comment_group_id": 1938654,
+    "published_at": "2020-12-13T15:32:46+00:00",
+    "display_name": "",
+    "total": 1039,
+    "answers": [
+        {
+            "id": 14654,
+            "answer": "Nein, das ist weit hergeholt.",
+            "votes": 552,
+            "order": 0
+        },
+        {
+            "id": 14653,
+            "answer": "Ja, da wird nichts dem Zufall überlassen.",
+            "votes": 487,
+            "order": 1
+        }
+    ]
+}

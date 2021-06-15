@@ -1,0 +1,25 @@
+{
+    "id": 3282,
+    "question": "Kann Saarbrücken in das DFB-Pokalfinale einziehen?",
+    "created_at": "2020-03-04T08:20:48+00:00",
+    "updated_at": "2021-06-14T09:35:45+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 83,
+    "answers": [
+        {
+            "id": 8039,
+            "answer": "Ja, jetzt ist der Regionalligist nicht mehr aufzuhalten.",
+            "votes": 35,
+            "order": 0
+        },
+        {
+            "id": 8040,
+            "answer": "Nein, im Halbfinale wird Ende sein.",
+            "votes": 48,
+            "order": 1
+        }
+    ]
+}

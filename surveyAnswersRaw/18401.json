@@ -1,0 +1,25 @@
+{
+    "id": 8012,
+    "question": "Sollte man beim Tauchen Meerestiere anfassen?",
+    "created_at": "2021-03-15T12:19:49+00:00",
+    "updated_at": "2021-06-14T09:39:15+00:00",
+    "end_at": null,
+    "comment_group_id": 2063557,
+    "published_at": "2021-03-16T07:39:55+00:00",
+    "display_name": "",
+    "total": 460,
+    "answers": [
+        {
+            "id": 18402,
+            "answer": "Nein, sicher nicht!",
+            "votes": 395,
+            "order": 0
+        },
+        {
+            "id": 18401,
+            "answer": "Ja, solange man nicht grob ist.",
+            "votes": 65,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 7396,
+    "question": "Holt «Maestro» Federer nochmals einen Grand-Slam-Titel?",
+    "created_at": "2021-02-18T11:08:03+00:00",
+    "updated_at": "2021-06-14T09:38:45+00:00",
+    "end_at": null,
+    "comment_group_id": 2027824,
+    "published_at": "2021-03-06T08:40:55+00:00",
+    "display_name": "",
+    "total": 1274,
+    "answers": [
+        {
+            "id": 17070,
+            "answer": "Ja, er kommt zurück in alter Stärke!",
+            "votes": 730,
+            "order": 0
+        },
+        {
+            "id": 17069,
+            "answer": "Nein, Federer ist leider am Zenit angekommen.",
+            "votes": 544,
+            "order": 1
+        }
+    ]
+}

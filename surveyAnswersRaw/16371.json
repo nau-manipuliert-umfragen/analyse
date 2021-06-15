@@ -1,0 +1,31 @@
+{
+    "id": 7091,
+    "question": "Glauben Sie an Ausserirdische?",
+    "created_at": "2021-02-08T08:02:26+00:00",
+    "updated_at": "2021-06-14T09:38:28+00:00",
+    "end_at": null,
+    "comment_group_id": 2012007,
+    "published_at": "2021-02-10T05:50:17+00:00",
+    "display_name": "",
+    "total": 1000,
+    "answers": [
+        {
+            "id": 16369,
+            "answer": "Ja – und sie weilen schon lange unter uns!",
+            "votes": 260,
+            "order": 0
+        },
+        {
+            "id": 16370,
+            "answer": "Ja bestimmt, aber davon kriegen wir nichts mit – die sind zu weit weg!",
+            "votes": 639,
+            "order": 1
+        },
+        {
+            "id": 16371,
+            "answer": "Aliens? Nichts weiter als ein Märchen!",
+            "votes": 101,
+            "order": 2
+        }
+    ]
+}

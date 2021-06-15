@@ -1,0 +1,25 @@
+{
+    "id": 815,
+    "question": "Gehen Sie ohne Montags-Rabatt weniger ins Kino?",
+    "created_at": "2018-04-30T12:50:09+00:00",
+    "updated_at": "2021-06-14T10:20:14+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 103,
+    "answers": [
+        {
+            "id": 2291,
+            "answer": "Ja, ist mir zu teuer.",
+            "votes": 73,
+            "order": 100
+        },
+        {
+            "id": 2294,
+            "answer": "Nein, ich gehe trotzdem.",
+            "votes": 30,
+            "order": 100
+        }
+    ]
+}

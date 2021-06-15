@@ -1,0 +1,19 @@
+{
+    "id": 5496,
+    "question": "Gewinnt Primoz Roglic die Tour de France?",
+    "created_at": "2020-09-18T16:22:43+00:00",
+    "updated_at": "2021-06-14T09:37:15+00:00",
+    "end_at": null,
+    "comment_group_id": 1807506,
+    "published_at": null,
+    "display_name": "",
+    "total": 21,
+    "answers": [
+        {
+            "id": 12861,
+            "answer": "Ja, das nimmt ihm keiner mehr ab!",
+            "votes": 21,
+            "order": 0
+        }
+    ]
+}

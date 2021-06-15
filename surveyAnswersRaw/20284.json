@@ -1,0 +1,25 @@
+{
+    "id": 8909,
+    "question": "Der Cup wartet. Kriegt der FC Aarau nach der Kanterniederlage wieder die Kurve?",
+    "created_at": "2021-04-21T12:48:48+00:00",
+    "updated_at": "2021-06-14T09:40:03+00:00",
+    "end_at": null,
+    "comment_group_id": 2117629,
+    "published_at": null,
+    "display_name": "",
+    "total": 373,
+    "answers": [
+        {
+            "id": 20284,
+            "answer": "Ja",
+            "votes": 182,
+            "order": 0
+        },
+        {
+            "id": 20283,
+            "answer": "Nein",
+            "votes": 191,
+            "order": 1
+        }
+    ]
+}

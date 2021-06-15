@@ -1,0 +1,31 @@
+{
+    "id": 4094,
+    "question": "Wer holt bis zum Ende seiner Karriere die meisten Grand Slams?",
+    "created_at": "2020-05-01T19:22:23+00:00",
+    "updated_at": "2021-06-14T09:36:18+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 495,
+    "answers": [
+        {
+            "id": 9777,
+            "answer": "Roger Federer (aktuell 20)",
+            "votes": 200,
+            "order": 0
+        },
+        {
+            "id": 9778,
+            "answer": "Rafael Nadal (aktuell 19)",
+            "votes": 88,
+            "order": 1
+        },
+        {
+            "id": 9779,
+            "answer": "Novak Djokovic (aktuell 17)",
+            "votes": 207,
+            "order": 2
+        }
+    ]
+}

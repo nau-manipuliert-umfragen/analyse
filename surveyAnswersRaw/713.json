@@ -1,0 +1,31 @@
+{
+    "id": 266,
+    "question": "Was halten Sie von gemeinsamen Zonen für Velos und Fussgänger die per Ampel geregelt werden?",
+    "created_at": "2017-12-11T17:21:41+00:00",
+    "updated_at": "2021-06-14T09:33:47+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 180,
+    "answers": [
+        {
+            "id": 713,
+            "answer": "Gut, so wird Platz gespart und man ist sicher unterwegs.",
+            "votes": 33,
+            "order": 100
+        },
+        {
+            "id": 716,
+            "answer": "Das ist gefährlich! Velos halten da bestimmt nie an.",
+            "votes": 116,
+            "order": 100
+        },
+        {
+            "id": 719,
+            "answer": "Velo und Fussgänger, dass geht auch ohne Ampel gut.",
+            "votes": 31,
+            "order": 100
+        }
+    ]
+}

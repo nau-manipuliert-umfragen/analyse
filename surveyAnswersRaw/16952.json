@@ -1,0 +1,25 @@
+{
+    "id": 7346,
+    "question": "Würden Sie mit ihrem Ex in den Urlaub?",
+    "created_at": "2021-02-16T16:05:42+00:00",
+    "updated_at": "2021-06-14T09:38:43+00:00",
+    "end_at": null,
+    "comment_group_id": 2024982,
+    "published_at": "2021-02-16T17:05:29+00:00",
+    "display_name": "",
+    "total": 441,
+    "answers": [
+        {
+            "id": 16953,
+            "answer": "Nein, nein und nochmals nein!",
+            "votes": 324,
+            "order": 0
+        },
+        {
+            "id": 16952,
+            "answer": "Ja, wir sind gute Freunde!",
+            "votes": 117,
+            "order": 1
+        }
+    ]
+}

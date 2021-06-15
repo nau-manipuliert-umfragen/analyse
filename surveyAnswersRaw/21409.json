@@ -1,0 +1,31 @@
+{
+    "id": 9431,
+    "question": "Wer holt sich heute Abend den Sieg?",
+    "created_at": "2021-05-14T09:30:23+00:00",
+    "updated_at": "2021-06-14T09:40:33+00:00",
+    "end_at": null,
+    "comment_group_id": 2156634,
+    "published_at": "2021-05-14T12:10:13+00:00",
+    "display_name": "",
+    "total": 355,
+    "answers": [
+        {
+            "id": 21407,
+            "answer": "Aarau",
+            "votes": 182,
+            "order": 0
+        },
+        {
+            "id": 21408,
+            "answer": "Thun",
+            "votes": 126,
+            "order": 1
+        },
+        {
+            "id": 21409,
+            "answer": "Unentschieden",
+            "votes": 47,
+            "order": 2
+        }
+    ]
+}

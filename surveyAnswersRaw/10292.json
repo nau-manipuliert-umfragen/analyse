@@ -1,0 +1,25 @@
+{
+    "id": 4324,
+    "question": "Interessieren Sie sich für den Fussball in der amerikanischen MLS?",
+    "created_at": "2020-05-22T17:19:31+00:00",
+    "updated_at": "2021-06-14T09:36:30+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 54,
+    "answers": [
+        {
+            "id": 10291,
+            "answer": "Ja, das Niveau dort ist beachtlich.",
+            "votes": 24,
+            "order": 0
+        },
+        {
+            "id": 10292,
+            "answer": "Nein, die MLS ist nicht annähernd mit den europäischen Ligen zu vergleichen.",
+            "votes": 30,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "id": 3785,
+    "question": "Was soll Zlatan Ibrahimovic in Zukunft machen?",
+    "created_at": "2020-04-07T08:45:11+00:00",
+    "updated_at": "2021-06-14T09:36:06+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 452,
+    "answers": [
+        {
+            "id": 9121,
+            "answer": "Beim AC Milan weitermachen",
+            "votes": 137,
+            "order": 0
+        },
+        {
+            "id": 9122,
+            "answer": "Zu einem anderen Club wechseln",
+            "votes": 71,
+            "order": 1
+        },
+        {
+            "id": 9120,
+            "answer": "Seine Karriere beenden",
+            "votes": 244,
+            "order": 2
+        }
+    ]
+}

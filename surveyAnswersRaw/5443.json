@@ -1,0 +1,25 @@
+{
+    "id": 2122,
+    "question": "Soll der Videobeweis in der Champions League eingeführt werden?",
+    "created_at": "2018-09-20T05:49:11+00:00",
+    "updated_at": "2021-06-14T10:21:01+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 117,
+    "answers": [
+        {
+            "id": 5440,
+            "answer": "Ja",
+            "votes": 88,
+            "order": 100
+        },
+        {
+            "id": 5443,
+            "answer": "Nein",
+            "votes": 29,
+            "order": 100
+        }
+    ]
+}

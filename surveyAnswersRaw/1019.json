@@ -1,0 +1,25 @@
+{
+    "id": 344,
+    "question": "Werden Sie sich auch «Period Nails» machen?",
+    "created_at": "2018-01-08T14:34:02+00:00",
+    "updated_at": "2021-06-14T09:33:51+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 50,
+    "answers": [
+        {
+            "id": 1019,
+            "answer": "Ja, wieso nicht? Dieser Nageltrend ist mal was anderes.",
+            "votes": 26,
+            "order": 100
+        },
+        {
+            "id": 1022,
+            "answer": "Nein, das geht gar nicht!",
+            "votes": 24,
+            "order": 100
+        }
+    ]
+}

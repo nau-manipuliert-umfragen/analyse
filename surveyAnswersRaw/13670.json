@@ -1,0 +1,25 @@
+{
+    "id": 5868,
+    "question": "Wer wäre der bessere BVB-Kapitän?",
+    "created_at": "2020-10-27T07:50:11+00:00",
+    "updated_at": "2021-06-14T09:37:33+00:00",
+    "end_at": null,
+    "comment_group_id": 1870427,
+    "published_at": "2020-10-27T07:58:39+00:00",
+    "display_name": "",
+    "total": 87,
+    "answers": [
+        {
+            "id": 13670,
+            "answer": "Marco Reus",
+            "votes": 48,
+            "order": 0
+        },
+        {
+            "id": 13669,
+            "answer": "Mats Hummels",
+            "votes": 39,
+            "order": 1
+        }
+    ]
+}

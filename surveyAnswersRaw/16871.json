@@ -1,0 +1,31 @@
+{
+    "id": 7310,
+    "question": "Wo verbringen Sie 2021 die Sommerferien?",
+    "created_at": "2021-02-15T14:51:04+00:00",
+    "updated_at": "2021-02-20T09:38:16+00:00",
+    "end_at": "2021-02-17T14:51:02+00:00",
+    "comment_group_id": 2023236,
+    "published_at": "2021-02-20T09:38:14+00:00",
+    "display_name": "",
+    "total": 60,
+    "answers": [
+        {
+            "id": 16871,
+            "answer": "Ich bleibe in der Schweiz.",
+            "votes": 20,
+            "order": 0
+        },
+        {
+            "id": 16870,
+            "answer": "Trotz Corona-Krise reise ich ins Ausland.",
+            "votes": 20,
+            "order": 1
+        },
+        {
+            "id": 16869,
+            "answer": "Ich werde mich spontan entscheiden.",
+            "votes": 20,
+            "order": 2
+        }
+    ]
+}

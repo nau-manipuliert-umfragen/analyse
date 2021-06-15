@@ -1,0 +1,25 @@
+{
+    "id": 6783,
+    "question": "Haben Ädu und Samantha Liebeschancen?",
+    "created_at": "2021-01-22T14:32:01+00:00",
+    "updated_at": "2021-06-14T09:38:15+00:00",
+    "end_at": null,
+    "comment_group_id": 1989061,
+    "published_at": "2021-01-23T16:17:04+00:00",
+    "display_name": "",
+    "total": 828,
+    "answers": [
+        {
+            "id": 15693,
+            "answer": "Nein, er ist doch viel zu verschlossen für sie.",
+            "votes": 584,
+            "order": 0
+        },
+        {
+            "id": 15692,
+            "answer": "Ja, ein Traumpaar!",
+            "votes": 244,
+            "order": 1
+        }
+    ]
+}

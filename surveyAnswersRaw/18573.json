@@ -1,0 +1,25 @@
+{
+    "id": 8094,
+    "question": "Haben sie Verständnis für das Verhalten der Airline?",
+    "created_at": "2021-03-18T08:17:54+00:00",
+    "updated_at": "2021-06-14T09:39:21+00:00",
+    "end_at": null,
+    "comment_group_id": 2068011,
+    "published_at": "2021-03-18T08:55:12+00:00",
+    "display_name": "",
+    "total": 1833,
+    "answers": [
+        {
+            "id": 18573,
+            "answer": "Regeln sind Regeln.",
+            "votes": 257,
+            "order": 0
+        },
+        {
+            "id": 18574,
+            "answer": "Nein, das finde ich übertrieben.",
+            "votes": 1576,
+            "order": 1
+        }
+    ]
+}

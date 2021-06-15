@@ -1,0 +1,25 @@
+{
+    "id": 6530,
+    "question": "Hat Mats Hummels das Recht, den Trainer öffentlich zu kritisieren?",
+    "created_at": "2021-01-05T11:01:56+00:00",
+    "updated_at": "2021-06-14T09:38:05+00:00",
+    "end_at": null,
+    "comment_group_id": 1964357,
+    "published_at": "2021-01-05T20:00:53+00:00",
+    "display_name": "",
+    "total": 578,
+    "answers": [
+        {
+            "id": 15149,
+            "answer": "Ja, wenn es hilft schon.",
+            "votes": 126,
+            "order": 0
+        },
+        {
+            "id": 15148,
+            "answer": "Nein, das geht gar nicht!",
+            "votes": 452,
+            "order": 1
+        }
+    ]
+}

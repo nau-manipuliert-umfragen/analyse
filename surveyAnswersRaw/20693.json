@@ -1,0 +1,25 @@
+{
+    "id": 9099,
+    "question": "Erstaunt es sie, dass Archie bald die Vorschule besucht?",
+    "created_at": "2021-04-29T11:54:23+00:00",
+    "updated_at": "2021-06-14T09:40:16+00:00",
+    "end_at": null,
+    "comment_group_id": 2131535,
+    "published_at": "2021-04-29T20:00:51+00:00",
+    "display_name": "",
+    "total": 1093,
+    "answers": [
+        {
+            "id": 20693,
+            "answer": "Ja, er ist doch viel zu jung.",
+            "votes": 875,
+            "order": 0
+        },
+        {
+            "id": 20694,
+            "answer": "Nein, das ist normal mit zwei Jahren.",
+            "votes": 218,
+            "order": 1
+        }
+    ]
+}

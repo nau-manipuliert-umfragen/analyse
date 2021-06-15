@@ -1,0 +1,31 @@
+{
+    "id": 8245,
+    "question": "Was halten Sie vom Streit zwischen Juso und «Mass-Voll»?",
+    "created_at": "2021-03-23T12:02:31+00:00",
+    "updated_at": "2021-03-26T11:56:55+00:00",
+    "end_at": "2021-03-26T12:02:20+00:00",
+    "comment_group_id": 2075507,
+    "published_at": "2021-03-24T07:00:16+00:00",
+    "display_name": "",
+    "total": 47310,
+    "answers": [
+        {
+            "id": 18892,
+            "answer": "Die Demonstrationen sind berechtigt und Teil der freien Meinungsäusserung.",
+            "votes": 30452,
+            "order": 0
+        },
+        {
+            "id": 18893,
+            "answer": "Kritik in Ehren, aber was zu weit geht, geht zu weit.",
+            "votes": 16023,
+            "order": 1
+        },
+        {
+            "id": 18891,
+            "answer": "Beide Organisationen sollten sich mal etwas mässigen.",
+            "votes": 835,
+            "order": 2
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 6231,
+    "question": "Hat Lukas Görtler das Zeug, um in der Bundesliga zu spielen?",
+    "created_at": "2020-12-03T17:42:22+00:00",
+    "updated_at": "2021-06-14T09:37:51+00:00",
+    "end_at": null,
+    "comment_group_id": 1926203,
+    "published_at": "2020-12-04T07:16:18+00:00",
+    "display_name": "",
+    "total": 100,
+    "answers": [
+        {
+            "id": 14478,
+            "answer": "Ja",
+            "votes": 59,
+            "order": 0
+        },
+        {
+            "id": 14479,
+            "answer": "Nein",
+            "votes": 41,
+            "order": 1
+        }
+    ]
+}

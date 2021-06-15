@@ -1,0 +1,37 @@
+{
+    "id": 5143,
+    "question": "Wer gewinnt die US Open 2020?",
+    "created_at": "2020-08-13T12:00:24+00:00",
+    "updated_at": "2021-06-14T09:37:01+00:00",
+    "end_at": null,
+    "comment_group_id": 1747256,
+    "published_at": null,
+    "display_name": "",
+    "total": 274,
+    "answers": [
+        {
+            "id": 12080,
+            "answer": "Novak Djokovic",
+            "votes": 108,
+            "order": 0
+        },
+        {
+            "id": 12078,
+            "answer": "Dominic Thiem",
+            "votes": 66,
+            "order": 1
+        },
+        {
+            "id": 12079,
+            "answer": "Daniil Medwedew",
+            "votes": 35,
+            "order": 2
+        },
+        {
+            "id": 12081,
+            "answer": "Ein anderer Spieler",
+            "votes": 65,
+            "order": 3
+        }
+    ]
+}

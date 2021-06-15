@@ -1,0 +1,37 @@
+{
+    "id": 3112,
+    "question": "Wer gewinnt das Hallen-Schwinget in Büren a. A. nach Stuckis Absage?",
+    "created_at": "2020-02-20T13:26:14+00:00",
+    "updated_at": "2021-06-14T10:21:52+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 113,
+    "answers": [
+        {
+            "id": 7652,
+            "answer": "Matthias Aeschbacher",
+            "votes": 34,
+            "order": 0
+        },
+        {
+            "id": 7655,
+            "answer": "Florian Gnägi",
+            "votes": 23,
+            "order": 1
+        },
+        {
+            "id": 7654,
+            "answer": "Remo Käser",
+            "votes": 27,
+            "order": 2
+        },
+        {
+            "id": 7653,
+            "answer": "Ein Anderer",
+            "votes": 29,
+            "order": 3
+        }
+    ]
+}

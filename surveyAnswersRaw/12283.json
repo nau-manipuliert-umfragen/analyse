@@ -1,0 +1,25 @@
+{
+    "id": 5238,
+    "question": "Ist Ronald Koeman der richtige Trainer für den FC Barcelona?",
+    "created_at": "2020-08-24T12:29:45+00:00",
+    "updated_at": "2021-06-14T09:37:05+00:00",
+    "end_at": null,
+    "comment_group_id": 1763814,
+    "published_at": "2020-08-24T15:33:07+00:00",
+    "display_name": "",
+    "total": 369,
+    "answers": [
+        {
+            "id": 12283,
+            "answer": "Ja, Holländer funktionieren bei den Katalanen immer.",
+            "votes": 173,
+            "order": 0
+        },
+        {
+            "id": 12282,
+            "answer": "Jürgen Klopp wäre die bessere Wahl.",
+            "votes": 196,
+            "order": 1
+        }
+    ]
+}

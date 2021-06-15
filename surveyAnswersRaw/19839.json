@@ -1,0 +1,25 @@
+{
+    "id": 8702,
+    "question": "Sollen SRF-Mitarbeiter auf Twitter & Co. ihre Meinung kundtun?",
+    "created_at": "2021-04-12T14:25:48+00:00",
+    "updated_at": "2021-06-14T09:39:53+00:00",
+    "end_at": null,
+    "comment_group_id": 2104159,
+    "published_at": "2021-04-13T07:43:12+00:00",
+    "display_name": "",
+    "total": 2514,
+    "answers": [
+        {
+            "id": 19839,
+            "answer": "Ja, das stört mich nicht. Das sorgt für Transparenz.",
+            "votes": 867,
+            "order": 0
+        },
+        {
+            "id": 19840,
+            "answer": "Nein, die sollen neutral berichten. Dafür bezahlen wir Gebühren.",
+            "votes": 1647,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 6287,
+    "question": "Gefällt Ihnen der Song von Steffi Buchli?",
+    "created_at": "2020-12-10T10:23:11+00:00",
+    "updated_at": "2021-06-14T09:37:55+00:00",
+    "end_at": null,
+    "comment_group_id": 1934560,
+    "published_at": "2020-12-10T10:35:40+00:00",
+    "display_name": "",
+    "total": 158,
+    "answers": [
+        {
+            "id": 14600,
+            "answer": "Super – und erst noch für einen guten Zweck!",
+            "votes": 63,
+            "order": 0
+        },
+        {
+            "id": 14601,
+            "answer": "Nein, schrecklich!",
+            "votes": 95,
+            "order": 1
+        }
+    ]
+}

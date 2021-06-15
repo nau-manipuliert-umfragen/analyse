@@ -1,0 +1,31 @@
+{
+    "id": 5689,
+    "question": "Sind Sie noch Fan vom Wendler?",
+    "created_at": "2020-10-11T11:44:24+00:00",
+    "updated_at": "2021-06-14T09:37:23+00:00",
+    "end_at": null,
+    "comment_group_id": 1843804,
+    "published_at": "2021-03-19T18:40:54+00:00",
+    "display_name": "",
+    "total": 2227,
+    "answers": [
+        {
+            "id": 13276,
+            "answer": "Ja, «Egal» höre ich jeden Tag beim Duschen!",
+            "votes": 120,
+            "order": 0
+        },
+        {
+            "id": 13278,
+            "answer": "Nein, seit dem neusten Skandal ist er für mich gestorben.",
+            "votes": 135,
+            "order": 1
+        },
+        {
+            "id": 13277,
+            "answer": "War ich gar nie!",
+            "votes": 1972,
+            "order": 2
+        }
+    ]
+}

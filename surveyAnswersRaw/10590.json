@@ -1,0 +1,25 @@
+{
+    "id": 4462,
+    "question": "Kommt Christian Constantin mit seiner Forderung durch?",
+    "created_at": "2020-06-03T18:21:13+00:00",
+    "updated_at": "2021-06-14T09:36:35+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 246,
+    "answers": [
+        {
+            "id": 10591,
+            "answer": "Nein, er hat keine Chance.",
+            "votes": 186,
+            "order": 0
+        },
+        {
+            "id": 10590,
+            "answer": "Ja, CC wird den Meisterschafts-Abbruch erzwingen.",
+            "votes": 60,
+            "order": 1
+        }
+    ]
+}

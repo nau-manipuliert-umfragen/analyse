@@ -1,0 +1,25 @@
+{
+    "id": 5964,
+    "question": "Verstehen Sie den Zorn der Queen?",
+    "created_at": "2020-11-05T13:59:55+00:00",
+    "updated_at": "2021-06-14T09:37:37+00:00",
+    "end_at": null,
+    "comment_group_id": 1886848,
+    "published_at": "2020-11-05T16:33:02+00:00",
+    "display_name": "",
+    "total": 3009,
+    "answers": [
+        {
+            "id": 13883,
+            "answer": "Ja, Harry und Meghan ziehen die Monarchie durch den Dreck!",
+            "votes": 2299,
+            "order": 0
+        },
+        {
+            "id": 13882,
+            "answer": "Nein, sie muss mit der Zeit gehen.",
+            "votes": 710,
+            "order": 1
+        }
+    ]
+}

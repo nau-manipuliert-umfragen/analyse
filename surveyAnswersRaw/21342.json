@@ -1,0 +1,37 @@
+{
+    "id": 9400,
+    "question": "Was fehlt Ihnen während Corona am meisten?",
+    "created_at": "2021-05-12T14:19:22+00:00",
+    "updated_at": "2021-06-14T09:40:32+00:00",
+    "end_at": null,
+    "comment_group_id": 2153983,
+    "published_at": "2021-05-15T05:29:31+00:00",
+    "display_name": "",
+    "total": 1102,
+    "answers": [
+        {
+            "id": 21345,
+            "answer": "Nix, ich liebe das Einsiedler-Leben.",
+            "votes": 337,
+            "order": 0
+        },
+        {
+            "id": 21342,
+            "answer": "Partys.",
+            "votes": 53,
+            "order": 1
+        },
+        {
+            "id": 21343,
+            "answer": "Ausland-Reisen.",
+            "votes": 257,
+            "order": 2
+        },
+        {
+            "id": 21344,
+            "answer": "Essen in einem Restaurant.",
+            "votes": 455,
+            "order": 3
+        }
+    ]
+}

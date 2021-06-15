@@ -1,0 +1,37 @@
+{
+    "id": 7255,
+    "question": "Welchen Kartendienst nutzen Sie auf Ihrem Smartphone?",
+    "created_at": "2021-02-12T15:53:25+00:00",
+    "updated_at": "2021-06-14T10:25:05+00:00",
+    "end_at": null,
+    "comment_group_id": 2019628,
+    "published_at": "2021-02-12T16:09:06+00:00",
+    "display_name": "",
+    "total": 390,
+    "answers": [
+        {
+            "id": 16744,
+            "answer": "Google Maps",
+            "votes": 242,
+            "order": 0
+        },
+        {
+            "id": 16745,
+            "answer": "Apple Maps",
+            "votes": 77,
+            "order": 1
+        },
+        {
+            "id": 16746,
+            "answer": "Waze",
+            "votes": 36,
+            "order": 2
+        },
+        {
+            "id": 16747,
+            "answer": "Andere (schreiben Sie es in die Kommentare!)",
+            "votes": 35,
+            "order": 3
+        }
+    ]
+}

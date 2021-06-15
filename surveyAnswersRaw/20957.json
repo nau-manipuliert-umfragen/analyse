@@ -1,0 +1,25 @@
+{
+    "id": 9219,
+    "question": "Wie finden Sie das Bestattervelo?",
+    "created_at": "2021-05-04T13:18:54+00:00",
+    "updated_at": "2021-06-14T09:40:22+00:00",
+    "end_at": null,
+    "comment_group_id": 2139841,
+    "published_at": "2021-05-04T14:31:34+00:00",
+    "display_name": "",
+    "total": 632,
+    "answers": [
+        {
+            "id": 20958,
+            "answer": "Super Sache. Genau so geht Enttabuisierung des Tods.",
+            "votes": 247,
+            "order": 0
+        },
+        {
+            "id": 20957,
+            "answer": "Passt mir nicht. Find ich makaber.",
+            "votes": 385,
+            "order": 1
+        }
+    ]
+}

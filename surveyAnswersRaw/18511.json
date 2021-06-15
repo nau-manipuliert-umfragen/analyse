@@ -1,0 +1,25 @@
+{
+    "id": 8063,
+    "question": "Sollten Familienprobleme in der Öffentlichkeit diskutiert werden?",
+    "created_at": "2021-03-17T08:51:01+00:00",
+    "updated_at": "2021-06-14T09:39:19+00:00",
+    "end_at": null,
+    "comment_group_id": 2066398,
+    "published_at": "2021-03-18T10:04:15+00:00",
+    "display_name": "",
+    "total": 1148,
+    "answers": [
+        {
+            "id": 18512,
+            "answer": "Nein, das ist nur peinlich.",
+            "votes": 1091,
+            "order": 0
+        },
+        {
+            "id": 18511,
+            "answer": "Ja, wenn es nicht anders geht.",
+            "votes": 57,
+            "order": 1
+        }
+    ]
+}

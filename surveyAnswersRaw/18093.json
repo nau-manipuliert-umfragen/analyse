@@ -1,0 +1,43 @@
+{
+    "id": 7862,
+    "question": "Welche Chatplattform ist die beste?",
+    "created_at": "2021-03-09T10:10:10+00:00",
+    "updated_at": "2021-06-14T09:39:08+00:00",
+    "end_at": null,
+    "comment_group_id": 2054683,
+    "published_at": "2021-03-09T10:13:19+00:00",
+    "display_name": "",
+    "total": 196,
+    "answers": [
+        {
+            "id": 18095,
+            "answer": "WhatsApp",
+            "votes": 51,
+            "order": 0
+        },
+        {
+            "id": 18093,
+            "answer": "Threema",
+            "votes": 38,
+            "order": 1
+        },
+        {
+            "id": 18096,
+            "answer": "Signal",
+            "votes": 37,
+            "order": 2
+        },
+        {
+            "id": 18094,
+            "answer": "Telegram",
+            "votes": 47,
+            "order": 3
+        },
+        {
+            "id": 18092,
+            "answer": "Facebook Messenger",
+            "votes": 23,
+            "order": 4
+        }
+    ]
+}

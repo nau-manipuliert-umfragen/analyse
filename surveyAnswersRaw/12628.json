@@ -1,0 +1,25 @@
+{
+    "id": 5395,
+    "question": "Schafft es der FC Schaffhausen an die Spitze der Challenge League?",
+    "created_at": "2020-09-09T08:59:38+00:00",
+    "updated_at": "2021-06-14T09:37:11+00:00",
+    "end_at": null,
+    "comment_group_id": 1791138,
+    "published_at": "2020-09-09T15:09:15+00:00",
+    "display_name": "",
+    "total": 355,
+    "answers": [
+        {
+            "id": 12629,
+            "answer": "Ja",
+            "votes": 158,
+            "order": 0
+        },
+        {
+            "id": 12628,
+            "answer": "Nein",
+            "votes": 197,
+            "order": 1
+        }
+    ]
+}

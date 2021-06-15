@@ -1,0 +1,25 @@
+{
+    "id": 2363,
+    "question": "Ist dieses Strafmass gerechtfertigt?",
+    "created_at": "2019-03-20T14:28:57+00:00",
+    "updated_at": "2021-06-14T10:21:13+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 1058,
+    "answers": [
+        {
+            "id": 5965,
+            "answer": "Ja, unbedingt. Betrug ist Betrug.",
+            "votes": 494,
+            "order": 100
+        },
+        {
+            "id": 5966,
+            "answer": "Nein, das ist völlig übertrieben!",
+            "votes": 564,
+            "order": 100
+        }
+    ]
+}

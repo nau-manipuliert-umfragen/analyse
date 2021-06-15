@@ -1,0 +1,25 @@
+{
+    "id": 5666,
+    "question": "Hätte Gareth Southgate noch härtere Massnahmen ergreifen sollen?",
+    "created_at": "2020-10-08T07:00:34+00:00",
+    "updated_at": "2020-10-08T09:36:18+00:00",
+    "end_at": "2020-10-08T07:00:37+00:00",
+    "comment_group_id": 1839616,
+    "published_at": "2020-10-08T09:36:17+00:00",
+    "display_name": "",
+    "total": 40,
+    "answers": [
+        {
+            "id": 13227,
+            "answer": "Ja absolut!",
+            "votes": 20,
+            "order": 0
+        },
+        {
+            "id": 13226,
+            "answer": "Nein, dies ist angemessen.",
+            "votes": 20,
+            "order": 1
+        }
+    ]
+}

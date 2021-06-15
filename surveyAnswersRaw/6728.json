@@ -1,0 +1,25 @@
+{
+    "id": 2691,
+    "question": "Was halten Sie von einem Liebes-Comeback von Brad Pitt und Jennifer Aniston?",
+    "created_at": "2020-01-25T07:11:27+00:00",
+    "updated_at": "2021-06-14T09:35:15+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 425,
+    "answers": [
+        {
+            "id": 6728,
+            "answer": "Unbedingt, darauf hat die Welt schon lange gewartet.",
+            "votes": 348,
+            "order": 0
+        },
+        {
+            "id": 6727,
+            "answer": "Bitte nicht, aufgewärmte Suppe schmeckt doch keinem.",
+            "votes": 77,
+            "order": 1
+        }
+    ]
+}

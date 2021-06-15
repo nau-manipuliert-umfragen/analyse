@@ -1,0 +1,25 @@
+{
+    "id": 6673,
+    "question": "Sollte man Trump jetzt auch aus Filmen rausschneiden?",
+    "created_at": "2021-01-15T13:56:12+00:00",
+    "updated_at": "2021-06-14T09:38:11+00:00",
+    "end_at": null,
+    "comment_group_id": 1979047,
+    "published_at": "2021-01-16T07:51:51+00:00",
+    "display_name": "",
+    "total": 674,
+    "answers": [
+        {
+            "id": 15455,
+            "answer": "Nein, was für ein Schwachsinn!",
+            "votes": 313,
+            "order": 0
+        },
+        {
+            "id": 15454,
+            "answer": "Ja, dadurch wird der Streifen nur besser.",
+            "votes": 361,
+            "order": 1
+        }
+    ]
+}

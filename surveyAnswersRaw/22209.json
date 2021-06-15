@@ -1,0 +1,25 @@
+{
+    "id": 9800,
+    "question": "Kaufen Sie seit der Pandemie vermehrt im Internet ein?",
+    "created_at": "2021-06-01T11:43:45+00:00",
+    "updated_at": "2021-06-02T11:43:15+00:00",
+    "end_at": "2021-06-02T11:43:42+00:00",
+    "comment_group_id": 2185303,
+    "published_at": "2021-06-01T17:01:46+00:00",
+    "display_name": "",
+    "total": 452,
+    "answers": [
+        {
+            "id": 22210,
+            "answer": "Ja.",
+            "votes": 190,
+            "order": 0
+        },
+        {
+            "id": 22209,
+            "answer": "Nein.",
+            "votes": 262,
+            "order": 1
+        }
+    ]
+}

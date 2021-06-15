@@ -1,0 +1,25 @@
+{
+    "id": 3979,
+    "question": "Würde Sadio Mané zu Real passen?",
+    "created_at": "2020-04-23T08:56:14+00:00",
+    "updated_at": "2021-06-14T09:36:13+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 138,
+    "answers": [
+        {
+            "id": 9529,
+            "answer": "Nein, der soll in Liverpool bleiben!",
+            "votes": 91,
+            "order": 0
+        },
+        {
+            "id": 9530,
+            "answer": "Ja, unter Zidane würde er noch mehr aufblühen.",
+            "votes": 47,
+            "order": 1
+        }
+    ]
+}

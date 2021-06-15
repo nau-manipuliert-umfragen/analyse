@@ -1,0 +1,25 @@
+{
+    "id": 2547,
+    "question": "Macht es Sinn, bei solchen Bedingungen Tennis zu spielen?",
+    "created_at": "2020-01-14T08:05:14+00:00",
+    "updated_at": "2021-06-14T09:35:07+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 600,
+    "answers": [
+        {
+            "id": 6400,
+            "answer": "Ja, bei einem Grand-Slam-Turnier schon.",
+            "votes": 56,
+            "order": 0
+        },
+        {
+            "id": 6401,
+            "answer": "Nie im Leben!",
+            "votes": 544,
+            "order": 1
+        }
+    ]
+}

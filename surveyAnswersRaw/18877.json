@@ -1,0 +1,25 @@
+{
+    "id": 8238,
+    "question": "Hätten Sie mehr Vertrauen in einen in der Schweiz produzierten Impfstoff?",
+    "created_at": "2021-03-23T09:53:45+00:00",
+    "updated_at": "2021-06-14T09:39:28+00:00",
+    "end_at": null,
+    "comment_group_id": 2075204,
+    "published_at": "2021-03-24T09:13:38+00:00",
+    "display_name": "",
+    "total": 1143,
+    "answers": [
+        {
+            "id": 18877,
+            "answer": "Ja.",
+            "votes": 630,
+            "order": 0
+        },
+        {
+            "id": 18876,
+            "answer": "Nein, wenn ein Impfstoff von Swissmedic zugelassen wird, ist er sicher.",
+            "votes": 513,
+            "order": 1
+        }
+    ]
+}

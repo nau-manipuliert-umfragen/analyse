@@ -1,0 +1,25 @@
+{
+    "id": 6210,
+    "question": "Bringt es Mick Schumacher in der Formel 1 ganz nach vorne?",
+    "created_at": "2020-12-02T07:10:43+00:00",
+    "updated_at": "2021-06-14T09:37:50+00:00",
+    "end_at": null,
+    "comment_group_id": 1923652,
+    "published_at": "2020-12-27T13:43:28+00:00",
+    "display_name": "",
+    "total": 3153,
+    "answers": [
+        {
+            "id": 14434,
+            "answer": "Ja, das ist ein Junge mit Weltmeister-Potenzial!",
+            "votes": 2157,
+            "order": 0
+        },
+        {
+            "id": 14435,
+            "answer": "Nein, für den WM-Titel wird es nie reichen.",
+            "votes": 996,
+            "order": 1
+        }
+    ]
+}

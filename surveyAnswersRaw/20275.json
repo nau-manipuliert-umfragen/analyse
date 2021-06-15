@@ -1,0 +1,25 @@
+{
+    "id": 8904,
+    "question": "Sollten die Behörden alle Schulzimmer mit CO2-Messgeräten ausstatten?",
+    "created_at": "2021-04-21T11:12:28+00:00",
+    "updated_at": "2021-06-14T09:40:03+00:00",
+    "end_at": null,
+    "comment_group_id": 2117440,
+    "published_at": "2021-04-23T14:03:07+00:00",
+    "display_name": "",
+    "total": 493,
+    "answers": [
+        {
+            "id": 20275,
+            "answer": "Ja, viel Lüften ist wichtig und hilft dem Lernprozess der Schüler.",
+            "votes": 207,
+            "order": 0
+        },
+        {
+            "id": 20274,
+            "answer": "Nein, das halte ich für unnötig und verursacht nur mehr Kosten.",
+            "votes": 286,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 7177,
+    "question": "Sollte die Schweiz auch auf den russischen Impfstoff Sputnik setzen?",
+    "created_at": "2021-02-10T14:45:18+00:00",
+    "updated_at": "2021-06-14T09:38:35+00:00",
+    "end_at": null,
+    "comment_group_id": 2016030,
+    "published_at": "2021-02-11T05:33:54+00:00",
+    "display_name": "",
+    "total": 2623,
+    "answers": [
+        {
+            "id": 16568,
+            "answer": "Ja. Wenn er sicher und wirksam ist, spricht nichts dagegen.",
+            "votes": 2044,
+            "order": 0
+        },
+        {
+            "id": 16569,
+            "answer": "Nein. Die bisherige Strategie des Bundesrats hat sich bewährt.",
+            "votes": 579,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 5984,
+    "question": "Mögen Sie Rafael Nadal den Reichtum gönnen?",
+    "created_at": "2020-11-08T11:45:59+00:00",
+    "updated_at": "2021-06-14T09:37:38+00:00",
+    "end_at": null,
+    "comment_group_id": 1890180,
+    "published_at": "2020-11-09T05:37:48+00:00",
+    "display_name": "",
+    "total": 733,
+    "answers": [
+        {
+            "id": 13925,
+            "answer": "Ja, natürlich. Er hat sich dies mit tollen Tennis-Leistungen verdient",
+            "votes": 598,
+            "order": 0
+        },
+        {
+            "id": 13924,
+            "answer": "Nein! So viel Geld steht keinem Menschen zu",
+            "votes": 135,
+            "order": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 6358,
+    "question": "Was halten Sie von einer Profisport-Ausnahme bei der Corona-Impfung?",
+    "created_at": "2020-12-17T15:41:51+00:00",
+    "updated_at": "2020-12-20T18:40:38+00:00",
+    "end_at": "2020-12-26T15:40:00+00:00",
+    "comment_group_id": 1944825,
+    "published_at": "2020-12-20T14:00:33+00:00",
+    "display_name": "",
+    "total": 115,
+    "answers": [
+        {
+            "id": 14765,
+            "answer": "Ich würde diesen Vorschlag unterstützen.",
+            "votes": 34,
+            "order": 0
+        },
+        {
+            "id": 14764,
+            "answer": "Profisportler sollen sich gefälligst hinten anstellen.",
+            "votes": 81,
+            "order": 1
+        }
+    ]
+}

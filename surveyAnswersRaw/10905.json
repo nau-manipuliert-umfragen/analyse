@@ -1,0 +1,25 @@
+{
+    "id": 4610,
+    "question": "Hat Mimi diese Strafe verdient?",
+    "created_at": "2020-06-15T13:01:45+00:00",
+    "updated_at": "2020-06-16T12:55:36+00:00",
+    "end_at": "2020-06-16T13:01:34+00:00",
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 1488,
+    "answers": [
+        {
+            "id": 10905,
+            "answer": "Ja, selbst schuld.",
+            "votes": 435,
+            "order": 0
+        },
+        {
+            "id": 10906,
+            "answer": "Nein, sie hat doch nichts Böses getan.",
+            "votes": 1053,
+            "order": 1
+        }
+    ]
+}

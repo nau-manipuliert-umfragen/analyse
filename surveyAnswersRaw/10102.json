@@ -1,0 +1,25 @@
+{
+    "id": 4240,
+    "question": "Was halten Sie von Chanelles Fitnesslust?",
+    "created_at": "2020-05-15T08:27:09+00:00",
+    "updated_at": "2021-06-14T09:36:25+00:00",
+    "end_at": null,
+    "comment_group_id": null,
+    "published_at": null,
+    "display_name": "",
+    "total": 293,
+    "answers": [
+        {
+            "id": 10102,
+            "answer": "Super, sie wird auch mit ein paar Pfündchen weniger glücklich werden.",
+            "votes": 115,
+            "order": 0
+        },
+        {
+            "id": 10103,
+            "answer": "Halt Stop! Auf keinen Fall weiter diese sexy Rundungen wegtrainieren.",
+            "votes": 178,
+            "order": 1
+        }
+    ]
+}
